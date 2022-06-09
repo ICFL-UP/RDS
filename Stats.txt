@@ -1,0 +1,14 @@
+Number of files: 754
+Number of benign files: 360
+Number of malicious files: 394
+Total number of strings: 1128481
+Number of benign strings: 716813
+Number of malicious strings: 411668
+Total-average number of strings: 1496.659151193634
+Average number of strings benign: 1991.1472222222221
+Average number of strings malicious: 1044.8426395939086
+Least strings benign: 848 Most: 2048
+Least strings malicious: 50 Most: 2048
+Number of unique strings in total: 696284
+ - Of which benign: 520388
+ - Of which malicious: 179402
