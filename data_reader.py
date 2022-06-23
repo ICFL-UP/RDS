@@ -144,7 +144,9 @@ def writeStrings(split=False):
                 for i in range(len(strs)):
                     file.write(strs[i] + '\n')
             else:
-                split_file = open("Data/Strings/" + x.replace('.json', '') + '.txt', 'w')
+                split_file = open(
+                    "C:\\Users\\danee\\OneDrive\\Documents\\University\\Honours\\COS 700\\Year Project\\RDS\\Data\\Strings\\"
+                    + x.replace('.json', '') + '.txt', 'w')
                 for i in range(len(strs)):
                     split_file.write(strs[i] + '\n')
                 split_file.close()
@@ -154,3 +156,17 @@ def writeStrings(split=False):
             print("Key error in file: " + x)
         temp_file.close()
     file.close()
+
+
+def getCorpus():
+    corpus = []
+    filenames = os.listdir(
+        "C:\\Users\\danee\\OneDrive\\Documents\\University\\Honours\\COS 700\\Year Project\\RDS\\Data\\Strings\\")
+    for x in filenames:
+        file = open(
+            "C:\\Users\\danee\\OneDrive\\Documents\\University\\Honours\\COS 700\\Year Project\\RDS\Data\\Strings\\" + x, 'r')
+        document = ''
+        for y in file.readlines():
+            document += y.replace('\n', '') + ' '
+        corpus.append(document)
+    return corpus

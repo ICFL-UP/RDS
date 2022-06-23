@@ -1,68 +1,69 @@
-from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
-from gensim.models.doc2vec import Doc2Vec, TaggedDocument
-from gensim.test.utils import common_texts
+import time
+
+from gensim.models.doc2vec import TaggedDocument
+import preprocessor
 import data_reader
-import collections
-import random
 import os
 
 
 def main():
     # data_reader.createStats()
 
+    corpus = data_reader.getCorpus()
     # TF_IDF
-    corpus = []
-    filenames = os.listdir('Data/Strings')
-    for x in filenames:
-        file = open("Data/Strings/" + x, 'r')
-        document = ''
-        for y in file.readlines():
-            document += y.replace('\n', '') + ' '
-        corpus.append(document)
-    vectorizer = TfidfVectorizer(token_pattern=r"\S{2,}")
-    X = vectorizer.fit_transform(corpus)
-    # print(X)
+    start_time = time.time()
+    X = preprocessor.TF_IDF(corpus)[0]
+    print("Time for TF-IDF: " + str((time.time() - start_time)))
+    print(X.todense())
+    print(X.shape)
 
     # Bag-of-Words
-    vectorizer = CountVectorizer()
-    X = vectorizer.fit_transform(corpus)
-    # print(vectorizer.get_feature_names_out().tolist())
+    start_time = time.time()
+    X = preprocessor.bagOfWords(corpus)[0]
+    print("Time for Bag-of-Words: " + str((time.time() - start_time)))
+    print(X.todense())
+    print(X.shape)
 
     # Doc2Vec
+    start_time = time.time()
     split_corpus = [x.split() for x in corpus]
-    train_docs = [TaggedDocument(doc, [i]) for i, doc in enumerate([*split_corpus[10:] + split_corpus[:-10]])]
+    train_docs = [TaggedDocument(doc, [i]) for i, doc in enumerate(split_corpus[10:-10])]
     test_docs = [TaggedDocument(doc, [i]) for i, doc in enumerate([*split_corpus[:10] + split_corpus[-10:]])]
-    model = Doc2Vec(train_docs, window=10, min_count=1, workers=4)
-    model.build_vocab(train_docs)
-    model.train(train_docs, total_examples=model.corpus_count, epochs=model.epochs)
+    model = preprocessor.dov2Vec(train_docs)
+    print("Time for Doc2Vec: " + str((time.time() - start_time)))
 
-    ranks = []
-    second_ranks = []
-    for doc_id in range(len(train_docs)):
-        inferred_vector = model.infer_vector(train_docs[doc_id].words)
+    num_correctly_predicted = 0
+    incorrect_predictions = []
+    for x in range(len(test_docs)):
+        inferred_vector = model.infer_vector(test_docs[x].words)
         sims = model.dv.most_similar([inferred_vector], topn=len(model.dv))
-        rank = [docid for docid, sim in sims].index(doc_id)
-        ranks.append(rank)
-        second_ranks.append(sims[1])
+        num_similar_benign = 0
+        for y in sims[:300]:
+            if y[0] <= 349:
+                num_similar_benign += 1
+        if x <= 349:
+            if num_similar_benign >= 150:
+                num_correctly_predicted += 1
+            else:
+                incorrect_predictions.append((x, num_similar_benign))
+        else:
+            if num_similar_benign < 150:
+                num_correctly_predicted += 1
+            else:
+                incorrect_predictions.append((x, num_similar_benign))
+    print("Num correctly predicted: " + str(num_correctly_predicted))
+    print("Incorrect predictions: " + str(incorrect_predictions))
+    print(model.infer_vector(corpus[0].split()))
 
-        if doc_id == 0:
-            print('Document ({}): «{}»\n'.format(doc_id, ' '.join(train_docs[doc_id].words)))
-            print(u'SIMILAR/DISSIMILAR DOCS PER MODEL %s:\n' % model)
-            for label, index in [('MOST', 0), ('SECOND-MOST', 1), ('MEDIAN', len(sims) // 2), ('LEAST', len(sims) - 1)]:
-                print(u'%s %s: «%s»\n' % (label, sims[index], ' '.join(train_docs[sims[index][0]].words)))
-
-    print(collections.Counter(ranks))
-
-    doc_id = random.randint(0, len(test_docs) - 1)
-    inferred_vector = model.infer_vector(test_docs[doc_id].words)
-    sims = model.dv.most_similar([inferred_vector], topn=len(model.dv))
-
-    print('Test Document ({}): «{}»\n'.format(doc_id, ' '.join(test_docs[doc_id].words)))
-    print(u'SIMILAR/DISSIMILAR DOCS PER MODEL %s:\n' % model)
-    for label, index in [('MOST', 0), ('MEDIAN', len(sims) // 2), ('LEAST', len(sims) - 1)]:
-        print(u'%s %s: «%s»\n' % (label, sims[index], ' '.join(train_docs[sims[index][0]].words)))
-
-    print(model.infer_vector(split_corpus[0]))
+    i = 0
+    filenames = os.listdir(
+        "C:\\Users\\danee\\OneDrive\\Documents\\University\\Honours\\COS 700\\Year Project\\RDS\\Data\\Strings\\")
+    for x in range(len(corpus)):
+        for y in range(len(corpus)):
+            if x != y and corpus[x] == corpus[y]:
+                print("Duplicate: " + filenames[x] + " " + filenames[y])
+                i += 1
+    print(i)
 
 
 if __name__ == "__main__":
