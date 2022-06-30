@@ -10,9 +10,9 @@ def TF_IDF(train_docs):
     return X, vectorizer
 
 
-def bagOfWords(corpus):
+def bagOfWords(train_docs):
     vectorizer = CountVectorizer()
-    X = vectorizer.fit_transform(corpus)
+    X = vectorizer.fit_transform(train_docs)
     return X, vectorizer
 
 

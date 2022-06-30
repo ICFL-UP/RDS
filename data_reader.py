@@ -1,5 +1,6 @@
 import json
 import os
+import random
 
 
 def createStats():
@@ -110,7 +111,7 @@ def getStrings():
         file = open("Data\\Strings\\" + x, 'r')
         all_lines = file.readlines()
         for line in all_lines:
-            cleaned_line = line.replace('\n', '')
+            cleaned_line = line.replace('\n', ' ')
             if cleaned_line not in nested_dict:
                 nested_dict[cleaned_line] = 1
             else:
@@ -123,7 +124,7 @@ def getStrings():
         file = open("Data\\Strings\\" + x, 'r')
         all_lines = file.readlines()
         for line in all_lines:
-            cleaned_line = line.replace('\n', '')
+            cleaned_line = line.replace('\n', ' ')
             if cleaned_line not in nested_dict:
                 nested_dict[cleaned_line] = 1
             else:
@@ -167,6 +168,39 @@ def getCorpus():
             "C:\\Users\\danee\\OneDrive\\Documents\\University\\Honours\\COS 700\\Year Project\\RDS\Data\\Strings\\" + x, 'r')
         document = ''
         for y in file.readlines():
-            document += y.replace('\n', '') + ' '
+            document += y.replace('\n', ' ')
         corpus.append(document)
     return corpus
+
+
+def getTrainTest(num_test):
+    benign_strings = []
+    malicious_strings = []
+    benign_file_names = [f for f in os.listdir("Data\\Strings\\") if f.startswith('B_')]
+    malicious_file_names = [f for f in os.listdir("Data\\Strings\\") if f.startswith('M_')]
+    for x in benign_file_names:
+        file = open("Data\\Strings\\" + x, 'r')
+        all_lines = file.readlines()
+        benign_strings.append(' '.join(all_lines))
+        file.close()
+    for x in malicious_file_names:
+        file = open("Data\\Strings\\" + x, 'r')
+        all_lines = file.readlines()
+        malicious_strings.append(' '.join(all_lines))
+        file.close()
+
+    test_strings = []
+    # TODO: Bring back the split between malicious and benign equally
+    for x in range(int(num_test/2)):
+        test_strings.append(benign_strings.pop(random.randint(0, len(benign_strings) - 1)))
+    test_correct_classes = [0]*len(test_strings)
+    for x in range(num_test - int(num_test/2)):
+        test_strings.append(malicious_strings.pop(random.randint(0, len(malicious_strings) - 1)))
+    test_correct_classes += [1]*(num_test - len(test_correct_classes))
+    test_data = (test_strings, test_correct_classes)
+
+    train_strings = benign_strings + malicious_strings
+    train_correct_classes = [0] * len(benign_strings) + [1] * len(malicious_strings)
+    train_data = (train_strings, train_correct_classes)
+
+    return train_data, test_data
