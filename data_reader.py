@@ -1,6 +1,7 @@
 import json
 import os
 import random
+from sklearn.model_selection import train_test_split
 
 
 def createStats():
@@ -173,7 +174,7 @@ def getCorpus():
     return corpus
 
 
-def getTrainTest(num_test):
+def getTrainTest(percent_test):
     benign_strings = []
     malicious_strings = []
     benign_file_names = [f for f in os.listdir("Data\\Strings\\") if f.startswith('B_')]
@@ -189,18 +190,7 @@ def getTrainTest(num_test):
         malicious_strings.append(' '.join(all_lines))
         file.close()
 
-    test_strings = []
-    # TODO: Bring back the split between malicious and benign equally
-    for x in range(int(num_test/2)):
-        test_strings.append(benign_strings.pop(random.randint(0, len(benign_strings) - 1)))
-    test_correct_classes = [0]*len(test_strings)
-    for x in range(num_test - int(num_test/2)):
-        test_strings.append(malicious_strings.pop(random.randint(0, len(malicious_strings) - 1)))
-    test_correct_classes += [1]*(num_test - len(test_correct_classes))
-    test_data = (test_strings, test_correct_classes)
-
-    train_strings = benign_strings + malicious_strings
-    train_correct_classes = [0] * len(benign_strings) + [1] * len(malicious_strings)
-    train_data = (train_strings, train_correct_classes)
-
-    return train_data, test_data
+    X = benign_strings + malicious_strings
+    y = [0] * len(benign_strings) + [1] * len(malicious_strings)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=percent_test)
+    return (X_train, y_train), (X_test, y_test)

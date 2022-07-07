@@ -2,6 +2,7 @@ import time
 
 from gensim.models.doc2vec import TaggedDocument
 from sklearn.utils import shuffle
+from sklearn.metrics import roc_auc_score
 import preprocessor
 import classifiers
 import data_reader
@@ -12,34 +13,50 @@ def main():
     # data_reader.createStats()
 
     accuracies = [0.0, 0.0, 100]
+    auc_scores = [0.0, 0.0, 100]
     num_runs = 10
     for i in range(num_runs):
-        data = data_reader.getTrainTest(250)
+        data = data_reader.getTrainTest(0.2)
+        # Bag-of-words
         # vector = preprocessor.bagOfWords(data[0][0] + data[1][0])[0].toarray()
-        # vector = preprocessor.TF_IDF(data[0][0] + data[1][0])[0].toarray()
-        model = preprocessor.Doc2Vec([TaggedDocument(doc, [i]) for i, doc in enumerate(data[0][0] + data[1][0])])
-        vector = [model.infer_vector(x.split()) for x in data[0][0] + data[1][0]]
+        # TF-IDF
+        vector = preprocessor.TF_IDF(data[0][0] + data[1][0])[0].toarray()
+        # Doc2Vec
+        # model = preprocessor.Doc2Vec([TaggedDocument(doc, [i]) for i, doc in enumerate(data[0][0] + data[1][0])])
+        # vector = [model.infer_vector(x.split()) for x in data[0][0] + data[1][0]]
         train_vector = vector[:len(data[0][0])]
         test_vector = vector[len(data[0][0]):]
         shuffled_train, shuffled_classes = shuffle(train_vector, data[0][1])
-        rf_classifier = classifiers.randomForrest(shuffled_train, shuffled_classes)
+        classifier = classifiers.randomForrest(shuffled_train, shuffled_classes)
+        # classifier = classifiers.adaBoost(shuffled_train, shuffled_classes)
 
         shuffled_test, shuffled_classes_test = shuffle(test_vector, data[1][1])
         correct_predictions = 0
+        predicted_values = []
         for x in range(len(shuffled_classes_test)):
-            predicted_value = rf_classifier.predict([shuffled_test[x]])[0]
+            predicted_value = classifier.predict([shuffled_test[x]])[0]
+            predicted_values.append(predicted_value)
             # print("Predicted Class: " + str(rf_classifier.predict([shuffled_test[x]]))
             #       + " Correct class: " + str(shuffled_classes_test[x]))
             if predicted_value == shuffled_classes_test[x]:
                 correct_predictions += 1
         accuracy = (correct_predictions/len(test_vector))*100
+        auc = roc_auc_score(shuffled_classes_test, predicted_values)
         print("Accuracy: " + str(accuracy) + "%")
+        print("AUC: " + str(auc) + '\n')
         accuracies[0] += accuracy/num_runs
+        auc_scores[0] += auc/num_runs
         if accuracies[1] < accuracy:
             accuracies[1] = accuracy
+        if auc_scores[1] < auc:
+            auc_scores[1] = auc
         if accuracies[2] > accuracy:
             accuracies[2] = accuracy
-    print("Overall Accuracy: " + str(accuracies[0]) + "\nBest: " + str(accuracies[1]) + "\nWorst: " + str(accuracies[2]))
+        if auc_scores[2] > auc:
+            auc_scores[2] = auc
+    print("Average Accuracy: " + str(accuracies[0]) + "\nBest: " + str(accuracies[1]) + "\nWorst: "
+          + str(accuracies[2]) + '\n')
+    print("Average AUC: " + str(auc_scores[0]) + "\nBest: " + str(auc_scores[1]) + "\nWorst: " + str(auc_scores[2]))
 
     # =====> NLP <=====
     # corpus = data_reader.getCorpus()
