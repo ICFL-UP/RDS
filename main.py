@@ -22,13 +22,14 @@ def main():
         # TF-IDF
         vector = preprocessor.TF_IDF(data[0][0] + data[1][0])[0].toarray()
         # Doc2Vec
-        # model = preprocessor.Doc2Vec([TaggedDocument(doc, [i]) for i, doc in enumerate(data[0][0] + data[1][0])])
+        # model = preprocessor.doc2Vec([TaggedDocument(doc, [i]) for i, doc in enumerate(data[0][0] + data[1][0])])
         # vector = [model.infer_vector(x.split()) for x in data[0][0] + data[1][0]]
         train_vector = vector[:len(data[0][0])]
         test_vector = vector[len(data[0][0]):]
         shuffled_train, shuffled_classes = shuffle(train_vector, data[0][1])
-        classifier = classifiers.randomForrest(shuffled_train, shuffled_classes)
+        # classifier = classifiers.randomForrest(shuffled_train, shuffled_classes)
         # classifier = classifiers.adaBoost(shuffled_train, shuffled_classes)
+        classifier = classifiers.svm(shuffled_train, shuffled_classes)
 
         shuffled_test, shuffled_classes_test = shuffle(test_vector, data[1][1])
         correct_predictions = 0
@@ -41,7 +42,7 @@ def main():
             if predicted_value == shuffled_classes_test[x]:
                 correct_predictions += 1
         accuracy = (correct_predictions/len(test_vector))*100
-        auc = roc_auc_score(shuffled_classes_test, predicted_values)
+        auc = roc_auc_score(shuffled_classes_test, predicted_values)*100
         print("Accuracy: " + str(accuracy) + "%")
         print("AUC: " + str(auc) + '\n')
         accuracies[0] += accuracy/num_runs
