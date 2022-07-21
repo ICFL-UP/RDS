@@ -1,14 +1,103 @@
-Number of files: 754
-Number of benign files: 360
-Number of malicious files: 394
-Total number of strings: 1128481
-Number of benign strings: 716813
-Number of malicious strings: 411668
-Total-average number of strings: 1496.659151193634
-Average number of strings benign: 1991.1472222222221
-Average number of strings malicious: 1044.8426395939086
+Number of files: 749
+Number of benign files: 359
+Number of malicious files: 390
+Total number of strings: 1124611
+Number of benign strings: 714765
+Number of malicious strings: 409846
+Total-average number of strings: 1501.483311081442
+Average number of strings benign: 1990.9888579387186
+Average number of strings malicious: 1050.8871794871795
 Least strings benign: 848 Most: 2048
 Least strings malicious: 50 Most: 2048
-Number of unique strings in total: 696284
+Number of unique strings in total: 695886
  - Of which benign: 520388
- - Of which malicious: 179402
+ - Of which malicious: 179004
+
+ NLP Technique: Bag-of-Words
+Classifier: Random Forrest
+Average Accuracy: 97.06666666666668
+Best: 99.33333333333333
+Worst: 92.66666666666666
+Average AUC: 96.97950152228029
+Best: 99.33333333333334
+Worst: 92.14285714285715
+
+
+NLP Technique: TF-IDF
+Classifier: Random Forrest
+Average Accuracy: 97.13333333333333
+Best: 98.66666666666667
+Worst: 95.33333333333334
+Average AUC: 97.12382621138724
+Best: 98.79518072289157
+Worst: 95.33333333333333
+
+
+NLP Technique: Doc2Vec
+Classifier: Random Forrest
+Average Accuracy: 85.53333333333333
+Best: 88.66666666666667
+Worst: 81.33333333333333
+Average AUC: 85.91802753826532
+Best: 89.10714285714286
+Worst: 81.9645732689211
+
+
+NLP Technique: Bag-of-Words
+Classifier: AdaBoost
+Average Accuracy: 97.33333333333333
+Best: 99.33333333333333
+Worst: 94.66666666666667
+Average AUC: 97.2964294856419
+Best: 99.27536231884059
+Worst: 94.55357142857143
+
+
+NLP Technique: TF-IDF
+Classifier: AdaBoost
+Average Accuracy: 98.33333333333336
+Best: 99.33333333333333
+Worst: 96.66666666666667
+Average AUC: 98.31244541260533
+Best: 99.33333333333334
+Worst: 96.68208503824943
+
+
+NLP Technique: Doc2Vec
+Classifier: AdaBoost
+Average Accuracy: 83.19999999999999
+Best: 89.33333333333333
+Worst: 80.0
+Average AUC: 83.1221079913249
+Best: 89.272030651341
+Worst: 80.0
+
+
+NLP Technique: Bag-of-Words
+Classifier: SVM
+Average Accuracy: 97.73333333333333
+Best: 99.33333333333333
+Worst: 96.66666666666667
+Average AUC: 97.66529414688334
+Best: 99.4186046511628
+Worst: 95.96774193548386
+
+
+NLP Technique: TF-IDF
+Classifier: SVM
+Average Accuracy: 93.66666666666667
+Best: 98.0
+Worst: 89.33333333333333
+Average AUC: 93.73927645572618
+Best: 97.97008547008548
+Worst: 89.74175035868005
+
+
+NLP Technique: Doc2Vec
+Classifier: SVM
+Average Accuracy: 82.80000000000001
+Best: 86.66666666666667
+Worst: 77.33333333333333
+Average AUC: 82.86488495740296
+Best: 87.17296511627907
+Worst: 77.50404603488582
