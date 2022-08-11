@@ -2,7 +2,8 @@ import time
 
 from gensim.models.doc2vec import TaggedDocument
 from sklearn.utils import shuffle
-from sklearn.metrics import roc_auc_score
+from sklearn.metrics import RocCurveDisplay, f1_score, precision_score, classification_report
+import matplotlib.pyplot as plt
 import preprocessor
 import classifiers
 import data_reader
@@ -11,122 +12,93 @@ import os
 
 def main():
     # data_reader.createStats()
+    overall_classes = []
+    overall_predictions = []
+    accuracies = [0.0, 0.0, 100.0]
+    f1_scores = [0.0, 0.0, 100.0]
+    precision_scores = [0.0, 0.0, 100.0]
+    tf_predictions = [0, 0, 0, 0]  # True Positive, True Negative, False Positive, False Negative
+    num_runs = 30
 
-    for classifier_num in range(3):
-        # for pre_num in range(3):
-            accuracies = [0.0, 0.0, 100]
-            auc_scores = [0.0, 0.0, 100]
-            num_runs = 10
-            for i in range(num_runs):
-                data = data_reader.getTrainTest(0.2)
-                # if pre_num == 0:
-                #     # Bag-of-words
-                #     vector = preprocessor.bagOfWords(data[0][0] + data[1][0])[0].toarray()
-                # elif pre_num == 1:
-                #     # TF-IDF
-                #     vector = preprocessor.TF_IDF(data[0][0] + data[1][0])[0].toarray()
-                # else:
-                # Doc2Vec
-                model = preprocessor.doc2Vec([TaggedDocument(doc, [i]) for i, doc in enumerate(data[0][0] + data[1][0])])
-                vector = [model.infer_vector(x.split()) for x in data[0][0] + data[1][0]]
-                train_vector = vector[:len(data[0][0])]
-                test_vector = vector[len(data[0][0]):]
-                shuffled_train, shuffled_classes = shuffle(train_vector, data[0][1])
-                if classifier_num == 0:
-                    # Random Forrest
-                    classifier = classifiers.randomForrest(shuffled_train, shuffled_classes)
-                elif classifier_num == 1:
-                    # AdaBoost
-                    classifier = classifiers.adaBoost(shuffled_train, shuffled_classes)
+    for i in range(num_runs):
+        start_time = time.time()
+        data = data_reader.getTrainTest(0.2)
+
+        # Bag-of-words
+        # vector = preprocessor.bagOfWords(data[0][0] + data[1][0])[0].toarray()
+        # TF-IDF
+        vector = preprocessor.TF_IDF(data[0][0] + data[1][0])[0].toarray()
+        # Doc2Vec
+        # model = preprocessor.doc2Vec([TaggedDocument(doc, [i]) for i, doc in enumerate(data[0][0] + data[1][0])])
+        # vector = [model.infer_vector(x.split()) for x in data[0][0] + data[1][0]]
+
+        train_vector = vector[:len(data[0][0])]
+        test_vector = vector[len(data[0][0]):]
+        shuffled_train, shuffled_classes = shuffle(train_vector, data[0][1])
+        # Random Forrest
+        classifier = classifiers.randomForrest(shuffled_train, shuffled_classes)
+        # AdaBoost
+        # classifier = classifiers.adaBoost(shuffled_train, shuffled_classes)
+        # SVM
+        # classifier = classifiers.svm(shuffled_train, shuffled_classes)
+
+        shuffled_test, shuffled_classes_test = shuffle(test_vector, data[1][1])
+        correct_predictions = 0
+        predicted_values = []
+
+        for x in range(len(shuffled_classes_test)):
+            predicted_value = classifier.predict([shuffled_test[x]])[0]
+            predicted_values.append(predicted_value)
+            if predicted_value == shuffled_classes_test[x]:
+                correct_predictions += 1
+                if predicted_value == 0:
+                    tf_predictions[1] += 1
                 else:
-                    # SVM
-                    classifier = classifiers.svm(shuffled_train, shuffled_classes)
-
-                shuffled_test, shuffled_classes_test = shuffle(test_vector, data[1][1])
-                correct_predictions = 0
-                predicted_values = []
-                for x in range(len(shuffled_classes_test)):
-                    predicted_value = classifier.predict([shuffled_test[x]])[0]
-                    predicted_values.append(predicted_value)
-                    # print("Predicted Class: " + str(rf_classifier.predict([shuffled_test[x]]))
-                    #       + " Correct class: " + str(shuffled_classes_test[x]))
-                    if predicted_value == shuffled_classes_test[x]:
-                        correct_predictions += 1
-                accuracy = (correct_predictions/len(test_vector))*100
-                auc = roc_auc_score(shuffled_classes_test, predicted_values)*100
-                accuracies[0] += accuracy/num_runs
-                auc_scores[0] += auc/num_runs
-                if accuracies[1] < accuracy:
-                    accuracies[1] = accuracy
-                if auc_scores[1] < auc:
-                    auc_scores[1] = auc
-                if accuracies[2] > accuracy:
-                    accuracies[2] = accuracy
-                if auc_scores[2] > auc:
-                    auc_scores[2] = auc
-            # if pre_num == 0:
-            #     print("NLP Technique: Bag-of-Words")
-            # elif pre_num == 1:
-            #     print("NLP Technique: TF-IDF")
-            # else:
-            #     print("NLP Technique: Doc2Vec")
-            if classifier_num == 0:
-                print("Classifier: Random Forrest")
-            elif classifier_num == 1:
-                print("Classifier: AdaBoost")
+                    tf_predictions[0] += 1
             else:
-                print("Classifier: SVM")
-            print("Average Accuracy: " + str(accuracies[0]) + "\nBest: " + str(accuracies[1]) + "\nWorst: "
-                  + str(accuracies[2]))
-            print("Average AUC: " + str(auc_scores[0]) + "\nBest: " + str(auc_scores[1]) + "\nWorst: " + str(auc_scores[2]) + '\n\n'
-                                                                                                                              '')
+                if predicted_value == 0:
+                    tf_predictions[3] += 1
+                else:
+                    tf_predictions[2] += 1
 
-    # =====> NLP <=====
-    # corpus = data_reader.getCorpus()
-    # # TF_IDF
-    # start_time = time.time()
-    # X = preprocessor.TF_IDF(corpus)[0]
-    # print("Time for TF-IDF: " + str((time.time() - start_time)))
-    # print(X.todense())
-    # print(X.shape)
-    #
-    # # Bag-of-Words
-    # start_time = time.time()
-    # X = preprocessor.bagOfWords(corpus)[0]
-    # print("Time for Bag-of-Words: " + str((time.time() - start_time)))
-    # print(X.todense())
-    # print(X.shape)
-    #
-    # # Doc2Vec
-    # start_time = time.time()
-    # split_corpus = [x.split() for x in corpus]
-    # train_docs = [TaggedDocument(doc, [i]) for i, doc in enumerate(split_corpus[10:-10])]
-    # test_docs = [TaggedDocument(doc, [i]) for i, doc in enumerate([*split_corpus[:10] + split_corpus[-10:]])]
-    # model = preprocessor.dov2Vec(train_docs)
-    # print("Time for Doc2Vec: " + str((time.time() - start_time)))
-    #
-    # num_correctly_predicted = 0
-    # incorrect_predictions = []
-    # for x in range(len(test_docs)):
-    #     inferred_vector = model.infer_vector(test_docs[x].words)
-    #     sims = model.dv.most_similar([inferred_vector], topn=len(model.dv))
-    #     num_similar_benign = 0
-    #     for y in sims[:300]:
-    #         if y[0] <= 349:
-    #             num_similar_benign += 1
-    #     if x <= 349:
-    #         if num_similar_benign >= 150:
-    #             num_correctly_predicted += 1
-    #         else:
-    #             incorrect_predictions.append((x, num_similar_benign))
-    #     else:
-    #         if num_similar_benign < 150:
-    #             num_correctly_predicted += 1
-    #         else:
-    #             incorrect_predictions.append((x, num_similar_benign))
-    # print("Num correctly predicted: " + str(num_correctly_predicted))
-    # print("Incorrect predictions: " + str(incorrect_predictions))
-    # print(model.infer_vector(corpus[0].split()))
+        accuracy = (correct_predictions/len(test_vector))*100
+        f1 = f1_score(shuffled_classes_test, predicted_values)*100
+        precision = precision_score(shuffled_classes_test, predicted_values)*100
+        accuracies[0] += accuracy/num_runs
+        # accuracies_valid[0] += accuracy_valid/num_runs
+        f1_scores[0] += f1/num_runs
+        # f1_scores_valid[0] += f1_valid/num_runs
+        precision_scores[0] += precision/num_runs
+        # precision_scores_valid[0] += precision_valid/num_runs
+        if accuracies[1] < accuracy:
+            accuracies[1] = accuracy
+        if f1_scores[1] < f1:
+            f1_scores[1] = f1
+        if precision_scores[1] < precision:
+            precision_scores[1] = precision
+
+        if accuracies[2] > accuracy:
+            accuracies[2] = accuracy
+        if f1_scores[2] > f1:
+            f1_scores[2] = f1
+        if precision_scores[2] > precision:
+            precision_scores[2] = precision
+        overall_classes += shuffled_classes_test
+        overall_predictions += predicted_values
+        print("\n => TIME TAKEN: " + str((time.time() - start_time) / 60))
+
+    print(classification_report(overall_classes, overall_predictions, target_names=["Benign", "Malicious"], digits=4))
+    RocCurveDisplay.from_predictions(y_true=overall_classes, y_pred=overall_predictions)
+    plt.show()
+
+    print("Average Accuracy: " + str(accuracies[0]) + "\nBest: " + str(accuracies[1]) + "\nWorst: "
+          + str(accuracies[2]) + '\n')
+    print("Average F1: " + str(f1_scores[0]) + "\nBest: " + str(f1_scores[1]) + "\nWorst: " + str(
+        f1_scores[2]) + '\n')
+    print("Average Precision: " + str(precision_scores[0]) + "\nBest: " + str(precision_scores[1]) + "\nWorst: "
+          + str(precision_scores[2]))
+    print("True Positive: " + str(tf_predictions[0]) + " True Negative: " + str(tf_predictions[1])
+          + " False positive: " + str(tf_predictions[2]) + " False negative: " + str(tf_predictions[3]) + '\n\n')
 
 
 if __name__ == "__main__":

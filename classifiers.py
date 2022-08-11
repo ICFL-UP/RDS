@@ -10,7 +10,7 @@ from sklearn.ensemble import RandomForestClassifier
 def randomForrest(train_data, correct_class):
     with parallel_backend('threading', n_jobs=os.cpu_count()):
         start_time = time.time()
-        classifier = RandomForestClassifier()
+        classifier = RandomForestClassifier(n_estimators=150, criterion='entropy')
         classifier.fit(train_data, correct_class)
         # print("Train time for Random Forrest: " + str((time.time() - start_time) / 60) + "min")
         return classifier
@@ -28,7 +28,7 @@ def adaBoost(train_data, correct_class):
 def svm(train_data, correct_class):
     with parallel_backend('threading', n_jobs=os.cpu_count()):
         start_time = time.time()
-        classifier = SVC()
+        classifier = SVC(kernel='sigmoid', degree=5, cache_size=400)
         classifier.fit(train_data, correct_class)
         # print("Train time for SVM: " + str((time.time() - start_time) / 60) + "min")
         return classifier

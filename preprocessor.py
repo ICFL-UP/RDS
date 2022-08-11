@@ -25,8 +25,7 @@ def bagOfWords(train_docs):
 
 def doc2Vec(train_docs):
     start_time = time.time()
-    # 10 Was also good
-    model = Doc2Vec(train_docs, vector_size=100, window=50, min_count=1, dm=0, workers=os.cpu_count())
+    model = Doc2Vec(train_docs, vector_size=1000, window=50, min_count=1, dm=0, workers=os.cpu_count())
     model.build_vocab(train_docs)
     model.train(train_docs, total_examples=model.corpus_count, epochs=model.epochs)
     # print("Fit time for Doc2Vec: " + str(time.time() - start_time) + "sec")

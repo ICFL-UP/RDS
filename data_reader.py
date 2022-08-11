@@ -166,7 +166,8 @@ def getCorpus():
         "C:\\Users\\danee\\OneDrive\\Documents\\University\\Honours\\COS 700\\Year Project\\RDS\\Data\\Strings\\")
     for x in filenames:
         file = open(
-            "C:\\Users\\danee\\OneDrive\\Documents\\University\\Honours\\COS 700\\Year Project\\RDS\Data\\Strings\\" + x, 'r')
+            "C:\\Users\\danee\\OneDrive\\Documents\\University\\Honours\\COS 700\\Year Project\\RDS\Data\\Strings\\" + x,
+            'r')
         document = ''
         for y in file.readlines():
             document += y.replace('\n', ' ')
@@ -192,5 +193,6 @@ def getTrainTest(percent_test):
 
     X = benign_strings + malicious_strings
     y = [0] * len(benign_strings) + [1] * len(malicious_strings)
+
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=percent_test)
     return (X_train, y_train), (X_test, y_test)
