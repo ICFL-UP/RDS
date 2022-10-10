@@ -1,0 +1,2048 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+.ndata
+#Vh+/@
+Instu`
+softuW
+NulluN
+SVWj _3
+Aj"A[f
+D$$SPS
+Vj%SSS
+f9=HgD
+D$$+D$
+D$,+D$$P
+WWWWjn
+\u f9O
+90u'AAf
+UXTHEME
+USERENV
+SETUPAPI
+APPHELP
+PROPSYS
+DWMAPI
+CRYPTBASE
+OLEACC
+CLBCATQ
+NTMARTA
+RichEd32
+RichEd20
+RegEnumValueW
+RegEnumKeyW
+RegQueryValueExW
+RegSetValueExW
+RegCloseKey
+RegDeleteValueW
+RegDeleteKeyW
+AdjustTokenPrivileges
+LookupPrivilegeValueW
+OpenProcessToken
+SetFileSecurityW
+RegOpenKeyExW
+RegCreateKeyExW
+ADVAPI32.dll
+SHFileOperationW
+SHGetFileInfoW
+SHBrowseForFolderW
+SHGetPathFromIDListW
+ShellExecuteExW
+SHGetSpecialFolderLocation
+SHELL32.dll
+CoTaskMemFree
+IIDFromString
+CoCreateInstance
+OleUninitialize
+OleInitialize
+ole32.dll
+ImageList_Destroy
+ImageList_AddMasked
+ImageList_Create
+COMCTL32.dll
+EndPaint
+DrawTextW
+FillRect
+GetClientRect
+BeginPaint
+DefWindowProcW
+SendMessageW
+InvalidateRect
+EnableWindow
+ReleaseDC
+LoadImageW
+SetWindowLongW
+GetDlgItem
+IsWindow
+FindWindowExW
+SendMessageTimeoutW
+wsprintfW
+ShowWindow
+SetForegroundWindow
+PostQuitMessage
+SetWindowTextW
+SetTimer
+CreateDialogParamW
+DestroyWindow
+ExitWindowsEx
+CharNextW
+DialogBoxParamW
+GetClassInfoW
+CreateWindowExW
+SystemParametersInfoW
+RegisterClassW
+EndDialog
+ScreenToClient
+GetWindowRect
+EnableMenuItem
+GetSystemMenu
+SetClassLongW
+IsWindowEnabled
+SetWindowPos
+GetSysColor
+GetWindowLongW
+SetCursor
+LoadCursorW
+CheckDlgButton
+GetMessagePos
+CallWindowProcW
+IsWindowVisible
+CloseClipboard
+SetClipboardData
+EmptyClipboard
+OpenClipboard
+TrackPopupMenu
+AppendMenuW
+CreatePopupMenu
+GetSystemMetrics
+SetDlgItemTextW
+GetDlgItemTextW
+MessageBoxIndirectW
+CharPrevW
+CharNextA
+wsprintfA
+DispatchMessageW
+PeekMessageW
+USER32.dll
+SelectObject
+SetTextColor
+SetBkMode
+CreateFontIndirectW
+CreateBrushIndirect
+DeleteObject
+GetDeviceCaps
+SetBkColor
+GDI32.dll
+MulDiv
+DeleteFileW
+FindFirstFileW
+FindNextFileW
+FindClose
+SetFilePointer
+ReadFile
+MultiByteToWideChar
+lstrlenA
+GetPrivateProfileStringW
+WritePrivateProfileStringW
+FreeLibrary
+LoadLibraryExW
+GetModuleHandleW
+GlobalAlloc
+GlobalFree
+ExpandEnvironmentStringsW
+lstrcmpW
+lstrcmpiW
+CloseHandle
+SetFileTime
+CompareFileTime
+SearchPathW
+GetShortPathNameW
+GetFullPathNameW
+MoveFileW
+SetCurrentDirectoryW
+GetFileAttributesW
+SetFileAttributesW
+GetTickCount
+CreateFileW
+GetFileSize
+GetModuleFileNameW
+GetCurrentProcess
+CopyFileW
+ExitProcess
+SetEnvironmentVariableW
+GetWindowsDirectoryW
+GetTempPathW
+GetCommandLineW
+GetVersion
+SetErrorMode
+lstrlenW
+lstrcpynW
+WideCharToMultiByte
+GetDiskFreeSpaceW
+GlobalUnlock
+GlobalLock
+CreateThread
+GetLastError
+CreateDirectoryW
+CreateProcessW
+RemoveDirectoryW
+lstrcmpiA
+GetTempFileNameW
+WriteFile
+lstrcpyA
+MoveFileExW
+lstrcatW
+GetSystemDirectoryW
+GetProcAddress
+GetModuleHandleA
+GetExitCodeProcess
+WaitForSingleObject
+KERNEL32.dll
+VerQueryValueW
+GetFileVersionInfoW
+GetFileVersionInfoSizeW
+VERSION
+SHGetFolderPathW
+SHFOLDER
+SHAutoComplete
+SHLWAPI
+SHGetKnownFolderPath
+SHELL32
+InitiateShutdownW
+RegDeleteKeyExW
+ADVAPI32
+GetUserDefaultUILanguage
+GetDiskFreeSpaceExW
+SetDefaultDllDirectories
+KERNEL32
+[Rename]
+%ls=%ls
+:hW2e+S
+B-o@mm=
+zV@uM5'
+!l|]R~!
+T0/~Aw
+p]Dm6M
+@Gk3o#
+by/1YZ
+s]go`Q
+s}}=G
+$3?U,d
+Gpo/U,
+OA]]5w
+Garjl2
+O@ntBz.
+!hni`a
+6nh[15
+r(t'PN
+ICCc+454
+>1iT=TkD~
+MqT~x^^c
+GkcPUU
+gi4blk
+olj}xyGK
+K6#hqHx
+tw-ezo
+m[aYW;dr9
+"_` `
+!JR6;-,
+@ ah"5
+4ocOY)
+:JuN:p
+YAHRqE
+Z;z8}h
+P{nlmP
+6j;4F#
+c{hdt
+k4s}J6
+NQ3T[]
+CWVWin|
+_A>VS*
+LJ'VqWe
+w^ZH=b#^"
+{D6Ium
+Da5V} #
+aq4j"K`
+BBL#%9
+0[Z;$J
+1]lBK/`
+0B>i#R
+Z\rMM!%
+H1Vfgh
+Zlp)p$
+)]@$2c`%
+A:[bf<"R
+8W,9+p
+wd-8:@
+7Hrhls
+JZJ!5[
+nk$'5;x
+Q#kaQ
+7\IE,)
+O<AO=J
+m'QQhF
+g76j4>3I
+RZdBD PS
+, '-c&
+?Da[+/
+"1?2,1$
+RG !/E
+D^+x3x~
+tnyU6E
+O&'&C+
+;8*wEZ
+w^}CB>
+!KI+OF
+;-*<f"
+p\cOdK!1
+Gu6:Zs@;
+9GWgoR.
+;EyNS
+20n2EB|6"
+yldHp
+'!;"00
+PGCTl~aD
+*Ujrj 
+MSs34lw
+V5x!4R
+S&M7wd
+qJvly
+Sghv~^
+j'_FtYDk
+ KiT*t|a^
+ejE",+
+y#v`[=
+5\Kv'R
+4\x$N2
+e5@B},
+V&'i{w
+{X7.C/ 
+ jh.b)*S}
+a$2f3Su
+J@6.Ms(J
+9l<x@j
+OKgNKC
+dj359AGVWd
+i:6?)@
+;jKoo0
+\EnK;#@{
+^|D.Ne7
+=vdqH!HZ
+wE~d0H
+{49=Ii
+/sNx,u
+!%r@C6
+cWEnl!
+483`kby
+0&DiYlB
+~p7b7Y673
+Hj\("XMF
+vSH@al6
+tcsgx?
+7L#i:F
+*4'f`N
+_^tvAY
+:27Q6,4N
+;5<w%&E
+HCIs&%
+97(?86I
+B<1Y44V
+!:5<~35\
+D>Fz/*
+<4*F:5L
+<:;t54]
+@;>n3&
+<61W:=l
+D=,'7:e
+D?<JSRj
+FCK{YY~
+85HO\^
+8>t`NP
+=<^[_a
+GA=;KJf
+HDGPC<&
+LGLtPPp
+MG>BJI]
+IDBD $DQ47
+((L0,/d
+*,Va37o
+94**wma
+40%.qh\
+83('[TH
+B<0crj]
+?:.O[TH
+C=1V;6+
+=7+1JD7cRL@
+JE8g>9,3
+*%4r84Cp,#
+0*"?%%B
+-+-V,+O
+4()E10N
+QNSfef
+RMMRIB6
+MG@.USd
+NH=!$&`DQS
+"'f/EH
+LGGNMKg
+VSUbOI:
+23Qe:?|
++-]q8<t
+MN{]@>i
+"%SG,.V
+QK?I^YM
+SMALHB7
+pD?>A="
+HO@DFFDD'!"
+pFOOHSNNSMFB&%
+jPOPLXmjVKKWMEA'n
+niM48KWREBm
+f58ksIN
+j8WUHBYs
+0WZHBMko:.2
+N2WUIBIikK.28
+(/iTG3CJWf,+*
+iJWnTM
+9nM603CIf9
+ojI4($3C6f,
+gx7+JG0
+]a]a]]
+abbab]\
+\bvv]zz`
+746!%%A
+IHa}?<<
+42?D%'L
+B?I;@;0
+22Il*+X
+DBTb>91
+13nL05n
+5:xL<A|
+;?~LIK
+BD|LRS
+@Af]WY
+QQoMhi
+KLumhj
+:;coAD
+36p6:>y
+`ZOIKF:
+;4F?>@6.,
+IEFNlD89A4/k
+c@G0Ln9'
+a9G1<h(
+B=#$@9
+TU]USQY
+`^^^sS
+\FmT69K!
+8b{kw~
+baP`g|
+_jlvzyxb^
+]buxyubO
++&/d,-U
+VSX\il
+XU_^RL;
+GGg]OQ{
+(*^cCCk
+[UISaYNd|sg
+aYNde^RgHB6
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"><assemblyIdentity version="1.0.0.0" processorArchitecture="*" name="Nullsoft.NSIS.exehead" type="win32"/><description>Nullsoft Install System v3.06.1</description><dependency><dependentAssembly><assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" processorArchitecture="*" publicKeyToken="6595b64144ccf1df" language="*" /></dependentAssembly></dependency><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"/></requestedPrivileges></security></trustInfo><compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1"><application><supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/><supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/><supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/><supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/></ap
+NullsoftInst
+IO;rNb;BV*O
+RS#IT=
+088eZF
+!s:MDm
+EG8Rt3
+_4M9q
+o5HUuA
+in;,!G
+1SJGMx
+)A'cKF
+VnDjx
+%t<;M%
+aHcziQ~*
+j\'OaT
+t&^Lax.
+4!}LpA8F
+izTS2T
+47]p!r
+QQ]D};
+f3KIJ:
+}N$N/}6
+KZ3_^0
+#Du/}Z
+M7A:'<(
+HV(yn5e
+nH5blo
+S}G}(*
+cSTK4N
+K|p)Bt
+5y:fb~
+42ki#g
+v"yYF(z
+5$Ol<2
+P\k9&
+74X3^r
+G6Z=fQKZ(
+/*{-f"
+ZaC7fz
+]ZP[=^
+f*-_"Iy
+`AxJ*hw\
+WUKVGm
+,@Xgo#y:
+s>u*V0{ 
+b~G3L{
+WcS'A%
+FZ!9R,y
+r"Nd.!
+vC`3MF
+uMRF< 
+.U%gLT
+V[/#WH
+k]2nz
+Onv kV
+`RXe\lz*Z
+{I,-!b
+G=b2p4
+Zg2-;>Ah
+D4Z})9X?%
+lm`!/(
+=mMK?B`
+}aAj/r
+1^Q?2:
+6_\f~28P
+jQ#M!Kl
+9{\Bj!
+)>aBX1N
+rJ&}C5c<
+~nnRtv2L
+W?(d(EP
+{XTO+@}?
+K<`fADx1
+&t*d+c
+s'UKQ\
+LYKD}"c
+(cPKr)h
+E+#^e[
+(lP=j<
+`u"P>;/
+/ xsEX\
+OCF<&aG
+$6d2!+
+%uTLaL
+@"?pakJ8
+&"kj" E,FC09
+cdtP<%
+yc17t8e
+qLx7V[
+~oiB9nH
+eph {a$
+(fuH"2
+sX5TC\
+\AA>Y*
+Ay4<|?
+F2pi`1
+~@#KW282
+Vp +X{?=
+<2|'n\#
+^CTm7w
+AhVw[B
+$w|@V{`
+CaA+B.
+ &D0Pc;
+82V~*[l
+&wNv/ ?X
+``o=>(n
+A!Q6B?
+;qi-Q"
+~"\I4
+l:)}4hqd
+TSq`:K1
+M`x8OL
+iM/9A)
+ze>6Rd
+~J*!a>
+@w@L@i
+, 3FtH
+Lu&Vo:
+6Ix-\z_
+{yOGpjB
+Ef4|LQm
+ZLd&E$
+8<>WGS6
+ag{Os|+p
+ow3NaY
+&L$z8S
+Fv {YO
+g@SfS$
+xCx?!E
+fMB0]b
+J:fZ@V
+R}E:[E
+I[J/(X
+uR"=.u
+~Ge/wR
+@!{dqJ
+PtY:A6 
+i#*-bv
+{ 'RlO
+q^wtA^
+vdE(R6DB{
+.*yvHe
+R<,<FB
+'tG>^9
+P\@Okc
+J1Y0Y_
+^Y\'y9
+W,etFG2
+l])gjP
+2%Pdhl
+alb&?m
+O7J7G
+_xBm^w)n
+TNHQ`O
+Sc|r3G
+VR?J.^U(
+o@U]@}
+OZ\{feQ
+|"{bn"
+Ei^V}R
+ (uWc1
+)q,;:X
+kw&O&8\
+dnSMbM
+1H)yfhT7$tF8
+o@02BY
+usvM#(
+VJlH%D
+=qgV)*
+)CgY@L
+!K~GK5$
+a*L8K1n
+>,=lMG
+b?\aiQ
+L+!,K5+
+bHwQ(t<b
+k\YerA
+CS1OQ8
+(cJPrZ
+(5TO>O
+8kz,p[
+p{.dY$D
+a%'<M&
+BP<ycq
+5M-|
+op-)wc
+2r35Ai
+0qf@Y?:q
+~x^b$~
+~*K&*`
+)SJ3([
+d8.!R.
+]NUMHV
+6+A#1n
+:zAG4`
+L8q".&
+Z6wRl,0*
+:hV&/:Ae
+~kYm'Q(
+<*N[z$
+gb@M^T&gH
+h 5+UO`
+6D5<\W#c
+d*#F4L
+svd;z1
+[]6+u|
+%e36@o
+RED?;U
+zrMUAzBOr
+rv2)U 
+uJ,0'M[
+-IK1>0_
+2a<j5hQx
+Pkqf^S
+bM(2AY
+|s3dgn
+i&AA7}k
+EzU0ni{4
+^gM/u[
+/5 }O
+KUQ3[I
+xk<t5h3
+~@6][9[cro
+d=!GR[PK
+)_U*no
+!F[4(e
+x.\}e6
+93|^H^
+XYJ6$*
+0T=F^g
+oPQaV#x
+fI=wK<
+KuFfy4?u
+r_RzNQaC
+*f,LPY
+Eu2KmL/c)
+:ybWwF?$
+@Ui'C4
+ix6h73
+^<dWX?
+K!b#cz
+FX=7z@?
+hWf#`9+*
+>0E_hRk
+J.aG,T
+T:-u\)H
+Jd`O^S
+(FL(Ea
+Q_Co<%
+wtu&E4{
+8(ixM:
+Bp.tk:BI
+8._'/Rq
+%}tCOqy
+.B@qyc
+ j3ij3
+LI2meE0L
+CAd~T;
+[\[73I<V;^
+9hZ1"h
+E]Y96-
+deI\u+
+|?^|y|r
+!T&~>j
+Ip0)s1%
+)A4KA2qR
+;+VzDX
+Hgu{\s
+MnJtRe
+cMmS`s_
+E/Pj|V
+0o=w?)
+j&t.;,G
+n}8q,Ak
+'Y&I[J
+JyP2\~
+^P$Js$
+;-ciqST
+/>&;QR
+:~Z?y-
+!9>7y"
+-Q60Q!
+Q(^$ 5
+ZP#NE,
+b'Z2|?,
+P(sxFF
+w$'7h
+HBeBSG4n
+H_x_(;
+X}OwI=
+IR6w^(
+yD*=MKo
+En@Mc"_
+QDujW#
+xT})Zh
+N'O|=a
+e_xdzv-
+B~g5{8
+G"53n,
+PU|Av91"
+PAC5AJ/8
+cC}*#a
+^~zPGZU-E
+A&o5rh
+6O^1^
+-{QsC&
+&/fd-/
+ki'OtZ
+nVEo<H
+GuL"f"|
+Z-8!1j
+,@I(n}$5^(\Vi4
+v2CHt)
+X9W$P+
+]+Rp/j
+3Bj[iR
+SJ|2KT
+o[/pb6
+0!#XD~2
+3J@UcM
+1o>TmG
+DrJ5`fW
+fs{FX^
+5_1[?_5
+whqQ2ya
+mm:;7F\4
+oUN+s%
+O4<Y\N
+u-ss?U ]
+31 "OE
+oJ,~v'
+1b/h%tY"
+z],yf}
+B.)9pb
+`^=sX)
+&$d>{z
+WaaEyy
+F-Zp~x
+|Dv\u|F
+MNGI$?p
+FpQ"Cw
+AZV)Wi
+IyjR<=5
+d&i)Ox}
+,RT.b4Km
+/qjBPz
+h_4BTS
+KEKo'_
+kK80B^
+xd?~.u3iI
+5Sc<s@
+cvEO%>
+6EkWr"H
+1%vl>tTk
+NUge2j
+jyRuex
+(MCYwE
+P=e72*
+F %L$zE
+T7dR'yu
+E)DBXfY
+D[->1A
+'*|2O_
+b[fDmh{
+H,Lga8
+s;9qKKO
+TFhqklYp
+l,eN $
+*h?hT@
+bijr$ o
+N]1}}E
+H!l|?b
+ 4tPrK
+U{;KU>Z
+Y=]<#-
+XgTT_a
+-`8v^L!
+;=Wm]L
+X;70Fh
+D3w\|x
+>R/wc'
+ln^X_"
+YVt ';
+4{jHWR
+kr3Wp$
+GCtA;;O_
+ui%|,<'.
+b+M1Q.
+ke]pFO!y
+lLQrvZN
+[t@Q%j
+B'6v+L
+l=$yTpa
+:{Gpu*
+X%v(mB
+OH#_nAK
+?nHP2#
++)c&s.
+1*R>]|+
+g7~lH>
+>cI/]S
+]X}2:w
+?laN{%q
+VD6w?e
+m-UFu
+.y:YVZ<e
+>G3{D'
+\X:y{-
+# i[tU
+kkHod
+%/}CC<
+k-cEg'
+t&"qdU
+u}I{;}
+_vgTVNW
+N6~Ot6,
+{)?dQ 
+7Q-sad
+<ln#!pv98Y[
+<\D:'-
+{?N^ap
+Ue@%~l
+9".3 
+o>3z:
+Q0/R_B
+VuIdR*$
+h7L|+IR
+5%QWGQx
+|e}Mq{l.
+&^)|y
+IltB+h
+  z<sp
+_.euG_67$
+%e\~"8
+n[je5,
+:-"45D
+\^/yA
+bcY0d0(
+2,W~]^o
+7FXFL\
+cx$cs5vMm
+r^ r2y+
+y*_3P
+*N:@6T
+Og?-n:J
+5Ic$Z13
+T*K'z
+^XE<K,
+$1/iGz*`_
+CW1AcI
+K,4Kdx;Y
+fw}s@I
+)-wbUEW
+aZ-Z[v
+7:XTm9
+,IIG,v
+%j/DUGhk#}
+2~ie}@
+T]U.`ID)
+VMyGR@
+,>kf?$
+%{PwS;
+s|/tF97
+75~]w=S
+{u!yQj k
+oX}PT$
+>}\*?-(
+G ]rX5
+kDBjxC$
+Yxnmi_
+F|,<.^\
+8V8-PQ
+LOKa8M:8
+Avm`Ae
+K3i1Ja
+dZ2 r9A
+wcqarM
+s+KMMI
+?i4tF3
+]?VHEU*
+DNMF&`
+P[PDbp
+)\6&s\S
+T(V.>#
+kyfIk7
+x~0_i
+-}YMBG
+9GNd|n
+fW,U^}
+es"WP<
+N `%p%
+O[G+*0
+;0k{fG
+6Q'@b(;
+tM1v~D
+5XLvy 
+Kw;3A+
+uhRTby
+|vp.x0
+a2xg`^
+$%lmhg
+!A~f>!1_
+g!v38d
+hVr?*d<
+"4'_
+g7Yt~
+G#f`x!
+o[u#ze2
+rQcWQGy 
+tsD't4
+>r[-p.
+C?,wfbW>
+6wf8u~
+|cQ_%L
+t kK,L{
+i eKm1M
+ (&{Uq
+#/]#gQ
+}Bw~7a
+?=n<7B
+hDBl7|
+El'L^a
+l1630
+HBGUD>
+[Qx1{Y
+z.0qsB
+aRnLn>s
+tyg"m%>8
+O`A98m
+xYo9O6^
++Vf'oP
+l7TXzi
+//N$q9W
+HR HaX
+q`Gf?W4n'
+-.j(\?
+II)"@A3
+e=0X8!
+j?|1dtO
+NM|g-Hs
+d1U;:W
+/A2PCz
+wDDUU>
+{y$5U_
+|0Mi@I
+:0#C*2?
+-x""SR
+uR*|5q
+V%tU}F
+VGJcG+
+Pavk$,9S
+*l\Ml/
+Bj&b$g&
+-%__EZLu
+;.^6"}
+cBo3X4j
+'#d+;9n4
+gEK=e=
+(UD5/}
+2u[0:y
+@K-pz{
+]{GkWozh
+biLrW*Gp
+/C^me,
+B%lr6_
+b[KSN0
+tqbC[r
+]BVhr
+B}i*TUG
+8MShJ]
+xYiZ"T.
+FL'3A
+dv>L1s
+NmG;$tz
+-'QGKKvBD
+a0X\'W
+QTkS\i
+`EvE]g
+(DHzTi_][
+A:F(%R
+sbV^hx
+1]1o1ad#x
+r4Sz1~
+hM&0F
+PL$J,:
+WuV1,<l
+0NT?6b
+uQ*Q4J
+@4{V#wZ
+Kb:/7f5
+7zl`sh
+[*$nwfr
+>HZ[c9f
+s&7_r~}
+u$A!Cz
+5/w/b
+'bNj+F
+M@0QhL
+r,pEwy
+u*!%&RM
+0o(kt_
+B{]kM"
+i/]d7Th
+Q,/X.Q
+uxUN}hz
+OqK`U5
+>P0HG>
+`IMC6_
+9PI_:\
+@0ibs;g
+8cBE6?
+_j!YP<]b
+cI)w%_c
+3dzu=fn
+C'+':"._
+=av`P9
+zxQ;]=
+V1$50A
+aF<05G
+<`s$]${
+7}R8L7)
+fkfr=@
+ufo$r?
+x0h&~$
+W,wpw~
+y^jpDH~'Z
+^#>hUrRd3
+P-{z#%l
+NOf[Cs&Y
+0=/~(B
+2N=5s3
+L=]"w&
+fy+<+Z
+Bv'u@F15>
+b<N"&Lm7
+z<nBzY
+vpWXQ>
+G V%F
+13=7Hbt
+DUq>7?
+rAD'ew
+WmPb[9$
+Jz5>([0
+nn\QHA
+UCR>j=>
+Ws_E]p
+`^/$V
+["Y+"t
+YxSS^tCt4
+~='9.4V
+!&IBS"
+FWsE=dF:
+Kwt2L"
+lg13TAVel
+^a?Q6$
+Kv,\7)
+(xfvd3
+vdu_QK
+d"Oi%'
+6[^!VU
+,L-[_-R
+B:(1PY
+l@!wbC
+#GG_x!
+6Cqv{ap
+5ee<]@Z
+PH~?c|
+"9[)gy
++'kvfvs8T<7
+Yabq8<
+~-{t_e
+eJnQ@AZ^
+o;K }d
+(ABwjT
+dI5VLs
+n: *`Y
+Jmk9i~
+B((?vo
+1rr5$m
+>Zow-k
+8>TsYW
+Di\'n])
+e8JkMwe
+FZBrj6
+$eQ,?,p
+# 0]yp
+ki]ud"
+Zm0;&u
+992)6
+n\>7^?h
+P^kA C&
+y2>9s
+pn`snP
+QKs4,n
+quZVK&G
+4-k%q
+BsyEH/
+YWDF g
+`G<R'^i
+c1e9C
+rFpK;*
+K*3Ms
+,{tb&%S
+rp)UD( 
+h(^,=7
+xPfb}dy
+xQ'eEOT
+gmE8+'
++Rh*Up
+KOJ `W&
+;{}k'K
+Y6mtOX
+_$F5@t
+VnnqK%+
+K9k"9|
+t25s1b7
+9VQ;8[
+lYWl9e3d
+o0Kyx^
+9^NAL[
+"?>7b,
+Tb#@^
+8]^wF6
+6a"Gg k5
+Rk;T?R
+nA4TyA
+7i.p>D
+s"K$Q(
++W,]Ur
+7sLmpc
+P[.2r
+duNSN#
+^,K:B.
+$WDt+M(0
+)^7+;<C
+Cmbop"
+pfO"3N Jr
+.&2xV'
+}A^TK@
+[kIx0J
+fmd_fB
+`h6o!C
+5u~$MC
+V*+N@o3
+%kjcF&@
+al@iTO
+<O]ogs|
+hJj j J
+43+Rv;V
+2j3Ib;A
+^\]xjRnI>6
+f&o074=
+nRZHBH
+nn>ykp
+ D%3+a
+U4x#7x
+a6c]o'Z
+^0Kak(
+j\.T1Z
+B;sPsZ>
+J-~(sV
+ylUZ:%'
+%#=V?a
+if=;O
+%FHVM[J
+xTw6a_S
+)Q:"X&
+hOqd%8&=m
+8c[qbW
+(_AMqbH
+ujnn\|o
+txXH!<
+fzq_g}
+/od(n]
+/i#nf-
+JKjyv:
+ o*@T<
+;3Rd;
+"3sWnn
+f= i #k
+;p`5Bx
+Ef_s*(
+!H-IH1
+gj#gu=f_
+9FB5M
+A;TxG(
+wzm]FR
+)Sfkp1
+P6?:Sx
+BT,.,F
+{'8#u?
+h^/OTJ2v;
+m9w:?J
+p3G`<;
+\ybq}A
+<d$J*J
+YM .GI"
+y_q-|.
+*O8=|*
+#AYZ<.
+~&a`6v"
+n;_YrG
+T1I!h9
+XC1?5v
+J$8kaG*Jr
+xj+>c{
+<{#w`d
+];+(TCdkLI
+Tf/O"` 4
+CPC1wp
+|V)xk7
+Y,]$@nC+
+:2yKqZ
+d`V1Xo
+])-1mN
+IK!Eu,
+," y%J
+9zUm@(F
+?yFy77b/D
+@CY=<YV
+ur2m:y
+D3#U3@
+rP,%G8p
+UBY4[)
+tb]"Cm1
+RikJ~+
+>x3@5e
+R]Fp;)
+IvYqKF
+p)?Tf#
+K1(!*{<
++GBuUa
+42&>qm
+/Xe'XE3DJ
+TW0B]J
+gRV$\a
+z`Ce.c$
+_MBrb\O
+f.t}4#
+<3}2iu
+xco[LP?L*
+#8Cw~
+Gd1y5.w
+v=<7Mo
+m,>[[,
+B:-/_/
+N&sn77;1
+}2/YN"A
+;)?!Uy`
+(oq77m=
+kx 5S 
+QeuG8D
+aARZAr
+>m3lGs
+)en@:\
++(O!`,
+wO$+Gn
+Um;Gr^
+y5BM9q
+Q.;Vy]I/
+baGoD3N
+W!+G5![^g
+][UmX0MO}
+W[ owb=
+/fHJ4w
+j9*ptCa
+qAb(_J
+Lm,`gjh
+%$GD@'
+vV+dvh
+m7f\&@
+ZOXEno&
+/ul|[}D
+{i:Aa;A
+,ylo7C
+Uc4Pzj
+dk^[y
++V51* V
+-se@kG
+%z-[~)
+BBi[7b
+1Cm,K"x
+BtvN5[
+{cvsmf
+#?4rD_
+UJp|3U
+ \XYY(.FpY
+hX-xb4
+4xD|[j7
+3085Dn
+yYO%Rq
+]:wD"&*
+[Y Vlb
+Gn>|"Jb
+D%ng\D[
+p|q,/yM
+9nH+f
+gk2<MI
+#?RQHX
+K2yhr_
+F!CC?N
+t5{&-p
+v&RMRi
+XU'IRd
+U*b(Ag
+CAL!,}
+S.Mzl5
+UV26jB=
+JtmC`P
+L6BO%g
+=<yx)!
+&s= dL
+P'Qdzb~
+5L[Q%'g
+dN]??QYTI
+5> u3
+OWX5U*
+zH6w&rr
+v2]d9!
+,8Eyk=
+|;otQ8
+RM*C|,=
+^Lb/8O
+FfUp]d
+mpK!fj
+h/E7;[
+k!6lcZ
+pH',RZ
+4*LKDsa
+eMR20n
+"rWXo&
++EL`nC
+=owo;5
+vhDZIX
+^N,D(4
+wDx!yXf
+Pz;*Q%
+gTGkW=
+J}:&1u
+9fC"r
+:cQUbJ
+->w|`N
+%.x!]^
+q{/VDz
+sk=lr5
+3t!:$w`<
+p" !3<b
+/+z!)
+ Xo9! l
+iT`@6m
+r8&_m`
+}0yEa
+!PaMX~O
+xkh^ML[kd
+jko]-_
+mA[{Ur@
+Z>3;UX
+4h(Et8cc
+2meoD;
+11Rc]euv
+@oI.wpF<
+|F0DWR_
+Y3a*Syw)l
+{iMEe)
+b2Wf[qLI
+FJ`{C5
+4X>5rt
+;>IyAXJ
+Xl_hX=(|
+<S>DVpy
+0F-m71
+u2I2_y
+#o-k_`
+/tLNT?
+~ESW=y
+ST<{,,
+/eDziL>
+jPB7qO
+1?u=Sy
+cu>!oT;
+,Xmi|[v
+;>ckRFN
+;M#z{>w
+f`Y9Pu
+U8V\g)Na 
+l+VoH5
+n(9iG03
+D\; Q24
+i^ak.k~
+69r:ze
+8Dz`'S0
+N*@tZ;
+5lP` Z
+uyD}B_v1
+'oQ; /
+5\S{od
+>\WQ]3
+e7_.|[u
+?L\{hto
+2}ZaXc
+U6j~9W)"
+-V"Fa{
+<C)?GD
+~boIlf
+JD5l,U
+~;x/Q
+u,"+-@
+%`%B'pj
+lIg4hB;|
+Y oyF|
+N@qfJ}
+3'%|1X'
+8+:1_5$GM
+Jv!';3%
+}`z(Zn
+YCjesla
+F^/u9Xcz
+83r)A[e
+3.>#YL
++[#+t5
+J`Z2.E
+i|IgOB=
+. z1!+
+np1.r&'
+Z'iM#Y
+N\|>W\k
+W1_sC2
+9KD^ uF 
+p J!4"
+@wNvfX*C
+bIcp A
+}xKB^U^
+,&aG>ePT
+tZQV$P
+Kq&F %
+ZL3@D{
+(mn3qP
+OM-%r^G
+l+8$cjb
++{dRt!b]
+]o82dx
+}f<~^Vmn
+dE4Jv5j
+C5jH8x]
+Xa+lMx
+Cs-_KX%t
+4j{]bN
+vjvb&)
+g$=x}B
+yuVE@W
+}psm,G
+Z+#w*?=
+vl]/(>
+MvPvm9o
+p&~"h,O`z
+`aw#q3
+MN1-Jx9
+sjm\C3
+VcauMg
+]CGc)[
+~)gn~~%
+)&=Z5Y
+Qy78Y}
+Tsle[x2_ZV,<1
+"%M9T
++c~&SH
+d&LY4G
+KBut^#P 
+=Y5s!bq*
+YB%0y^
+cfzFbm1Z
+YnWN7g
+ktQdw+
+9eIyz-
+odFB:Gt
+h?x8mK
+l9dMQ
+E I~-,
+wPZ:=/
+?+}W`"
+ 6Y+|N
+o}gQ1x9
+r4r5)<
+-T}je6
+X%eBA.
+#bX;h5
+=2/dDn
+k|4g_Y?p}
+6)~KK 
+V%%acB
+pf4\X<{
+>Le@&A^
+gPup68
+h68yeL
+T@6kaW
+,^x.em
+x,7&=f
+:"{6/UU
+92lVnJ|
+J0kchKv
+4.oVH7;
+PUg]kk
+;pH&,C
+46~`*0
+y$cqTM!5
+mJCU#{
+(M-+,Q
+/o#Q\9N;(|
+1vQ5r`
+~)quz>
+;FMK"m~,
+#V4:K4
+*'r3`qyrF
+6=tRf.S
+-79OH?
+NECfog
+tfF!NX
+Z\gCy]
+Cau$>L
+qz!/-8&
+|B('d,
+d&T'<\
+r`P5ODnrc
+b&ixUR
+\'^J\@q=
+(o&;)>
+h!#i5>?
+>Y|l,S
+tN%K{1
+9&x=ZS
+gZJBx;
+|x}t"`w
+9(+{}f=|*
+@S`iq(
+AXfnkU
+@+'ySVOXO5-
+yB/d7#
+WQP(@Z
+2E?$H[
+:~mKr:
+w:b.>]
+?z:$lW
+<"W%*G
+A}u{lH;
+t9F9`w
+vhPnc4
+9b5}1k>
+aI|jI{
+:*ojO`
+5RxKrL~8
+/93/Zx
+WBopeZp
+]6h>}o
+.iO3~%
+4hZ)(0OZ]D
+&R62Gw
+|B6yEQ
+"[V{FiG
+ZwJ-fPu
+3"c`/z
+n)CcC7,
+WRG}b
+Z,2WVl
+nq@NX u
+ GFp3Y
+h\HZWh
+|k[:m.
+Vq)j%n
+mJ15$V
+t`[b0m1
+e8baWq_@
+q)]j-;!
+tcM`jc
+9\RjR'XO
+h!O*QI
+D/r1)W
+m_5")9
+EZE!pn9
+[A\e7yPKK
+9<lOu8QL
+9Ww!:!
+6#EWp
+Z{Rvb=U
+"IO3`%
+F3RvDdg
+K3!,_>
+o9pvTY
+d)^a"9
+J}3|2{0
+RC-V2[
+*jd[^g 
+CS~37x
+u1~ ?B
+Nc>%H~4
+Q'~nSDZf
+'.qOLK&
+43Y>CA
+yb2%lE<
+)x\~O*
+tnFf~t 
+Sk$?lok
+hr1a"9g
+<2MF&>
+aRcJhr
+xN1F7t/Y
+K0{5?+
+HUfs*j
+'U3& 
+<<\KY4B
+8O7}-H
+4b*,Ty
+NO".OJG
+,&|Hq`
+Ga_zM:
+l3k+GC!8
+j[f{0OV
+-'S/1cgUXZ
+gI-emc
+Em*oX%
+0*jO{^L
+5Z3-EJ
+Z9>m.<
+9:DVx$
+`={#%%
+k(~yM"]}V
+5DgsT
+6V;"~:SG2
+[2D!4,T
+de7:!"
+21ZWRjf
+orm&D"
+o'7KLQ
+7dW#Xu
+j"M|dp_
+I\EK-J
+T`9K/5$
+m Y!vz
+B*!vTnX2#
+cfzO|Y
+{M4#h>q}
+.vZB"9
+`QK"gh
+2)x[Ed
+4=o&Jo
+`bl2[4Uzr.
+b#|93T
+*%D:rw
+d'kQFS
+p7a3}O
+1i&rIn
+b]'_FB
+ @}}Ul
+97J`fSN
+qU@A(?
+zYum/\
+Ava 8Z,A
+b:N<;W<
+busXug
+}x7aE.
+6l4{?)J
+XFEFQ?
+AD"_p@
+>Wp1'&
+m3m4BpW
+|[t9NE
+x*$9WYXA
+^K+qNne
+GI-ZS/
+eYW?0
+A%><ID[C.al8
+Q7z,^<Z
+e)Bm+U
+/r<}{9
+_Y7/`-<
+[w~;`Q
+^Hqr}VLE
+[8csI}zh
+{kNT..
+Gil}DB
+Q^v=\{W
+-M+Jj/
+.GE56Q0
+r#[^^H
+b^qf}
+F]l454U{
+;>b_#:
+H][Gez
+qD%U63
+!vi_hf
+i~Uu5G
+!i3"X$
+yU9z@"
+7y11G5
+6}qN*o
+^Z'62e
+:,S$n=
+*x"M@v
+Zn1+i:VLv
+O}yg!)
+erRhcn+s
+0PH(XNZS
+92@II#
+s<H[1y
+oblVX]8
+=:Udjh
+2Vb,E2
+Rop53F
+qVKHWF
+L:=@C2
+X28%{`/
++P9kt)1
+^HNEt
+#Zz~g
+Xjkk"7
+4/(.JL
+t4vNpq
+PIz'jL
+B9)Mk"
+geu{Du
+0!%Yqp
+btrr^4
+o0Rj4f
+(yyrK]:
+;M*"o2
+ 0,k`3?q9
+S",Ym#|=
+PH+sLe*
+P/.~BG
+]Kz"v@s
+"!|9Sa
+S#HC{-k
+[^edc
+LnV(yQk
+Y 5DZt
+UkqXlu
+53hG5.
+,}T`z]
+@&ou^,
+2Whp;l
+pH1)5;k
+BhcxL2
+DP68>y
+m7+AmZ{
+-=5&w
+B3>I#RK
+HNL&~x
+(g.3%@
+R#c:!hTW=
+:^:&lX
+vyofpgO
+swK*0
+BWcg3zA
+#-a:!i
+7=~cA(#
+UDFj2$qE:
+/ /RY$
+s_M6-i
+E.InWu
+h?Tk!x(&*
+wL3>tf
+NoN(ZM
+:8bvp6
+9;Y^:i
+Wa4{4$
+as?*ot
+2h;t[A
+X<t4h]1
+AfORF.
+?hBaG
+O&dP1V
+:{6gL 
+BpbV_OoV
+>vO{RGH
+L^*YET
+3L'a~y
+^#@TTn<
+6DS@,l
+,j;vCS
+iw;S[Q9
+f*Mw+=x
+1F:b'0
+$8Rxt9
+GHgJu"
+Greater Manchester1
+Salford1
+Sectigo Limited1$0"
+Sectigo RSA Code Signing CA0
+190221000000Z
+220220235959Z0
+101181
+New York1
+New York1!0
+350 Fifth Ave Suite 52091
+Rare Ideas LLC1
+Rare Ideas LLC0
+F68Hj5
+https://sectigo.com/CPS0C
+2http://crl.sectigo.com/SectigoRSACodeSigningCA.crl0s
+2http://crt.sectigo.com/SectigoRSACodeSigningCA.crt0#
+http://ocsp.sectigo.com0 
+contact@rareideas.com0
+New Jersey1
+Jersey City1
+The USERTRUST Network1.0,
+%USERTrust RSA Certification Authority0
+181102000000Z
+301231235959Z0|1
+Greater Manchester1
+Salford1
+Sectigo Limited1$0"
+Sectigo RSA Code Signing CA0
+iemn'
+?http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
+3http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
+http://ocsp.usertrust.com0
+#jYhRB_
+mt^Ju~
+2&-jWp
+New Jersey1
+Jersey City1
+The USERTRUST Network1.0,
+%USERTrust RSA Certification Authority0
+190502000000Z
+380118235959Z0}1
+Greater Manchester1
+Salford1
+Sectigo Limited1%0#
+Sectigo RSA Time Stamping CA0
+?http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
+3http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
+http://ocsp.usertrust.com0
+rRj;B7|
+[C]e=P
+Greater Manchester1
+Salford1
+Sectigo Limited1%0#
+Sectigo RSA Time Stamping CA0
+201023000000Z
+320122235959Z0
+Greater Manchester1
+Salford1
+Sectigo Limited1,0*
+#Sectigo RSA Time Stamping Signer #20
+https://sectigo.com/CPS0D
+3http://crl.sectigo.com/SectigoRSATimeStampingCA.crl0t
+3http://crt.sectigo.com/SectigoRSATimeStampingCA.crt0#
+http://ocsp.sectigo.com0
+Greater Manchester1
+Salford1
+Sectigo Limited1$0"
+Sectigo RSA Code Signing CA
+Greater Manchester1
+Salford1
+Sectigo Limited1%0#
+Sectigo RSA Time Stamping CA
+210318172024Z0?
+N{#Wo[YM
+Greater Manchester1
+Salford1
+Sectigo Limited1$0"
+Sectigo RSA Code Signing CA0
+190221000000Z
+220220235959Z0
+101181
+New York1
+New York1!0
+350 Fifth Ave Suite 52091
+Rare Ideas LLC1
+Rare Ideas LLC0
+F68Hj5
+https://sectigo.com/CPS0C
+2http://crl.sectigo.com/SectigoRSACodeSigningCA.crl0s
+2http://crt.sectigo.com/SectigoRSACodeSigningCA.crt0#
+http://ocsp.sectigo.com0 
+contact@rareideas.com0
+New Jersey1
+Jersey City1
+The USERTRUST Network1.0,
+%USERTrust RSA Certification Authority0
+181102000000Z
+301231235959Z0|1
+Greater Manchester1
+Salford1
+Sectigo Limited1$0"
+Sectigo RSA Code Signing CA0
+iemn'
+?http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
+3http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
+http://ocsp.usertrust.com0
+#jYhRB_
+mt^Ju~
+2&-jWp
+Greater Manchester1
+Salford1
+Sectigo Limited1$0"
+Sectigo RSA Code Signing CA
+20210318172027Z
+Greater Manchester1
+Salford1
+Sectigo Limited1,0*
+#Sectigo RSA Time Stamping Signer #2
+Greater Manchester1
+Salford1
+Sectigo Limited1%0#
+Sectigo RSA Time Stamping CA0
+201023000000Z
+320122235959Z0
+Greater Manchester1
+Salford1
+Sectigo Limited1,0*
+#Sectigo RSA Time Stamping Signer #20
+https://sectigo.com/CPS0D
+3http://crl.sectigo.com/SectigoRSATimeStampingCA.crl0t
+3http://crt.sectigo.com/SectigoRSATimeStampingCA.crt0#
+http://ocsp.sectigo.com0
+New Jersey1
+Jersey City1
+The USERTRUST Network1.0,
+%USERTrust RSA Certification Authority0
+190502000000Z
+380118235959Z0}1
+Greater Manchester1
+Salford1
+Sectigo Limited1%0#
+Sectigo RSA Time Stamping CA0
+?http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
+3http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
+http://ocsp.usertrust.com0
+rRj;B7|
+[C]e=P
+Greater Manchester1
+Salford1
+Sectigo Limited1%0#
+Sectigo RSA Time Stamping CA
+210318172027Z0?
+New Jersey1
+Jersey City1
+The USERTRUST Network1.0,
+%USERTrust RSA Certification Authority
+ty^cy[
+RichEdit
+RichEdit20W
+.DEFAULT\Control Panel\International
+Control Panel\Desktop\ResourceLocale
+Software\Microsoft\Windows\CurrentVersion
+\Microsoft\Internet Explorer\Quick Launch
+verifying installer: %d%%
+unpacking data: %d%%
+... %d%%
+Installer integrity check has failed. Common causes include
+incomplete download and damaged media. Contact the
+installer's author to obtain a new copy.
+More information at:
+http://nsis.sf.net/NSIS_Error
+Error writing temporary file. Make sure your temp folder is valid.
+Error launching installer
+SeShutdownPrivilege
+NSIS Error
+%u.%u%s%s
+*?|<>/":
+%s%S.dll
+/ P6pL
+,/KPip
+/-P?pR
+MS Shell Dlg
+MS Shell Dlg
+MS Shell Dlg
+msctls_progress32
+SysListView32
+MS Shell Dlg
+Please wait while Setup is loading...
+VS_VERSION_INFO
+StringFileInfo
+040904b0
+Comments
+For additional details, visit PortableApps.com
+CompanyName
+PortableApps.com
+FileDescription
+Shortcuts Search And Replace Portable
+FileVersion
+1.9.0.0
+InternalName
+Shortcuts Search And Replace Portable
+LegalCopyright
+2007-2020 PortableApps.com, PortableApps.com Installer 3.5.19.0
+LegalTrademarks
+PortableApps.com is a registered trademark of Rare Ideas, LLC.
+OriginalFilename
+ShortcutsSearchAndReplacePortable_1.9.0_English.paf.exe
+PortableApps.comAppID
+ShortcutsSearchAndReplacePortable
+PortableApps.comFormatVersion
+3.5.19
+PortableApps.comInstallerVersion
+3.5.19.0
+ProductName
+Shortcuts Search And Replace Portable
+ProductVersion
+1.9.0.0
+VarFileInfo
+Translation
