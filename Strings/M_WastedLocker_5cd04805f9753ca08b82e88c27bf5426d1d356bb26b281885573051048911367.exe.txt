@@ -1,0 +1,395 @@
+!This program cannot be run in DOS mode.
+`.data
+V-Qtu5OAl@Lc
+#Vi&Wua
+OeHuMdlqb
+detILdu@FHa:Glek#
+WQea(FFi8FA
+MpPuOhA
+OrlyIA
+#lsHUca@d
+are1gib&Dry
+Lgr\J c\Knoa
+lS XLde[*
++Ass}!
+'!WW%'
+7t=ts
+P8k$Pz
+W'WjlJ
+G&WWU!
+k#$Vj=
+tMK\j=
+z#ui8h
+:}9T6S
+uY,wDC
+p{t=zQ
+vp3WE(]
+=3WA'U
+c}3W!b
+%w&.f f4%
+Da+9p1
+D+!Pfr$~ 
+[}fB% 
+a_tn)E
+wiHX2$,
+D!#_^V
+scXb5P(,P*1
+=wUW*X
+%SU&K#
+DmPj=
+ tn'[U
+-Yt)G'
+='9u-X
+x&?ftl
+6 =-}P
+up Q8u
+Vt(*aW
+UFSQS6D
+at-f]u)
+#Wj=Z5P
+QPH#wP
+0O_^Ff
+}9SVRaE
+-$PS~:
+*>Sj->5P
+m{~ nT
+q0_[tf
+coDjREro>r
+FprD=tf} 
+ Rti^maRrNt5radPU
+&Nt3TCo[Sro
+Hmam`iebgfSPCtiJH
+#RtY]ni
+&NthEpV
+;KOpPESeNKioK'ntQCl.QCl
+&St/jhr
+'Stoxtr
+mrW}%P
+nmWm%E
+Fthsnlep=is
+D'PaaoFi[;Fi9:NaH:W
+LW,wI.QCl
+(SeaknhLBdlPHEx^;ptDEnFTpte
+WadKFo_vinRCeO_qec!'?
+YVtrNDtW
+HtE#Hnt
+$ExTWTh_Had}#N
+YVtrYHnWm#R
+Hteslle
+rHtCpUre[KPrZHes^
+!cas!frr
+Se!Yil
+;!GeafisV\re`wpa^EEx
+RyW="a
+P%WrdKeFdCe
+N"Moc<FiI<W
+ HeLWAl
+ In!<rl
+t&ExDUPrZ@es
+FtepWen
+G!GeawroN:ss5:ap
+2:tMZ;ulP
+an!CeA
+9tS$Pte
+lsaRcm]u
+&Cr`@te
+QocPRsW
+;ePnce
+gre^Sortv
+Te_lin\SeP
+32[Cll-)
+hce~Sat
+OBgO]BnKP>Ex
+>Uea!BSeQic p
+gnt_glSPTvi^A
+&ClZSeSPTvi
+AgCinseFDy
+k!ReRret
+@luPdxW
+1Dle1DSe/Uic
+CgD ket
+m Seqpercfce
+OpPkSC
+>naRBrW=%
+fce~9rlqfsp
+Geapid>RbA`Sho/fty>lun!
+katdmn
+Geaqid
+gtym$AD
+L3/-dlY
+.QeaahSt/ham:mHG
+ucn>hr}#E
+WoI[7Ex
+07pa[CEncjroKnen!ptrTigs
+=Re\fFiYe
+neFTneNLmeW="W
+p!Geasem]oatEV
+yCrP@te3hle
+@pp$mgW
+5iBt5eTZTidP`ha_!
+RerTqerSlrmLoce
+GeacricBTy]BW
+ogT@al1Qiv ptr$mgs
+kunqCr
+!QuPRyD
+CavPari
+gon- 9
+gndsgrs
+Geabur_dnt1hre^SorTV
+En!drC/hti
+ InqdrlZBkeQ
+ec_dmeK3
+dnt=E
+shnd{dxtshle
+3ic\[Se^3io['
+4YitDFliWbCrT3icL[Se
+WntPNt
+,&Crd6tG`XRa[bomm&
+NtW=&d
+M)ReRlnuXreyB'
+:HllX\l
+*_a 3ld$]
+*_a 3ld#Ym
+ZlUk\inQ%5
+YQuPWyVDWtu\QMeX4rym%
+r^@xf'
+wBln_@0
+I=UPV=
+m?zSbd1n
+ijQ)*k
+O@L|Ygh
+"nlJ5y|Q
+*NyNf*
+`mthX9`
+H@-$2%
+uc=\"W
+hVTcF
+(y\4@+
+=1<AU`
+AJmA{Hr'^MO'
+Q9z!JW
+lIHoVm
+wnS1*}
+3coO:<^O
+3coO:<^O
+g=?RE/
+?k]=tX#
+#J/l5(
+Keus}o.^%
+*.td%-
+N,td+-
+J,td5-
+N,td+-
+N,td1-
+F,td3-
+F,td3-
+>,td1-
+..td;+
+*.td5+
+..td;+
+..td1+
+&.td3+
+*.tdE+
+&.td3+
+.,td++
+*,td5+
+>L.>dT>V
+J:S-g:
+)V=%*n=3)
+=`"0=c"I=|"
+"G?:$T?L$l?,$|?
+<&#S<o#x<
+$6>%!m><$
+#!?o#y?<#
+x8#s!~ch
+InterfacE\{b196b287-bab4-101a-b69c-00aa00341d07}
+VirtualAlloc
+kernel32
+rtjuht8reht8wehrt98wh
+RegQueryValueExA
+advapi32
+LoadLibraryExA
+GetProcAddress
+GetLastError
+LoadLibraryA
+GetModuleHandleA
+KERNEL32.dll
+LoadIconA
+LoadCursorFromFileA
+GetKeyState
+USER32.dll
+GetStockObject
+GetStretchBltMode
+GDI32.dll
+RegOpenKeyA
+ADVAPI32.dll
+SHGetPathFromIDListA
+SHBrowseForFolderA
+SHGetFileInfoA
+ShellExecuteA
+SHFileOperationA
+SHGetSpecialFolderLocation
+SHELL32.dll
+ImmDisableIME
+IMM32.dll
+wwwwwwwwwwwx
+xfDDFfff
+vfdhwvffffff
+fhxffff
+ffhwffff
+vdgvgw
+fffffff
+fHwfwwvfffffff
+fffhwwx
+wwwwwx`
+wwwwwwx`
+wwwwwwwx
+ffhxww
+xwwwwwwwww
+3;wxfff`
+w7x6df
+{xDhxfgfff
+wdhxffgvf
+ffwwwwx`
+goxhwwwwx
+wwwwww
+Hwvfhf`
+wwwwwx
+                        
+"#     $$                  #
+"     $%&'                 #
+"     ()*+$                #
+"      +,-.$               #
+"      /01*.               #
+"       .-23.  $ $         #
+"       (4153.&4'6&($      #
+"        .*718.393400($    #
+"        (4<21)*8,0-6%4$=>>#
+"         .*52<AAB,,)*>>
+CDEFGHHIJ
+"        &%+B552251ABKLFMNOPPPQRSTUVWN
+"        '8-A55,*AXYZ[\]^^\WH_`aabcc`de
+"         (8B53ffgZhiRN\jG`klmnopqrrqosM
+"       '0-A<<tfuviwNOVFlxyz{|}~
+"        (93<<
+E\\jOVE
+"       '0*AB
+"        6&)
+"        ()
+"        >
+"       =
+"      
+"      >EPPE
+"     =Cj
+"    ##
+fffffg
+!"##$############% &
+'(((()*(((((((((((#+&
+',-(./01((((((((((#2&
+',-(3(4/1(((((((((#2&
+',-((156713***((((#2&
+',-((318699:9;*3(-<=>?@
+',-(((A/BCDEDFG<%(HIJKL
+',-(((M*4NO6PQDRSTUVWXYY
+',-(((*7ZO[\8]^V_W`abcdeef
+',-((3)F8Qghijjklmnopqrrrqs
+',-((3tFCZuvwkxyz{|}~
+',-((3)
+',-(-<a_x
+!"#$%&'''''''"(
+)"'*+,-'#''''"!
+)"'./0%1234''"567
+)"''89:;<=>?@ABCD
+)"''EFGHIJKLMNOPQR
+)"'##STUVWXYZ[\]^_`R
+)"'#'abcdefghijklmnR
+)"''opqrstuvwxyz{|}~
+ !"#$%&'
+*+ ,-./01
+()23456789:;
+()2<=>?@ABCDEF
+()GHIJKLMNOPQR
+()STUVWXYZ[\]
+^_`abcdefghF
+ijklmnopqrst
+uvwxyzx{|}
+cccQeee
+cccIddd
+ddd4eee
+iii|ccc
+fff,rrrf
+ccc)ccc
+bbb3iii
+hhh[ddd
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" publicKeyToken="6595b64144ccf1df" language="*" processorArchitecture="*"></assemblyIdentity>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type="win32" name="Microsoft.VC80.CRT" version="8.0.50727.762" processorArchitecture="x86" publicKeyToken="1fc8b3b9a1e18e3b"></assemblyIdentity>
+    </dependentAssembly>
+  </dependency>
+</assembly>
+YZCKUEONYQSURZWORG0
+200602215004Z
+391231235959Z0
+YZCKUEONYQSURZWORG0
+YZCKUEONYQSURZWORG
+DigiCert Inc1
+www.digicert.com1!0
+DigiCert Assured ID CA-10
+141022000000Z
+241022000000Z0G1
+DigiCert1%0#
+DigiCert Timestamp Responder0
+https://www.digicert.com/CPS0
+2http://crl3.digicert.com/DigiCertAssuredIDCA-1.crl08
+2http://crl4.digicert.com/DigiCertAssuredIDCA-1.crl0w
+http://ocsp.digicert.com0A
+5http://cacerts.digicert.com/DigiCertAssuredIDCA-1.crt0
+iW!]4/q
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+061110000000Z
+211110000000Z0b1
+DigiCert Inc1
+www.digicert.com1!0
+DigiCert Assured ID CA-10
+.http://www.digicert.com/ssl-cps-repository.htm0
+http://ocsp.digicert.com0C
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
+4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
+YZCKUEONYQSURZWORG
+,https://www.example.com/my_product/info.html0
+DigiCert Inc1
+www.digicert.com1!0
+DigiCert Assured ID CA-1
+200611041222Z0#
+IDI_ICON1
+VS_VERSION_INFO
+StringFileInfo
+040904E4
+CompanyName
+Code Jelly
+FileDescription
+Launchy
+FileVersion
+InternalName
+Launchy.exe
+LegalCopyright
+This is GNU Software copyright Josh Karlin
+OriginalFilename
+Launchy.exe
+ProductName
+Launchy
+ProductVersion
+VarFileInfo
+Translation
+<<<Obsolete>>
+RAny use of this Certificate constitutes acceptance of the DigiCert CP/CPS and the Relying Party Agreement which limit liability and are incorporated herein by reference
+RAny use of this Certificate constitutes acceptance of the DigiCert CP/CPS and the Relying Party Agreement which limit liability and are incorporated herein by reference

