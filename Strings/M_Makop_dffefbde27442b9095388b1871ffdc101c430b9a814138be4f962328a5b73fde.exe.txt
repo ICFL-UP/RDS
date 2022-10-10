@@ -1,0 +1,512 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+.ndata
+ s495L
+Instu`
+softuW
+NulluN
+D$$Ph,
+D$(SPS
+Vj%SSS
+D$$+D$
+D$,+D$$P
+SSSSjn
+<v"Ph
+HtVHtHH
+UXTHEME
+USERENV
+SETUPAPI
+APPHELP
+PROPSYS
+DWMAPI
+CRYPTBASE
+OLEACC
+CLBCATQ
+NTMARTA
+RichEdit
+RichEdit20A
+RichEd32
+RichEd20
+.DEFAULT\Control Panel\International
+Control Panel\Desktop\ResourceLocale
+Software\Microsoft\Windows\CurrentVersion
+\Microsoft\Internet Explorer\Quick Launch
+MulDiv
+DeleteFileA
+FindFirstFileA
+FindNextFileA
+FindClose
+SetFilePointer
+GetPrivateProfileStringA
+WritePrivateProfileStringA
+MultiByteToWideChar
+FreeLibrary
+LoadLibraryExA
+GetModuleHandleA
+GlobalAlloc
+GlobalFree
+ExpandEnvironmentStringsA
+lstrcmpA
+lstrcmpiA
+CloseHandle
+SetFileTime
+CompareFileTime
+SearchPathA
+GetShortPathNameA
+GetFullPathNameA
+MoveFileA
+SetCurrentDirectoryA
+GetFileAttributesA
+SetFileAttributesA
+GetTickCount
+GetFileSize
+GetModuleFileNameA
+GetCurrentProcess
+CopyFileA
+ExitProcess
+SetEnvironmentVariableA
+GetWindowsDirectoryA
+GetTempPathA
+GetCommandLineA
+lstrlenA
+GetVersion
+SetErrorMode
+lstrcpynA
+GetDiskFreeSpaceA
+GlobalUnlock
+GlobalLock
+CreateThread
+GetLastError
+CreateDirectoryA
+CreateProcessA
+RemoveDirectoryA
+CreateFileA
+GetTempFileNameA
+ReadFile
+WriteFile
+lstrcpyA
+MoveFileExA
+lstrcatA
+GetSystemDirectoryA
+GetProcAddress
+GetExitCodeProcess
+WaitForSingleObject
+KERNEL32.dll
+EndPaint
+DrawTextA
+FillRect
+GetClientRect
+BeginPaint
+DefWindowProcA
+SendMessageA
+InvalidateRect
+EnableWindow
+ReleaseDC
+LoadImageA
+SetWindowLongA
+GetDlgItem
+IsWindow
+FindWindowExA
+SendMessageTimeoutA
+wsprintfA
+ShowWindow
+SetForegroundWindow
+PostQuitMessage
+SetWindowTextA
+SetTimer
+CreateDialogParamA
+DestroyWindow
+ExitWindowsEx
+CharNextA
+DialogBoxParamA
+GetClassInfoA
+CreateWindowExA
+SystemParametersInfoA
+RegisterClassA
+EndDialog
+ScreenToClient
+GetWindowRect
+EnableMenuItem
+GetSystemMenu
+SetClassLongA
+IsWindowEnabled
+SetWindowPos
+GetSysColor
+GetWindowLongA
+SetCursor
+LoadCursorA
+CheckDlgButton
+GetMessagePos
+CallWindowProcA
+IsWindowVisible
+CloseClipboard
+SetClipboardData
+EmptyClipboard
+OpenClipboard
+TrackPopupMenu
+AppendMenuA
+CreatePopupMenu
+GetSystemMetrics
+SetDlgItemTextA
+GetDlgItemTextA
+MessageBoxIndirectA
+CharPrevA
+DispatchMessageA
+PeekMessageA
+USER32.dll
+SelectObject
+SetTextColor
+SetBkMode
+CreateFontIndirectA
+CreateBrushIndirect
+DeleteObject
+GetDeviceCaps
+SetBkColor
+GDI32.dll
+SHFileOperationA
+SHGetFileInfoA
+SHBrowseForFolderA
+SHGetPathFromIDListA
+ShellExecuteExA
+SHGetSpecialFolderLocation
+SHELL32.dll
+RegEnumValueA
+RegEnumKeyA
+RegQueryValueExA
+RegSetValueExA
+RegCloseKey
+RegDeleteValueA
+RegDeleteKeyA
+AdjustTokenPrivileges
+LookupPrivilegeValueA
+OpenProcessToken
+SetFileSecurityA
+RegOpenKeyExA
+RegCreateKeyExA
+ADVAPI32.dll
+ImageList_Destroy
+ImageList_AddMasked
+ImageList_Create
+COMCTL32.dll
+CoCreateInstance
+OleUninitialize
+OleInitialize
+CoTaskMemFree
+ole32.dll
+verifying installer: %d%%
+Installer integrity check has failed. Common causes include
+incomplete download and damaged media. Contact the
+installer's author to obtain a new copy.
+More information at:
+http://nsis.sf.net/NSIS_Error
+Error launching installer
+... %d%%
+SeShutdownPrivilege
+NSIS Error
+Error writing temporary file. Make sure your temp folder is valid.
+%u.%u%s%s
+VerQueryValueA
+GetFileVersionInfoA
+GetFileVersionInfoSizeA
+VERSION
+SHGetFolderPathA
+SHFOLDER
+SHAutoComplete
+SHLWAPI
+SHELL32
+InitiateShutdownA
+RegDeleteKeyExA
+ADVAPI32
+GetUserDefaultUILanguage
+GetDiskFreeSpaceExA
+SetDefaultDllDirectories
+KERNEL32
+[Rename]
+*?|<>/":
+%s%s.dll
+wwwwwwwxp
+wwwwwwww
+4M]UU/:
+:;;[{zzf-Y
+dawwwWGGG"
+SO=uywww
+eY5jq}"
+P,?3}8}Hf
+IYxkhd
+gE4~@<
+IDATPn
+C;7lxa
+:"""RTTTx
+C$$$P222[999b888e666e444f333e222e222e111d000d...d...d---c,,,c,,,c+++c)))b)))b)))b(((b(((b'''b'''b'''a&&&a&&&a&&&a%%%a%%%a$$$`$$$`$$$`$$$`###`"""`!!!_!!!_   _   ___^
+=222[eee
+100eXVV
+"""C,++S,++S,++S,++S,++S,++S,++S,++S+**P
+BBBOCCCSBBBRBBBRAAARAAAR%%%9
+UIDATx
+{!W_{~
+S\q5|w
+yyZ6<y
+1xn )s
+NWHm i-
+IE iCN
+dz5Lsv
+];`^xF
+10==0[6
+lyMC6=3_
+CY'0!Lk
+oGZe"I
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+L$ SVWH
+SUVWATAUAVAWH
+(A_A^A]A\_^][
+UVWATAUAVAWH
+A_A^A]A\_^]
+t$ UWAVH
+u*9Q<|%
+LcA<E3
+u HcA<H
+ H3E H3E
+CLSID\%s\InprocServer32
+{%08lX-%04X-%04X-%02X%02X-%02X%02X%02X%02X%02X%02X}
+hhctrl.ocx
+doWinMain
+hh.pdb
+.text$mn
+.text$mn$00
+.text$x
+.rdata$brc
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids
+.rdata
+.rdata$zzzdbg
+.xdata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.pdata
+.rsrc$01
+.rsrc$02
+RegQueryValueExW
+RegOpenKeyExW
+RegOpenKeyExA
+RegQueryValueExA
+RegCloseKey
+ADVAPI32.dll
+ExpandEnvironmentStringsA
+LoadLibraryA
+HeapSetInformation
+SetProcessDEPPolicy
+GetProcAddress
+FreeLibrary
+KERNEL32.dll
+_vsnprintf
+_XcptFilter
+_amsg_exit
+__getmainargs
+__set_app_type
+_cexit
+_ismbblead
+__setusermatherr
+_initterm
+__C_specific_handler
+_acmdln
+_fmode
+_commode
+msvcrt.dll
+?terminate@@YAXXZ
+GetStartupInfoW
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+GetModuleHandleW
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetTickCount
+memset
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly 
+    xmlns="urn:schemas-microsoft-com:asm.v1" 
+    xmlns:asmv3="urn:schemas-microsoft-com:asm.v3"
+    manifestVersion="1.0"
+<assemblyIdentity
+    version="5.1.0.0"
+    processorArchitecture="amd64"
+    name="Microsoft.Windows.Help.HH"
+    type="win32"
+<description>Microsoft HTML Help Executable</description>
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+        <requestedPrivileges>
+            <requestedExecutionLevel
+                level="asInvoker"
+                uiAccess="false"
+            />
+        </requestedPrivileges>
+    </security>
+</trustInfo>
+    <asmv3:application>
+        <asmv3:windowsSettings xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">
+            <dpiAware>true</dpiAware>
+        </asmv3:windowsSettings>
+    </asmv3:application>
+</assembly>
+wwwwwp
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"><assemblyIdentity version="1.0.0.0" processorArchitecture="*" name="Nullsoft.NSIS.exehead" type="win32"/><description>Nullsoft Install System v3.05</description><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"/></requestedPrivileges></security></trustInfo><compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1"><application><supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/><supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/><supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/><supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/></application></compatibility></assembly>
+NullsoftInste!
+7v1~? 
+Xh-zF>
+UWX8gRe
+FRh{Lp
+"d\#6?
+WmvE9
+K<&;XR/
+>NRxM
+\m[tua{n
+[+H4\Wy
+@]/g}S
+3at3XFM
+9EQF@*
+\]ZyaJ
+Lq~vVf
+QMou|k;
+f-GAvP
+{#E_D[B 
+~`5ijy
+Ebl)<"
+T`f9iL
+6f6_fACW
+7NEb1
+\-C%A<
+O{#fZT
+fn^yX^J]7
+/1Y^$h
+^"dj$9
+![YO!\.
+TpZNm;}u
+:pw&Jh
+e:%OLr}
+=Pz{{TG/
+}Nk(OU
+!"@SSx
+O'NZ1I
+%D,4!y
+wdo3!p
+1:cXS=
+[pl= s
+Jh6r)S
+Cc7GJ)0
+X|f^
+gjetQv
+]K5E8Q
+nE\?R
+x[>)8s
+<PN yr
+SHyAp?A1g
+)O3[]?t
+d:yB-e
+`/nq]
+NkEzstot
+!%xM17
+.v!!R4
+yn| Y<u
+1#xs~h
+$8uv;K
+vq+gqr
+kxIGk l
+CBB:(
+<E9)'*
+ bAorb
+Uli(:Q
+,l4HZ$
+M4mX6~
+h|9N7RB90
+?TGV N
+A>v{hO
+_g*@.4M
+83uyF?
+;*hs]6
+{2=6<.
+}c91A5k
+"/mep
+Y\z?Pqs
+({eXa'
+~b*W:
+l938IN
+T,Jv5 
+TBJr?Q
+<1OnC]@
+BV%Uoi
+:`=b=a
+?Xx~!q
+#+3;CScs
+HH(UNTERGUNTER-LEAF-MIMES-APP-X-FLASH-VIDEO
+MS Shell Dlg
+MS Shell Dlg
+msctls_progress32
+SysListView32
+MS Shell Dlg
+Software\Policies\Microsoft\Windows\System
+DisableHHDEP
+VS_VERSION_INFO
+StringFileInfo
+040904B0
+CompanyName
+Microsoft Corporation
+FileDescription
+Microsoft
+ HTML Help Executable
+FileVersion
+10.0.18362.1 (WinBuild.160101.0800)
+InternalName
+HH 1.41
+LegalCopyright
+ Microsoft Corporation. All rights reserved.
+OriginalFilename
+HH.exe
+ProductName
+HTML Help
+ProductVersion
+10.0.18362.1
+VarFileInfo
+Translation
+VS_VERSION_INFO
+StringFileInfo
+000004B0
+Comments
+This installation was built with Inno Setup.
+CompanyName
+ByteScout Software                                          
+FileDescription
+ByteScout XLS Viewer Setup                                  
+FileVersion
+4.0.0.1910          
+LegalCopyright
+                                                                                                    
+ProductName
+ByteScout XLS Viewer                                        
+ProductVersion
+4.0.0.1910                                        
+VarFileInfo
+Translation

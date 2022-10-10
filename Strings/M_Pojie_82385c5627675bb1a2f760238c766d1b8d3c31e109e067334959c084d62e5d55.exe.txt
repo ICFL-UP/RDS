@@ -1,0 +1,1963 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+VMProtect begin
+VMProtect end
+VMProtect begin
+VMProtect end
+VMProtect begin
+VMProtect end
+uRFGHt
+t(ENEN;
+L$$_^]
+T$$_^]
+D$$_^]
+D$4SUV
+D$(t,;
+L$(CH;
+D$$~9+
+F\_^][
+L$$_^d
+L$@^[d
+D$PQRP
+L$pPQR
+D$<`RK
+D$hRQP
+9L$x~k
+L$T_^][d
+L$lRVQ
+D$hQRP
+D$hQRP
+T$pPQR
+\$8UVW
+L$DPQj
+\$8UVW
+L$DPQj
+L$ _^d
+W9^du-
+L$ PQh
+L$L_^][d
+L$D_^][d
+L$@RUQ
+L$|_^][d
+L$|_^][d
+L$|_^][d
+T$0VRPSQ
+L$4_^[d
+V#D$,WPQ
+D$@UPQ
+T$XUSR
+T$HQRP
+L$x_^d
+D$(SUV
+T$8RWj
+L$ _^][d
+l$<VWj
+L$(VQVj
+L$(UUh
+t$LUPh
+o0SSSSU
+D$dSUVW
+D$@WPS
+L$`_^][d
+D$,RVh
+D$HUPQ
+\$PVUUS
+D$hSUV3
+D$,Pj<j
+L$h_^][d
+L$X_^d
+t$ 90t
+L$4S+L$0Qj
+D$LPUj
+D$ PQR
+D$89Vdu
+FpHt&Ht
+D$LUSWP
+L$$_^][d
+L$,_[3
+L$,_[3
+L$(WQR
+QQUWSS
+L$P_]^[d
+T$hQRWW
+t]9|$<tW
+L$x_^]
+L$<SQR
+T$<RVW
+9|$8tt
+T$<WRh
+T$lPRh
+T$ SRh
+9l$xtU9
+u29l$xu,
+L$XSQh
+D$,SPh
+T$,SRh
+T$,SRh
+T$,SRh
+t$(SSh
+t$$RVP
+|$,RPQ
+L$H][d
+L$HSUVWP
+D$XPQU
+T$,h$bL
+D$8VPQ
+T$ SWRP
+L$L_^]3
+t%RSQP
+XY[Z[]
+~'PSQR
+\$<VW3
+L$4_^3
+D$XQRWP
+D$dQUWRP
+D$0WPQ
+T$$+D$4
+L$L^[d
+9^xu5j
+L$X_^]3
+h9n`u;
+D$8RPj
+T$DQRU
+D$PRPQ
+L$TSWQ
+l$HQRVU
+D$H_^][
+\$lUV3
+L$h_^]3
+T$\jdSR
+L$Hj&Q
+;t$Xu";\$\u
+L$DSVQ
+L$,_^]3
+L$$_^][d
+L$0PQS
+L$ ]_^
+L$ QSR
+D$TVPW
+D$TRPW
+WWVQRWWS
+D$$QRP
+T$,PQR
+D$$RSSP
+D$8WVRPQ
+L$XRQP
+l$@VW3
+L$8_^][d
+u"8D$yu
+D$(_^][
+8MThdu
+~P9~Pun
+t&9^$t
+F(9V8tQ
+F<_^][
+F<_^][
+|$@ Wu
+|$D UV
+L$8^]_3
+@;l$\~Z
+L$X;L$
+uh9^8uX
+F89^8u&j
+L$T_^][d
+L$L_^][d
+D$,;\$|
+L$0PQR
+PQj WUS
+T$dPQR
+L$l_^][d
+L$8WPQR
+T$DQSR
+D$49D$$}
+T$\;D$Xu
+L$(PQR
+T$,RQP
+T$(PQR
+L$x_^][d
+L$l_^][d
+L$TPQR
+D$T`RK
+L$dPQRV
+u+\$l
+L$4SUV
+L$4WPQR
+D$ |2;
+L$@_^][d
+u._^][
+L$ WPQ
+T$,RQP
+L$\_^][d
+L$@RQj
+D$@RPQj
+L$T_^]d
+FD uy9D$$}s
+FD@ul9L$(}f
+L$P_^d
+L$\_^][d
+;D$xt&
+9D$$t+
+L$D_]d
+L$ ^][d
+D$$QUP
+D$ `RK
+L$|_^][d
+L$t][d
+D$$SUV
+D$DURP
+RVPUSQ
+L$$_^][d
+j VUPWQ
+T$(QVURWP
+L$,_^][d
+D$$_^[
+D$$_^[
+L$4VQUP
+L$$_^][d
+L$4UQWP
+L$$_^][d
+T$0SUV
+L$(_^][d
+T$8QRP
+L$(_^][d
+L$8_^][d
+|$LtE;
+t$PPVS
+L$8_^][d
+T$\WVR
+jBWVSSQ
+D$(_^]
+\$ PQV
+L$$_^][d
+L$H_^][d
+T$DWRh
+D$,QRPS
+L$$RPQS
+L$<_^][d
+L$(RPQ
+NTRPQj
+L$(RPQ
+T$(PQR
+D$(QRP
+T$DPQRW
+L$<RPQW
+L$T_^]
+Nh;NX|
+Vh;VX|
+Fxt_;FTu@
+Nh;NX|
+P$RWPh
+D$0QVRP
+jdQhHbK
+L$$PVh
+D$4RPQ
+D$ PQR
+=pscat
+=YARGtD= BGRt
+h BGRUPV
+hYARGUQV
+=lcmnw_tQ=tsbat-=knilt
+=rtnmto
+hknilUPV
+htsbaUQV
+=rtrpt =rncst
+=capst
+= baLt = ZYXt
+^tt!h@
+TADIut
+tkPUSV
+ETLPuF
+D$8QVRPU
+QRVWPU
+D$0xcK
+D$$SPh
+3;L$4s
+T$8QRU
+L$Xh`[
+T$,SRW
+T$0;t$
+PPPQSG
+D$ EJ;
+D$4SUVW
+L$$QWV
+D$,Hx;@
+D$(CM;
+D$Hvm3
+L$Lvj3
+D$(FO;
+SWVVVRPV
+L$$^]d
+L$D_^[d
+T$(Qht
+T$(Qht
+T$(Qht
+L$t_^d
+D$ RPUhD
+L$l_^][d
+L$$^[d
+L$(WSR
+T$0PQR
+WjdjdPQh
+|z;^<}uWS
+L$D_^][d
+L$\_^][d
+It#Iu%
+^l_^][
+tI;Ftr
+tL9~HvG;
+~(9~$u
+D/ VPS
+L$<RWUQV
+L$$j QV
+L$(VQU
+hPCCiU
+L$(RPVQWU
+l$,WuAS
+|$ VurU
+D$@QRPU
+T$ PQW
+Ht&HtcI
+D$(SUW
+=TADIt
+TADIu"
+hTADIV
+Ht]Ht2Ht
+HtfHt;Ht
+t$,u%:D$<u
+:L$<t;
+\$$u9f;
+\$@QUR
+;=3333v
+HtHHuz
+V,_^[Y
+D$ _^][
+EHPWVS
+u]9B uX
+uR9BxuM
+'9A`u"9
+tq9~Dt
+nd9~dt
+tS9~@uN
+T$LPQR
+|$HPWS
+L$(RPQ
+T$DPVS
+T$LRWS
+Fdf+Fh
+D$(8D*
+tRHt}H
+NH_^][
+T$LWUQVR
+L$4WQUVS
+;l$ }:
+|$$}$WP
+\$\}-j
+O(_^][
+T$H} VP
+T$$PRV
+D$(QPW
+L$,SUV
+L$0SUV@W
+NX9NXu 
+QPSWVR
+T$PQRP
+D$$SUV
+D$(;l$ 
+\$(UVW
+D$,_^]
+D$(CUSWP
+9o4u'V
+9t$0v8
+T$,RWV
+T$,RWV
+T$,RWV
+L$,QWV
+T$,RWV
+L$ RUPj
+9t$Tu
+T+3x%A
+;D$<s!
+T$,PQh
+|$ WUSV
+L$(SUV
+N4_^]3
+Fdf+Fh
+|$ WUSV
+D$$SUV
+<9~8<0u
+</~a<:}]<0u
+T$$F@;
+D$ ]_^[
+PQhlOM
+T$ SUV
+|$0PQRj
+FVUSQR
+L$$_^]
+T$0u`U
+V<j PR
+F<j QP
+T$HRj$
+T$<RWP
+D$$`#P
+D$ QRPW
+T$ PQRW
+D$(PQh
+T$@SRh
+\$(UVW
+L$4PUQ
+D$$QRWVPU
+T$@QRj
+L$4PQj
+T$4QRj
+L$(PQj
+T$8QRj
+L$,PQj
+D$lRPj
+T$<QRj
+T$dQRj
+D$`RPj
+T$0QRj
+L$|PQj
+T$XQRj
+D$dRPj
+T$4QRj
+T$\QRj
+D$DSUVW
+D$DRPj
+T$0QRj
+L$`PQj
+D$<RPj
+T$(QRj
+L$XPQj
+D$@RPj
+T$,QRj
+L$\PQj
+;t$<} 
+;t$<}8
+D$(SUV
+|$<tM;
+T$8QRj
+L$,PQj
+T$,QRj
+L$ PQj
+T$,QRj
+L$ PQj
+L$dPQj
+D$8RPj
+D$\RPj
+T$XQRj
+L$,PQj
+D$|RPj
+L$PPQj
+D$XRPj
+T$,QRj
+L$|PQj
+T$PQRj
+L$DSVW
+D$DRPj
+T$4QRj
+L$dPQj
+D$8RPj
+T$(QRj
+L$XPQj
+D$8RPj
+T$(QRj
+L$XPQj
+d$t_^][
+F$@;F(v
+F$@@;F(v
+QQSVWj
+QQSVWd
+t.;t$$t(
+B 02CV
+C =02CVu
+VC20XC00U
+PPPPPPPP
+^}%95`
+uRFGHt
+YHYtLHt9
+8t9UW
+SS@SSPVSS
+t#SSUP
+t$$VSS
+_^][YY
+t/WWUPj
+QQSVW3
+sO;>|C;~
+"WWShX
+HHtpHHtl
+tFGQPS
+btHHt.
+HSVHWtgHHtF
+<]t_G<-uA
+PPPPPPPP
+PPPPPPPP
+QQSVWj
+>:uNFV
+>:u#FV
+t+Ht$Ht
+HtHHt
++ttHHtd
+QQSUVWj
+_^][YY
+nt2Ht#Ht
+F\jLSP
+u$SShe
+Wj(_Wj
+hWj@_;
+PQQQQQ
+PPPPhd
+tvWWWWU
+F,_^][
+(wqt\HHtS
+t>Ht Ht
+QSUVWj
+n0SSSSU
+_SSSSU
+Ph_^][Y
+tD9_Pt?
+Ht#HHt
+@t4Ht1Ht_Ht
+^$_^[]
+F(_+F$^[;E
+<A|2<Z
+<A|@<Z
++tJHt:Ht*
+P<PuWSV
+PWVWWW
+^,_^][
+kernel32
+Kernel32.dll
+advapi32.dll
+advapi32.dll
+advapi32.dll
+advapi32.dll
+advapi32.dll
+advapi32.dll
+kernel32
+user32
+user32
+user32.dll
+user32
+user32.dll
+user32.dll
+user32
+kernel32.dll
+advapi32.dll
+advapi32.dll
+advapi32.dll
+kernel32
+kernel32
+kernel32.dll
+kernel32
+shlwapi.dll
+shlwapi.dll
+kernel32
+kernel32
+kernel32
+kernel32
+kernel32
+kernel32
+kernel32
+kernel32
+kernel32
+kernel32
+kernel32
+kernel32
+kernel32
+kernel32
+kernel32
+kernel32
+kernel32
+kernel32
+user32
+kernel32
+kernel32
+kernel32
+kernel32
+kernel32
+kernel32
+kernel32
+kernel32
+kernel32
+kernel32
+kernel32
+GetProcessHeap
+OpenEventA
+CreateEventA
+CryptAcquireContextA
+CryptCreateHash
+CryptReleaseContext
+CryptHashData
+CryptDestroyHash
+CryptGetHashParam
+CreateToolhelp32Snapshot
+Process32First
+CloseHandle
+Process32Next
+FindWindowExA
+IsWindow
+IsWindowVisible
+GetWindowThreadProcessId
+GetWindowTextLengthA
+GetWindowTextA
+GetClassNameA
+IsIconic
+OpenIcon
+SetWindowPos
+ShellExecuteA
+ShowWindowAsync
+GetCurrentProcessId
+OpenProcess
+OpenProcessToken
+LookupPrivilegeValueA
+AdjustTokenPrivileges
+GetLocalTime
+lstrcmpA
+lstrcpyn
+CreateWaitableTimerA
+SetWaitableTimer
+MsgWaitForMultipleObjects
+InterlockedIncrement
+CreateFileA
+GetFileSizeEx
+SetFilePointer
+SetLastError
+ReadFile
+GetLastError
+WriteFile
+CloseHandle
+PathFindFileNameA
+PathFindExtensionA
+VirtualAlloc
+RtlMoveMemory
+RtlMoveMemory
+InitializeCriticalSection
+SetEvent
+GetQueuedCompletionStatus
+WaitForSingleObject
+InterlockedDecrement
+InterlockedExchange
+CloseHandle
+CreateThread
+InterlockedCompareExchange
+CreateIoCompletionPort
+CreateEventA
+GetTickCount
+PostQueuedCompletionStatus
+ResetEvent
+VirtualFree
+CreateThread
+MsgWaitForMultipleObjects
+GetExitCodeThread
+SuspendThread
+ResumeThread
+TerminateThread
+GetThreadPriority
+SetThreadPriority
+SetThreadAffinityMask
+EnterCriticalSection
+LeaveCriticalSection
+TryEnterCriticalSection
+DeleteCriticalSection
+d09f2340818511d396f6aaf844c7e325
+52F260023059454187AF826A3C07AF2A
+4BB4003860154917BC7D8230BF4FA58A
+F7FC1AE45C5C4758AF03EF19F18A395D
+306AA9E31B5940399723021A0D782077
+window
+UnlNum
+csrsse.exe
+ffff48f4da684f
+8B500B52B197BBD48
+NUMBER_OF_PROCESSORS
+@5201314
+D87C80470E43F1C505E3A38276140E8E5CAF2FA8A62EAFB86F309BB075932149F5A7DA40BE43632E46BBB3C2D094D91A690F1C17F296D472700B5556B68A1E13434B7E681A1971D61017198E8C2E1803B7588AB920E7F08753AB6D9825914B6E2A252DBB4929A3312822CEEE88F88DB9EAAE430F21899870CCDE3D8DC0775071C84384B786DB34CB1A07AEB6DD3430D9A8490676945F35F8E9837093DE72A7620850E6E3E249C748
+\52pojie-DECRYPT----
+6872AE10BCE69A259D82469615288049D33D206A6884C0CA5772287EF8AFFE2334912A5632AE466F97D4F160FA42CF6E2E49CE2C0D50D45BB9BE674DCF70B09C
+E134C8A400C5077FC43F17B84340AE92
+0123456789ABCDEF
+SeDebugPrivilege
+EDCA2B573AED8E92
+66449813193090282761022853672008643058999816602566972099377041704043614040699210516524999820233140916624626033398751612858240001733029389498084125852503407974613053500215481239509962806059273923391319756982176464454442164063683720087583869160791265682756222346491506085394462629971490561350562032201996683993
+@ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+1970-01-01 08:00:00
+csrsse
+52pojie-DECRYPT
+.52pojie
+<4,$?7/'
+)4%/7
+(3-!0,1'8"5.*2$
+kernel32
+Kernel32.dll
+advapi32.dll
+user32
+user32.dll
+kernel32.dll
+shlwapi.dll
+GetProcessHeap
+OpenEventA
+CreateEventA
+CryptAcquireContextA
+CryptCreateHash
+CryptReleaseContext
+CryptHashData
+CryptDestroyHash
+CryptGetHashParam
+CreateToolhelp32Snapshot
+Process32First
+CloseHandle
+Process32Next
+FindWindowExA
+IsWindow
+IsWindowVisible
+GetWindowThreadProcessId
+GetWindowTextLengthA
+GetWindowTextA
+GetClassNameA
+IsIconic
+OpenIcon
+SetWindowPos
+ShellExecuteA
+ShowWindowAsync
+GetCurrentProcessId
+OpenProcess
+OpenProcessToken
+LookupPrivilegeValueA
+AdjustTokenPrivileges
+GetLocalTime
+lstrcmpA
+lstrcpyn
+CreateWaitableTimerA
+SetWaitableTimer
+MsgWaitForMultipleObjects
+InterlockedIncrement
+CreateFileA
+GetFileSizeEx
+SetFilePointer
+SetLastError
+ReadFile
+GetLastError
+WriteFile
+PathFindFileNameA
+PathFindExtensionA
+VirtualAlloc
+RtlMoveMemory
+InitializeCriticalSection
+SetEvent
+GetQueuedCompletionStatus
+WaitForSingleObject
+InterlockedDecrement
+InterlockedExchange
+CreateThread
+InterlockedCompareExchange
+CreateIoCompletionPort
+GetTickCount
+PostQueuedCompletionStatus
+ResetEvent
+VirtualFree
+GetExitCodeThread
+SuspendThread
+ResumeThread
+TerminateThread
+GetThreadPriority
+SetThreadPriority
+SetThreadAffinityMask
+EnterCriticalSection
+LeaveCriticalSection
+TryEnterCriticalSection
+DeleteCriticalSection
+4i5U6B738%9
+B#C0D?EQFeG|H
+E=FZGrH
+QyReSOT5U
+qdZRMHD@=;86421/.-+*)(''&%$$#""!!  
+|?5^<@
+0123456789ABCDEF
+123456789
+0123456789ABCDEF
+Qkkbal
+DDDDUUUU
+00003333
+""""UUUU
+ 0@P`p
+!1AQaq
+"2BRbr
+#3CScs
+$4DTdt
+%5EUeu
+&6FVfv
+'7GWgw
+(8HXhx
+)9IYiy
+*:JZjz
++;K[k{
+,<L\l|
+-=M]m}
+.>N^n~
+/?O_o
+ deflate 1.1.3 Copyright 1995-1998 Jean-loup Gailly 
+BKbhTb~XBK!;
+ inflate 1.1.3 Copyright 1995-1998 Mark Adler 
+?u='@^
+UUUUUU
+@UUUUUU
+UUUUUU
+@UUUUUU
+UUUUUU
+F%*.*f
+CNotSupportedException
+CMemoryException
+CException
+CMemFile
+CTempGdiObject
+CTempDC
+CPalette
+CBitmap
+CBrush
+CGdiObject
+CPaintDC
+CWindowDC
+CClientDC
+CUserException
+CResourceException
+CDialog
+MS Sans Serif
+MS Shell Dlg
+CTempWnd
+AfxOldWndProc423
+AfxWnd42s
+AfxControlBar42s
+AfxMDIFrame42s
+AfxFrameOrView42s
+AfxOleControl42s
+EnumDisplayMonitors
+MonitorFromPoint
+MonitorFromRect
+GetSystemMetrics
+USER32
+commctrl_DragListMsg
+Afx:%x:%x:%x:%x:%x
+Afx:%x:%x
+InitCommonControlsEx
+COMCTL32.DLL
+CPtrArray
+CComboBox
+CButton
+CStatic
+CFileDialog
+CStringArray
+CWinApp
+PreviewPages
+Settings
+CTempImageList
+CImageList
+CProgressCtrl
+CArchiveException
+CSharedFile
+CCmdTarget
+CWinThread
+CTempMenu
+combobox
+CDWordArray
+CWordArray
+CFileException
+CMapPtrToPtr
+CToolTipCtrl
+tooltips_class32
+CColorDialog
+CObject
+System
+commdlg_SetRGBColor
+commdlg_help
+commdlg_ColorOK
+commdlg_FileNameOK
+commdlg_ShareViolation
+commdlg_LBSelChangedNotify
+software
+CMapStringToPtr
+H:mm:ss
+dddd, MMMM dd, yyyy
+M/d/yy
+December
+November
+October
+September
+August
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+__GLOBAL_HEAP_SELECTED
+__MSVCRT_HEAP_SELECT
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+- unable to initialize heap
+- not enough space for lowio initialization
+- not enough space for stdio initialization
+- pure virtual function call
+- not enough space for _onexit/atexit table
+- unable to open console device
+- unexpected heap error
+- unexpected multithread lock error
+- not enough space for thread data
+abnormal program termination
+- not enough space for environment
+- not enough space for arguments
+- floating point not loaded
+Microsoft Visual C++ Runtime Library
+Runtime Error!
+Program: 
+<program name unknown>
+GAIsProcessorFeaturePresent
+KERNEL32
+_hypot
+`h````
+ppxxxx
+(null)
+Illegal byte sequence
+Directory not empty
+Function not implemented
+No locks available
+Filename too long
+Resource deadlock avoided
+Result too large
+Domain error
+Broken pipe
+Too many links
+Read-only file system
+Invalid seek
+No space left on device
+File too large
+Inappropriate I/O control operation
+Too many open files
+Too many open files in system
+Invalid argument
+Is a directory
+Not a directory
+No such device
+Improper link
+File exists
+Resource device
+Unknown error
+Bad address
+Permission denied
+Not enough space
+Resource temporarily unavailable
+No child processes
+Bad file descriptor
+Exec format error
+Arg list too long
+No such device or address
+Input/output error
+Interrupted function call
+No such process
+No such file or directory
+Operation not permitted
+No error
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+user32.dll
+1#QNAN
+1#SNAN
+iphlpapi.dll
+SHLWAPI.dll
+MPR.dll
+midiStreamRestart
+midiStreamClose
+midiOutReset
+midiStreamStop
+midiStreamOut
+midiOutPrepareHeader
+midiStreamProperty
+midiStreamOpen
+midiOutUnprepareHeader
+waveOutOpen
+waveOutGetNumDevs
+waveOutClose
+waveOutReset
+waveOutPause
+waveOutWrite
+waveOutPrepareHeader
+waveOutUnprepareHeader
+waveOutRestart
+WINMM.dll
+WS2_32.dll
+VERSION.dll
+CloseHandle
+WaitForSingleObject
+GetTickCount
+GetCommandLineA
+MulDiv
+GetProcAddress
+GetModuleHandleA
+GetVolumeInformationA
+SetCurrentDirectoryA
+MoveFileA
+GetFileAttributesA
+FindClose
+FindFirstFileA
+GetTempPathA
+GlobalUnlock
+GlobalLock
+GlobalAlloc
+CreateEventA
+CreateThread
+WritePrivateProfileStringA
+GetVersionExA
+GetLastError
+LoadLibraryA
+FreeLibrary
+GetFullPathNameA
+HeapAlloc
+GetProcessHeap
+HeapReAlloc
+HeapFree
+GlobalReAlloc
+GetDriveTypeA
+FindNextFileA
+lstrcpyA
+WinExec
+lstrlenA
+lstrcatA
+InitializeCriticalSection
+DeleteCriticalSection
+GlobalFree
+GlobalSize
+ExitProcess
+GetCurrentThreadId
+GetModuleFileNameA
+LockResource
+LoadResource
+FindResourceA
+SetEvent
+CreateFileA
+WaitForMultipleObjects
+ReadFile
+WriteFile
+GetProfileStringA
+LeaveCriticalSection
+EnterCriticalSection
+ReleaseSemaphore
+ResumeThread
+CreateSemaphoreA
+GetSystemDirectoryA
+GetWindowsDirectoryA
+GetCurrentProcess
+MultiByteToWideChar
+WideCharToMultiByte
+SetFilePointer
+GetFileSize
+TerminateProcess
+SetLastError
+GetTimeZoneInformation
+GetVersion
+CreateMutexA
+ReleaseMutex
+TerminateThread
+SuspendThread
+KERNEL32.dll
+wsprintfA
+CloseClipboard
+GetClipboardData
+OpenClipboard
+SetClipboardData
+EmptyClipboard
+GetSystemMetrics
+GetCursorPos
+MessageBoxA
+SetWindowPos
+SendMessageA
+DestroyCursor
+SetParent
+IsWindow
+PostMessageA
+GetTopWindow
+GetParent
+GetFocus
+GetClientRect
+InvalidateRect
+ValidateRect
+UpdateWindow
+EqualRect
+GetWindowRect
+SetForegroundWindow
+DestroyMenu
+IsChild
+ReleaseDC
+IsRectEmpty
+FillRect
+SetCursor
+LoadCursorA
+SetCursorPos
+SetActiveWindow
+GetSysColor
+SetWindowLongA
+GetWindowLongA
+RedrawWindow
+EnableWindow
+IsWindowVisible
+OffsetRect
+PtInRect
+DestroyIcon
+IntersectRect
+InflateRect
+SetRect
+SetScrollPos
+SetScrollRange
+GetScrollRange
+SetCapture
+GetCapture
+ReleaseCapture
+SetTimer
+KillTimer
+WinHelpA
+LoadBitmapA
+CopyRect
+ChildWindowFromPointEx
+ScreenToClient
+GetMessagePos
+SetWindowRgn
+DestroyAcceleratorTable
+GetWindow
+GetActiveWindow
+SetFocus
+IsIconic
+PeekMessageA
+SetMenu
+GetMenu
+DeleteMenu
+GetSystemMenu
+DefWindowProcA
+GetClassInfoA
+IsZoomed
+PostQuitMessage
+CopyAcceleratorTableA
+GetKeyState
+TranslateAcceleratorA
+IsWindowEnabled
+ShowWindow
+SystemParametersInfoA
+LoadImageA
+EnumDisplaySettingsA
+ClientToScreen
+EnableMenuItem
+GetSubMenu
+GetDlgCtrlID
+CreateAcceleratorTableA
+CreateMenu
+ModifyMenuA
+AppendMenuA
+CreatePopupMenu
+DrawIconEx
+CreateIconFromResource
+CreateIconFromResourceEx
+RegisterClipboardFormatA
+SetRectEmpty
+DispatchMessageA
+GetMessageA
+WindowFromPoint
+DrawFocusRect
+DrawEdge
+DrawFrameControl
+LoadIconA
+TranslateMessage
+GetForegroundWindow
+GetDesktopWindow
+GetClassNameA
+GetDlgItem
+GetWindowTextA
+USER32.dll
+GetDeviceCaps
+GetTextExtentPoint32A
+RoundRect
+GetCurrentObject
+DPtoLP
+LPtoDP
+Rectangle
+Ellipse
+CreateCompatibleDC
+BitBlt
+StartPage
+StartDocA
+DeleteDC
+EndDoc
+EndPage
+CreateFontIndirectA
+GetStockObject
+CreateSolidBrush
+FillRgn
+CreateRectRgn
+CombineRgn
+PatBlt
+CreatePen
+GetObjectA
+SelectObject
+CreateBitmap
+CreateDCA
+CreateCompatibleBitmap
+GetPolyFillMode
+GetStretchBltMode
+GetROP2
+GetBkColor
+GetBkMode
+GetTextColor
+CreateRoundRectRgn
+CreateEllipticRgn
+PathToRegion
+EndPath
+BeginPath
+GetWindowOrgEx
+GetViewportOrgEx
+GetWindowExtEx
+GetDIBits
+RealizePalette
+SelectPalette
+StretchBlt
+CreatePalette
+GetSystemPaletteEntries
+CreateDIBitmap
+DeleteObject
+SelectClipRgn
+CreatePolygonRgn
+GetClipRgn
+SetStretchBltMode
+CreateRectRgnIndirect
+SetBkColor
+GDI32.dll
+ClosePrinter
+DocumentPropertiesA
+OpenPrinterA
+WINSPOOL.DRV
+RegCloseKey
+RegOpenKeyExA
+RegSetValueExA
+RegQueryValueA
+RegCreateKeyExA
+ADVAPI32.dll
+ShellExecuteA
+Shell_NotifyIconA
+SHGetSpecialFolderPathA
+SHELL32.dll
+CLSIDFromString
+OleUninitialize
+OleInitialize
+ole32.dll
+OLEAUT32.dll
+ImageList_Destroy
+COMCTL32.dll
+WININET.dll
+InterlockedIncrement
+InterlockedDecrement
+LocalFree
+FileTimeToSystemTime
+FileTimeToLocalFileTime
+lstrcpynA
+DuplicateHandle
+FlushFileBuffers
+LockFile
+UnlockFile
+SetEndOfFile
+lstrcmpiA
+GlobalDeleteAtom
+GlobalFindAtomA
+GlobalAddAtomA
+GlobalGetAtomNameA
+lstrcmpA
+LocalAlloc
+TlsAlloc
+GlobalHandle
+TlsFree
+TlsSetValue
+LocalReAlloc
+TlsGetValue
+GetFileTime
+GetCurrentThread
+GlobalFlags
+SetErrorMode
+GetProcessVersion
+GetCPInfo
+GetOEMCP
+GetStartupInfoA
+RtlUnwind
+GetSystemTime
+GetLocalTime
+RaiseException
+HeapSize
+GetACP
+UnhandledExceptionFilter
+FreeEnvironmentStringsA
+FreeEnvironmentStringsW
+GetEnvironmentStrings
+GetEnvironmentStringsW
+SetHandleCount
+GetStdHandle
+GetFileType
+GetEnvironmentVariableA
+HeapDestroy
+HeapCreate
+VirtualFree
+SetEnvironmentVariableA
+LCMapStringA
+LCMapStringW
+VirtualAlloc
+IsBadWritePtr
+SetUnhandledExceptionFilter
+GetStringTypeA
+GetStringTypeW
+CompareStringA
+CompareStringW
+IsBadReadPtr
+IsBadCodePtr
+SetStdHandle
+InterlockedExchange
+GetWindowTextLengthA
+CharUpperA
+GetWindowDC
+BeginPaint
+EndPaint
+TabbedTextOutA
+DrawTextA
+GrayStringA
+DestroyWindow
+CreateDialogIndirectParamA
+EndDialog
+GetNextDlgTabItem
+GetWindowPlacement
+RegisterWindowMessageA
+GetLastActivePopup
+GetMessageTime
+RemovePropA
+CallWindowProcA
+GetPropA
+UnhookWindowsHookEx
+SetPropA
+GetClassLongA
+CallNextHookEx
+SetWindowsHookExA
+CreateWindowExA
+GetMenuItemID
+GetMenuItemCount
+RegisterClassA
+GetScrollPos
+AdjustWindowRectEx
+MapWindowPoints
+SendDlgItemMessageA
+ScrollWindowEx
+IsDialogMessageA
+SetWindowTextA
+MoveWindow
+CheckMenuItem
+SetMenuItemBitmaps
+GetMenuState
+GetMenuCheckMarkDimensions
+LoadStringA
+GetSysColorBrush
+SaveDC
+RestoreDC
+SetBkMode
+SetPolyFillMode
+SetROP2
+SetTextColor
+SetMapMode
+SetViewportOrgEx
+OffsetViewportOrgEx
+SetViewportExtEx
+ScaleViewportExtEx
+SetWindowOrgEx
+SetWindowExtEx
+ScaleWindowExtEx
+GetClipBox
+ExcludeClipRect
+MoveToEx
+LineTo
+ExtSelectClipRgn
+GetViewportExtEx
+PtVisible
+RectVisible
+TextOutA
+ExtTextOutA
+Escape
+GetTextMetricsA
+GetFileTitleA
+GetSaveFileNameA
+GetOpenFileNameA
+ChooseColorA
+comdlg32.dll
+UnregisterClassA
+.PAVCException@@
+.PAVCNotSupportedException@@
+.PAVCFileException@@
+ (*.prn)|*.prn|
+ (*.*)|*.*||
+Shell32.dll
+Mpr.dll
+Advapi32.dll
+User32.dll
+Gdi32.dll
+Kernel32.dll
+\shell\open\command
+mailto:
+DISPLAY
+OpenDatabase
+CloseDatabase
+GetConnectString
+GetTabList
+DllUnregisterServer
+DllRegisterServer
+DEFAULT_ICON
+RemovePlayer
+WG!2S(
+L23fff&ff
+?fff&ff23
+CWinFormUnit
+WTWindow
+GetMonitorInfoA
+MonitorFromWindow
+bcdfghijklmnpqrstuvwxyz
+abcddefghijklmnoopqrrsstuvvwwxyyz;
+,1"52.*
+(&07-034/)7 '
+hgjlkbrfzaoe
+ !"#!
+?? / %d]
+%d / %d]
+ (*.*)|*.*||
+ (*.WAV;*.MID)|*.WAV;*.MID|WAV
+ (*.WAV)|*.WAV|MIDI
+ (*.MID)|*.MID|
+ (*.txt)|*.txt|
+ (*.*)|*.*||
+Ctrl+Shift+F12
+Ctrl+Shift+F11
+Ctrl+Shift+F10
+Ctrl+Shift+F9
+Ctrl+Shift+F8
+Ctrl+Shift+F7
+Ctrl+Shift+F6
+Ctrl+Shift+F5
+Ctrl+Shift+F4
+Ctrl+Shift+F3
+Ctrl+Shift+F2
+Ctrl+Shift+F1
+Shift+F12
+Shift+F11
+Shift+F10
+Shift+F9
+Shift+F8
+Shift+F7
+Shift+F6
+Shift+F5
+Shift+F4
+Shift+F3
+Shift+F2
+Shift+F1
+Ctrl+F12
+Ctrl+F11
+Ctrl+F10
+Ctrl+F9
+Ctrl+F8
+Ctrl+F7
+Ctrl+F6
+Ctrl+F5
+Ctrl+F4
+Ctrl+F3
+Ctrl+F2
+Ctrl+F1
+Ctrl+Z
+Ctrl+Y
+Ctrl+X
+Ctrl+W
+Ctrl+V
+Ctrl+U
+Ctrl+T
+Ctrl+S
+Ctrl+R
+Ctrl+Q
+Ctrl+P
+Ctrl+O
+Ctrl+N
+Ctrl+M
+Ctrl+L
+Ctrl+K
+Ctrl+J
+Ctrl+I
+Ctrl+H
+Ctrl+G
+Ctrl+F
+Ctrl+E
+Ctrl+D
+Ctrl+C
+Ctrl+B
+Ctrl+A
+ (*.JPG;*.PNG;*.BMP;*.GIF;*.ICO;*.CUR)|*.JPG;*.PNG;*.BMP;*.GIF;*.ICO;*.CUR|JPG
+ (*.JPG)|*.JPG|PNG
+ (*.PNG)|*.PNG|BMP
+ (*.BMP)|*.BMP|GIF
+ (*.GIF)|*.GIF|
+ (*.ICO)|*.ICO|
+ (*.CUR)|*.CUR|
+ (*.*)|*.*||
+devices
+windows
+device
+MGridCells
+CColourPicker
+_EL_HideOwner
+Potential overflow in png_zalloc()
+ but running with 
+Application built with libpng-
+Ignoring invalid time value
+unexpected zlib return code
+unexpected zlib return
+unsupported zlib version
+truncated
+insufficient memory
+damaged LZ stream
+bad parameters to zlib
+zlib IO error
+missing LZ dictionary
+unexpected end of LZ stream
+gamma value out of range
+duplicate
+gamma value does not match sRGB
+gamma value does not match libpng estimate
+invalid chromaticities
+internal error checking chromaticities
+inconsistent chromaticities
+invalid sRGB rendering intent
+cHRM chunk does not match sRGB
+duplicate sRGB information ignored
+inconsistent rendering intents
+profile '
+invalid length
+too short
+tag count too large
+unexpected ICC PCS encoding
+unrecognized ICC profile class
+unexpected NamedColor ICC profile class
+invalid embedded Abstract ICC profile
+unexpected DeviceLink ICC profile class
+Gray color space not permitted on RGB PNG
+RGB color space not permitted on grayscale PNG
+invalid ICC profile color space
+PCS illuminant is not D50
+invalid signature
+intent outside defined range
+invalid rendering intent
+length does not match profile
+ICC profile tag outside profile
+ICC profile tag start not a multiple of 4
+out-of-date sRGB profile with no signature
+known incorrect sRGB profile
+copyright violation: edited ICC profile ignored
+internal error handling cHRM->XYZ
+internal error handling cHRM coefficients
+Invalid IHDR data
+Invalid filter method in IHDR
+Unknown filter method in IHDR
+MNG features are not allowed in a PNG datastream
+Unknown compression method in IHDR
+Unknown interlace method in IHDR
+Invalid color type/bit depth combination in IHDR
+Invalid color type in IHDR
+Invalid bit depth in IHDR
+Invalid image height in IHDR
+Invalid image width in IHDR
+Image height exceeds user limit in IHDR
+Image width exceeds user limit in IHDR
+Image height is zero in IHDR
+Image width is zero in IHDR
+gamma table being rebuilt
+Too many IDATs found
+Missing PLTE before IDAT
+Missing IHDR before IDAT
+png_read_update_info/png_start_read_image: duplicate call
+internal sequential row size calculation error
+sequential row overflow
+bad adaptive filter value
+Invalid attempt to read row data
+png_image_read: opaque pointer not NULL
+png_image_read: out of memory
+png_image_begin_read_from_memory: incorrect PNG_IMAGE_VERSION
+png_image_begin_read_from_memory: invalid argument
+invalid memory read
+read beyond end of data
+png_image_finish_read: damaged PNG_IMAGE_VERSION
+png_image_finish_read: invalid argument
+png_image_finish_read[color-map]: no color-map
+bad background index (internal error)
+bad processing option (internal error)
+color map overflow (BAD internal error)
+bad data option (internal error)
+invalid PNG color type
+palette color-map: too few entries
+rgb-alpha color-map: too few entries
+rgb+alpha color-map: too few entries
+rgb color-map: too few entries
+rgb[gray] color-map: too few entries
+rgb[ga] color-map: too few entries
+gray-alpha color-map: too few entries
+ga-alpha color-map: too few entries
+gray+alpha color-map: too few entries
+gray[16] color-map: too few entries
+gray[8] color-map: too few entries
+a background color must be supplied to remove alpha/transparency
+unexpected encoding (internal error)
+bad encoding (internal error)
+color-map index out of range
+bad color-map processing (internal error)
+unknown interlace type
+png_read_image: invalid transformations
+unexpected alpha swap transformation
+png_image_read: alpha channel lost
+png_read_image: unsupported transformation
+unexpected bit depth
+unexpected 8-bit transformation
+lost/gained channels
+unexpected compose
+lost rgb to gray
+out.prn
+%d / %d
+ %d/%d 
+ %d/%d 
+_EL_ColourPopup
+Bogus message code %d
+libpng error: %s
+undefined
+libpng warning: %s
+bad longjmp: 
+internal error: array alloc
+internal error: array realloc
+Out of memory
+need dictionary
+incorrect data check
+incorrect header check
+invalid window size
+unknown compression method
+Call to NULL read function
+Read Error
+Can't set both read_data_fn and write_data_fn in the same structure
+PNG unsigned integer out of range
+PNG file corrupted by ASCII conversion
+Not a PNG file
+CRC error
+invalid
+out of place
+bKGD must be after
+hIST must be after
+tRNS must be after
+ignored in grayscale PNG
+missing IHDR
+PNG fixed point integer out of range
+invalid values
+too many profiles
+bad keyword
+bad compression method
+out of memory
+extra compressed data
+insufficient memory to read chunk
+ using zstream
+zstream unclaimed
+sPLT chunk requires too much memory
+sPLT chunk too long
+sPLT chunk has bad length
+malformed sPLT chunk
+No space in chunk cache for sPLT
+invalid with alpha channel
+invalid index
+invalid data
+unrecognized equation type
+invalid parameter count
+bad width format
+bad height format
+non-positive height
+non-positive width
+invalid unit
+Insufficient memory to process text chunk
+no space in chunk cache
+unknown compression type
+bad compression info
+unhandled critical chunk
+forcing save of an unhandled chunk; please call png_set_keep_unknown_chunks
+Saving unknown chunk:
+error in user chunk
+unknown chunk exceeds memory limits
+invalid chunk type
+invalid user transform pixel depth
+internal row width error
+internal row size calculation error
+internal row logic error
+Too much image data
+Extra compressed data
+Not enough image data
+Row has too many bytes to allocate in memory
+Application must supply a known background gamma
+invalid before the PNG header has been read
+invalid after png_start_read_image or png_read_update_info
+conflicting calls to set alpha mode and background
+invalid alpha mode
+output gamma out of expected range
+ignoring out of range rgb_to_gray coefficients
+invalid error action to rgb_to_gray
+invalid background gamma type
+libpng does not support gamma+background+rgb_to_gray
+Palette is NULL in indexed image
+png_do_quantize returned rowbytes=0
+png_do_rgb_to_gray found nongray pixel
+Uninitialized row
+NULL row buffer
+png_do_encode_alpha: unexpected call
+png_set_filler is invalid for low bit depth gray output
+png_set_filler: inappropriate color type
+Invalid palette size, hIST allocation skipped
+Insufficient memory for hIST chunk data
+Insufficient memory for pCAL parameter
+Insufficient memory for pCAL params
+Insufficient memory for pCAL units
+Insufficient memory for pCAL purpose
+Invalid format for pCAL parameter
+Invalid pCAL parameter count
+Invalid pCAL equation type
+Memory allocation failed while processing sCAL
+Invalid sCAL height
+Invalid sCAL width
+Invalid sCAL unit
+Invalid palette
+Invalid palette length
+text chunk: out of memory
+text compression mode is out of range
+too many text chunks
+tRNS chunk has out-of-range samples for bit_depth
+sPLT out of memory
+png_set_sPLT: invalid sPLT
+too many sPLT chunks
+unknown chunk: out of memory
+too many unknown chunks
+invalid location in png_set_unknown_chunks
+png_set_unknown_chunks now expects a valid location
+png_set_keep_unknown_chunks: invalid keep
+png_set_keep_unknown_chunks: too many chunks
+png_set_keep_unknown_chunks: no chunk list
+(%d-%d):
+JPEGMEM
+invalid bit length repeat
+too many length or distance symbols
+invalid stored block lengths
+invalid block type
+incompatible version
+buffer error
+data error
+stream error
+file error
+stream end
+invalid distance code
+invalid literal/length code
+incomplete dynamic bit lengths tree
+oversubscribed dynamic bit lengths tree
+incomplete literal/length tree
+oversubscribed literal/length tree
+empty distance tree with lengths
+incomplete distance tree
+oversubscribed distance tree
+explore
+;3+#>6.&
+'2, /+0&7!4-)1#
+incompatible version
+buffer error
+insufficient memory
+data error
+stream error
+file error
+stream end
+need dictionary
+SetPauseState
+RemovePlayer
+CreatePlayer
+GetPlayState
+NewPlay
+.PAVCObject@@
+.PAVCSimpleException@@
+.PAVCMemoryException@@
+.?AVCObject@@
+.?AVCException@@
+.?AVCSimpleException@@
+.?AVCMemoryException@@
+.?AVCNotSupportedException@@
+.?AVCFile@@
+.?AVCFileException@@
+.?AVCMemFile@@
+.?AVCDC@@
+.?AVCClientDC@@
+.?AVCWindowDC@@
+.?AVCPaintDC@@
+.?AVCGdiObject@@
+.?AVCPen@@
+.?AVCBrush@@
+.?AVCTempDC@@
+.?AVCTempGdiObject@@
+.PAVCResourceException@@
+.PAVCUserException@@
+.?AVCResourceException@@
+.?AVCUserException@@
+.?AVCCmdTarget@@
+.?AVCWnd@@
+.?AVCDialog@@
+.?AVCCmdUI@@
+.?AVCTestCmdUI@@
+.?AVCTempWnd@@
+.?AVCNoTrackObject@@
+.?AV_AFX_CTL3D_STATE@@
+.?AVCPtrArray@@
+.?AVCStatic@@
+.?AVCButton@@
+.?AVCComboBox@@
+.?AVCEdit@@
+.?AV_AFX_CHECKLIST_STATE@@
+.?AVCBitmap@@
+.?AVCRgn@@
+.?AVCCommonDialog@@
+.?AVCFileDialog@@
+.?AV_AFX_THREAD_STATE@@
+.?AVAFX_MODULE_STATE@@
+.?AVAFX_MODULE_THREAD_STATE@@
+.?AV_AFX_BASE_MODULE_STATE@@
+.?AVCStringArray@@
+.?AUCThreadData@@
+.?AV_AFX_WIN_STATE@@
+.?AVCWinThread@@
+.?AVCWinApp@@
+.?AVCProgressCtrl@@
+.?AVCImageList@@
+.?AVCTempImageList@@
+.PAVCArchiveException@@
+.?AVCArchiveException@@
+.?AVCSharedFile@@
+.?AV_AFX_CTL3D_THREAD@@
+.?AVCMenu@@
+.?AVCTempMenu@@
+.?AVCDWordArray@@
+.?AVCWordArray@@
+.?AVCMapPtrToPtr@@
+.?AVCToolTipCtrl@@
+.?AV_AFX_COLOR_STATE@@
+.?AVCColorDialog@@
+.?AVCHandleMap@@
+.?AVCMapStringToPtr@@
+.?AVtype_info@@
+resource.h
+P#include "afxres.h"
+PA#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE 4, 2
+#pragma code_page(936)
+#endif //_WIN32
+#include "l.chs\afxres.rc"          // Standard components
+#endif
+wwwwww
+wwwwww
+wwwwww
+wwwwww
+wwwwww
+wwwwww
+wwwwww
+wwwwww
+/."!('-,
+543210%$
++*)"!6%$
+;:98+*)"!('7
+0R>\W[
+nzzpenc
+eQpenc
+SbpS:g:
+SbpS0R
+SbpS@b
+SbpS0R
+kXEQ>\u
+ck(WSbpS
+-NbkSbpS(
+SbpS\O
+-NbkSbpS
+ech1Y%
+ech1Y%
+OX[0R 
+ech1Y%
+RSbpS\O
+QX[gbL
+g~b0Rdk
+-N"N1Y
+0dk:ghV
+N*Ntepe
+N*N(W%
+N*N(W%
+N*N(W0
+N*Ncktepe
+T/f&Tcknx
+g~b0R 
+[/fS_MR
+g~b1Y%
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"><assemblyIdentity name="E.App" processorArchitecture="x86" version="5.2.0.0" type="win32"/><dependency><dependentAssembly><assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" processorArchitecture="x86" publicKeyToken="6595b64144ccf1df" language="*" /></dependentAssembly></dependency></assembly>PADPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDING
+Kjjjjjjjj
+/?/<>|:
+(null)
+#######
+#####
+         (((((                  H
+;T^h<U_i=V`j>Wak?Xbl@YcmAZdnB[eoC\fpD]gq
+TEXTINCLUDE
+DEFAULT_ICON
+Ctrl+PageUp
+Ctrl+PageDown
+PageUp
+PageDown
+Ctrl+G
+Ctrl+Home
+Ctrl+End
+Shift+Tab
+Tab/Enter
+Ctrl+N
+Ctrl+D
+msctls_updown32
+msctls_updown32
+msctls_updown32
+msctls_updown32
+msctls_updown32
+msctls_updown32
+msctls_updown32
+msctls_updown32
+msctls_updown32
+msctls_updown32
+msctls_progress32
+Progress1
+MS Shell Dlg
+ ......
+ (*.*)
+VS_VERSION_INFO
+StringFileInfo
+080404B0
+FileVersion
+1.0.0.0
+FileDescription
+ProductName
+ProductVersion
+1.0.0.0
+CompanyName
+LegalCopyright
+Comments
+VarFileInfo
+Translation

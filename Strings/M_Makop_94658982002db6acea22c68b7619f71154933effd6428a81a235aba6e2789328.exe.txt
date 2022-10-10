@@ -1,0 +1,621 @@
+!This program cannot be run in DOS mode.
+`.reloc
+v4.0.30319
+#Strings
+IEnumerable`1
+List`1
+kernel32
+ToInt32
+Dictionary`2
+<Module>
+HSTRING
+MULTI_QI
+System.IO
+HSTRING_HEADER
+GetExceptionForHR
+get_OffsetToStringData
+ProjectData
+mscorlib
+System.Collections.Generic
+Microsoft.VisualBasic
+get_net_http_log_content_no_task_returned_copytoasync
+VirtualAlloc
+CoTaskMemAlloc
+CallWindowProc
+get_net_http_io_read
+get_net_http_content_stream_already_read
+get_net_http_content_buffersize_exceeded
+get_net_http_client_send_canceled
+get_net_http_handler_not_assigned
+get_net_http_content_no_task_returned
+get_net_http_client_absolute_baseaddress_required
+get_net_http_client_http_baseaddress_required
+get_net_http_client_send_completed
+get_net_http_operation_started
+get_net_http_value_not_supported
+get_net_http_headers_not_found
+CompareMethod
+ManagedObjectToComInterface
+pfnQueryInterface
+Replace
+WindowsCreateStringReference
+SetExceptionErrorCode
+get_net_http_message_not_success_statuscode
+CoTaskMemFree
+get_net_http_headers_invalid_range
+ComObjectCache
+FactoryCache
+pVtable
+get_IInspectable
+GCHandle
+SafeHandle
+get_TypeHandle
+RuntimeTypeHandle
+GetTypeHandle
+InitializeHandle
+GetTypeFromHandle
+handle
+get_InvalidHeaderName
+get_net_http_headers_invalid_etag_name
+get_net_http_headers_not_allowed_header_name
+get_net_http_headers_invalid_header_name
+DateTime
+WriteLine
+get_ResourceType
+IsOfType
+get_ClassType
+MinCore
+DictionaryBase
+StdCall__Release
+AddrOfRelease
+pfnRelease
+DirectRelease
+get_net_http_handler_noresponse
+FromNativeOleDate
+ToNativeOleDate
+CLSCompliantAttribute
+get_net_cookie_attribute
+WriteByte
+WideCharToMultiByte
+ToByte
+GetValue
+get_net_http_log_headers_invalid_value
+get_net_http_headers_invalid_value
+AddrOf
+IsSubclassOf
+StdCall__AddRef
+pfnAddRef
+get_BadMarshalField_Null_HString
+get_Null_HString
+CoreString
+WindowsCreateString
+WindowsDeleteString
+ToString
+GetString
+get_net_http_parser_invalid_base64_string
+get_net_http_argument_empty_string
+get_net_http_content_field_too_long
+get_ExecutablePath
+get_Length
+get_net_http_chunked_not_allowed_with_content_length
+StringToHGlobalUni
+get_net_http_client_invalid_requesturi
+GetComInterfaceForTypeInfo_NoCheck
+Marshal
+System.Collections.Generic.Internal
+ObjectToComInterfaceInternal
+ComInterfaceToObjectInternal
+get_net_http_copyto_array_too_small
+user32.dll
+get_IsNull
+get_net_http_log_content_null
+MemoryStream
+get_net_http_content_readonly_stream
+System
+IsEnum
+get_net_http_value_must_be_greater_than
+Application
+System.Reflection
+NotSupportedException
+MissingManifestResourceException
+MarshalDirectiveException
+ArgumentNullException
+GetHRForException
+ArgumentException
+InvalidCastException
+StringComparison
+IID_IUnknown
+__vtable_IUnknown
+__com_IUnknown
+UnsafeCopyTo
+McgTypeInfo
+GetTypeInfo
+McgClassInfo
+s_comObjectMap
+System.Private.Interop
+ExternalInterop
+CoCreateInstanceFromApp
+FxResources.System.Net.Http
+MultiByteToWideChar
+get_Arg_InteropMarshalUnmappableChar
+get_MailHeaderFieldMalformedHeader
+get_net_http_headers_single_value_header
+get_net_http_headers_invalid_from_header
+get_net_http_headers_invalid_host_header
+StringBuilder
+ReplaceBuffer
+GetBuffer
+WindowsGetStringRawBuffer
+System.Resources.ResourceManager
+get_ResourceManager
+McgModuleManager
+get_net_http_invalid_cookiecontainer
+get_MailHeaderFieldInvalidCharacter
+IMessageFilter
+AddMessageFilter
+ToPointer
+GetLastWin32Error
+CreateProjectError
+ClearProjectError
+SetProjectError
+get_net_http_client_send_error
+get_net_http_client_execution_error
+get_net_http_httpmethod_format_error
+get_net_http_reasonphrase_format_error
+get_net_http_content_stream_copy_error
+.cctor
+FromIntPtr
+AddrOfIntrinsics
+CalliIntrinsics
+System.Diagnostics
+System.Private.CoreLib.InteropServices
+System.Runtime.InteropServices
+Microsoft.VisualBasic.CompilerServices
+System.Runtime.CompilerServices
+System.Resources
+System.Runtime.Handles
+AnchorStyles
+get_net_http_log_headers_no_newlines
+get_net_http_headers_no_newlines
+CreateComObjectFlags
+Strings
+GuidEquals
+ComparerEquals
+System.Windows.Forms
+IntrospectionExtensions
+InteropExtensions
+Conversions
+System.Collections
+get_Chars
+RuntimeHelpers
+McgComHelpers
+IsInstanceOfClass
+DoEvents
+Concat
+get_MailAddressInvalidFormat
+get_net_http_log_headers_wrong_email_format
+ComCallableObject
+__ComObject
+RuntimeNewObject
+get_WrongSizeArrayInNStruct
+get_Target
+GetTarget
+get_net_http_content_invalid_charset
+op_Explicit
+get_net_http_content_buffersize_limit
+get_HResult
+get_net_http_client_request_already_sent
+get_net_http_chunked_not_allowed_with_empty_content
+StdCall__int
+get_Count
+GetMaxCount
+Convert
+UncheckedCast
+get_net_http_handler_norequest
+get_net_http_invalid_enable_first
+System.Text
+RemoveCurrentContext
+__interface_ccw
+ToArray
+get_net_http_invalid_proxyusepolicy
+GetActivationFactory
+ContextEntry
+op_Equality
+get_net_http_log_headers_invalid_quality
+op_Inequality
+get_net_http_invalid_proxy
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+A\pgA\F
+?Q:\?Q
+\KQA\KQ
+\KQA\KQ
+\KQA\KQ
+\KQA\KQ
+\KQA\KQ
+\KQA\KQ
+\KQA\KQ
+\KQA\KQ
+\KQA\KQ
+\KQA\KQ
+\KQA\KQ
+\KQA\KQ
+\KQA\KQ
+\KQA\KQ
+\KQA\KQ
+\KQA\KQ
+\KQA\KQ
+\KQA\KQ
+\KQA\KQ
+\KQA\KQ
+\KQA\KQ
+\KQA\KQ
+\KQA\KQ
+?Q?Qpg?Q?Q<
+pgpgpg
+\pgpg~
+_pgpg~
+>T:\:\)
+>T>T>T)
+A\>TA\F
+ZA\A\F
+>T>T>T
+Z>T>T>T>T>T>T
+'?Q?Q?Q
+_A\A\~
+_CorExeMain
+mscoree.dll
+DigiCert Inc1
+www.digicert.com1200
+)DigiCert High Assurance Code Signing CA-10
+180105000000Z
+191231120000Z0d1
+Virginia1
+Fairfax1
+Invincea, Inc.1
+Invincea, Inc.0
+(http://crl3.digicert.com/ha-cs-2011a.crl0.
+(http://crl4.digicert.com/ha-cs-2011a.crl0L
+https://www.digicert.com/CPS0
+http://ocsp.digicert.com0P
+Dhttp://cacerts.digicert.com/DigiCertHighAssuranceCodeSigningCA-1.crt0
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Code Verification Root0
+110415194533Z
+210415195533Z0l1
+DigiCert Inc1
+www.digicert.com1+0)
+"DigiCert High Assurance EV Root CA0
+:8P[w1
+AA"Nea
+Dhttp://crl.microsoft.com/pki/crl/products/MicrosoftCodeVerifRoot.crl0
+DigiCert Inc1
+www.digicert.com1!0
+DigiCert Assured ID CA-10
+141022000000Z
+241022000000Z0G1
+DigiCert1%0#
+DigiCert Timestamp Responder0
+https://www.digicert.com/CPS0
+2http://crl3.digicert.com/DigiCertAssuredIDCA-1.crl08
+2http://crl4.digicert.com/DigiCertAssuredIDCA-1.crl0w
+http://ocsp.digicert.com0A
+5http://cacerts.digicert.com/DigiCertAssuredIDCA-1.crt0
+iW!]4/q
+DigiCert Inc1
+www.digicert.com1+0)
+"DigiCert High Assurance EV Root CA0
+110211120000Z
+260210120000Z0s1
+DigiCert Inc1
+www.digicert.com1200
+)DigiCert High Assurance Code Signing CA-10
+.http://www.digicert.com/ssl-cps-repository.htm0
+http://ocsp.digicert.com0I
+=http://cacerts.digicert.com/DigiCertHighAssuranceEVRootCA.crt0
+:http://crl3.digicert.com/DigiCertHighAssuranceEVRootCA.crl0@
+:http://crl4.digicert.com/DigiCertHighAssuranceEVRootCA.crl0
+}@f&3/DU
+z2 >l&
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+061110000000Z
+211110000000Z0b1
+DigiCert Inc1
+www.digicert.com1!0
+DigiCert Assured ID CA-10
+.http://www.digicert.com/ssl-cps-repository.htm0
+http://ocsp.digicert.com0C
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
+4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
+DigiCert Inc1
+www.digicert.com1200
+)DigiCert High Assurance Code Signing CA-1
+DigiCert Inc1
+www.digicert.com1!0
+DigiCert Assured ID CA-1
+191217003542Z0#
+DigiCert Inc1
+www.digicert.com1503
+,DigiCert SHA2 High Assurance Code Signing CA0
+171220000000Z
+210313120000Z0d1
+Virginia1
+Fairfax1
+Invincea, Inc.1
+Invincea, Inc.0
+*http://crl3.digicert.com/sha2-ha-cs-g1.crl00
+*http://crl4.digicert.com/sha2-ha-cs-g1.crl0L
+https://www.digicert.com/CPS0
+http://ocsp.digicert.com0R
+Fhttp://cacerts.digicert.com/DigiCertSHA2HighAssuranceCodeSigningCA.crt0
+$e7O7>j
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Code Verification Root0
+110415194533Z
+210415195533Z0l1
+DigiCert Inc1
+www.digicert.com1+0)
+"DigiCert High Assurance EV Root CA0
+:8P[w1
+AA"Nea
+Dhttp://crl.microsoft.com/pki/crl/products/MicrosoftCodeVerifRoot.crl0
+DigiCert Inc1
+www.digicert.com1+0)
+"DigiCert High Assurance EV Root CA0
+131022120000Z
+281022120000Z0v1
+DigiCert Inc1
+www.digicert.com1503
+,DigiCert SHA2 High Assurance Code Signing CA0
+232dus(&
+http://ocsp.digicert.com0I
+=http://cacerts.digicert.com/DigiCertHighAssuranceEVRootCA.crt0
+:http://crl4.digicert.com/DigiCertHighAssuranceEVRootCA.crl0@
+:http://crl3.digicert.com/DigiCertHighAssuranceEVRootCA.crl0O
+https://www.digicert.com/CPS0
+DigiCert Inc1
+www.digicert.com1503
+,DigiCert SHA2 High Assurance Code Signing CA
+20191217003553Z
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Timestamping CA0
+191001000000Z
+301017000000Z0L1
+DigiCert, Inc.1$0"
+TIMESTAMP-SHA256-2019-10-150
+gz8wT@
+https://www.digicert.com/CPS0
+,http://crl3.digicert.com/sha2-assured-ts.crl02
+,http://crl4.digicert.com/sha2-assured-ts.crl0
+http://ocsp.digicert.com0O
+Chttp://cacerts.digicert.com/DigiCertSHA2AssuredIDTimestampingCA.crt0
+J/nz<cn7
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+160107120000Z
+310107120000Z0r1
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Timestamping CA0
+fnVa')
+http://ocsp.digicert.com0C
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
+4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0P
+https://www.digicert.com/CPS0
+8aMbF$
+V3"/"6
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Timestamping CA
+191217003553Z0+
+1e"b R
+DigiCert Inc1
+www.digicert.com1200
+)DigiCert High Assurance Code Signing CA-10
+180105000000Z
+191231120000Z0d1
+Virginia1
+Fairfax1
+Invincea, Inc.1
+Invincea, Inc.0
+(http://crl3.digicert.com/ha-cs-2011a.crl0.
+(http://crl4.digicert.com/ha-cs-2011a.crl0L
+https://www.digicert.com/CPS0
+http://ocsp.digicert.com0P
+Dhttp://cacerts.digicert.com/DigiCertHighAssuranceCodeSigningCA-1.crt0
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Code Verification Root0
+110415194533Z
+210415195533Z0l1
+DigiCert Inc1
+www.digicert.com1+0)
+"DigiCert High Assurance EV Root CA0
+:8P[w1
+AA"Nea
+Dhttp://crl.microsoft.com/pki/crl/products/MicrosoftCodeVerifRoot.crl0
+DigiCert Inc1
+www.digicert.com1!0
+DigiCert Assured ID CA-10
+141022000000Z
+241022000000Z0G1
+DigiCert1%0#
+DigiCert Timestamp Responder0
+https://www.digicert.com/CPS0
+2http://crl3.digicert.com/DigiCertAssuredIDCA-1.crl08
+2http://crl4.digicert.com/DigiCertAssuredIDCA-1.crl0w
+http://ocsp.digicert.com0A
+5http://cacerts.digicert.com/DigiCertAssuredIDCA-1.crt0
+iW!]4/q
+DigiCert Inc1
+www.digicert.com1+0)
+"DigiCert High Assurance EV Root CA0
+110211120000Z
+260210120000Z0s1
+DigiCert Inc1
+www.digicert.com1200
+)DigiCert High Assurance Code Signing CA-10
+.http://www.digicert.com/ssl-cps-repository.htm0
+http://ocsp.digicert.com0I
+=http://cacerts.digicert.com/DigiCertHighAssuranceEVRootCA.crt0
+:http://crl3.digicert.com/DigiCertHighAssuranceEVRootCA.crl0@
+:http://crl4.digicert.com/DigiCertHighAssuranceEVRootCA.crl0
+}@f&3/DU
+z2 >l&
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+061110000000Z
+211110000000Z0b1
+DigiCert Inc1
+www.digicert.com1!0
+DigiCert Assured ID CA-10
+.http://www.digicert.com/ssl-cps-repository.htm0
+http://ocsp.digicert.com0C
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
+4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
+DigiCert Inc1
+www.digicert.com1200
+)DigiCert High Assurance Code Signing CA-1
+DigiCert Inc1
+www.digicert.com1!0
+DigiCert Assured ID CA-1
+191217003542Z0#
+DigiCert Inc1
+www.digicert.com1503
+,DigiCert SHA2 High Assurance Code Signing CA0
+171220000000Z
+210313120000Z0d1
+Virginia1
+Fairfax1
+Invincea, Inc.1
+Invincea, Inc.0
+*http://crl3.digicert.com/sha2-ha-cs-g1.crl00
+*http://crl4.digicert.com/sha2-ha-cs-g1.crl0L
+https://www.digicert.com/CPS0
+http://ocsp.digicert.com0R
+Fhttp://cacerts.digicert.com/DigiCertSHA2HighAssuranceCodeSigningCA.crt0
+$e7O7>j
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Code Verification Root0
+110415194533Z
+210415195533Z0l1
+DigiCert Inc1
+www.digicert.com1+0)
+"DigiCert High Assurance EV Root CA0
+:8P[w1
+AA"Nea
+Dhttp://crl.microsoft.com/pki/crl/products/MicrosoftCodeVerifRoot.crl0
+DigiCert Inc1
+www.digicert.com1+0)
+"DigiCert High Assurance EV Root CA0
+131022120000Z
+281022120000Z0v1
+DigiCert Inc1
+www.digicert.com1503
+,DigiCert SHA2 High Assurance Code Signing CA0
+232dus(&
+http://ocsp.digicert.com0I
+=http://cacerts.digicert.com/DigiCertHighAssuranceEVRootCA.crt0
+:http://crl4.digicert.com/DigiCertHighAssuranceEVRootCA.crl0@
+:http://crl3.digicert.com/DigiCertHighAssuranceEVRootCA.crl0O
+https://www.digicert.com/CPS0
+DigiCert Inc1
+www.digicert.com1503
+,DigiCert SHA2 High Assurance Code Signing CA
+20191217003553Z
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Timestamping CA0
+191001000000Z
+301017000000Z0L1
+DigiCert, Inc.1$0"
+TIMESTAMP-SHA256-2019-10-150
+gz8wT@
+https://www.digicert.com/CPS0
+,http://crl3.digicert.com/sha2-assured-ts.crl02
+,http://crl4.digicert.com/sha2-assured-ts.crl0
+http://ocsp.digicert.com0O
+Chttp://cacerts.digicert.com/DigiCertSHA2AssuredIDTimestampingCA.crt0
+J/nz<cn7
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+160107120000Z
+310107120000Z0r1
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Timestamping CA0
+fnVa')
+http://ocsp.digicert.com0C
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
+4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0P
+https://www.digicert.com/CPS0
+8aMbF$
+V3"/"6
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Timestamping CA
+191217003553Z0+
+1e"b R
+,,xQvx-AAxvxXxvxvxvxAxvxvxvxNddxNddxvxvx-bAxvxvxvxvxvxvxvxoAxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvx-Nbxvxvxvx-AxX-x-box-Axvx-bvxQxNvdxXXx-bAx-x,oxNvdxXXxbAx-vAx-vdx--dxXNx--Nx--Ax---x-vXx--AxQ,x-vQxXNxQQxQ,x--vx--vx---x--oxXNxQbx-v-xXNx--Ax--,x--vxXNx-vdx--vxXNxobx,QxbXxXNx-vQx---x-vvx-v-xAox-Xx-Xx-vxXoxvxvxvxvxvxvxvxbvxoQxvxvx,ox-xXxvx-bNxNNXx-vxQoxvxvxvxvxvxvxvxvxNNAxvxXAxvx--x-xbvxvxvx-XNx-xvxvxoxvxvxvxvxvxvxAox-oNx-xvxvxXNxvxvxvx-QNx-xvxvxvxvx-oxvxXNxvxvxvxNxvxvxAxvxvxvxvxvxvxvxAxvxvxvxvxvxvxvxvxvxNxvxvxNxvxvxvxvxvxvxNxvxoAx-XXxvxvx-oxvxvx-oxvxvxvxvx-oxvxvx-oxvxvxvxvxvxvx-oxvxvxvxvxvxvxvxvxvxvxvxNNAx-o-x-xvx,dxvxvxvxvx-QNx-xvxbAxXxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxNNAx-xvx-NxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxXNxvxvxbxvxvxvxvxvxvxvxvxvxvxvxbxXNxvxvx,NxvxvxvxvxvxvxvxvxvxvxvxAox--ox-v-x-Nvx--oxvxvxvxdNx-Xvx-xvxvxXNxvxvxvx-XNx-xvxvxNxvxvxvxvxvxvxvxvxvxvxvxvxvxvxXNxvxvxQoxAox--Ax--dx--AxQQxvxvxvxbAxXxvxvxv
+RAny use of this Certificate constitutes acceptance of the DigiCert CP/CPS and the Relying Party Agreement which limit liability and are incorporated herein by reference
+RAny use of this Certificate constitutes acceptance of the DigiCert CP/CPS and the Relying Party Agreement which limit liability and are incorporated herein by reference
+RAny use of this Certificate constitutes acceptance of the DigiCert CP/CPS and the Relying Party Agreement which limit liability and are incorporated herein by reference
+RAny use of this Certificate constitutes acceptance of the DigiCert CP/CPS and the Relying Party Agreement which limit liability and are incorporated herein by reference
+RAny use of this Certificate constitutes acceptance of the DigiCert CP/CPS and the Relying Party Agreement which limit liability and are incorporated herein by reference
+RAny use of this Certificate constitutes acceptance of the DigiCert CP/CPS and the Relying Party Agreement which limit liability and are incorporated herein by reference
+RAny use of this Certificate constitutes acceptance of the DigiCert CP/CPS and the Relying Party Agreement which limit liability and are incorporated herein by reference
+RAny use of this Certificate constitutes acceptance of the DigiCert CP/CPS and the Relying Party Agreement which limit liability and are incorporated herein by reference

