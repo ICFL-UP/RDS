@@ -1,0 +1,1695 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+L$ QRh
+D$ PQV
+D$ +T$
+h4(@P3
+l$HPU3
+T$,SS+
+T$(RQP
+L$TQPR
+T$ RQW
+L$<_^d
+j h@8D
+HtMHt,H
+PhF;t$
+t-9>u)
+t-9HLu
+tW9qptR
+VVVVPVVVj
+F8+F0W
+N8+F,+N0
+t<Ht0Ht$Ht
+Zt(Ht Ht
+9^@Wt;3
+HtyHtWHtOHt&H
+HHtjHtHHt&H
+~HWh`fD
+9^@t83
+QQSVW3
+9~Ht]9~
+HtvHt@H
+SSSPQR
+@u';t$
+F(@@;F,v
+QQSVWd
+t.;t$$t(
+xd;=,[E
+VC20XC00U
+pd;5,[E
+}*9X ~%
+HHt`HHt\
+QQSVW3
+t#SSUP
+t$$VSS
+_^][YY
+sVS;7|B;w
+oG<-uK
+PPPPPPPP
+PPPPPPPP
+PPPPPPPP
+F,98uX
+t!SS9]
+>:u>FV
+E;=(]E
+VVVVVUWUUj
+VVVVVj
+;F(r(8_
+WWWWVSW
+t2WWVPVSW
+s9~(~
+SVWj ^
+HHtjHHtF
++t"HHt
+u&SShe
+uO9N@uJ
+^8tr9p@u
+PQQQQQ
+S\_^[]
+S\_^[]
+F@_^][
+SVWj(3
+u*9] t
+u6hx=D
+t hl=D
+PPPPhd
+u;j0^V
+OH;Alt
+NH;Alt
+NH;Alt
+QQSUVW
+0UUUUW
+WtuHHt
+tD9wdt?
+WWWWQS
+t%9n,u 
+9n@t%9n4u 
+9nHt#9n$u
+F(_^][
+F,+F(_;E
+^(_^[]
+tjf95x
+t*VVQP
+WWWj j 
+j j WW
+t2Ht*Ht"Ht
+t2It*It"It
+FdjQSS
+Ft9~xu
+tj9~8u@j
+k9~8uDj
+F4_]^[
+j3PPPPP
+j3PPPPP
+F|3C|%
+jWWWWWW
+F|3C|%
+QRRRRR
+;AxtOh,
+RSSSSS
+QQSVWjd
+<A|2<Z
+<A|@<Z
+jTSSSSS
+C\+Cd+E
+t^HtF-
+9FXu&W
+WWWWSWhL-D
+u.9F|t
+u@9F|t
+9ndtWSWj
+9HdtL9L$
+PSSSSS
+D$$rL=
+HVtAHtXHuU
+t>h$4D
+E 9]$u
+u!SSSS
+t7Ht$HHt
+PUUUUU
+uAhp?D
+tvhHAD
+tah<AD
+tUh8AD
+VWhtBD
+PWVWWW
+u\SVh(<D
+^p@_^[
+t$ PUSVV
+F\9~Lu)h
+9~du"hh
+tf9|$$t6V
+_]^[YY
+N(;N,r
+;F8ve9^,ue
+tQ9^(tLW
+t?HtHuE
+HtcHt7Ht-HHt
+S,_][^
+M8Qj<P
++M\;uxu
+E SVW3
+SWWWWP
+^(_^][
+CMDIChildWnd
+CMDIFrameWnd
+mdiclient
+CControlBar
+CFrameWnd
+ToolbarWindow32
+ReBarWindow32
+MSWHEEL_ROLLMSG
+AfxOldWndProc423
+AfxWnd70s
+AfxControlBar70s
+AfxMDIFrame70s
+AfxFrameOrView70s
+AfxOleControl70s
+EnumDisplayDevicesA
+GetMonitorInfoA
+EnumDisplayMonitors
+MonitorFromPoint
+MonitorFromRect
+MonitorFromWindow
+GetSystemMetrics
+USER32
+DISPLAY
+qInitCommonControlsEx
+COMCTL32.DLL
+Afx:%p:%x:%p:%p:%p
+Afx:%p:%x
+HtmlHelpA
+hhctrl.ocx
+#32768
+commctrl_DragListMsg
+CCmdTarget
+CWinApp
+PreviewPages
+Settings
+File%d
+Recent File List
+Control Panel\Desktop\ResourceLocale
+GetSystemDefaultUILanguage
+GetUserDefaultUILanguage
+NoFileMru
+NoBackButton
+NoPlacesBar
+Software\Microsoft\Windows\CurrentVersion\Policies\Comdlg32
+NoEntireNetwork
+Software\Microsoft\Windows\CurrentVersion\Policies\Network
+NoClose
+NoRecentDocsHistory
+NoNetConnectDisconnect
+RestrictRun
+NoDrives
+Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+%s.dll
+Automation
+Embedding
+Unregserver
+Unregister
+Regserver
+Register
+software
+CMultiDocTemplate
+Software\
+CDialog
+MS Shell Dlg
+CWinThread
+CDocument
+ReplaceFileA
+KERNEL32
+CSplitterWnd
+CPreviewView
+CToolBar
+DllGetVersion
+Marlett
+CBitmap
+CBrush
+CGdiObject
+CPaintDC
+CWindowDC
+CClientDC
+CUserException
+CResourceException
+GetLayout
+GDI32.DLL
+SetLayout
+COleException
+CInvalidArgException
+CNotSupportedException
+CMemoryException
+CException
+CStatusBar
+msctls_statusbar32
+CMiniDockFrameWnd
+CDockBar
+combobox
+CObject
+Delete
+NoRemove
+ForceRemove
+CPtrList
+CImageList
+CReBar
+CMapPtrToPtr
+CPrintDialog
+Dw=U:s
+CMemFile
+CDocTemplate
+CDocManager
+NullFile
+[printto("%1","%2","%3","%4")]
+[print("%1")]
+[open("%1")]
+ddeexec
+ /pt "%1" "%2" "%3" "%4"
+ /p "%1"
+command
+%s\ShellNew
+%s\DefaultIcon
+%s\shell\printto\%s
+%s\shell\print\%s
+%s\shell\open\%s
+[printto("
+[print("
+[open("
+InProcServer32
+{%08X-%04X-%04X-%02X%02X-%02X%02X%02X%02X%02X%02X}
+DllGetClassObject
+System
+CFileException
+CArchiveException
+CFileDialog
+CScrollView
+MouseZ
+Magellan MSWHEEL
+MSH_SCROLL_LINES_MSG
+MSH_WHEELSUPPORT_MSG
+COleServerDoc
+COleIPFrameWnd
+CPreviewDC
+CDialogBar
+CMapStringToPtr
+CMiniFrameWnd
+CPtrArray
+CToolTipCtrl
+tooltips_class32
+NotifyWinEvent
+user32.dll
+commdlg_SetRGBColor
+commdlg_help
+commdlg_ColorOK
+commdlg_FileNameOK
+commdlg_ShareViolation
+commdlg_LBSelChangedNotify
+COleDispatchException
+RichEdit Text and Objects
+Rich Text Format
+FileNameW
+FileName
+Link Source Descriptor
+Object Descriptor
+Link Source
+Embed Source
+Embedded Object
+ObjectLink
+OwnerLink
+Native
+COleLinkingDoc
+COleDocument
+CDocItem
+CByteArray
+commdlg_FindReplace
+CObList
+%2\CLSID
+%2\Insertable
+%2\protocol\StdFileEditing\verb\0
+%2\protocol\StdFileEditing\server
+CLSID\%1
+CLSID\%1\ProgID
+CLSID\%1\InprocHandler32
+ole32.dll
+CLSID\%1\LocalServer32
+CLSID\%1\Verb\0
+&Edit,0,2
+CLSID\%1\Verb\1
+&Open,0,2
+CLSID\%1\Insertable
+CLSID\%1\AuxUserType\2
+CLSID\%1\AuxUserType\3
+CLSID\%1\DefaultIcon
+CLSID\%1\MiscStatus
+CLSID\%1\InProcServer32
+CLSID\%1\DocObject
+%2\DocObject
+CLSID\%1\Printable
+CLSID\%1\DefaultExtension
+%9, %8
+COleBusyDialog
+COleDialog
+CorExitProcess
+mscoree.dll
+FlsFree
+FlsSetValue
+FlsGetValue
+FlsAlloc
+`h````
+ppxxxx
+(null)
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+- This application cannot run using the active version of the Microsoft .NET Runtime
+Please contact the application's support team for more information.
+- unable to initialize heap
+- not enough space for lowio initialization
+- not enough space for stdio initialization
+- pure virtual function call
+- not enough space for _onexit/atexit table
+- unable to open console device
+- unexpected heap error
+- unexpected multithread lock error
+- not enough space for thread data
+This application has requested the Runtime to terminate it in an unusual way.
+Please contact the application's support team for more information.
+- not enough space for environment
+- not enough space for arguments
+- floating point not loaded
+Microsoft Visual C++ Runtime Library
+Runtime Error!
+Program: 
+<program name unknown>
+Program: 
+A buffer overrun has been detected which has corrupted the program's
+internal state.  The program cannot safely continue execution and must
+now be terminated.
+Buffer overrun detected!
+A security error of unknown cause has been detected which has
+corrupted the program's internal state.  The program cannot safely
+continue execution and must now be terminated.
+Unknown security failure detected!
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+GAIsProcessorFeaturePresent
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+InitializeCriticalSectionAndSpinCount
+GetProcessWindowStation
+GetUserObjectInformationA
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+1#QNAN
+1#SNAN
+Dw=|:s
+Dw=U:s
+Dw=}:s
+Dw=~:s
+Dw=m:s
+Dw=c:s
+Dw=&:s
+Dw=y:s
+Dw=':s
+Dw=d:s
+Dw=]:s
+Dw=z:s
+Dw=h:s
+Dw=i:s
+Dw={:s
+Dw=g:s
+Dw=f:s
+Dw=t:s
+Dw=u:s
+Dw=_:s
+Dw=^:s
+Dw=`:s
+invalid string position
+string too long
+OLEACC.dll
+Unknown exception
+CChildFrame
+Local AppWizard-Generated Applications
+ntdll.dll
+sResource
+urce_U
+LdrFin
+C:\Windows\notepad.exe
+kernel32.dll
+CHeaderToolbarWithMDIDoc
+picture.bmp
+Verdana
+http://lars.werner.no
+CHeaderToolbarWithMDIView
+MDI Test, with a toolbar in each CView
+Comic Sans MS
+CMainFrame
+Headercontrol: Path to the bitmap does not exists...
+Usage: LoadBackgroundPicture(<Filename>)
+CreateStdAccessibleObject
+LresultFromObject
+GetProcAddress
+GetCurrentProcess
+SetFileAttributesA
+LoadLibraryA
+VirtualAlloc
+InterlockedExchange
+GetACP
+GetLocaleInfoA
+GetThreadLocale
+GetVersionExA
+WideCharToMultiByte
+SizeofResource
+LockResource
+LoadResource
+FindResourceA
+lstrlenA
+CompareStringW
+MultiByteToWideChar
+GetStringTypeExA
+GetLastError
+lstrcmpiA
+CompareStringA
+GetVersion
+lstrcatA
+lstrcpynA
+GlobalAddAtomA
+GlobalGetAtomNameA
+GlobalUnlock
+GlobalLock
+GetModuleHandleA
+lstrcmpW
+FreeLibrary
+GlobalDeleteAtom
+GlobalFindAtomA
+GetCurrentThreadId
+FreeResource
+lstrcpyA
+EnumResourceLanguagesA
+ConvertDefaultLocale
+GetModuleFileNameA
+lstrcmpA
+GlobalAlloc
+GetCurrentThread
+GlobalFree
+GetPrivateProfileIntA
+WritePrivateProfileStringA
+GetPrivateProfileStringA
+CloseHandle
+GetFileAttributesA
+SetFileTime
+GetFileTime
+GetTempFileNameA
+GetFullPathNameA
+GetDiskFreeSpaceA
+MulDiv
+SetLastError
+LocalFree
+FormatMessageA
+InterlockedDecrement
+GlobalFlags
+RaiseException
+InitializeCriticalSection
+DeleteCriticalSection
+LocalAlloc
+LeaveCriticalSection
+GlobalReAlloc
+GlobalHandle
+EnterCriticalSection
+TlsGetValue
+TlsAlloc
+TlsSetValue
+LocalReAlloc
+TlsFree
+InterlockedIncrement
+GetCPInfo
+GetOEMCP
+GetCurrentDirectoryA
+MoveFileA
+DeleteFileA
+ReadFile
+WriteFile
+SetFilePointer
+FlushFileBuffers
+LockFile
+UnlockFile
+SetEndOfFile
+GetFileSize
+DuplicateHandle
+FindClose
+FindFirstFileA
+GetVolumeInformationA
+CreateFileA
+GetShortPathNameA
+FileTimeToSystemTime
+FileTimeToLocalFileTime
+LocalFileTimeToFileTime
+SystemTimeToFileTime
+SetErrorMode
+GetTickCount
+HeapAlloc
+GetSystemTimeAsFileTime
+HeapFree
+VirtualProtect
+GetSystemInfo
+VirtualQuery
+GetStartupInfoA
+GetCommandLineA
+ExitProcess
+RtlUnwind
+TerminateProcess
+HeapReAlloc
+HeapSize
+HeapDestroy
+HeapCreate
+VirtualFree
+IsBadWritePtr
+GetStdHandle
+UnhandledExceptionFilter
+FreeEnvironmentStringsA
+GetEnvironmentStrings
+FreeEnvironmentStringsW
+GetEnvironmentStringsW
+SetHandleCount
+GetFileType
+QueryPerformanceCounter
+GetCurrentProcessId
+SetUnhandledExceptionFilter
+LCMapStringA
+LCMapStringW
+GetStringTypeA
+GetStringTypeW
+GetTimeZoneInformation
+IsBadReadPtr
+IsBadCodePtr
+SetStdHandle
+SetEnvironmentVariableA
+KERNEL32.dll
+ShowWindow
+UpdateWindow
+EnableWindow
+GetClientRect
+FillRect
+SetRect
+CharUpperA
+GetParent
+GetWindowRect
+LoadImageA
+InvalidateRect
+OffsetRect
+SendMessageA
+TabbedTextOutA
+DrawTextA
+DrawTextExA
+GrayStringA
+DefFrameProcA
+GetMenu
+DefMDIChildProcA
+GetMenuItemID
+GetSubMenu
+GetMenuItemCount
+DrawMenuBar
+GetActiveWindow
+BringWindowToTop
+CreateWindowExA
+TranslateMDISysAccel
+TranslateAcceleratorA
+IsWindow
+SetWindowLongA
+GetWindowLongA
+SetWindowPos
+RedrawWindow
+AdjustWindowRectEx
+wsprintfA
+IsWindowEnabled
+GetWindow
+GetDesktopWindow
+SetMenu
+PostMessageA
+GetLastActivePopup
+CopyRect
+SetRectEmpty
+IntersectRect
+CreatePopupMenu
+InsertMenuItemA
+IsIconic
+IsWindowVisible
+SetActiveWindow
+LoadAcceleratorsA
+ReleaseCapture
+GetCapture
+PeekMessageA
+SetCursor
+GetClassInfoA
+LoadIconA
+ReuseDDElParam
+UnpackDDElParam
+GetDlgCtrlID
+GetKeyState
+GetDlgItem
+EqualRect
+GetFocus
+SetFocus
+WinHelpA
+GetSysColor
+GetClassNameA
+DestroyMenu
+LoadMenuA
+RegisterWindowMessageA
+PtInRect
+GetSystemMetrics
+GetWindowPlacement
+SystemParametersInfoA
+CallWindowProcA
+DefWindowProcA
+UnregisterClassA
+RegisterClassA
+SetScrollInfo
+GetScrollInfo
+DeferWindowPos
+ScreenToClient
+ShowScrollBar
+SetForegroundWindow
+GetScrollPos
+SetScrollPos
+GetScrollRange
+SetScrollRange
+TrackPopupMenu
+MessageBoxA
+ScrollWindow
+MapWindowPoints
+GetMessagePos
+GetMessageTime
+UnhookWindowsHookEx
+DestroyWindow
+GetTopWindow
+EndDeferWindowPos
+BeginDeferWindowPos
+DispatchMessageA
+GetForegroundWindow
+GetWindowTextA
+GetWindowTextLengthA
+IsChild
+SendDlgItemMessageA
+RemovePropA
+GetPropA
+SetPropA
+GetClassInfoExA
+GetClassLongA
+CallNextHookEx
+SetWindowsHookExA
+LoadBitmapA
+GetMenuCheckMarkDimensions
+CheckMenuItem
+EnableMenuItem
+GetMenuState
+ModifyMenuA
+SetMenuItemBitmaps
+SetDlgItemTextA
+IsDialogMessageA
+SetWindowTextA
+MoveWindow
+PostQuitMessage
+MapDialogRect
+SetWindowContextHelpId
+EndDialog
+GetNextDlgTabItem
+CreateDialogIndirectParamA
+ValidateRect
+GetCursorPos
+TranslateMessage
+GetMessageA
+ShowOwnedPopups
+DestroyCursor
+LoadCursorA
+ReleaseDC
+ClientToScreen
+GetWindowDC
+BeginPaint
+EndPaint
+RemoveMenu
+InsertMenuA
+AppendMenuA
+GetMenuStringA
+IsZoomed
+IsRectEmpty
+DeleteMenu
+GetSystemMenu
+SetParent
+InflateRect
+SetTimer
+KillTimer
+WindowFromPoint
+GetMenuItemInfoA
+GetSysColorBrush
+CharNextA
+CopyAcceleratorTableA
+InvalidateRgn
+SetCapture
+GetNextDlgGroupItem
+MessageBeep
+DestroyIcon
+FindWindowA
+DrawIcon
+SetWindowRgn
+CreateMenu
+PostThreadMessageA
+GetTabbedTextExtentA
+GetDCEx
+LockWindowUpdate
+RegisterClipboardFormatA
+USER32.dll
+CreateCompatibleDC
+LPtoDP
+CreateCompatibleBitmap
+GetMapMode
+DPtoLP
+GetBkColor
+BitBlt
+CreateSolidBrush
+GetObjectA
+StretchBlt
+DeleteDC
+PtVisible
+RectVisible
+TextOutA
+ExtTextOutA
+Escape
+GetClipBox
+SetTextColor
+SetBkColor
+CreateBitmap
+GetDeviceCaps
+StartDocA
+StartPage
+EndPage
+SetAbortProc
+AbortDoc
+EndDoc
+CreateDCA
+CreatePen
+GetViewportOrgEx
+Rectangle
+PatBlt
+GetStockObject
+StretchDIBits
+SelectObject
+DeleteObject
+GetCharWidthA
+CreateFontA
+SaveDC
+RestoreDC
+SetBkMode
+SetPolyFillMode
+SetROP2
+SetStretchBltMode
+SetMapMode
+ExcludeClipRect
+IntersectClipRect
+LineTo
+MoveToEx
+SetTextAlign
+SelectClipRgn
+CreateRectRgn
+GetViewportExtEx
+GetWindowExtEx
+GetPixel
+SetViewportOrgEx
+OffsetViewportOrgEx
+SetViewportExtEx
+ScaleViewportExtEx
+SetWindowOrgEx
+SetWindowExtEx
+ScaleWindowExtEx
+GetCurrentPositionEx
+ExtSelectClipRgn
+CreatePatternBrush
+GetTextMetricsA
+GetTextExtentPoint32A
+CreateFontIndirectA
+CreateRectRgnIndirect
+SetRectRgn
+CombineRgn
+GetTextColor
+GetRgnBox
+CreateEllipticRgn
+Ellipse
+GetNearestColor
+GetBkMode
+GetPolyFillMode
+GetROP2
+GetStretchBltMode
+GetTextAlign
+GetTextFaceA
+GetWindowOrgEx
+GDI32.dll
+CommDlgExtendedError
+PrintDlgA
+GetFileTitleA
+GetSaveFileNameA
+GetOpenFileNameA
+comdlg32.dll
+ClosePrinter
+DocumentPropertiesA
+OpenPrinterA
+GetJobA
+WINSPOOL.DRV
+RegCloseKey
+RegQueryValueExA
+RegOpenKeyExA
+RegCreateKeyExA
+RegSetValueExA
+RegDeleteValueA
+RegDeleteKeyA
+RegEnumKeyA
+RegOpenKeyA
+RegQueryValueA
+SetFileSecurityA
+GetFileSecurityA
+RegSetValueA
+RegCreateKeyA
+ADVAPI32.dll
+DragFinish
+DragQueryFileA
+ExtractIconA
+SHGetFileInfoA
+SHELL32.dll
+ImageList_Draw
+ImageList_GetImageInfo
+ImageList_Destroy
+COMCTL32.dll
+PathFindExtensionA
+PathFindFileNameA
+PathStripToRootA
+PathIsUNCA
+SHLWAPI.dll
+oledlg.dll
+CLSIDFromProgID
+CLSIDFromString
+CoTaskMemFree
+CoTaskMemAlloc
+CoGetClassObject
+StgOpenStorageOnILockBytes
+StgCreateDocfileOnILockBytes
+CreateILockBytesOnHGlobal
+OleTranslateAccelerator
+IsAccelerator
+OleCreateMenuDescriptor
+OleDestroyMenuDescriptor
+OleUninitialize
+CoFreeUnusedLibraries
+OleInitialize
+CoRevokeClassObject
+OleIsCurrentClipboard
+OleFlushClipboard
+CoRegisterMessageFilter
+ole32.dll
+OLEAUT32.dll
+.?AVCObject@@
+.?AVCCmdTarget@@
+.?AVCWnd@@
+.?AVCFrameWnd@@
+.?AVCMDIFrameWnd@@
+.?AVCMDIChildWnd@@
+.?AVCGdiObject@@
+.?AVCBitmap@@
+.?AVCMenu@@
+.?AVXAccessible@CWnd@@
+.?AVXAccessibleServer@CWnd@@
+.PAVCException@@
+.?AVCNoTrackObject@@
+.?AV_AFX_HTMLHELP_STATE@@
+.?AVCCmdUI@@
+.?AVCTestCmdUI@@
+.PAVCUserException@@
+.?AUIAccessibleProxy@@
+.?AUIUnknown@@
+.?AUIDispatch@@
+.?AUIAccessible@@
+.?AV?$IAccessibleProxyImpl@VCAccessibleProxy@ATL@@@ATL@@
+.?AUIOleWindow@@
+.?AVCComObjectRootBase@ATL@@
+.?AV?$CComObjectRootEx@VCComSingleThreadModel@ATL@@@ATL@@
+.?AVCAccessibleProxy@ATL@@
+.?AV?$CMFCComObject@VCAccessibleProxy@ATL@@@@
+.?AVCWinThread@@
+.?AVCWinApp@@
+.?AVCCommandLineInfo@@
+.?AVCOccManager@@
+.?AVCDocTemplate@@
+.?AVCMultiDocTemplate@@
+.PAVCMemoryException@@
+.?AVCDialog@@
+.?AVCFile@@
+.?AVCMirrorFile@@
+.?AVCException@@
+.?AVCFileException@@
+.?AVCPrintingDialog@@
+.?AV_AFX_WIN_STATE@@
+.?AVCPen@@
+.?AVCView@@
+.?AVCScrollView@@
+.?AVCPreviewView@@
+.?AVCControlBar@@
+.?AVCToolBar@@
+.?AVCToolCmdUI@@
+.PAVCObject@@
+.PAVCSimpleException@@
+.PAVCResourceException@@
+.?AVCSimpleException@@
+.?AVCResourceException@@
+.?AVCUserException@@
+.?AVCDC@@
+.?AVCClientDC@@
+.?AVCWindowDC@@
+.?AVCPaintDC@@
+.?AVCBrush@@
+.?AUIAtlStringMgr@ATL@@
+.?AVCAfxStringMgr@@
+.?AVCOleException@@
+.PAVCOleException@@
+.PAVCNotSupportedException@@
+.PAVCInvalidArgException@@
+.?AVCMemoryException@@
+.?AVCNotSupportedException@@
+.?AVCInvalidArgException@@
+.?AVCStatusBar@@
+.?AVCStatusCmdUI@@
+.?AVCDockBar@@
+.?AVCMiniFrameWnd@@
+.?AVCMiniDockFrameWnd@@
+.?AVCRgn@@
+.?AV_AFX_THREAD_STATE@@
+.?AVAFX_MODULE_STATE@@
+.?AVAFX_MODULE_THREAD_STATE@@
+.?AV_AFX_BASE_MODULE_STATE@@
+.?AVCFont@@
+.?AVCChevronOwnerDrawMenu@@
+.?AVCPtrList@@
+.?AUCThreadData@@
+.?AVCImageList@@
+.?AVCMapPtrToPtr@@
+.?AVCHandleMap@@
+.?AVCRecentFileList@@
+.?AVCCommonDialog@@
+.?AVCPrintDialog@@
+.?AVCEnumArray@@
+.?AVCEnumUnknown@@
+.?AV?$_CTypedPtrList@VCPtrList@@PAUCOleControlSiteOrWnd@@@@
+.?AVCOleControlContainer@@
+.?AV?$CTypedPtrList@VCPtrList@@PAUCOleControlSiteOrWnd@@@@
+.?AUIParseDisplayName@@
+.?AUIOleContainer@@
+.?AVXOleContainer@COleControlContainer@@
+.?AUIOleInPlaceUIWindow@@
+.?AUIOleInPlaceFrame@@
+.?AVXOleIPFrame@COleControlContainer@@
+.?AVCDataSourceControl@@
+.?AUINotifyDBEvents@@
+.?AUIOleClientSite@@
+.?AVXOleClientSite@COleControlSite@@
+.?AUIOleControlSite@@
+.?AVXOleControlSite@COleControlSite@@
+.?AVXAmbientProps@COleControlSite@@
+.?AUIPropertyNotifySink@@
+.?AVXPropertyNotifySink@COleControlSite@@
+.?AVXEventSink@COleControlSite@@
+.?AUIBoundObjectSite@@
+.?AVXBoundObjectSite@COleControlSite@@
+.?AVXNotifyDBEvents@COleControlSite@@
+.?AUIRowsetNotify@@
+.?AVXRowsetNotify@COleControlSite@@
+.?AUIOleInPlaceSite@@
+.?AUIOleInPlaceSiteEx@@
+.?AUIOleInPlaceSiteWindowless@@
+.?AVXOleIPSite@COleControlSite@@
+.?AVCOleControlSite@@
+.?AVCMemFile@@
+.?AVCNewTypeDlg@@
+.?AVCDocManager@@
+.PAVCFileException@@
+.?AVCArchiveException@@
+.PAVCArchiveException@@
+.?AVCFileDialog@@
+.?AV_AFX_MOUSEANCHORWND@@
+.?AVCOleIPFrameWnd@@
+.?AVCPreviewDC@@
+.?AVCDialogBar@@
+.?AVCMapStringToPtr@@
+.?AVCDockContext@@
+.?AVCPtrArray@@
+.?AVCToolTipCtrl@@
+.?AUISequentialStream@@
+.?AUIStream@@
+.?AVCArchiveStream@@
+.?AVCOleDispatchException@@
+.PAVCOleDispatchException@@
+.?AUIEnumVOID@@
+.?AVXEnumVOID@CEnumArray@@
+.?AVCDocItem@@
+.?AVCByteArray@@
+.?AVCOleMessageFilter@@
+.?AUIMessageFilter@@
+.?AVXMessageFilter@COleMessageFilter@@
+.?AVCObList@@
+Apartment
+.?AV_AFX_OLE_STATE@@
+.?AVCOleDialog@@
+.?AVCOleBusyDialog@@
+.?AVtype_info@@
+.?AVexception@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+Szy3?Ecs_oKeH+KDHM$1TD4@_1>QvZ4OJHG_$kuEuqUdwd)upZlEJ&1ZnV&coubJbigua#t_B4T_KO0tXR$0AIajKN
+DDLLDDDL
+LLDDLD
+DDLDLD
+LDDDDDDD
+DDDDDDDDD
+DDDDDDDDDDD
+DDDDDDDDDDDDD
+DDDDDDD
+DDDDD@
+Legjg:E<
+M.Jl#W|;n
+#ID:1
+5L(x)e
+,u[Q!G,
+>t7nb-~"/gp#
+P'6T#
+~;TD6r
+6^k7T'
+>0#Qm[7*K94`
+;dRFJE
+zw]g:yY
+:83,:D
+iOYrIX.X}
+J6nf4e
+MA#N[w
+&}*Q (|
+_ija4=Ruv*n
+@B[ *
+#QsP<{
+AMoe{b
+EgOVKYVL
++<PR_ 
+~0T"E}k
+x]%4j6
+\Ux0Eds
+2wZ~{k|wh
+m27%[6
+A;@u#n
+2F\e(gU
+q-yKEf
+>T&JHm
+(uP87T
+^ NM=}
+e_..<@0Z0
+p9uLQH
+}Qq%A!p'
+De-@Kt
++_ftpu
+F,-S\^
+('m2j:/
+$HCJmgg
+$Tv&(<w6
+fH3?:3
+ygN5%4P
+Pq|,cj^G
+g|=e)}
+<Db1t8
+{zYD}[
+["9)8Qh
+[\@?*
+n7~"v@
+-{j4zK
+PcQ,4
+^?s6 I
+1ooNVbb1
+9!:mN(
+Gpn{'Y
+q7t{*?.
+?8@c <
+#&##^'
+<K#Gby
+f3[4!E
+/Uf\N(;{
+8[oSF
+%"XGE;wV
++MXLwU:
+O7[5n
+O@[2JH!=q
+j2lWW
+5h~4c^G
+7"IaHz\
+O+@F=B
+`x?Q[.
+[ *\Fj
+GXF!Nh
+vmJ3&rJ
+_o}tag
+L,p"%Ji
+"@-iikF
+p/fMM 
+X}fKY=i
+r1_DeO
+/^1H:6
+UWA7>H
+,-t_q}a]
+aj\vKtY
+gE{k%F
+NEKM5F&
+5X6j["
+:&H3ci>
+$aP!/eL*GM
+<(-lt$
+&@T+:N
+@pj<ExF
+O5-Hzf5
+/Ks<?o
+{k.+y
+)&yN_/@s
+YTmpN<
+<w<qjM
+].3}+B
+[^yKHzI
+!z/OS8
+AD1[5D
+QF*wKFW
+kX4ov
+)NQ2kt.q
+8 r^=
+};I""&
+&93<T3
+B!E2^8
+|DO*DB
+-|= `p
+",V%tE
+W~tLzq
+T 4bEP
+@mc`YL
+/Yplsu
+(DK.4E
+3~2BLp@
+i`^*o3
+Bnh$7XBp
+4\2JyZ
+D L/l]~
+Rs$r<YY
+vH@&JR
+_u^C[d
+hNr^(h
+`u}DGn;R
+y>S,n?
+1JUBen
+#+2C=z
+EVP~#pp
+:vZYnLM
+|)q/l4
+PG[C\z
+P!9M_z
+*-uvcrF
+}__Bq$
+]Z4XxZ
+rSwfoM
+;xZVyYP
+IeSi!J#
+7|nwPj
+9_m7U1
+*?zD*yw
+^my(1Q
+i#shWIh@
+27\J[v+
+neFG3Z
+{xcc{^
+4p}>HL.+:
+<)wAb
+<:i7/W
+6EgO_1B)K-
+arl)at9
+N9TBi+{
+['}Rqw!
+]^JUL/
+S-h(tG
+@ y4H%
+C*;<W9b
+4;O<LiE*
+[:.2_/M
+&1&Zvyv?
+>#:w%k
+{ZPFts
+HZ"|<x
+DK8PX3*
+\?WTz,c
+b&e*J*:
+@;c@\x
+.DY\Am)E>,
+8#?%!y
+W&/8TcV
+3PSh0|
+5pKvK9
+zuk"[,
+P0Uspm
+vY"$*P
+I;nPo5M
+/),c2Vgh
+# Y X4
+lS8x"K*
+7&*ITi
+=tV)A0
+@QDe>S
+80/Omm?
+^!*v\(
+OI*_U
+b>JUCk:KJPi
+_"1aOJ
+n RVAD
+q%e>`z
+0O2(T7
+(Q*2QY
+1oI_28
+H&ViCQ
+R wMKD<
+Pj:FfX
+9p_p(nH
+23!]pQ
+|{Dz5Rb
+z,D~%-\
+(.Cpjm
+Y7He k
+e\h_,S
+i8LVeb
+:D6SA}
++/wO+p
+|y2~w1
+^k(M]T)~wAr
+,lYbiQ
+[3xOO.
+/n/_#?4$
+nw*f_Rk
+t>%p01
+1kbRi}
+(5pY4eH
+VHg<VeU
+.a3K?U]
+n"/R/B3
+p`e7WV9`T
+nd&7AJL
+HG21},I
+ktL07[
+<3#tLR[
+!]X<b.w
+sr;^BA
+^&3D$l
+'YO`B
+I^Nk6"
+E29up{
+yaW5Vl
+\R[,y<
+^W6+\>
+;~+.Epz
+l@ H< 
+IkB)y
+}&1U:(
+|XIYWq
+/k>,`G
+]5XOMKP`
+a+paz/
+nuR]f +
+,>lH,#
+4<TFoA
+\g)b'Y
+4e42gr;
+v(seqO-a
+:B!o4)
+[nzH8q,A
+e$b;;t
+.%5`/k
+Re#izo
+CG0/AV
+cplQq4=0F'0E<;
+L.c+M##
+izv&#[
+@*]1]4xYpYH
+YPF4T
+)vAp@!
+uIpV]Q
+?#pn!2
+MQyUEY
+23Gz/Az
+CahvMs
+Tws]LO
+9_HvBa
+HS,>r_x
+jJqR0{
+k~d.i
+^UAU$R(
+(N^5r!Mb
+zcux#/
+Bbb8BEm;[
+4<LH(^!m
+&}(3@g
+j[I;lA
+$@4Veg#
+7S[U+4
+8"D^OP
++H8PNc
+PNQ=1(
+!q{MX)%
+SlC6w?
+rNnMHf
+ZJ+ oR
+4B}Wbl
+!ILo>\-D
+7?@;?l7c
+wQW{TY*
+j_>0;B
+(2t_5"7{
+41Qjglp
+,tFqc/OMl-
+H^_nC~
+?/+L}`
+_t&C=j
+LVH0#1
+gLEDt<
+Id$-Ns&,
+]1L}w_
+:"];D*c
+|R5rtI
+#EKM"QH
+2m/&1w
+"T?L;N(I8y*]
+'+I.f:L#
+Zt% #v
+#%nk]n
+I3T+YD
+&N1 P?
+cym#*'
+5_oD,A\
+!,#y80K
+PyQioU##/#QZ
+D0T Zq
+x =3PS
+|S-Q1o
+i1d$|A
+.yI =(
+@Y_(Hg
+<+v4y-
+0IYYCz
+j\6!j7
+N@2O)U
+F&zoi@
+3^APy1
+d:f~KK 
+;t0z*/
+JKaTT9
+]x[K:
+e#bK"?L
+AkDe<D
+J o[0Vg-
+,nZnwK9
+)H;Nf!A
+78";wu
+:_$qr}
+`Dy t
+8i2,g|
+^bv=x;
+/T3|p&Y
+mgIMPY~
+9Ioy]}
+7;,L0]
+,?XRM/
+N`8_pwz
+ ;.Qy4
+T(9(35
+i TPKI
+VY2.)$Uw&_,KK
+5iw(y 
+zhtyh
+#5)/1L
+/>[[#5
+me;STH
+yA5N0(
+0+oKlE#
+3E%V)
+my3;d%b
+r!H^I
+=Fl2`9
+{=n(%}@L
+gHh)1#
+/bHt9t
+FV:$<-
+?BoJ:"R4
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwtGwwwwwwwwwwwwwwwtDDDDw
+wwGtwDwwwwwtDDDDw
+pwwwwppwwww
+wwGttwGwwwwt
+33330wp3
+wwGttwGwwwwt
+wwtDtwGwp
+33330p333333
+wwwttDwwp
+wwwwpppwww
+wwp0wwww
+wwp0wwww
+OGp888888
+wwp0wwww
+wwwppwwwp
+p0wwww
+DDGwp8
+wwwwwwww
+p0wwww
+wwwwwwpwppp0wwww
+wwwwwww
+wwwwwww
+wwwwwp
+YaccDoDefaultAction
+accHitTest
+accNavigate
+accLocation
+accSelect
+accDefaultAction
+accSelection
+accFocus
+accKeyboardShortcut
+accHelpTopic
+accHelp
+accState
+accRole
+accDescription
+accValue
+accName
+accChild
+accChildCount
+accParent
+(null)
+        h((((                  H
+         (((((                  H
+         h((((                  H
+                                 H
+Ctrl+N
+&Open...
+Ctrl+O
+P&rint Setup...
+Recent File
+&Toolbar
+&Status Bar
+&About HeaderToolbarWithMDI...
+Ctrl+N
+&Open...
+Ctrl+O
+&Close
+Ctrl+S
+Save &As...
+&Print...
+Ctrl+P
+Print Pre&view
+P&rint Setup...
+Recent File
+Ctrl+Z
+Ctrl+X
+Ctrl+C
+&Paste
+Ctrl+V
+&Toolbar
+&Status Bar
+&Window
+&New Window
+&Cascade
+&Arrange Icons
+&About HeaderToolbarWithMDI...
+About HeaderToolbarWithMDI
+MS Sans Serif
+HeaderToolbarWithMDI Version 1.0
+Copyright (C) 2003
+VS_VERSION_INFO
+StringFileInfo
+040904B0
+CompanyName
+FileDescription
+HeaderToolbarWithMDI MFC Application
+FileVersion
+1, 0, 0, 1
+InternalName
+HeaderToolbarWithMDI
+LegalCopyright
+Copyright (C) 2003
+LegalTrademarks
+OriginalFilename
+HeaderToolbarWithMDI.EXE
+ProductName
+HeaderToolbarWithMDI Application
+ProductVersion
+1, 0, 0, 1
+VarFileInfo
+Translation
+MS Shell Dlg
+Cancel
+MS Shell Dlg
+Printing
+Document :
+Page :
+Printer :
+Port :
+Cancel
+MS Shell Dlg
+&Print...
+&Next Page
+Pre&v Page
+Zoom &In
+Zoom &Out
+&Close
+HeaderToolbarWithMDI>
+Header
+Header
+HeaderToolbarWithMDI.Document
+Header Document
+HeaderToolbarWithMDI
+Create a new document
+Open an existing document
+OpenClose the active document
+Save the active document
+Save0Save the active document with a new name
+Save As&Change the printing options
+Page Setup3Change the printer and printing options
+Print SetupPrint the active document
+ Display full pages
+Print Preview
+?Display program information, version number and copyright
+About4Quit the application; prompts to save documents
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document(Switch to the next window pane
+Next Pane5Switch back to the previous window pane
+Previous Pane
+6Open another window for the active document
+New Window7Arrange icons at the bottom of the window
+Arrange Icons/Arrange windows so they overlap
+Cascade Windows5Arrange windows as non-overlapping tiles
+Tile Windows5Arrange windows as non-overlapping tiles
+Tile Windows(Split the active window into panes
+Erase the selection
+Erase everything
+Erase All3Copy the selection and put it on the Clipboard
+Copy1Cut the selection and put it on the Clipboard
+Find the specified text
+FindInsert Clipboard contents
+Repeat the last action
+Repeat1Replace specific text with different text
+Replace%Select the entire document
+Select All
+Undo the last action
+Undo&Redo the previously undone action
+'Show or hide the toolbar
+Toggle ToolBar,Show or hide the status bar
+Toggle StatusBar
+Change the window size
+Change the window position
+Reduce the window to an iconEnlarge the window to full size"Switch to the next document window&Switch to the previous document window9Close the active window and prompts to save the documents
+!Restore the window to normal size
+Activate Task List
+Activate this window
+Save As
+All Files (*.*)
+Untitled
+'Close print preview mode
+Cancel Preview
+an unnamed file
+No error message is available.'An unsupported operation was attempted.$A required resource was unavailable.
+Out of memory.
+An unknown error has occurred.$An invalid argument was encountered.
+Invalid filename.
+Failed to open document.
+Failed to save document.
+Save changes to %1? Failed to create empty document.
+The file is too large to open.
+Could not start print job.
+Failed to launch help.
+Internal application error.
+Command failed.)Insufficient memory to perform operation.PSystem registry entries have been removed and the INI file (if any) was deleted.BNot all of the system registry entries (or INI file) were removed.FThis program requires the file %s, which was not found on this system.tThis program is linked to the missing export %s in the file %s. This machine may have an incompatible version of %s.
+#Unable to read write-only property.#Unable to write read-only property.
+Unexpected file format.V%1
+Cannot find this file.
+Please verify that the correct path and file name are given.Destination disk drive is full.5Unable to read from %1, it is opened by someone else.AUnable to write to %1, it is read-only or opened by someone else..An unexpected error occurred while reading %1..An unexpected error occurred while writing %1.
+Please enter an integer.
+Please enter a number.*Please enter an integer between %1 and %2.(Please enter a number between %1 and %2.(Please enter no more than %1 characters.
+Please select a button.*Please enter an integer between 0 and 255. Please enter a positive integer. Please enter a date and/or time.
+Please enter a currency.
+Please enter a GUID.
+Please enter a time.
+Please enter a date.
+No error occurred.-An unknown error occurred while accessing %1.
+%1 was not found.
+%1 contains an invalid path.=%1 could not be opened because there are too many open files.
+Access to %1 was denied..An invalid file handle was associated with %1.<%1 could not be removed because it is the current directory.6%1 could not be created because the directory is full.
+Seek failed on %15A hardware I/O error was reported while accessing %1.0A sharing violation occurred while accessing %1.0A locking violation occurred while accessing %1.
+Disk full while accessing %1..An attempt was made to access %1 past its end.
+No error occurred.-An unknown error occurred while accessing %1./An attempt was made to write to the reading %1..An attempt was made to access %1 past its end.0An attempt was made to read from the writing %1.
+%1 has a bad format."%1 contained an unexpected object. %1 contains an incorrect schema.
+#Unable to load mail system support.
+Mail system DLL is invalid.!Send Mail failed to send message.
+pixels
+%1: %2
+Continue running script?
+Dispatch exception: %1
+Uncheck
+&One Page
+&Two Page
+Page %u
+Page %u
+Pages %u-%u
+Output.prn1Printer Files (*.prn)|*.prn|All Files (*.*)|*.*||
+Print to File

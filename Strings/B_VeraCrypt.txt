@@ -1,0 +1,2048 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+@.reloc
+=WPWSj
+PPPPPP
+PPPPPP
+QVVVVVVVR
+uo9=T&H
+QWWj@WWWW3
+SSSSSh
+PQSSSh
+9q<v9A<s
+t_9u[j 
+<+t%<-t!<0u
+ULRPh 
+H$99tX
+H 99t7
+RSPQWV
+RSPQWV
+M QRPh
+PSQRWV
+M QRPh
+PSQRWV
+RSPQVW
+t$<)t$</u
+PVVj#V
+tbHt5Ht
+SSSSh,
+Nl9~\r
+PWWhH "
+RWWh` "
+;0u RVj
+hAREVj
+=AREVt
+SVWPQj
+SSSQRSP
+j\h 0H
+hAREVj
+tLh 0H
+A(;A$t
+SVWj\3
+SSSSSSQj
+t5h$PL
+tw=0.0.u
+V8;N4r
+;^4rw
+uqf9NZuk2
+F 9G u 
+O(;N(u
+W,;V,u
+O0;N0u
+W4;V4t
+9^4rkw
+t(9q t#9q$t
+^(9^$u
+~49F4u
+wC;N(w>
+VD;Q s
+VD;Q(s
+Nl;N`sM
+Fl9Flr
+tB9_ t=9_$t8
+t19>u-
+t290u.
+VD)~p)~l
+wl+w\+
+Nlf+Np
+Vlf+Vd
+O(9O$u
+ID^[_]
+WVh`6C
+t7Ht'Ht
+9G0u19W4u,S
+QPPPPR
+9^4r*w
+@PAQBR
+@8l>+
+D7q/;M
+SVWj>3
+QQSVWd
+uTVWh.wE
+PPPPPPPP
+t"SS9] u
+.t|PVj@
+uMhdXG
+t=MOC
+HtHu4j
+t*=RCC
+;7|G;p
+tR99u2
+uh\mG
+^SSSSS
+u]SSSP
+tCHt(Ht 
+URPQQh
+HHt$HHt
+?If90t
+j@j ^V
+tWItHIt9It 
+QQSVWh
+0Wh\`L
+>:u8FV
+VVVVVQRSSj
+F Pj*S
+F$Pj+Sj
+F(Pj,S
+F,Pj-S
+F0Pj.S
+F4Pj/S
+F8PjDS
+F<PjES
+F@PjFS
+FDPjGS
+FHPjHS
+FLPjIS
+FPPjJS
+FTPjKS
+FXPjLS
+F\PjMS
+F`PjNS
+FdPjOS
+FhPj8S
+FlPj9S
+FpPj:S
+FtPj;S
+FxPj<S
+F|Pj=S
+C PjPV
+C$PjQV
+C*PjTV
+C+PjUV
+C,PjVV
+C-PjWV
+C.PjRV
+C/PjSV
+CHPjPV
+CLPjQV
+PPPPPPPP
+;t$,v-
+UQPXY]Y[
+t VV9u
+HHt$HHt
+<+t"<-t
++t HHt
+RegOpenKeyTransactedW
+RegCreateKeyTransactedW
+RegDeleteKeyTransactedW
+RegDeleteKeyExW
+V/C/I/N/S/C/R/C
+CANT_VERIFY_PACKAGE_INTEGRITY
+VCINSTRT
+DIST_PACKAGE_CORRUPTED
+ERR_MEM_ALLOC
+CANNOT_READ_FROM_PACKAGE
+MakeSelfExtractingPackage:348
+MakeSelfExtractingPackage:151
+CANNOT_WRITE_FILE_X
+?EXTRACTING_VERB
+CANT_CREATE_FOLDER
+ExtractAllFilesThread:647
+CLOSE_TC_FIRST
+DoDriverUnload:1736
+DISMOUNT_ALL_FIRST
+SETUP_FAILED_BOOT_DRIVE_ENCRYPTED
+SETUP_FAILED_BOOT_DRIVE_ENCRYPTED_DOWNGRADE
+SYS_ENCRYPTION_UPGRADE_UNSUPPORTED_ON_VISTA_SP0
+UPDATE_TC_IN_DECOY_OS_FIRST
+DoDriverUnload:1641
+NODRIVER
+DoDriverUnload:1635
+BOOT_LOADER_UPGRADE_FAILED
+BOOT_LOADER_UPGRADE_OK
+BOOT_LOADER_UPGRADE_OK_HIDDEN_OS
+INSTALLER_UPDATING_BOOT_LOADER
+IDD_INSTL_DLG
+LCIDToLocaleName
+invalid string position
+string too long
+ADDING_REG
+INSTALLING
+REMOVING
+ADDING_ICON
+COM_REG_FAILED
+REG_INSTALL_FAILED
+DoRegInstall:1323
+DoApplicationDataUninstall:1381
+REMOVING_APPDATA
+DRIVER_UINSTALL_FAILED
+DoServiceUninstall:1609
+REMOVING_DRIVER
+STOPPING
+STOPPING_DRIVER
+DoShortcutsUninstall:1877
+DoShortcutsInstall:1946
+UNINSTALL_FAILED
+INSTALL_FAILED
+UNINSTALL_OK
+INSTALL_OK
+SETUP_UPDATE_OK
+FAILED_SYS_RESTORE
+CREATING_SYS_RESTORE
+SRSetRestorePointW
+STARTING
+list<T> too long
+UNINSTALL_OF_FAILED
+INSTALL_OF_FAILED
+DoFilesInstall:925
+DoFilesInstall:898
+REMOVING_REG
+COM_DEREG_FAILED
+SYS_ENC_UPGRADE_FAILED
+ROLLBACK
+INSTALL_COMPLETED
+FAILED_TO_DISABLE_PAGING_FILES
+DoInstall:2268
+DoInstall:2218
+FINALIZE
+CONFIRM_EXIT_UNIVERSAL
+TC_INSTALLER_IS_RUNNING
+UNINSTALL
+REPAIR_REINSTALL
+SELECT_AN_ACTION
+SETUP_ADMIN
+SETUP_FINISHED_INFO_DON
+SETUP_FINISHED_TITLE_DON
+SETUP_FINISHED_UPGRADE_TITLE_DON
+EXTRACTION_FINISHED_TITLE_DON
+INSTALL_IN_PROGRESS
+SETUP_PROGRESS_INFO
+SETUP_PROGRESS_TITLE
+INSTALL
+SETUP_UPGRADE_DESTINATION
+SETUP_OPTIONS_INFO
+SETUP_OPTIONS_TITLE
+EXTRACTION_IN_PROGRESS
+EXTRACTION_PROGRESS_INFO
+EXTRACT
+AUTO_FOLDER_CREATION
+EXTRACTION_OPTIONS_INFO
+EXTRACTION_OPTIONS_TITLE
+SETUP_MODE_HELP_INSTALL
+SETUP_MODE_HELP_UPGRADE
+SETUP_MODE_HELP_EXTRACT
+SETUP_MODE_INFO
+SETUP_MODE_TITLE
+UPGRADE
+CANNOT_DISPLAY_LICENSE
+CANCEL
+SETUP_WIZARD_PAGE_%d
+donate
+SELECT_DEST_DIR
+EXTRACTION_FINISHED_INFO
+IDCLOSE
+EXTRACTION_FAILED
+TRAVELER_UAC_NOTE
+TRAVELER_LIMITATIONS_NOTE
+CONFIRM_RESTART
+UPGRADE_OK_REBOOT_REQUIRED
+CONFIRM_DISABLE_FAST_STARTUP
+beginnerstutorial
+AFTER_INSTALL_TUTORIAL
+releasenotes
+AFTER_UPGRADE_RELEASE_NOTES
+bad allocation
+Missing operating system
+Error loading operating system
+Invalid partition table
+VeraCrypt::Elevator::CallDriver:732
+VeraCrypt::Elevator::ReadWriteFile:733
+VeraCrypt::Elevator::RegisterFilterDriver:734
+VeraCrypt::Elevator::SetDriverServiceStartType:736
+VeraCrypt::Elevator::GetFileSize:737
+VeraCrypt::Elevator::DeviceIoControl:738
+VeraCrypt::Elevator::InstallEfiBootLoader:739
+VeraCrypt::Elevator::UpdateSetupConfigFile:744
+config
+vector<T> too long
+ios_base::eofbit set
+ios_base::failbit set
+ios_base::badbit set
+VeraCrypt::File::Read:842
+VeraCrypt::File::Read:839
+VeraCrypt::File::Read:826
+VeraCrypt::File::Read:835
+VeraCrypt::File::Read:794
+VeraCrypt::File::SeekAt:862
+VeraCrypt::File::SeekAt:853
+VeraCrypt::File::GetFileSize:882
+VeraCrypt::File::GetFileSize:871
+VeraCrypt::File::IoCtl:996
+VeraCrypt::BootEncryption::CallDriver:1103
+VeraCrypt::BootEncryption::GetDriverServiceStartType:1235
+VeraCrypt::BootEncryption::GetVolumeProperties:1486
+bad locale name
+bad cast
+VeraCrypt::BootEncryption::GetWindowsDirectoryW:1425
+VeraCrypt::GetVolumeESP:2538
+RtlNtStatusToDosError
+VeraCrypt::GetVolumeESP:2522
+NtQuerySystemInformation
+VeraCrypt::EfiBoot::SetStartExec:2712
+VeraCrypt::BootEncryption::SetDriverServiceStartType:1299
+VeraCrypt::BootEncryption::SetDriverServiceStartType:1296
+VeraCrypt::BootEncryption::SetDriverServiceStartType:1284
+VeraCrypt::BootEncryption::SetDriverServiceStartType:1265
+VeraCrypt::BootEncryption::SetDriverServiceStartType:1260
+PIM (Leave empty for default): 
+(0) TEST ALL (1) SHA512 (2) WHIRLPOOL (3) SHA256 (4) RIPEMD160 (5) STREEBOG
+Hash: 
+login.bmp
+Password: 
+postexec file(EFI\Microsoft\Boot\bootmgfw_ms.vc)
+ActionSuccess
+DcsBmlDriver
+DcsBmlLockFlags
+AuthorizeRetry
+AuthorizeVisible
+PimRqt
+PimMsg
+HashRqt
+\EFI\VeraCrypt\login.bmp
+PasswordPicture
+PasswordMsg
+PasswordType
+postexec
+VeraCrypt::EfiBoot::PrepareBootPartition:2648
+VeraCrypt::EfiBoot::PrepareBootPartition:2631
+VeraCrypt::EfiBoot::CopyFileW:3043
+VeraCrypt::BootEncryption::GetSystemLoaderBackupPath:3680
+VeraCrypt::BootEncryption::RenameDeprecatedSystemLoaderBackup:3698
+VeraCrypt::BootEncryption::RegisterFilter:4755
+VeraCrypt::BootEncryption::RegisterFilter:4863
+VeraCrypt::BootEncryption::RegisterFilter:4828
+VeraCrypt::BootEncryption::RegisterFilter:4777
+VeraCrypt::BootEncryption::RegisterFilter:4739
+UpperFilters
+veracrypt
+VeraCrypt::BootEncryption::RegisterFilter:4750
+DumpFilters
+veracrypt.sys
+VeraCrypt::BootEncryption::RegisterFilterDriver:4893
+VeraCrypt::BootEncryption::RegisterSystemFavoritesService:4993
+VeraCrypt::BootEncryption::RegisterSystemFavoritesService:4988
+VeraCrypt::BootEncryption::RegisterSystemFavoritesService:4954
+VeraCrypt::BootEncryption::RegisterSystemFavoritesService:4937
+VeraCrypt::BootEncryption::RegisterSystemFavoritesService:4927
+VeraCrypt::BootEncryption::RegisterSystemFavoritesService:4900
+VeraCrypt::BootEncryption::UpdateSystemFavoritesService:5054
+VeraCrypt::BootEncryption::UpdateSystemFavoritesService:5032
+VeraCrypt
+Parameter incorrect.
+(If you report a bug in connection with this, please include the following technical information in the bug report:
+bootmgfw.pdb
+\EFI\Microsoft\Boot\bootmgfw.efi
+HashMsg
+VeraCrypt::File::Write:970
+VeraCrypt::File::Write:967
+VeraCrypt::File::Write:943
+VeraCrypt::File::Write:963
+VeraCrypt::File::Write:951
+VeraCrypt::File::Write:945
+VeraCrypt::File::Write:928
+VeraCrypt::File::Write:901
+VeraCrypt::BootEncryption::GetSystemDriveConfiguration:1646
+VeraCrypt::BootEncryption::CreateBootLoaderInMemory:1746
+VeraCrypt::BootEncryption::CreateBootLoaderInMemory:1829
+VeraCrypt::BootEncryption::CreateBootLoaderInMemory:1857
+VeraCrypt::BootEncryption::CreateBootLoaderInMemory:1864
+VeraCrypt::BootEncryption::CreateBootLoaderInMemory:1883
+VeraCrypt::BootEncryption::CreateBootLoaderInMemory:1845
+VeraCrypt::BootEncryption::CreateBootLoaderInMemory:1754
+VeraCrypt::BootEncryption::CreateBootLoaderInMemory:1741
+Streebog
+Whirlpool
+SHA-512
+RIPEMD-160
+SHA-256
+GOST89
+Camellia
+Twofish
+Serpent
+VeraCrypt::BootEncryption::CreateBootLoaderInMemory:1684
+ERROR_MBR_PROTECTED
+VeraCrypt::BootEncryption::InstallBootLoader:3604
+WINDOWS_EFI_BOOT_LOADER_MISSING
+VeraCrypt::BootEncryption::InstallBootLoader:3456
+VeraCrypt::BootEncryption::InstallBootLoader:3365
+VeraCrypt::BootEncryption::InstallBootLoader:3347
+VeraCrypt::BootEncryption::InstallBootLoader:3339
+VeraCrypt::BootEncryption::InstallBootLoader:3331
+VeraCrypt::BootEncryption::InstallBootLoader:3323
+ADMIN_PRIVILEGES_WARN_DEVICES
+VeraCrypt::BootEncryption::InstallBootLoader:3295
+map/set<T> too long
+invalid map/set<T> iterator
+OUTOFMEMORY
+?EXCEPTION_REPORT_EXT
+EXCEPTION_REPORT_TITLE
+EXCEPTION_REPORT_EXT_FILESEL
+RtlGetVersion
+NO_OS_VER
+IsWow64Process
+Wow64EnableWow64FsRedirection
+DEVICE_NOT_READY_ERROR
+SYS_ASSIGN_DRIVE_LETTER
+SYS_AUTOMOUNT_DISABLED
+WTHelperGetProvCertFromChain
+WTHelperGetProvSignerFromChain
+WTHelperProvDataFromStateData
+WinVerifyTrust
+SHGetKnownFolderPath
+GetPwrCapabilities
+contact
+downloads
+hiddenvolprotection
+favorites
+sysfavorites
+isoburning
+hashalgorithms
+cascades
+camellia
+kuznyechik
+twofish
+serpent
+hiddenvolume
+sysencprogressinfo
+hiddensysenc
+introsysenc
+introcontainer
+keyfiles
+onlinehelp
+parallelization
+hwacceleration
+history
+tutorial
+localizations
+IDD_ABOUT_DLG
+HELP_READER_ERROR
+GetTempPathString:5359
+UAC_INIT_ERROR
+Utf8StringToWide:11642
+ERR_HARDWARE_ERROR
+ERR_ACCESS_DENIED
+ABOUTBOX
+InitDialog:1790
+font_fixed
+InitDialog:1765
+font_title
+InitDialog:1751
+font_bold
+NOFONT
+InitDialog:1737
+font_normal
+INIT_DLL
+InitApp:3277
+InitApp:3265
+INIT_REGISTER
+InitApp:3247
+LARGE_IDE_WARNING_2K_REGISTRY
+LARGE_IDE_WARNING_2K
+LARGE_IDE_WARNING_XP
+UNSUPPORTED_OS
+Language
+CreateProcessWithTokenW
+ChangeWindowMessageFilter
+SHStrDupW
+SHDeleteKeyW
+SetupOpenInfFileW
+SetupInstallFromInfSectionW
+SetupDiOpenClassRegKey
+SetupCloseInfFile
+InitApp:3079
+InitApp:3078
+ImageList_Create
+ImageList_Add
+InitCommonControls
+InitApp:3064
+InitApp:3013
+InitApp:3012
+SetDefaultDllDirectories
+SetSearchPathMode
+SetDllDirectoryW
+DRIVER_INSTALL_FAILED
+DoDriverInstall:4372
+STARTING_DRIVER
+INSTALLING_DRIVER
+PASSWORD_WRONG_CAPSLOCK_ON
+PASSWORD_WRONG
+PASSWORD_OR_KEYFILE_WRONG
+ERR_UNKNOWN
+UNSUPPORTED_TRUECRYPT_FORMAT
+ERR_PARAMETER_INCORRECT
+ERR_SYS_HIDVOL_HEAD_REENC_MODE_WRONG
+ERR_NONSYS_INPLACE_ENC_INCOMPLETE
+ERR_ENCRYPTION_NOT_COMPLETED
+ERR_VOL_FORMAT_BAD
+ERR_SELF_TESTS_FAILED
+NEW_VERSION_REQUIRED
+DRIVER_VERSION
+ACCESS_DENIED
+NO_FREE_DRIVES
+VOL_MOUNT_FAILED
+FILE_OPEN_FAILED
+VOL_ALREADY_MOUNTED
+ERR_CIPHER_INIT_WEAK_KEY
+ERR_CIPHER_INIT_FAILURE
+VOL_SEEKING
+WRONG_VOL_TYPE
+COMPRESSION_NOT_SUPPORTED
+VOL_SIZE_WRONG
+OPENFILES_LOCK
+OPENFILES_DRIVER
+NOT_FOUND
+SaveBufferToFile:9415
+SaveBufferToFile:9397
+GetSystemWow64DirectoryW
+RegisterDriverInf:13325
+RegisterDriverInf:13322
+",0x0001
+Reg=veracrypt_reg
+[veracrypt_reg]
+HKR,,"
+[veracrypt]
+#define %127s %d
+IDHELP
+IDCANCEL
+VeraCrypt: Error while decoding UTF-8 string
+VeraCrypt: Unknown '\' escape sequence in string
+version
+langid
+language
+1.24-Update7
+prog-version
+localization
+translators
+LANG_PACK_VERSION
+IDD_LANGUAGE
+&langpackversion=%s&lang=%s
+1.2.11
+incorrect length check
+incorrect data check
+invalid distance too far back
+invalid distance code
+invalid literal/length code
+invalid distances set
+invalid literal/lengths set
+invalid bit length repeat
+invalid code -- missing end-of-block
+too many length or distance symbols
+invalid code lengths set
+invalid stored block lengths
+invalid block type
+header crc mismatch
+unknown header flags set
+incorrect header check
+invalid window size
+unknown compression method
+ deflate 1.2.11 Copyright 1995-2017 Jean-loup Gailly and Mark Adler 
+1.2.11
+incompatible version
+buffer error
+insufficient memory
+data error
+stream error
+file error
+stream end
+need dictionary
+ inflate 1.2.11 Copyright 1995-2017 Mark Adler 
+Qkkbal
+[-&LMb#{'
+w+OQvr
+INSKyu
+)\ZEo^m/
+H*0"ZOW
+mj>zjZ
+IiGM>nw
+ewh/?y
+OZw3(?
+V_:X1:
+Operation cancelled
+Compressed data invalid
+Tell error
+Resource still in use
+Operation not supported
+Wrong password provided
+No password provided
+Read-only archive
+Encryption method not supported
+Entry has been deleted
+Can't remove file
+Zip archive inconsistent
+Internal error
+Not a zip archive
+Invalid argument
+Premature end of file
+Compression method not supported
+Entry has been changed
+Malloc failure
+Zlib error
+Failure to create temporary file
+Can't open file
+File already exists
+No such file
+Containing zip archive was closed
+CRC error
+Write error
+Read error
+Seek error
+Closing zip archive failed
+Renaming temporary file failed
+Multi-disk zip archives not supported
+No error
+:&;&e&f&c&`&" 
+%B&@&j&k&<&
+%$%a%b%V%U%c%Q%W%]%\%[%
+%<%^%_%Z%T%i%f%`%P%l%g%h%d%e%Y%X%R%S%k%j%
+e"d" #!#
+D7q/;M
+ZZZZZZZZUSER32.dll
+GDI32.dll
+ADVAPI32.dll
+SHELL32.dll
+ole32.dll
+OLEAUT32.dll
+generic
+iostream
+system
+iostream stream error
+Unknown exception
+CorExitProcess
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+LC_TIME
+LC_NUMERIC
+LC_MONETARY
+LC_CTYPE
+LC_COLLATE
+LC_ALL
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+Visual C++ CRT: Not enough memory to complete call to strerror.
+bad exception
+FlsFree
+FlsSetValue
+FlsGetValue
+FlsAlloc
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+(null)
+`h````
+xpxxxx
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+united-states
+united-kingdom
+trinidad & tobago
+south-korea
+south-africa
+south korea
+south africa
+slovak
+puerto-rico
+pr-china
+pr china
+new-zealand
+hong-kong
+holland
+great britain
+england
+britain
+america
+swedish-finland
+spanish-venezuela
+spanish-uruguay
+spanish-puerto rico
+spanish-peru
+spanish-paraguay
+spanish-panama
+spanish-nicaragua
+spanish-modern
+spanish-mexican
+spanish-honduras
+spanish-guatemala
+spanish-el salvador
+spanish-ecuador
+spanish-dominican republic
+spanish-costa rica
+spanish-colombia
+spanish-chile
+spanish-bolivia
+spanish-argentina
+portuguese-brazilian
+norwegian-nynorsk
+norwegian-bokmal
+norwegian
+italian-swiss
+irish-english
+german-swiss
+german-luxembourg
+german-lichtenstein
+german-austrian
+french-swiss
+french-luxembourg
+french-canadian
+french-belgian
+english-usa
+english-us
+english-uk
+english-trinidad y tobago
+english-south africa
+english-nz
+english-jamaica
+english-ire
+english-caribbean
+english-can
+english-belize
+english-aus
+english-american
+dutch-belgian
+chinese-traditional
+chinese-singapore
+chinese-simplified
+chinese-hongkong
+chinese
+canadian
+belgian
+australian
+american-english
+american english
+american
+Norwegian-Nynorsk
+Illegal byte sequence
+Directory not empty
+Function not implemented
+No locks available
+Filename too long
+Resource deadlock avoided
+Result too large
+Domain error
+Broken pipe
+Too many links
+Read-only file system
+Invalid seek
+No space left on device
+File too large
+Inappropriate I/O control operation
+Too many open files
+Too many open files in system
+Is a directory
+Not a directory
+No such device
+Improper link
+File exists
+Resource device
+Unknown error
+Bad address
+Permission denied
+Not enough space
+Resource temporarily unavailable
+No child processes
+Bad file descriptor
+Exec format error
+Arg list too long
+No such device or address
+Input/output error
+Interrupted function call
+No such process
+No such file or directory
+Operation not permitted
+ Complete Object Locator'
+ Class Hierarchy Descriptor'
+ Base Class Array'
+ Base Class Descriptor at (
+ Type Descriptor'
+`local static thread guard'
+`managed vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`vector copy constructor iterator'
+`dynamic atexit destructor for '
+`dynamic initializer for '
+`eh vector vbase copy constructor iterator'
+`eh vector copy constructor iterator'
+`managed vector destructor iterator'
+`managed vector constructor iterator'
+`placement delete[] closure'
+`placement delete closure'
+`omni callsig'
+ delete[]
+ new[]
+`local vftable constructor closure'
+`local vftable'
+`udt returning'
+`copy constructor closure'
+`eh vector vbase constructor iterator'
+`eh vector destructor iterator'
+`eh vector constructor iterator'
+`virtual displacement map'
+`vector vbase constructor iterator'
+`vector destructor iterator'
+`vector constructor iterator'
+`scalar deleting destructor'
+`default constructor closure'
+`vector deleting destructor'
+`vbase destructor'
+`string'
+`local static guard'
+`typeof'
+`vcall'
+`vbtable'
+`vftable'
+operator
+ delete
+__unaligned
+__restrict
+__ptr64
+__eabi
+__clrcall
+__fastcall
+__thiscall
+__stdcall
+__pascal
+__cdecl
+__based(
+GetProcessWindowStation
+GetUserObjectInformationW
+GetLastActivePopup
+GetActiveWindow
+MessageBoxW
+`h`hhh
+xppwpp
+_nextafter
+_hypot
+1#QNAN
+1#SNAN
+C:\dev\prj\cryptomix\VeraCrypt\src\Setup\Release\VeraCryptSetup.pdb
+CharNextW
+MessageBoxW
+wsprintfW
+PostMessageW
+InvalidateRect
+GetDlgItem
+GetParent
+SendDlgItemMessageW
+SendMessageW
+EnumWindows
+EndDialog
+EnableWindow
+DialogBoxParamW
+SetFocus
+SetWindowTextW
+ShowWindow
+SetDlgItemTextW
+GetWindowTextLengthW
+ReleaseDC
+EndPaint
+FillRect
+BeginPaint
+MoveWindow
+MapDialogRect
+CreateDialogParamW
+GetWindowRect
+DestroyWindow
+GetWindowTextW
+SetWindowPos
+GetClientRect
+MessageBoxA
+MessageBeep
+GetWindowInfo
+GetSystemMetrics
+GetWindowLongW
+EnableMenuItem
+GetSystemMenu
+LoadBitmapW
+RegisterClassW
+LoadIconW
+UnregisterClassW
+DefDlgProcW
+SetCursor
+LoadCursorW
+GetClassNameW
+GetDlgCtrlID
+EnumChildWindows
+SetWindowLongW
+GetKeyState
+ExitWindowsEx
+GetWindowThreadProcessId
+GetShellWindow
+TrackMouseEvent
+CallWindowProcW
+AppendMenuW
+SystemParametersInfoW
+GetClassInfoW
+DeleteObject
+CreateFontIndirectW
+TextOutW
+SetTextAlign
+SetBkColor
+SetTextColor
+CreateSolidBrush
+SelectObject
+GetStockObject
+SetBkMode
+GetTextMetricsW
+GetTextExtentPoint32W
+GetDeviceCaps
+SetMapMode
+CreateCompatibleDC
+BitBlt
+DeleteDC
+StretchBlt
+SetStretchBltMode
+CreateCompatibleBitmap
+GetObjectW
+GetCurrentObject
+RegOpenKeyExW
+RegCreateKeyExW
+RegDeleteKeyW
+RegDeleteValueW
+RegCloseKey
+RegSetValueExW
+RegQueryInfoKeyW
+RegEnumKeyExW
+RegSetKeySecurity
+RegQueryValueExW
+DeleteService
+CloseServiceHandle
+ControlService
+QueryServiceStatus
+OpenServiceW
+OpenSCManagerW
+StartServiceW
+AddAccessAllowedAceEx
+InitializeAcl
+GetLengthSid
+SetSecurityDescriptorOwner
+SetSecurityDescriptorDacl
+InitializeSecurityDescriptor
+GetTokenInformation
+OpenProcessToken
+RegEnumValueW
+CryptReleaseContext
+CryptGenRandom
+CryptAcquireContextW
+ChangeServiceConfigW
+RegSetValueExA
+RegQueryValueExA
+ChangeServiceConfig2W
+CreateServiceW
+AdjustTokenPrivileges
+LookupPrivilegeValueW
+RevertToSelf
+DuplicateTokenEx
+SetThreadToken
+OpenThreadToken
+ImpersonateSelf
+SystemFunction036
+GetSecurityInfo
+SHGetPathFromIDListW
+SHGetSpecialFolderLocation
+SHChangeNotify
+SHGetFolderPathW
+SHGetSpecialFolderPathW
+ShellExecuteW
+SHBrowseForFolderW
+SHGetMalloc
+SHFileOperationW
+SHCreateDirectoryExW
+CoTaskMemAlloc
+CoTaskMemRealloc
+CoTaskMemFree
+PropVariantClear
+CoCreateInstance
+OleUninitialize
+OleInitialize
+CoUninitialize
+CoInitialize
+lstrlenW
+RaiseException
+EnterCriticalSection
+LeaveCriticalSection
+GetLastError
+InitializeCriticalSectionAndSpinCount
+DeleteCriticalSection
+GetProcAddress
+GetModuleHandleW
+lstrcmpiW
+LocalFree
+LocalAlloc
+FormatMessageW
+FreeLibrary
+MultiByteToWideChar
+SizeofResource
+LoadResource
+FindResourceW
+LoadLibraryExW
+GetModuleFileNameW
+MoveFileExW
+DeleteFileW
+CloseHandle
+DeviceIoControl
+GetUserDefaultUILanguage
+CreateFileW
+HeapFree
+HeapAlloc
+GetProcessHeap
+GetCurrentProcess
+CopyFileW
+FindClose
+FindNextFileW
+FindFirstFileW
+SetCurrentDirectoryW
+GetWindowsDirectoryW
+GetSystemDirectoryW
+LoadLibraryW
+GetTempPathW
+CreateProcessW
+GetFirmwareEnvironmentVariableW
+SetLastError
+SetFilePointerEx
+ReadFile
+GetFileSizeEx
+SetFirmwareEnvironmentVariableW
+CreateDirectoryW
+WritePrivateProfileStringW
+GetPrivateProfileStringW
+GetShortPathNameW
+GetVolumeInformationW
+GetVolumePathNameW
+WriteFile
+FindVolumeClose
+FindNextVolumeW
+QueryDosDeviceW
+FindFirstVolumeW
+GetDriveTypeW
+InitializeCriticalSection
+UnhandledExceptionFilter
+WaitForSingleObject
+GetCurrentThread
+GetCurrentThreadId
+SetUnhandledExceptionFilter
+ReleaseMutex
+CreateMutexW
+GetVersionExW
+SetFileTime
+GetFileTime
+FlushFileBuffers
+GetFileSize
+LockResource
+GetFileAttributesW
+OpenProcess
+InterlockedIncrement
+GetCurrentProcessId
+GetCurrentDirectoryW
+WideCharToMultiByte
+RemoveDirectoryW
+InterlockedDecrement
+SetErrorMode
+VirtualLock
+SetFilePointer
+SetFileAttributesW
+GetFileAttributesExW
+GetTickCount
+GetFileType
+KERNEL32.dll
+InterlockedExchange
+LoadLibraryA
+GetStringTypeW
+InterlockedCompareExchange
+EncodePointer
+DecodePointer
+RtlUnwind
+FileTimeToSystemTime
+FileTimeToLocalFileTime
+FindFirstFileExW
+ExitThread
+ResumeThread
+CreateThread
+ExitProcess
+MoveFileW
+GetSystemTimeAsFileTime
+SetStdHandle
+IsDebuggerPresent
+TerminateProcess
+GetCommandLineW
+HeapSetInformation
+GetStartupInfoW
+HeapReAlloc
+LCMapStringW
+GetCPInfo
+GetStdHandle
+HeapCreate
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+HeapSize
+IsProcessorFeaturePresent
+GetFullPathNameW
+GetFileInformationByHandle
+PeekNamedPipe
+GetACP
+GetOEMCP
+IsValidCodePage
+GetLocaleInfoW
+SetHandleCount
+GetConsoleCP
+GetConsoleMode
+FreeEnvironmentStringsW
+GetEnvironmentStringsW
+QueryPerformanceCounter
+GetTimeZoneInformation
+GetUserDefaultLCID
+GetLocaleInfoA
+EnumSystemLocalesA
+IsValidLocale
+SetEndOfFile
+WriteConsoleW
+CompareStringW
+SetEnvironmentVariableA
+.?AVCAtlException@ATL@@
+.?AV_com_error@@
+.?AVCRegObject@ATL@@
+.?AUIRegistrarBase@@
+.?AUIUnknown@@
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AUException@VeraCrypt@@
+0#1!0
+160809083811Z
+310809083810Z0#1!0
+pO;.Pj
+pAfmV|
+%0#1!0
+l8q!bP
+0#1!0
+160809083812Z
+310809083811Z0+1)0'
+%0#1!0
+.?AVruntime_error@std@@
+.?AVfacet@locale@std@@
+.?AUctype_base@std@@
+.?AVios_base@std@@
+.?AV?$_Iosb@H@std@@
+.?AUContainer@ForEach@VeraCrypt@@
+.?AUParameterIncorrect@VeraCrypt@@
+.?AV?$basic_ostream@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_ios@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_istream@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_iostream@_WU?$char_traits@_W@std@@@std@@
+.?AV?$ctype@_W@std@@
+.?AVsystem_error@std@@
+.?AVfailure@ios_base@std@@
+.?AUSystemException@VeraCrypt@@
+.?AV?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_stringbuf@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@
+.?AV?$num_put@_WV?$ostreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$basic_stringstream@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@
+.?AVbad_cast@std@@
+.?AV?$numpunct@_W@std@@
+.?AUErrorException@VeraCrypt@@
+.?AVFile@VeraCrypt@@
+.?AVDevice@VeraCrypt@@
+.?AU?$ContainerForward@V?$list@UPartition@VeraCrypt@@V?$allocator@UPartition@VeraCrypt@@@std@@@std@@@ForEach@VeraCrypt@@
+Qkkbal
+.?AU?$ContainerForward@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@ForEach@VeraCrypt@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AV_Locimp@locale@std@@
+.?AVerror_category@std@@
+.?AV_Generic_error_category@std@@
+.?AV_Iostream_error_category@std@@
+.?AV_System_error_category@std@@
+Copyright (c) 1992-2004 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
+.?AVtype_info@@
+.?AVbad_exception@std@@
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ VeraCrypt Boot Loader
+Disk error
+Loader damaged! Repair with Rescue Disk
+ VeraCrypt Boot Loader
+Disk error
+Loader damaged! Repair with Rescue Disk
+ VeraCrypt Boot Loader
+Disk error
+Loader damaged! Repair with Rescue Disk
+ VeraCrypt Boot Loader
+Disk error
+Loader damaged! Repair with Rescue Disk
+c"{n1t
+>:sf0nV
+h:Fanr
+A*lV!'
+vByb1W
+-Sf*tt
+GY2@md
+OWdnF=
+Z2_(s7
+o>X{1C
+w76IAm
+,pakQT
+>Jd?FM[!B
+DqFHEpQ>
+pf>|qz
+>F/e({1
+WLa=8lqZO.
+x2R)Y|
+`a&L9^
+~9e<O<M
+6uXwi[
+\aL9wNT
+ZO5^5x
+A?@p$/
+^X09>Ya4
+'.&v7(
+:o]?!3,B
+]XJU{n
+US]L&<>
+'wTr'=
+g!^(o?
+o}v:u]
+U7N\Ek
+5,=8wj' <
+xJsM_o
+v#c2.4
+3?W~5Fu
+t]y|gy
+N$>}2Y
+Z,uJYF
+Ovd)H4
++!Wg8=r
+)N\Y48
+zx@L_x
+dzy'0`
+%JP\Sz^
+K$*[|&
+AR*u|`
+&]"D)^
+-#Mb;T
+Cj'T][
+gkAEMJ
+R?,EoB.
+x.KOGIL
+SwG=g=C
+e2*Y,s
+7rgl)7
+6qGi>?
+kfP%l'
+N'@^mK
+Vi.l7[R
+-GVTAR
+2|N\l.
+,[]HTQ
+{L@cK/
+28W%M'V
+q7MS,e
+2W `\c
+b][_*+
+p#MOJl
+t%K%v1
+|d{Hq"
+OHWYEl`
+{0t*)h
+w.Wh~
+sb>qKS
+HllUSn
+h#%T:UqI
+Q+^nzQ
+%p,hWF
+B+J){gPw
+8G03J{)
++i+2K*
+=:w=ca
+q{W [lw
+ckV7:d8
+]I8iuL
+=!:[B4
+ Usp D
+psjl\p
+X[7@<9\
+pu7w]6!
+ VeraCrypt Boot Loader
+Disk error
+Loader damaged! Repair with Rescue Disk
+ VeraCrypt Boot Loader
+Disk error
+Loader damaged! Repair with Rescue Disk
+ VeraCrypt Boot Loader
+Disk error
+Loader damaged! Repair with Rescue Disk
+ VeraCrypt Boot Loader
+Disk error
+Loader damaged! Repair with Rescue Disk
+p*m-#F
+,r{CI6,h
+LMQYV{
+lk!A{0BJ
+$T>'z8EOm
+"k"BSb4|
+?s(`SB
+`|zBO.
+}gz%Z
+[Qz4D>
+)=0~tS
+nI>'Yq
+=n??2OZ>j<
+kmsnx
+<(_sQo
+HKm{rRp
+faohC!
+x[Z}7i
+1oKc(y
+2agwVE
+PY7!({b
+Tf)~/p
+!`pJ,
+:~<CG'
+A2ORKr
+[sS[k_<0
+ZT8+ ?
+0HF>]e
+oGMD*4
+f{#IKU\
+vpS[7p
+}|pa;k
+0Ts;$eKs7H
+G{vaW{
+l{|{4k
+Vvid^i
+vd=lt 
+3y|A7\
+8J&mN"y
+y+4L>A
+l4p3VJ
+[VbBQF!
++J~c3k
+#^d$*'
+a{ui|:I
+J#rL[IK
+{o08Ud
+Sri~!>x
+( P!(}}
+q.Y=Zq:
+qAVv~)A!
+UCAktEj
+z\<oh.
+'tB_tn
+e7MwS+^
+pfJ8.IGg
+PyjxcW
+ws|%/"b
+k-PRr,
+$HzFr5D?
+_{z~E 
+Ia=&#\h
+*`e+\
+Q-B9nU
+"m,K?
+!X2A;a
+'1}q.oFQ
+etp(Hw
+6I&[X)
+(z?S;v
+l"GxSORX
+EAq*wU
+,2?n.Pd
+0r;K(eW|I
+QX{8S.
+.<q)e+^
+$z P{p,
+ %W_5tC)
+0&tr'y
+X:e/]h
+GSplZ,
+AYuzO<
+.sqNw\ro
+i0a~E{
++[^OJ:
+<^AZ&5C
+S4P$]p
+C+Pm2+
+_QWPo)f
+h x5G7^
+Ke7W|p
+FH(<j6
+E"t0%g
+/uT3Y3Z
+$f3$*O
+m-zd"6
+ VeraCrypt Boot Loader
+Disk error
+Loader damaged! Repair with Rescue Disk
+ VeraCrypt Boot Loader
+Disk error
+Loader damaged! Repair with Rescue Disk
+ VeraCrypt Boot Loader
+Disk error
+Loader damaged! Repair with Rescue Disk
+ VeraCrypt Boot Loader
+Disk error
+Loader damaged! Repair with Rescue Disk
+R{To31
+!DvM&+S
+~aC0Kp
+/N'nH Iw
+U4GA+D
+J7JN6
+B?!%k<
+3p8vIM
+bZ::r7
+)!I.;%$
+H!VSGa_
+P  C-Y+
+5oc'=
+fg2V/^p
+4*SUL]}pt
+/[g)$C
+.0z:B6
+yw_ b!
+^\(mxH
+f:06$?
+j)O90?
+Wjh-A-
+[9.))m
+xdpW>!CT
+n`M-o5
+!>P*2>>
+'rDMM$
+WV/5Kt7.'
+_5gw{D<
+~&H73"[
+[tv3;f3
+Ku;nv%
+u606s1
+=bO"|, 
+ZYu*%Fc?
+XQ>5>0&
+t:J<.(>
+GX9th1
+v0mX4N
+d_Q\.p
+;Dzx~-l
+.$n')A
+]pT/4n
+.LWSta
+*|stVV
+cNSMhT
+zg{w!|
+{%&"Z
+K)T &s
+(YgS{Q
+0k.'$j
+#U'{@]A
+="~B\y
+#.NkBb
+_;]Z\:
+\!==Zv
+DY/$?3
+,_Eg7p(c>*
+8r8AR0
+jjh'}{:#a%
+<^Ui2~y;
+D:mhZw
+[Jm6s[9
+`##^Ly
+B?7Hl!s
+2V-P)q
+q_%3siG7
+W-mm\{
+_'PM04
+i/j:>M
+)8!!9V-
+Fj]/Il
+qFxRf*>
+js:=MHI
+8_7uM'&]g
+o(!}KH
+8sI([v
+#\b3Un_|
+m:H2A:
+%7sDnar
+Jnz,EQ
+Jlhu=X
+9.tcECPA
+|_9d1S76Y
+\h50h{
+$OK&~m
+'e|TSDm
+6u*~{^
+} wa>wP
+1ed|!m 
+x0T=Rn
+i+{pVM
+O2;'"
+#kq\x$
+mQ8]4w:
+ VeraCrypt Boot Loader
+Disk error
+Loader damaged! Repair with Rescue Disk
+ VeraCrypt Boot Loader
+Disk error
+Loader damaged! Repair with Rescue Disk
+ VeraCrypt Boot Loader
+Disk error
+Loader damaged! Repair with Rescue Disk
+ VeraCrypt Boot Loader
+Disk error
+Loader damaged! Repair with Rescue Disk
+Favf_m{
+!$!"}UN
+/edsdG
+$9E3e6
+&kj%'APN
+6TvX)'
+I:RD^s\
+I;o\I5
+x*AqbB
+JY,;NZ
+U@kh^b
+r4i]Sm
+vfB*^o
+$=#GJ`
+sNi/2D
+}OsLAK
+sz<L\-S
+*eX[1A:
+_QyT*o
+^Jm7d7S
+zd7#"S
+]vR-j~
+"?whOz_
+ed$dSvq
+pDK[i/E
+=+-bg0
+E3X~}=
+zZS2S{
+# |`R"
+C._YAp
+W#+.[k8
+KKh4l>88
+'d@`Lj
+'hh&|)
+v?=oSo
+^m)h7FF(+
+!]Swa%t&x
+X,VKK,)
+1=F}9T
+sLza$G
+u2M.qF+
+_{'*|Ri
+NrpA%t
+8<dQmJ'
+k6dOqHOE
+E'Kebr
+CMc2\,
+p8_ZKi<
+|PVR>T>
+^nw{r
+X`ucVNHy
+kdf`8j!0
+[vBSQ?n!s
+QDd~[Kc
+fIBUiU
+kbxY*o
+8ln2C$
+s ,m$KC
+ yW%Dh
+UlXBhr
+EG}&I*K
+<(..b>1Z)(
+4>4dk.
+afJI@w|
+(>wAs:
+(Hy=dRKV\
+i8^$pf
+N$??ps
+*g6ICj]
+&|g'Tk
+%qUbPC
+]{_x00
+6Ua!X
+^/u8m
+t.Cr6X\
+UnpmryV
+zz"4;i
++Z2zVU
+y#c*Iy4j
+ VeraCrypt Boot Loader
+Disk error
+Loader damaged! Repair with Rescue Disk
+#w2|(s
+>euo~Y
+Z*KnOS
+$'$&;7
+$nF.}q
+?GAbHSSlM
+m{wwrw
+`%Np:g
+h?tP>?
+zZa@~c
+#|A3&?KMy2Fag
+>m1"V9
+Tuyqud}
+jh-;>*
+&p ax0
+so|ux3
+r%?Gi8p
+*xR\z'_i
+x$($-!)
+l'rrqc
+ VeraCrypt Boot Loader
+Disk error
+Loader damaged! Repair with Rescue Disk
+7w.*ST
+`O`_:_
+-o,2bIY
+Fac@Db-
+v-2],
+"%m#BQ
+{?7Z?t
+Le*6$"3
+x?[mOC
+R|O7Ru,
+R(~`9;g
+r9cGC \
+qDu80,
+-m,Yys$
+%65%fu:
+q]HNCS0
+]ST;PPG
+96d&V+
+~M\j]1
+B-[$L
+fb!P?!
+%qqJ>R
+ VeraCrypt Boot Loader
+Disk error
+Loader damaged! Repair with Rescue Disk
+bfE$X(
+Qa+^-h
+SKa4~E
+v,7^6c
+W,^b A
+lr2'NT
+gom`Rz6H622
+B;~mo"U
+qIcpEc`q
+*$'rX4
+s>!f%
+ru$w)
+?F28FCa
+ypT@mN8.
+QcPfsk 
+(^PxW\;b
+<22<RW
+W[h~aP
+XJ-m{]
+%M7:<B_
+{P$1(N
+ VeraCrypt Boot Loader
+Disk error
+Loader damaged! Repair with Rescue Disk
+i<{ypb
+n/;gG4
+C@!hjU
+<?v#Us
+WDzJj7
+$%=##`
+45#k:IGk
+*NsR$C
+%]Y)s+
+MH+LkZO
+ HD=@0o
+jKwd{+
+Y+\;qF
+^mksbc}I|w
+y)V7sQ
+~z=L;p
+[`s#+b
+2>%-yyU
+Z@GSW_
+a,|0k41
+uO0rSH
+h.data
+B.xdata
+B.reloc
+UWATAUAWH
+ A_A]A\_]
+@USVWATAUAVAWH
+RXfD9=a(
+L9}Pv&H
+E9|$PvVH
+A;t$Pr
+xA_A^A]A\_^[]
+L$ UVWATAUAVAWH
+A_A^A]A\_^]
+WATAUH
+ A]A\_
+WATAUAVAWH
+fE9<$t
+fE9<$t
+ A_A^A]A\_
+WATAUAVAWH
+fE9;t&H
+0A_A^A]A\_
+WATAUH
+0A]A\_
+CX+D$H
+EFI PARTH9
+ir;(s*
+bootmgfw.pdb
+Can't exec %s start partition %g
+Done exec %s start partition %g
+Can't open start partition %g
+Can't find start partition %g
+Compromised Data
+Invalid Language
+End of File
+Reserved (30)
+Reserved (29)
+End of Media
+CRC Error
+Security Violation
+Incompatible Version
+Protocol Error
+TFTP Error
+ICMP Error
+Aborted
+Already started
+Not started
+Time out
+No mapping
+No Response
+Access Denied
+Not Found
+Media changed
+No Media
+Volume Full
+Volume Corrupt
+Out of Resources
+Write Protected
+Device Error
+Not Ready
+Buffer Too Small
+Bad Buffer Size
+Unsupported
+Invalid Parameter
+Load Error
+Warning Stale Data
+Warning Buffer Too Small
+Warning Write Failure
+Warning Delete Failure
+Warning Unknown Glyph
+Success
+0123456789ABCDEF(5
+<null string>
+<null guid>
+%08x-%04x-%04x-%02x%02x-%02x%02x%02x%02x%02x%02x
+<null time>
+%02d/%02d/%04d  %02d:%02d
+Washington1
+Redmond1
+Microsoft Corporation1+0)
+"Microsoft Corporation UEFI CA 20110
+190502213123Z
+200502213123Z0
+Washington1
+Redmond1
+Microsoft Corporation100.
+'Microsoft Windows UEFI Driver Publisher0
+E0C1)0'
+ Microsoft Operations Puerto Rico1
+229911+4541170
+Bhttp://www.microsoft.com/pkiops/crl/MicCorUEFCA2011_2011-06-27.crl0`
+Dhttp://www.microsoft.com/pkiops/certs/MicCorUEFCA2011_2011-06-27.crt0
+Washington1
+Redmond1
+Microsoft Corporation1;09
+2Microsoft Corporation Third Party Marketplace Root0
+110627212245Z
+260627213245Z0
+Washington1
+Redmond1
+Microsoft Corporation1+0)
+"Microsoft Corporation UEFI CA 20110
+Khttp://crl.microsoft.com/pki/crl/products/MicCorThiParMarRoo_2010-10-05.crl0`
+Dhttp://www.microsoft.com/pki/certs/MicCorThiParMarRoo_2010-10-05.crt0
+hX5)F2v'|
++=I+2
+Washington1
+Redmond1
+Microsoft Corporation1+0)
+"Microsoft Corporation UEFI CA 2011
+(https://www.microsoft.com/en-us/windows 0
+N/rJNe
+20191205005453.889Z0
+Washington1
+Redmond1
+Microsoft Corporation1%0#
+Microsoft America Operations1&0$
+Thales TSS ESN:49BC-E37A-233C1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+191113214034Z
+210211214034Z0
+Washington1
+Redmond1
+Microsoft Corporation1%0#
+Microsoft America Operations1&0$
+Thales TSS ESN:49BC-E37A-233C1%0#
+Microsoft Time-Stamp Service0
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+$`2X`F
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+oK0D$"<
+r~akow
+Washington1
+Redmond1
+Microsoft Corporation1%0#
+Microsoft America Operations1&0$
+Thales TSS ESN:49BC-E37A-233C1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+20191205075336Z
+20191206075336Z0w0=
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+h.data
+B.xdata
+B.reloc
+@USVWAUAVAWH
+u2H9=U5
+PA_A^A]_^[]
+UVWATAWH
+H9]0t0H
+PHH9]@t
+PHH9]Ht
+`A_A\_^]
+DCSPROP_H
+PICTPWD_
+t$ WATAUH
+PHL9%^7
+WATAUH
+ A]A\_
+H9s(s$H
+:H;C(v
+UATAUH
+UVWATAUAVAWH
+@A_A^A]A\_^]
+UATAUAVAWH
+A_A^A]A\]
+@USVWATAUAVH
+A^A]A\_^[]
+f9D$nu
+f9T$ t
+P`H9t$`u
+f97t'H
+UVWATAUAVAWH
+ A_A^A]A\_^]
+WATAUAVAWH
+fE9<$t
+fE9<$t
+ A_A^A]A\_
+WATAUAVAWH
+fE9;t&H
+0A_A^A]A\_
+EFITABLEH9
+x ATAUAVH
+EFITABLEH9
+ A^A]A\
+WATAUH
+ A]A\_
+UVWATAUH
+9D$huD
+0A]A\_^]
+t$ WATAUH
+0A]A\_
+WATAUAVAWH
+0A_A^A]A\_
+USVWATAUAVAWH
+PpH9|$Xu
+t%D95sA
+P`L9t$Xu
+t-D8t$Qt&H
+H9D$XtH
+H9D$Xu
+D$RL9t$X
+t D8t$Qt
+A_A^A]A\_^[]
+L$ UVWATAUAVAWH
+A_A^A]A\_^]
+UWATAUAVH
+A^A]A\_]
+x UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+T$*D9?v^L
+A_A^A]A\_^]
+WATAUH
+@A]A\_
+x ATAUAVH
+@A^A]A\
+SUVWATAUAVAWH
+(A_A^A]A\_^][
+UVWATAUAVAWH
+PA_A^A]A\_^]
+SUVWATAUAVAWH
+HA_A^A]A\_^][
+USVWATAUAVAWH
+P@D9-n
+XA_A^A]A\_^[]
+UATAUAVAWH
+A_A^A]A\]
+WATAUH
+WATAUH
+ A]A\_
+SUVWATAUAVAWH
+A_A^A]A\_^][
+x ATAUAVH
+ A^A]A\
+SUVWATAUAVAWH
+A_A^A]A\_^][
+H UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+.H9D$@
+PA_A^A]A\_^]
+Bl@tI
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+PA_A^A]A\_^]
+x ATAUAVH
+ A^A]A\
+H SUVWATAUAVH
+ A^A]A\_^][
+H9\$Ht
+SUVWATAUAVAWH
+;t$ ~PH
+XA_A^A]A\_^][
+x ATAUAVH
+H9t]H
+ A^A]A\
+WATAUAVAWH
+ A_A^A]A\_
+x ATAUAVH
+ A^A]A\
+yh9A(w
+WATAUH
+ A]A\_
+C$9C rT
+WATAUH
+w$;W s
+ A]A\_
+WATAUH
+ A]A\_
+ Lc\$PL
+WATAUH
+ A]A\_
+WATAUH
+ A]A\_
+WATAUAVAWH
+ A_A^A]A\_
+x ATAUAVH
+ A^A]A\
+WATAUAVAWH
+ A_A^A]A\_
+WATAUH
+H!0H!p
+H!7H!w
+ A]A\_
+UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+A_A^A]A\_^]
+WATAUH
+t$ WATAUAVAWH
+A_A^A]A\_
+UWATAVAWH
+A_A^A\_]
+lA9Z u
+~H9Y8t H
+VWATAUAVH
+0A^A]A\_^
+VWATAUAVH
+0A^A]A\_^
+WATAUH
+@A]A\_
+WATAUH
+ A]A\_
+x ATAUAVH
+ A^A]A\
+WATAUH
+t,Hcp H
+ A]A\_
+x ATAUAVH
+ A^A]A\
+UVWATAUAVAWH
+PA_A^A]A\_^]
+UVWATAUAVAWH
+pA_A^A]A\_^]

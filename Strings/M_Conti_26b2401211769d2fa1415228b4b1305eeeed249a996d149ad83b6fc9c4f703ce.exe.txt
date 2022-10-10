@@ -1,0 +1,859 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+@.reloc
+VWhH!@
+D$ PQV
+bad allocation
+Preceding with blanks: %10d 
+LdrAccessResource
+LdrFindResource_U
+ntdll.dll
+C:\Windows\notepad.exe
+GetCurrentProcess
+GetProcAddress
+VirtualAlloc
+LoadLibraryA
+SetFileAttributesA
+KERNEL32.dll
+memcpy
+malloc
+printf
+MSVCR90.dll
+_amsg_exit
+__getmainargs
+_cexit
+_XcptFilter
+_ismbblead
+_acmdln
+_initterm
+_initterm_e
+_configthreadlocale
+__setusermatherr
+_adjust_fdiv
+__p__commode
+__p__fmode
+_encode_pointer
+__set_app_type
+_crt_debugger_hook
+?terminate@@YAXXZ
+_unlock
+__dllonexit
+_onexit
+_decode_pointer
+_except_handler4_common
+_invoke_watson
+_controlfp_s
+InterlockedExchange
+InterlockedCompareExchange
+GetStartupInfoA
+TerminateProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+QueryPerformanceCounter
+GetTickCount
+GetCurrentThreadId
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+4lIzzSbq#>J1v*CSIr#ofX3Bh%)f$3CQSdkz!vnUspXDIu4RJYNXVaE#%uS)
+qit{QM
+@ r:G
+GN^@C%
+fA-_H
+U@7X!Ga
+TfC0FG
+#$Y;(P
+GW1|q<
+<P/ W@
+Fuj.Rm+
+e;l#4gF6w
+'|L,GA
+-nR<P
+yTTuXl
+3.Q/gP
+mt,Md?2
+:8ud9d7
+AJW\IEk
+QT5R@w
+2DJWt`
+~xwF}W
+rB+<n9
+;%<n;11Kw
+75/ %[
+)]o|4
+|`Skt[uG
+&WqdM%
+n(Phs%`
+$?bo[o_
+NX"2A(=
+kF~b"?r
+n|qfa1
+#A,e6x
+Pc++nC
+HqH?2Uw
+"g('%\
+Pj,]Bzm
+pRl=VpMpx$
+A'dWY^
+AMXU2:
+*L8U'8
+18}^('Fd
+bj]X($@
+*NW/Q~<
+VQ',PJ4
+jq`iNxE
+WCo@OwzF
+e|C2@
+}[n_WG
+Py0zrB
+P#`>s
+]*Sa$k`
+P=<=)7
+ ]O4@4(
+#j$53@
+;|51P4"[
+60~B['
+3`bmSK
+}>B%J?
+N/pXH<Q
+8*/yW3
+I>M!_Q
+1B|Q\\
+zbg0dI
+=K_aB
+d+R.e[
+Mg& R;
+.TB^l]lk
+0s"n),0
+&6ygX^;
+{[oKZ0
+0kH^7-k}
+sL7te"
+C*RX0_
+.#5Q"8
+%(O)Jm
+G-83=y
+7ZKa+
+D\_d[8
+D[xQI|
+>p?h{LJ
+>p*@G
+RNAo?uM_"x"
+Lk9w+m
+(JVmE}
+7'b%7H1w*0
+ymRx38
+|*g!t~
+ns59YPX
+4jTEtk
+LdKF%=
+HX@;pa\
+>%FLxU{
+<QEpH.
+}3DS"NI
+h|Hv%(
+sh2pL#`
+PWJ &8
+TQ_oE
+z_6y,A
+L-a%]I
+4]Bi4le
+LgVqON+
+K|@{Im4
+zZOC9t
+=^Nl-^
+Pe[;Z#
+9~g1`)w
+Pg%5!1
+&1>ulP
+ZJ(RJD
++}gS%\
+]gE3\
+y5Z$Q@
+IB3/Kr>i
+!J$dG&
+H:a$fr
+DUf'Ut
+=}lfo'
+T8tDm`*
+I}GWGV
+d-y(mP
+).(e^%
+rk-vop
+;7w!dC
+qzvg%A
+B<F'`V
+qbHpZj
+x)g usG
+q&`4E91
+CEYiYJN
+_s`8\qM
+lW9'a?
+i:bs[@
+b7kf(9
+lT"3 DUy
+!@VU=J
+y*/(Cq
+PxjGq0
+C}EKK2MV
+*%7wgkH
+|RbUn5A
+<%X+[>
+8S-!kZ
+x)8U9:k
+RI?RX4P
+&GJBVEt
+/64~qSw
+5p\j}V
+$lZR?
+=DeVr% 
+e~tP91
+;8%nULAAO
+c[SvUP\
+t9C'_4q
+D1n;,7
+`/SvXy
+B{z94u
+@=l<f:
+7+&sY+
+c-mlm0;t
+4'\Utv
+crIzpC/
+_%z+B"
+KU7rtrzi&y
+1IA"{1
+Q5.:(\w
+57EMKkT
+TTHQ#9q
+P%M97$
+15Pmc#
++wL-t-
+sj?7?\
+OZc=:
+RQPY<e
+@j0nZJ
+qoOHI,E+*
+933.:>^
+1>y0IR
+9%O})[
+bjoxd*
+RB!,R-X
+uq4nBSO
+.5#pUc
+67k'6B
+C3=B-j
+<sS/v"
+nHovmAyK
+Jop#}o
+0{A*}z
+M!8zWg
+ZjhB?:
+b5wI++
+ib.t:o
+6'jCj*
+R+Tz^ra
+#/.&"$
+ij=kLV
+[BCH\dL
+TAr|0 
+: s"N}
+e];^mK
+oT%JIF
+[K}G4v
+l{Fh6>
+tkC4/`^
+61wO;L
+<okZNc9
+Qm@\8!Q
+#c"A},
+_G9XKk
+-vWkl,
+E;sAOB
+E N]1S=[`
+m8(gU`
+Y:*ESf
+mlw%Jb
+1nh,so
+IS +ZD,
+E<II#\
+u;>uj{4
+quxtzf
+\{5.q<
+A/9<SUqk
+X(|vz" 
+RqBp6e
+.:]HP,
+4+~td/v
+m.Af|+_Yi[
+3x_k\~
++*TwLfU
+>a-J/V
+J+z->JO
+R-halZ
+yPMaz A
+7<Q tw*
+2;@F{XR
+cP\S]W
+6e6`gd
+M?b(}G
+FE3U~1*
+_<\Z[{
+,d?Xv^
+IcI5Ev
+f;#u92V*
+lQ::$].
+d17QTs?
++-h)6gm]
+VsulP(
+Yc%WVZ
+CQ(k[{
+XK<kS8
+A*g]sK
+s9yMS+
+~NZWv$
+^;!d>L1R>,
+x-4^*n;
+&9q'0A|
+x04JdO
+L}.t 8
+9/+](_Z
++{m]^}
+(fm05([2_
+"`,dT*
+61;A'm
+Ih1Aa1
+q@pZ..
+N[Dknb
+EwE{Kc
+_[HG@er
+od3+79
+[1'NXr
+Iy!ulV
+^D"-<d
+?W:8yrK
+Q!2Y`3E
+pK8xx,
+/JTW][
+\ZNUwI
+K4UV-$W
+6@62t0sk
+>Nm8\u
+{R-\~Lw9
+6Fu0(%7o
+AA#}FZexoX
+b4QCDAJ
+f#N(\p
+TjF=jG
+Fx>fGr
++%EUj3
+nG10',
+8x6?9{
+G?d?`k
+>ePD@$
+<c\brZ
+fyb#}%g
+:NEO86S
+%ET^8H
+#ktZiG
+:hjT_s
+G_0i=)
+9[W{D1~_%0
+1+8]B@
+<X7)Ar:
+PdqR;Y
+W*FJ^y
+bM1@@ex
+rKJ/%HwB
+c}bY)&
+kLK#V%
+'aPy^C
+L,H%F]G
++6BLal
+zTr(,F
+].d{e+#;
+fQ[:A<
+`neGlSA3^s
+-6h!g-:
+wD/BF^
+T-j2y"67
+y10/^Wo
+6Wdj1.'@
+WH-HwBr
+^ $|!W
+G(%dp+mWb
+~i.&4'1H
+FG%(0w
+|vxTCgr
+iv,5nw
+{YyjSC#W)
+R^av2T
+@WWRd-B
+~NZ&A0_N
+2UF~M]
+xa{/3f
+4IhBt}
+lW]|Y1
+Xc"Rn&
+M2S}F#U
+q1,z]-!
+@:)r-<j
+^p\4pV
+'KoBAe
+Way_4(#>
+>77;(0
+mQ,\:*
+\^(YG@
+ItK3GJ
+/36s7?
+o%?L=!
+P<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type="win32" name="Microsoft.VC90.CRT" version="9.0.21022.8" processorArchitecture="x86" publicKeyToken="1fc8b3b9a1e18e3b"></assemblyIdentity>
+    </dependentAssembly>
+  </dependency>
+</assembly>PA
+0020T0
+1 101<1H1
+2%2+20262L2j2
+333=3W3a3t3~3
+344>4D4N4g4
+4>5D5L5S5X5^5d5l5r5y5
+6"6*626:6F6O6T6Z6d6m6x6
+7 7'72787L7a7l7
+qit{QM
+@ r:G
+GN^@C%
+fA-_H
+U@7X!Ga
+TfC0FG
+#$Y;(P
+GW1|q<
+<P/ W@
+Fuj.Rm+
+e;l#4gF6w
+'|L,GA
+-nR<P
+yTTuXl
+3.Q/gP
+mt,Md?2
+:8ud9d7
+AJW\IEk
+QT5R@w
+2DJWt`
+~xwF}W
+rB+<n9
+;%<n;11Kw
+75/ %[
+)]o|4
+|`Skt[uG
+&WqdM%
+n(Phs%`
+$?bo[o_
+NX"2A(=
+kF~b"?r
+n|qfa1
+#A,e6x
+Pc++nC
+HqH?2Uw
+"g('%\
+Pj,]Bzm
+pRl=VpMpx$
+A'dWY^
+AMXU2:
+*L8U'8
+18}^('Fd
+bj]X($@
+*NW/Q~<
+VQ',PJ4
+jq`iNxE
+WCo@OwzF
+e|C2@
+}[n_WG
+Py0zrB
+P#`>s
+]*Sa$k`
+P=<=)7
+ ]O4@4(
+#j$53@
+;|51P4"[
+60~B['
+3`bmSK
+}>B%J?
+N/pXH<Q
+8*/yW3
+I>M!_Q
+1B|Q\\
+zbg0dI
+=K_aB
+d+R.e[
+Mg& R;
+.TB^l]lk
+0s"n),0
+&6ygX^;
+{[oKZ0
+0kH^7-k}
+sL7te"
+C*RX0_
+.#5Q"8
+%(O)Jm
+G-83=y
+7ZKa+
+D\_d[8
+D[xQI|
+>p?h{LJ
+>p*@G
+RNAo?uM_"x"
+Lk9w+m
+(JVmE}
+7'b%7H1w*0
+ymRx38
+|*g!t~
+ns59YPX
+4jTEtk
+LdKF%=
+HX@;pa\
+>%FLxU{
+<QEpH.
+}3DS"NI
+h|Hv%(
+sh2pL#`
+PWJ &8
+TQ_oE
+z_6y,A
+L-a%]I
+4]Bi4le
+LgVqON+
+K|@{Im4
+zZOC9t
+=^Nl-^
+Pe[;Z#
+9~g1`)w
+Pg%5!1
+&1>ulP
+ZJ(RJD
++}gS%\
+]gE3\
+y5Z$Q@
+IB3/Kr>i
+!J$dG&
+H:a$fr
+DUf'Ut
+=}lfo'
+T8tDm`*
+I}GWGV
+d-y(mP
+).(e^%
+rk-vop
+;7w!dC
+qzvg%A
+B<F'`V
+qbHpZj
+x)g usG
+q&`4E91
+CEYiYJN
+_s`8\qM
+lW9'a?
+i:bs[@
+b7kf(9
+lT"3 DUy
+!@VU=J
+y*/(Cq
+PxjGq0
+C}EKK2MV
+*%7wgkH
+|RbUn5A
+<%X+[>
+8S-!kZ
+x)8U9:k
+RI?RX4P
+&GJBVEt
+/64~qSw
+5p\j}V
+$lZR?
+=DeVr% 
+e~tP91
+;8%nULAAO
+c[SvUP\
+t9C'_4q
+D1n;,7
+`/SvXy
+B{z94u
+@=l<f:
+7+&sY+
+c-mlm0;t
+4'\Utv
+crIzpC/
+_%z+B"
+KU7rtrzi&y
+1IA"{1
+Q5.:(\w
+57EMKkT
+TTHQ#9q
+P%M97$
+15Pmc#
++wL-t-
+sj?7?\
+OZc=:
+RQPY<e
+@j0nZJ
+qoOHI,E+*
+933.:>^
+1>y0IR
+9%O})[
+bjoxd*
+RB!,R-X
+uq4nBSO
+.5#pUc
+67k'6B
+C3=B-j
+<sS/v"
+nHovmAyK
+Jop#}o
+0{A*}z
+M!8zWg
+ZjhB?:
+b5wI++
+ib.t:o
+6'jCj*
+R+Tz^ra
+#/.&"$
+ij=kLV
+[BCH\dL
+TAr|0 
+: s"N}
+e];^mK
+oT%JIF
+[K}G4v
+l{Fh6>
+tkC4/`^
+61wO;L
+<okZNc9
+Qm@\8!Q
+#c"A},
+_G9XKk
+-vWkl,
+E;sAOB
+E N]1S=[`
+m8(gU`
+Y:*ESf
+mlw%Jb
+1nh,so
+IS +ZD,
+E<II#\
+u;>uj{4
+quxtzf
+\{5.q<
+A/9<SUqk
+X(|vz" 
+RqBp6e
+.:]HP,
+4+~td/v
+m.Af|+_Yi[
+3x_k\~
++*TwLfU
+>a-J/V
+J+z->JO
+R-halZ
+yPMaz A
+7<Q tw*
+2;@F{XR
+cP\S]W
+6e6`gd
+M?b(}G
+FE3U~1*
+_<\Z[{
+,d?Xv^
+IcI5Ev
+f;#u92V*
+lQ::$].
+d17QTs?
++-h)6gm]
+VsulP(
+Yc%WVZ
+CQ(k[{
+XK<kS8
+A*g]sK
+s9yMS+
+~NZWv$
+^;!d>L1R>,
+x-4^*n;
+&9q'0A|
+x04JdO
+L}.t 8
+9/+](_Z
++{m]^}
+(fm05([2_
+"`,dT*
+61;A'm
+Ih1Aa1
+q@pZ..
+N[Dknb
+EwE{Kc
+_[HG@er
+od3+79
+[1'NXr
+Iy!ulV
+^D"-<d
+?W:8yrK
+Q!2Y`3E
+pK8xx,
+/JTW][
+\ZNUwI
+K4UV-$W
+6@62t0sk
+>Nm8\u
+{R-\~Lw9
+6Fu0(%7o
+AA#}FZexoX
+b4QCDAJ
+f#N(\p
+TjF=jG
+Fx>fGr
++%EUj3
+nG10',
+8x6?9{
+G?d?`k
+>ePD@$
+<c\brZ
+fyb#}%g
+:NEO86S
+%ET^8H
+#ktZiG
+:hjT_s
+G_0i=)
+9[W{D1~_%0
+1+8]B@
+<X7)Ar:
+PdqR;Y
+W*FJ^y
+bM1@@ex
+rKJ/%HwB
+c}bY)&
+kLK#V%
+'aPy^C
+L,H%F]G
++6BLal
+zTr(,F
+].d{e+#;
+fQ[:A<
+`neGlSA3^s
+-6h!g-:
+wD/BF^
+T-j2y"67
+y10/^Wo
+6Wdj1.'@
+WH-HwBr
+^ $|!W
+G(%dp+mWb
+~i.&4'1H
+FG%(0w
+|vxTCgr
+iv,5nw
+{YyjSC#W)
+R^av2T
+@WWRd-B
+~NZ&A0_N
+2UF~M]
+xa{/3f
+4IhBt}
+lW]|Y1
+Xc"Rn&
+M2S}F#U
+q1,z]-!
+@:)r-<j
+^p\4pV
+'KoBAe
+Way_4(#>
+>77;(0
+mQ,\:*
+\^(YG@
+ItK3GJ
+/36s7?
+o%?L=!
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type="win32" name="Microsoft.VC90.CRT" version="9.0.21022.8" processorArchitecture="x86" publicKeyToken="1fc8b3b9a1e18e3b"></assemblyIdentity>
+    </dependentAssembly>
+  </dependency>
+</assembly>
+MyFont - By Max - Max@kosmos.it
+MS Sans Serif
+Height
+ROTATION
+Escapement
+Orientation
+Effects
+Weight
+Italic
+Underline
+StrikeOut
+Charset
+OutPrecision
+ClipPrecision
+Quality
+Family
+Face Name
+Back Color
+Text Color
+Back Style
+Opaque
+Transparent
+Common Dialogs
+Choose Font
+Choose BackColor
+Choose TextColor
+Tenth of Degrees
+Generate Code
+Direct
+Indirect
+Code - Copy & Paste
+MS Sans Serif
+MyFont - By Max - Max@kosmos.it
+MS Sans Serif
+Height
+ROTATION
+Escapement
+Orientation
+Effects
+Weight
+Italic
+Underline
+StrikeOut
+Charset
+OutPrecision
+ClipPrecision
+Quality
+Family
+Face Name
+Back Color
+Text Color
+Back Style
+Opaque
+Transparent
+Common Dialogs
+Choose Font
+Choose BackColor
+Choose TextColor
+Tenth of Degrees
+Generate Code
+Direct
+Indirect
+Code - Copy & Paste
+MS Sans Serif

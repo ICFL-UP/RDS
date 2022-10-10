@@ -1,0 +1,450 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+@.reloc
+3X,3x03p43P83H<
+y$j^hJ
+jGh|TVA
+jGh|TVA
+jUh qe
+t"jXhm
+SVWjEhQ
+D$ SVW3
+G jDh@S
+G jDh@S
+URPQQhP
+;t$,v-
+UQPXY]Y[
+YYh\qB
+zSSSSj
+SSVWh 
+f9:t!V
+QQSVj8j@
+PPPPPPPP
+PPPPPWS
+PP9E u<PPVWP
+Unknown exception
+bad allocation
+bad array new length
+FlsAlloc
+FlsFree
+FlsSetValue
+InitializeCriticalSectionEx
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__swift_1
+__swift_2
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator "" 
+operator co_await
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+CorExitProcess
+AreFileApisANSI
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+LCMapStringEx
+LocaleNameToLCID
+AppPolicyGetProcessTerminationMethod
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+?5Wg4p
+%S#[k=
+"B <1=
+_hypot
+_nextafter
+expand 32-byte k
+expand 16-byte k
+string too long
+.text$di
+.text$mn
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIC
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPX
+.CRT$XPXA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$r
+.rdata$sxdata
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata$x
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data$r
+.rsrc$01
+.rsrc$02
+GetProcAddress
+GetCurrentProcess
+CloseHandle
+GetLocalTime
+KERNEL32.dll
+wsprintfW
+USER32.dll
+PathIsDirectoryW
+SHLWAPI.dll
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+TerminateProcess
+IsProcessorFeaturePresent
+IsDebuggerPresent
+GetStartupInfoW
+GetModuleHandleW
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+RaiseException
+GetLastError
+SetLastError
+EnterCriticalSection
+LeaveCriticalSection
+DeleteCriticalSection
+InitializeCriticalSectionAndSpinCount
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+FreeLibrary
+LoadLibraryExW
+RtlUnwind
+GetStdHandle
+GetFileType
+GetModuleFileNameW
+GetModuleHandleExW
+WriteConsoleW
+ExitProcess
+WriteFile
+HeapAlloc
+HeapFree
+FindClose
+FindFirstFileExW
+FindNextFileW
+IsValidCodePage
+GetACP
+GetOEMCP
+GetCPInfo
+GetCommandLineA
+GetCommandLineW
+MultiByteToWideChar
+WideCharToMultiByte
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+LCMapStringW
+GetProcessHeap
+SetStdHandle
+GetStringTypeW
+FlushFileBuffers
+GetConsoleCP
+GetConsoleMode
+HeapSize
+HeapReAlloc
+SetFilePointerEx
+CreateFileW
+DecodePointer
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+YYYYYYYYYYYY
+}YPPPPYYYYa
+``YYYYYYYYYYY
+JJJJKRJJJJOLJJJJJJJJUE@JJJEYMFJ]JJJJJJJJJJJJJJacgNJJkmJJEmJJDEJJ
+d[[[[[
+[[[[[[[[[[[[js
+[RRRR[[[[w|w
+vv[[[[[[[[[[[
+@@@@AI@@@@LB@@@@@@@@ODS@@@DWC\@`@@@@@@@@@@@@@@dfnk@@jF@@DF@@[D@@
+Ptz:rO
+W=hIHh?
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVtype_info@@
+.?AVbad_array_new_length@std@@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+7(767L7h7
+8<9Q9W9
+3>4K4X7\7`7d7h7l7p7t7x7|7
+4c6h6n6
+0Z9e9A:P:
+;,<n<j>
+=#=4=Z=N>X>
+.5C5S5
+4#4;4\4w6
+6,7A7I7X7e7
+465B5z5
+8D8c8~8
+9 9'9G9M9S9Y9_9e9l9s9z9
+:L:R:X:^:d:j:q:x:
+<8<G<Z<f<v<
+/0V0n0t0
+2&2/2=2F2W283X3b3
+3D4Q4n4
+455>5K5Q5{5
+7<8p8x8
+9U:g:q:
+;3;N;\;h;t;
+;+<W<\<a<|<
+=6=F=N=S=^=
+?+?0?[?`?
+2(3/34383<3@3
+:[:`:d:h:l:
+=0>b>s>~>
+?"?:?U?`?
+0,1?1H1U1d1y1
+3.3n3t3
+888S8c8h8r8w8
+<W<n<y<
+=*=8=?=G=_=m=u=
+3S4n4x4
+5"5.5:5H5X5m5
+8(9/969=9J9
+?K?R?s?
+0 0G0\0l0y0
+1'1@1Q1[1}1
+>2?>?P?
+6J7Z7p7u7z7
+8)8?8e8
+979[9o9t9y9
+:!:,:1:6:T:c:n:s:x:
+;*;A;F;Q;x;
+=F=U=c=
+?(?:?L?^?p?
+626Q6 7
+:D:h:s:
+@0j0r0
+7%757F7
+8+8>8]8
+929T9x9
+F2N3_3
+5V6[6m6
+1 1,1014181<1H1L1P1`1d1h1
+1H2L2P2`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+<$<,<4<8<<<@<D<
+> >$>(>,>0>4>8><>
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5
+?$?,?4?<?D?L?T?\?d?l?t?|?
+0$0,040<0D0L0T0\0d0l0t0|0
+1$1,141<1D1L1T1\1d1l1t1|1
+2$2,242<2D2L2T2\2d2l2t2|2
+3$3,343<3D3L3T3\3d3l3t3|3
+4$4,444<4D4L4T4\4d4l4t4|4
+5$5,545<5D5L5T5\5d5l5t5|5
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+6 6(60686@6H6P6X6`6h6p6x6
+:$:,:4:<:D:L:T:\:d:l:t:|:
+:d<h<p<
+= =0=4=8=@=X=h=l=|=
+>$><>L>P>`>d>h>l>t>
+2$2(2,242H2d2h2
+3 3@3`3
+4 4@4`4
+5 5@5`5
+6 6<6@6
+(6X6h6x6
+7 7$7(7,7074787<7
+5(5H5`5
+Bapi-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+kernel32
+api-ms-
+ext-ms-
+mscoree.dll
+Bja-JP
+Bapi-ms-win-core-datetime-l1-1-1
+api-ms-win-core-fibers-l1-1-1
+api-ms-win-core-file-l1-2-2
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-synch-l1-2-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+advapi32
+kernel32
+api-ms-win-appmodel-runtime-l1-1-2
+user32
+api-ms-
+ext-ms-
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+         (((((                  H
+zh-CHS
+az-AZ-Latn
+uz-UZ-Latn
+kok-IN
+syr-SY
+div-MV
+quz-BO
+sr-SP-Latn
+az-AZ-Cyrl
+uz-UZ-Cyrl
+quz-EC
+sr-SP-Cyrl
+quz-PE
+smj-NO
+bs-BA-Latn
+smj-SE
+sr-BA-Latn
+sma-NO
+sr-BA-Cyrl
+sma-SE
+sms-FI
+smn-FI
+zh-CHT
+az-az-cyrl
+az-az-latn
+bs-ba-latn
+div-mv
+kok-in
+quz-bo
+quz-ec
+quz-pe
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+syr-sy
+uz-uz-cyrl
+uz-uz-latn
+zh-chs
+zh-cht
+CONOUT$
+.YEKRW

@@ -1,0 +1,133 @@
+!This program cannot be run in DOS mode.
+.rdata
+advapi32.dll
+SystemFunction036
+A_SHAInit
+A_SHAUpdate
+A_SHAFinal
+CryptReleaseContext
+CryptAcquireContextW
+NTRUPRM_739
+EES401EP2
+EES587EP1
+0123456789ABCDEF
+expand 32-byte kexpand 16-byte k
+VC20XC00U
+;t$(v(
+UQPXY]Y[
+GetProcAddress
+LoadLibraryA
+HeapAlloc
+HeapFree
+GetProcessHeap
+GetLastError
+GetEnvironmentVariableW
+CreateFileW
+FindFirstVolumeW
+FindNextVolumeW
+FindVolumeClose
+GetDriveTypeW
+GetLogicalDrives
+QueryDosDeviceW
+ReadFile
+SetFilePointer
+WriteFile
+GetTempPathW
+GetVolumePathNamesForVolumeNameW
+CloseHandle
+InitializeCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+DeleteCriticalSection
+InitializeConditionVariable
+WakeAllConditionVariable
+WaitForMultipleObjects
+GetCurrentProcess
+ExitProcess
+CreateThread
+GetCurrentThread
+SetThreadPriority
+SetPriorityClass
+GetWindowsDirectoryW
+GetModuleFileNameW
+lstrcatW
+lstrlenA
+lstrlenW
+SetVolumeMountPointW
+FindClose
+FindFirstFileW
+FindNextFileW
+SetFileAttributesW
+WakeConditionVariable
+SleepConditionVariableCS
+ExitThread
+lstrcpyW
+GetFileSizeEx
+SetEndOfFile
+SetFilePointerEx
+MoveFileExW
+KERNEL32.dll
+ShellExecuteExW
+SHChangeNotify
+SHELL32.dll
+memcpy
+_chkstk
+memset
+memmove
+_wcsicmp
+ntdll.dll
+RtlUnwind
+NtQueryVirtualMemory
+.KEY0002
+public
+ALLUSERSPROFILE
+TotalFiles.txt
+COMSPEC
+ /c del 
+ > nul
+$RECYCLE.BIN
+.vscode
+COMODO
+Chrome
+Common Files
+Common7
+Dr.Web
+Firefox
+HOW_TO_RECOVERY_FILES.txt
+Internet Explorer
+Kaspersky Lab
+McAfee
+Microsoft
+Microsoft Help
+Microsoft SDKs
+Microsoft Shared
+Microsoft VS Code
+Microsoft Visual Studio
+Microsoft.NET
+Movie Maker
+Mozilla Firefox
+NVIDIA Corporation
+Outlook Express
+Package Cache
+Packages
+ProgramData
+Spytech software
+Symantec
+Symantec_Client_Security
+System Volume Information
+Windows
+Windows App Certification Kit
+Windows Defender
+Windows Kits
+Windows Mai
+Windows Media Player
+Windows Multimedia Platform
+Windows NT
+Windows Phone Kits
+Windows Phone Silverlight Kits
+Windows Photo Viewer
+Windows Portable Devices
+Windows Sidebar
+WindowsPowerShel
+YandexBrowser
+sysconfig

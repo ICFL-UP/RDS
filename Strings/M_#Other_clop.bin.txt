@@ -1,0 +1,482 @@
+!This program cannot be run in DOS mode.
+3Richh
+`.data
+t h@aC
+_VVVVV
+^WWWWW
+URPQQhT
+u&hT8C
+=t.WSR
+Sj"Zf9
+jThhPC
+j$j _W
+F\=`"C
+Y;= )C
+0A@@Ju
+to=H-C
+Y9>t7j
+uQh\:C
+0SSSSS
+0SSSSS
+;t$,v-
+UQPXY]Y[
+j hhRC
+_VVVVV
+_VVVVV
+u,h8;C
+0SSSSS
+0WWWWW
+AAFFf;
+t!VV9u u
+F Pj*S
+F$Pj+Sj
+F(Pj,S
+F,Pj-S
+F0Pj.S
+F4Pj/S
+F8PjDS
+F<PjES
+F@PjFS
+FDPjGS
+FHPjHS
+FLPjIS
+FPPjJS
+FTPjKS
+FXPjLS
+F\PjMS
+F`PjNS
+FdPjOS
+FhPj8S
+FlPj9S
+FpPj:S
+FtPj;S
+FxPj<S
+F|Pj=S
+v4;5|-C
+C PjPV
+C$PjQV
+C*PjTV
+C+PjUV
+C,PjVV
+C-PjWV
+C.PjRV
+C/PjSV
+CHPjPV
+CLPjQV
+.;1s(N
+HHt4HHt
+Ht`Ht,
+tNHt/Ht
+PPPPPPPP
+0SSSSS
+PPPPPPPP
+<+t(<-t$:
++t HHt
+t+SSVPV
+t)h OC
+^SSSSS
+>:u8FV
+Pf95d_C
+VVVVVQRSSj
+0SSSSS
+0SSSSS
+u,VVWV
+t VV9u
+^SSSSS
+^SSSSS
+^SSSSS
+0SSSSS
+tg9] u
+Z=9GK(
+,#B4-#J
+.#R4/#Zl1#b
+:#J5;#R
+?TDZmW
+@.JsA.RLA.Z,@.
+UX$JUl
+?U,?;mfN(mf
+XmfNEmf
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+kernel32
+SetWindowContextHelpId
+user32.dll
+Set Current Reg Key
+STATUS_DS_ATTRIBUTE_OR_VALUE_EXISTS
+E_BOTH_0_WAIT_FOR_SIGNAL
+Roaming
+CorExitProcess
+mscoree.dll
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+An application has made an attempt to load the C runtime library incorrectly.
+Please contact the application's support team for more information.
+- Attempt to use MSIL code from this assembly during native code initialization
+This indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.
+- not enough space for locale information
+- Attempt to initialize the CRT more than once.
+This indicates a bug in your application.
+- CRT not initialized
+- unable to initialize heap
+- not enough space for lowio initialization
+- not enough space for stdio initialization
+- pure virtual function call
+- not enough space for _onexit/atexit table
+- unable to open console device
+- unexpected heap error
+- unexpected multithread lock error
+- not enough space for thread data
+This application has requested the Runtime to terminate it in an unusual way.
+Please contact the application's support team for more information.
+- not enough space for environment
+- not enough space for arguments
+- floating point support not loaded
+Microsoft Visual C++ Runtime Library
+<program name unknown>
+Runtime Error!
+Program: 
+EncodePointer
+DecodePointer
+FlsFree
+FlsSetValue
+FlsGetValue
+FlsAlloc
+LC_TIME
+LC_NUMERIC
+LC_MONETARY
+LC_CTYPE
+LC_COLLATE
+LC_ALL
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+Invalid parameter passed to C runtime function.
+SystemFunction036
+ADVAPI32.DLL
+InitializeCriticalSectionAndSpinCount
+GetProcessWindowStation
+GetUserObjectInformationA
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+USER32.DLL
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+united-states
+united-kingdom
+trinidad & tobago
+south-korea
+south-africa
+south korea
+south africa
+slovak
+puerto-rico
+pr-china
+pr china
+new-zealand
+hong-kong
+holland
+great britain
+england
+britain
+america
+swedish-finland
+spanish-venezuela
+spanish-uruguay
+spanish-puerto rico
+spanish-peru
+spanish-paraguay
+spanish-panama
+spanish-nicaragua
+spanish-modern
+spanish-mexican
+spanish-honduras
+spanish-guatemala
+spanish-el salvador
+spanish-ecuador
+spanish-dominican republic
+spanish-costa rica
+spanish-colombia
+spanish-chile
+spanish-bolivia
+spanish-argentina
+portuguese-brazilian
+norwegian-nynorsk
+norwegian-bokmal
+norwegian
+italian-swiss
+irish-english
+german-swiss
+german-luxembourg
+german-lichtenstein
+german-austrian
+french-swiss
+french-luxembourg
+french-canadian
+french-belgian
+english-usa
+english-us
+english-uk
+english-trinidad y tobago
+english-south africa
+english-nz
+english-jamaica
+english-ire
+english-caribbean
+english-can
+english-belize
+english-aus
+english-american
+dutch-belgian
+chinese-traditional
+chinese-singapore
+chinese-simplified
+chinese-hongkong
+chinese
+canadian
+belgian
+australian
+american-english
+american english
+american
+Norwegian-Nynorsk
+1#QNAN
+1#SNAN
+SetThreadStackGuarantee
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+InterlockedDecrement
+GetCommandLineA
+GetModuleHandleA
+VirtualAlloc
+GetProcAddress
+LoadLibraryA
+GetLastError
+TerminateProcess
+LeaveCriticalSection
+DeleteCriticalSection
+EnterCriticalSection
+LCMapStringW
+GetOEMCP
+GetCommandLineW
+GetModuleHandleW
+GetACP
+FlushFileBuffers
+MultiByteToWideChar
+GetVersionExA
+CreateEventW
+KERNEL32.dll
+CoGetClassObject
+CoUninitialize
+OleRun
+CLSIDFromProgID
+RevokeDragDrop
+CoCreateGuid
+CoTaskMemFree
+ReleaseStgMedium
+CoInitialize
+ole32.dll
+ImageList_Add
+COMCTL32.dll
+GetStartupInfoW
+GetCurrentProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+RtlUnwind
+ExitProcess
+WriteFile
+GetStdHandle
+GetModuleFileNameA
+GetModuleFileNameW
+FreeEnvironmentStringsA
+GetEnvironmentStrings
+FreeEnvironmentStringsW
+GetEnvironmentStringsW
+SetHandleCount
+GetFileType
+GetStartupInfoA
+TlsGetValue
+TlsAlloc
+TlsSetValue
+TlsFree
+InterlockedIncrement
+SetLastError
+GetCurrentThreadId
+GetCurrentThread
+HeapDestroy
+HeapCreate
+VirtualFree
+HeapFree
+QueryPerformanceCounter
+GetTickCount
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+GetCPInfo
+OutputDebugStringA
+FatalAppExitA
+SetConsoleCtrlHandler
+FreeLibrary
+InterlockedExchange
+LoadLibraryExA
+InitializeCriticalSection
+HeapAlloc
+HeapReAlloc
+LCMapStringA
+WideCharToMultiByte
+GetStringTypeA
+GetStringTypeW
+GetTimeFormatA
+GetDateFormatA
+GetUserDefaultLCID
+GetLocaleInfoA
+EnumSystemLocalesA
+IsValidLocale
+IsValidCodePage
+VirtualProtect
+GetSystemInfo
+VirtualQuery
+GetLocaleInfoW
+GetTimeZoneInformation
+CompareStringA
+CompareStringW
+SetEnvironmentVariableA
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+Greater Manchester1
+Salford1
+Sectigo Limited1$0"
+Sectigo RSA Code Signing CA0
+190222000000Z
+200222235959Z0
+SO50 8AH1
+EASTLEIGH1
+EASTLEIGH1#0!
+143 Stoke Heights Fair Oak1
+SO50 8AH10
+MEGAPOLIS SERVICES LTD10
+MEGAPOLIS SERVICES LTD0
+sZOD4^
+5v2%77
+https://sectigo.com/CPS0C
+2http://crl.sectigo.com/SectigoRSACodeSigningCA.crl0s
+2http://crt.sectigo.com/SectigoRSACodeSigningCA.crt0#
+http://ocsp.sectigo.com0 
+wausdeser44@gmail.com0
+New Jersey1
+Jersey City1
+The USERTRUST Network1.0,
+%USERTrust RSA Certification Authority0
+100201000000Z
+380118235959Z0
+New Jersey1
+Jersey City1
+The USERTRUST Network1.0,
+%USERTrust RSA Certification Authority0
+New Jersey1
+Jersey City1
+The USERTRUST Network1.0,
+%USERTrust RSA Certification Authority0
+181102000000Z
+301231235959Z0|1
+Greater Manchester1
+Salford1
+Sectigo Limited1$0"
+Sectigo RSA Code Signing CA0
+iemn'
+?http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
+3http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
+http://ocsp.usertrust.com0
+#jYhRB_
+mt^Ju~
+2&-jWp
+DigiCert Inc1
+www.digicert.com1!0
+DigiCert Assured ID CA-10
+141022000000Z
+241022000000Z0G1
+DigiCert1%0#
+DigiCert Timestamp Responder0
+https://www.digicert.com/CPS0
+2http://crl3.digicert.com/DigiCertAssuredIDCA-1.crl08
+2http://crl4.digicert.com/DigiCertAssuredIDCA-1.crl0w
+http://ocsp.digicert.com0A
+5http://cacerts.digicert.com/DigiCertAssuredIDCA-1.crt0
+iW!]4/q
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+061110000000Z
+211110000000Z0b1
+DigiCert Inc1
+www.digicert.com1!0
+DigiCert Assured ID CA-10
+.http://www.digicert.com/ssl-cps-repository.htm0
+http://ocsp.digicert.com0C
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
+4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
+Greater Manchester1
+Salford1
+Sectigo Limited1$0"
+Sectigo RSA Code Signing CA
+@[Ut(P
+DigiCert Inc1
+www.digicert.com1!0
+DigiCert Assured ID CA-1
+190301183834Z0#
+KERNEL32.DLL
+KERNELBASE.DLL
+kernel32.dll
+kernelbase.dll
+         (((((                  H
+         h((((                  H
+                                 H
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+<<<Obsolete>>
+RAny use of this Certificate constitutes acceptance of the DigiCert CP/CPS and the Relying Party Agreement which limit liability and are incorporated herein by reference
+RAny use of this Certificate constitutes acceptance of the DigiCert CP/CPS and the Relying Party Agreement which limit liability and are incorporated herein by reference
