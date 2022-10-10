@@ -1,0 +1,1213 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+PSQjLh
+L$0PQP
+PQSUVW
+D$(Pjf
+0WWWWS
+WtrHHt
+tA9wht<
+9p t-S
+whh)Y@
+@ Shbh@
+PQQQQQ
+S\_^[]
+S\_^[]
+t39w u&
+_ 9w$u
+uLh)Y@
+Ht;O u
+u:j0^V
+VWh)Y@
+QQQQhd
+SVWj(3
+u$SShe
+Gt9p<t9
+Gt9p,t
+9~xuY9^ 
+tZ9^ tU
+t[9^ tV
+H SSIQ
+@ SSHPWj
+Wj,_Wj
+PWVWWW
+SSOWVQ
++F(_^[;E
+F(@@;F,v
+F(;^ r
+F(;F0u
+^(_^[]
+<A|0<Z
+<A|S<Z
+tj9~8u@j
+9~8ucj
+F4_^[]
+QQSVWd
+0WWWWW
+0WWWWW
+jXh0kC
+0SSSSS
+0SSSSS
+0SSSSS
+^SSSSS
+^SSSSS
+HtHu4j
+s[S;7|G;w
+tR99u2
+0A@@Ju
+>=Yt1j
+j@j ^V
+j h oC
+HHtXHHt
+>If90t
+HHtYHHt
+URPQQh@
+^SSSSS
+^SSSSS
+j"^SSSSS
+jF<-uH
+<xtV<XtR
+PPPPPPPP
+PPPPPPPP
+_VVVVV
+^WWWWW
+;t$,v-
+UQPXY]Y[
+t"SS9]
+C PjPV
+C$PjQV
+C*PjTV
+C+PjUV
+C,PjVV
+C-PjWV
+C.PjRV
+C/PjSV
+PPPPPPPP
+u,VVWV
+t VV9u
+^SSSSS
+j"^SSSSS
+0SSSSS
+_VVVVV
+t+WWVPV
+<+t(<-t$:
++t HHt
+u;hD5C
+u,h<5C
+t}9>uyj
+tz9uvj
+F09^(u
+CloseHandle
+ReadFile error!
+Close handle error!
+Duplicate handle error 2!
+Duplicate handle error!
+Stdout pipe creation error!
+Finished operating in the current directory "%s".
+Will I continue into the (sub)directory(s) ?
+Sub directory operation query
+Finished operating in the current directory "%s".
+Will I continue into the subdirectory(s) ?
+bad allocation
+Win32 Executables(*.exe)|*.exe||
+RedirectedStream
+You have not filled up essential entries.
+These values are essential for me to function properly.
+Try again.
+Invalid field entries
+Task Completed.
+Recursive Execution completed sucessfully
+ios_base::eofbit set
+ios_base::failbit set
+ios_base::badbit set
+Here you can specify the (sub)directory under which to start recursing.
+Enter the "current directory" environment to pass to the program.  It's recommended to enter "<>" to indicate the current directory being recursed.
+Leave it blank to operate in root directory too
+A value of -1 implies Infinite wait state
+Enter "<>" (without the quotes) where you want me to substitute the current directory into ..
+Fuck Def
+CWinApp
+Settings
+PreviewPages
+DeactivateActCtx
+ActivateActCtx
+ReleaseActCtx
+CreateActCtxA
+KERNEL32
+Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+NoDrives
+RestrictRun
+NoNetConnectDisconnect
+NoRecentDocsHistory
+NoClose
+Software\Microsoft\Windows\CurrentVersion\Policies\Network
+NoEntireNetwork
+Software\Microsoft\Windows\CurrentVersion\Policies\Comdlg32
+NoPlacesBar
+NoBackButton
+NoFileMru
+ntdll.dll
+GetSystemDefaultUILanguage
+GetUserDefaultUILanguage
+kernel32.dll
+%s%s.dll
+%s (%s:%d)
+%s (%s:%d)
+Exception thrown in destructor
+f:\dd\vctools\vc7libs\ship\atlmfc\src\mfc\appcore.cpp
+CCmdTarget
+CWinThread
+Software\Classes\
+Software\
+CDialog
+COleException
+DISPLAY
+CInvalidArgException
+CNotSupportedException
+CMemoryException
+CSimpleException
+CException
+AfxWnd90s
+AfxControlBar90s
+AfxMDIFrame90s
+AfxFrameOrView90s
+AfxOleControl90s
+AfxOldWndProc423
+EnumDisplayDevicesA
+GetMonitorInfoA
+EnumDisplayMonitors
+MonitorFromPoint
+MonitorFromRect
+MonitorFromWindow
+GetSystemMetrics
+USER32
+InitCommonControls
+InitCommonControlsEx
+HtmlHelpA
+hhctrl.ocx
+F#32768
+f:\dd\vctools\vc7libs\ship\atlmfc\include\afxwin2.inl
+commctrl_DragListMsg
+CreateActCtxW
+comctl32.dll
+comdlg32.dll
+shell32.dll
+CGdiObject
+CPaintDC
+CUserException
+CResourceException
+f:\dd\vctools\vc7libs\ship\atlmfc\include\afxwin1.inl
+CFileDialog
+p4GetOpenFileNameA
+GetSaveFileNameA
+SHCreateItemFromParsingName
+Shell32.dll
+CToolTipCtrl
+tooltips_class32
+CObject
+Delete
+NoRemove
+ForceRemove
+software
+combobox
+f:\dd\vctools\vc7libs\ship\atlmfc\src\mfc\auxdata.cpp
+System
+CMapPtrToPtr
+CArchiveException
+CCommonDialog
+commdlg_SetRGBColor
+commdlg_help
+commdlg_ColorOK
+commdlg_FileNameOK
+commdlg_ShareViolation
+commdlg_LBSelChangedNotify
+CMapStringToPtr
+NotifyWinEvent
+user32.dll
+%2\CLSID
+%2\Insertable
+%2\protocol\StdFileEditing\verb\0
+%2\protocol\StdFileEditing\server
+CLSID\%1
+CLSID\%1\ProgID
+CLSID\%1\InprocHandler32
+ole32.dll
+CLSID\%1\LocalServer32
+CLSID\%1\Verb\0
+&Edit,0,2
+CLSID\%1\Verb\1
+&Open,0,2
+CLSID\%1\Insertable
+CLSID\%1\AuxUserType\2
+CLSID\%1\AuxUserType\3
+CLSID\%1\DefaultIcon
+CLSID\%1\MiscStatus
+CLSID\%1\InProcServer32
+CLSID\%1\DocObject
+%2\DocObject
+CLSID\%1\Printable
+CLSID\%1\DefaultExtension
+%9, %8
+CByteArray
+CObArray
+CPtrArray
+Unknown exception
+CorExitProcess
+HeapQueryInformation
+bad exception
+EncodePointer
+DecodePointer
+FlsFree
+FlsSetValue
+FlsGetValue
+FlsAlloc
+LC_TIME
+LC_NUMERIC
+LC_MONETARY
+LC_CTYPE
+LC_COLLATE
+LC_ALL
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+An application has made an attempt to load the C runtime library incorrectly.
+Please contact the application's support team for more information.
+- Attempt to use MSIL code from this assembly during native code initialization
+This indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.
+- not enough space for locale information
+- Attempt to initialize the CRT more than once.
+This indicates a bug in your application.
+- CRT not initialized
+- unable to initialize heap
+- not enough space for lowio initialization
+- not enough space for stdio initialization
+- pure virtual function call
+- not enough space for _onexit/atexit table
+- unable to open console device
+- unexpected heap error
+- unexpected multithread lock error
+- not enough space for thread data
+This application has requested the Runtime to terminate it in an unusual way.
+Please contact the application's support team for more information.
+- not enough space for environment
+- not enough space for arguments
+- floating point support not loaded
+Microsoft Visual C++ Runtime Library
+<program name unknown>
+Runtime Error!
+Program: 
+(null)
+`h````
+xpxxxx
+`h`hhh
+xppwpp
+GAIsProcessorFeaturePresent
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+ Complete Object Locator'
+ Class Hierarchy Descriptor'
+ Base Class Array'
+ Base Class Descriptor at (
+ Type Descriptor'
+`local static thread guard'
+`managed vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`vector copy constructor iterator'
+`dynamic atexit destructor for '
+`dynamic initializer for '
+`eh vector vbase copy constructor iterator'
+`eh vector copy constructor iterator'
+`managed vector destructor iterator'
+`managed vector constructor iterator'
+`placement delete[] closure'
+`placement delete closure'
+`omni callsig'
+ delete[]
+ new[]
+`local vftable constructor closure'
+`local vftable'
+`udt returning'
+`copy constructor closure'
+`eh vector vbase constructor iterator'
+`eh vector destructor iterator'
+`eh vector constructor iterator'
+`virtual displacement map'
+`vector vbase constructor iterator'
+`vector destructor iterator'
+`vector constructor iterator'
+`scalar deleting destructor'
+`default constructor closure'
+`vector deleting destructor'
+`vbase destructor'
+`string'
+`local static guard'
+`typeof'
+`vcall'
+`vbtable'
+`vftable'
+operator
+ delete
+__unaligned
+__restrict
+__ptr64
+__clrcall
+__fastcall
+__thiscall
+__stdcall
+__pascal
+__cdecl
+__based(
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+united-states
+united-kingdom
+trinidad & tobago
+south-korea
+south-africa
+south korea
+south africa
+slovak
+puerto-rico
+pr-china
+pr china
+new-zealand
+hong-kong
+holland
+great britain
+england
+britain
+america
+swedish-finland
+spanish-venezuela
+spanish-uruguay
+spanish-puerto rico
+spanish-peru
+spanish-paraguay
+spanish-panama
+spanish-nicaragua
+spanish-modern
+spanish-mexican
+spanish-honduras
+spanish-guatemala
+spanish-el salvador
+spanish-ecuador
+spanish-dominican republic
+spanish-costa rica
+spanish-colombia
+spanish-chile
+spanish-bolivia
+spanish-argentina
+portuguese-brazilian
+norwegian-nynorsk
+norwegian-bokmal
+norwegian
+italian-swiss
+irish-english
+german-swiss
+german-luxembourg
+german-lichtenstein
+german-austrian
+french-swiss
+french-luxembourg
+french-canadian
+french-belgian
+english-usa
+english-us
+english-uk
+english-trinidad y tobago
+english-south africa
+english-nz
+english-jamaica
+english-ire
+english-caribbean
+english-can
+english-belize
+english-aus
+english-american
+dutch-belgian
+chinese-traditional
+chinese-singapore
+chinese-simplified
+chinese-hongkong
+chinese
+canadian
+belgian
+australian
+american-english
+american english
+american
+Norwegian-Nynorsk
+GetProcessWindowStation
+GetUserObjectInformationA
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+USER32.DLL
+1#QNAN
+1#SNAN
+CONOUT$
+string too long
+invalid string position
+bad cast
+OLEACC.dll
+CreateStdAccessibleObject
+LresultFromObject
+CloseHandle
+lstrlenA
+WriteFile
+GetLastError
+ReadFile
+TerminateProcess
+WaitForSingleObject
+CreateProcessA
+DuplicateHandle
+GetCurrentProcess
+CreatePipe
+lstrcpyA
+FindClose
+FindNextFileA
+lstrcmpA
+FindFirstFileA
+lstrcatA
+lstrcpynA
+SetFilePointer
+CreateFileA
+VirtualAlloc
+GetProcAddress
+GetModuleHandleA
+FreeLibrary
+GlobalAlloc
+GlobalLock
+InterlockedExchange
+SizeofResource
+LockResource
+LoadResource
+FindResourceA
+CompareStringA
+WideCharToMultiByte
+LoadLibraryA
+GetLocaleInfoA
+GetModuleFileNameA
+EnumResourceLanguagesA
+ConvertDefaultLocale
+GetCurrentThreadId
+GetCurrentThread
+GlobalDeleteAtom
+GlobalAddAtomA
+SetLastError
+GetCurrentProcessId
+FreeResource
+GlobalFree
+GlobalUnlock
+MulDiv
+MultiByteToWideChar
+LocalFree
+FormatMessageA
+GetVersionExA
+lstrcmpW
+GlobalFindAtomA
+GlobalGetAtomNameA
+GetModuleFileNameW
+InterlockedDecrement
+WritePrivateProfileStringA
+GlobalFlags
+LocalAlloc
+LeaveCriticalSection
+TlsGetValue
+EnterCriticalSection
+GlobalReAlloc
+GlobalHandle
+InitializeCriticalSection
+TlsAlloc
+TlsSetValue
+LocalReAlloc
+DeleteCriticalSection
+TlsFree
+InterlockedIncrement
+FlushFileBuffers
+GetModuleHandleW
+GetCPInfo
+GetOEMCP
+SetErrorMode
+RtlUnwind
+RaiseException
+GetCommandLineA
+GetStartupInfoA
+HeapAlloc
+HeapFree
+ExitProcess
+HeapReAlloc
+HeapSize
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+GetACP
+IsValidCodePage
+GetStdHandle
+FreeEnvironmentStringsA
+GetEnvironmentStrings
+FreeEnvironmentStringsW
+GetEnvironmentStringsW
+SetHandleCount
+GetFileType
+HeapCreate
+VirtualFree
+QueryPerformanceCounter
+GetTickCount
+GetSystemTimeAsFileTime
+InitializeCriticalSectionAndSpinCount
+LCMapStringA
+LCMapStringW
+GetStringTypeA
+GetStringTypeW
+GetUserDefaultLCID
+EnumSystemLocalesA
+IsValidLocale
+GetLocaleInfoW
+GetConsoleCP
+GetConsoleMode
+SetStdHandle
+WriteConsoleA
+GetConsoleOutputCP
+WriteConsoleW
+KERNEL32.dll
+MessageBoxA
+wsprintfA
+DrawIcon
+SendMessageA
+IsIconic
+GetClientRect
+EnableWindow
+LoadIconA
+GetSystemMetrics
+PostQuitMessage
+PostMessageA
+CheckMenuItem
+EnableMenuItem
+GetMenuState
+ModifyMenuA
+GetParent
+GetFocus
+LoadBitmapA
+GetMenuCheckMarkDimensions
+SetMenuItemBitmaps
+ValidateRect
+GetCursorPos
+PeekMessageA
+GetKeyState
+IsWindowVisible
+GetActiveWindow
+DispatchMessageA
+TranslateMessage
+GetMessageA
+CallNextHookEx
+SetWindowsHookExA
+SetCursor
+IsWindowEnabled
+GetLastActivePopup
+GetWindowLongA
+GetWindowThreadProcessId
+EndDialog
+GetNextDlgTabItem
+GetDlgItem
+IsWindow
+DestroyWindow
+CreateDialogIndirectParamA
+SetActiveWindow
+GetDesktopWindow
+GetSubMenu
+GetMenuItemCount
+GetMenuItemID
+GetWindow
+GetWindowRect
+GetWindowPlacement
+SystemParametersInfoA
+SetWindowPos
+SetWindowLongA
+GetMenu
+CallWindowProcA
+DefWindowProcA
+GetDlgCtrlID
+PtInRect
+CopyRect
+ScreenToClient
+AdjustWindowRectEx
+GetSysColor
+RegisterClassA
+GetClassInfoA
+GetClassInfoExA
+CreateWindowExA
+UpdateWindow
+SetForegroundWindow
+SetMenu
+MapWindowPoints
+GetMessagePos
+GetMessageTime
+UnhookWindowsHookEx
+GetTopWindow
+GetForegroundWindow
+GetWindowTextA
+GetWindowTextLengthA
+SetFocus
+RemovePropA
+GetPropA
+SetPropA
+GetClassNameA
+GetClassLongA
+GetCapture
+WinHelpA
+SendDlgItemMessageA
+RegisterWindowMessageA
+IsDialogMessageA
+SetWindowTextA
+ShowWindow
+TabbedTextOutA
+DrawTextA
+DrawTextExA
+GrayStringA
+ClientToScreen
+ReleaseDC
+BeginPaint
+EndPaint
+WindowFromPoint
+LoadCursorA
+GetSysColorBrush
+DestroyMenu
+UnregisterClassA
+USER32.dll
+CreateBitmap
+GetDeviceCaps
+GetClipBox
+SetTextColor
+SetBkColor
+GetObjectA
+SaveDC
+RestoreDC
+SetMapMode
+DeleteObject
+PtVisible
+RectVisible
+TextOutA
+ExtTextOutA
+Escape
+SelectObject
+SetViewportOrgEx
+OffsetViewportOrgEx
+SetViewportExtEx
+ScaleViewportExtEx
+SetWindowExtEx
+ScaleWindowExtEx
+DeleteDC
+GetStockObject
+GDI32.dll
+ClosePrinter
+DocumentPropertiesA
+OpenPrinterA
+WINSPOOL.DRV
+CryptEncrypt
+CryptImportKey
+CryptAcquireContextW
+RegCloseKey
+RegQueryValueExA
+RegOpenKeyExA
+RegDeleteKeyA
+RegEnumKeyA
+RegOpenKeyA
+RegQueryValueA
+RegCreateKeyExA
+RegSetValueExA
+ADVAPI32.dll
+SHGetPathFromIDListA
+SHBrowseForFolderA
+SHGetMalloc
+SHELL32.dll
+PathFindExtensionA
+PathFindFileNameA
+PathRemoveFileSpecW
+SHLWAPI.dll
+CoTaskMemFree
+CoUninitialize
+CoCreateInstance
+CoInitializeEx
+ole32.dll
+OLEAUT32.dll
+.?AVCGetFileList@@
+.?AVCRecurseExecApp@@
+.?AVCWinApp@@
+.?AVCWinThread@@
+.?AVCCmdTarget@@
+.?AVCObject@@
+^2?SnrwkZSzpuPI
+1.HKe 
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AVCEdit@@
+.?AVCWnd@@
+.?AVCRecurseExecDlg@@
+.?AVCDialog@@
+.?AVruntime_error@std@@
+.?AVfailure@ios_base@std@@
+.PAVCException@@
+.?AVCCmdUI@@
+.PAVCMemoryException@@
+.?AVCOleException@@
+.?AVCException@@
+.PAVCOleException@@
+.PAVCObject@@
+.PAVCSimpleException@@
+.PAVCNotSupportedException@@
+.PAVCInvalidArgException@@
+.?AVCSimpleException@@
+.?AVCMemoryException@@
+.?AVCNotSupportedException@@
+.?AVCInvalidArgException@@
+.?AVXAccessible@CWnd@@
+.?AVXAccessibleServer@CWnd@@
+.?AVCTestCmdUI@@
+.?AV_AFX_HTMLHELP_STATE@@
+.?AVCNoTrackObject@@
+.PAVCUserException@@
+.?AV?$IAccessibleProxyImpl@VCAccessibleProxy@ATL@@@ATL@@
+.?AUIAccessible@@
+.?AUIDispatch@@
+.?AUIUnknown@@
+.?AUIAccessibleProxy@@
+.?AV?$CMFCComObject@VCAccessibleProxy@ATL@@@@
+.?AVCAccessibleProxy@ATL@@
+.?AV?$CComObjectRootEx@VCComSingleThreadModel@ATL@@@ATL@@
+.?AVCComObjectRootBase@ATL@@
+.?AUIOleWindow@@
+.?AV_AFX_THREAD_STATE@@
+.?AVAFX_MODULE_THREAD_STATE@@
+.?AVAFX_MODULE_STATE@@
+.?AVCDllIsolationWrapperBase@@
+.?AVCComCtlWrapper@@
+.?AVCCommDlgWrapper@@
+.?AVCShellWrapper@@
+.?AV_AFX_BASE_MODULE_STATE@@
+.?AVCAfxStringMgr@@
+.?AUIAtlStringMgr@ATL@@
+.PAVCResourceException@@
+.?AVCResourceException@@
+.?AVCUserException@@
+.?AVCGdiObject@@
+.?AVCDC@@
+.?AVCPaintDC@@
+.?AVCCommonDialog@@
+.?AVXFileDialogEvents@CFileDialog@@
+.?AUIFileDialogEvents@@
+.?AVXFileDialogControlEvents@CFileDialog@@
+.?AUIFileDialogControlEvents@@
+.?AVCFileDialog@@
+.?AVCToolTipCtrl@@
+.?AUCThreadData@@
+.?AVCHandleMap@@
+.?AVCMenu@@
+.?AVCMapPtrToPtr@@
+.PAVCArchiveException@@
+.?AVCArchiveException@@
+.?AVCMapStringToPtr@@
+.?AVCObArray@@
+Apartment
+.?AVCByteArray@@
+.?AV?$CArray@W4LoadArrayObjType@CArchive@@ABW412@@@
+.?AVCPtrArray@@
+.?AVtype_info@@
+.?AVbad_cast@std@@
+.?AVbad_exception@std@@
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVfacet@locale@std@@
+.?AUctype_base@std@@
+.?AVios_base@std@@
+.?AV?$_Iosb@H@std@@
+.?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
+.?AV?$ctype@D@std@@
+.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_filebuf@DU?$char_traits@D@std@@@std@@
+.?AVcodecvt_base@std@@
+.?AV?$codecvt@DDH@std@@
+.?AV_Locimp@locale@std@@
+Copyright (c) 1992-2004 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
+6iq`
+?BB(.t
+xJ3 At
+cp\9Ky|
+@atFhD 
+<JL!<lw
+ Uq6MM
+&44&SQ
+|_$OgJ
+r!ce'%
+{((\) 
+F~*pG!
+C;kIaJ,
+}9P*x"
+x")\7-
+5mq^c;
+2R44~|
+#S<Nb~
+m;@:z^
+xb(I2E
+BAr'^_x"G
+k)Oc*.
+t\[aw
+tu/c#S
+WcTA%I"3
+LJZktG
+e]L{(x
+Fdv43F@
+=js<~xE
+NLeNxt
+$|4g.N
+K+t-,1
+UiwO{U
+|8h'v`
+$yX,<#
+i-2AaGB
+j[d^{Ny:
+h';6NI
+Gh-hb:
+K|Z<~t
+9x_'3G[
+l{0b,3M
+m?N1tj
+'wlP_-
+X\/5G2F
+;"RrDf
+?Y-v=8H"
+.5!>s"
+be$0:N
+=7]M2u
+5^7^s`;
+v >TZTe
+zYGtND
+"L[SC%
+nre(Y7
+aMuJ^k
+1vBriF8
+[_:=y\
+K+&xi{flBs0S
+*JoSI 
+J|UtXb
+zF*^@%
+G#NCU|
+)_#=d'I
+2olP<cJR
+l0';$R
+b[&?4[)
+ ?Mny-
++&=Scz
+,O.!fDFE
+^oe_<I
+Uc]J^`
+*tU?={
+WT#AtG
+FM4^B
+K@SC8P0
+nbg$A|
+FnL7&Le
+Gtc";b-
+tXI0K[
+8I?+dF,c
+7V]hZ6
+S^1d(j
+o/1Z|y
+El5~4A
+HKgne7
+=ny^(g/6
+n ,g)%
+zGLF?4u
+Nq_-:F
+F]0[c:
+3AiL}S
+&J#sn:
+k$RDe-
+=}&B1w%
+(^zpP9
+\1|9`,
+uu1=U%p
+nb6e/55b
+0k](SK
+j6Xu2(/
+qeK mZ
+2a$An4S
+<3H^~3|3m
+$1W#PY
+h)'\-}
+\)O<[
+v>FUtH
+]->t&K7n
+{BBUBHH
+ct>t88
+sIakxs
+-@pli2
+G2}#5r
+^7R.'/
+F/B$J*
+^5JZ&c'gXK'
+]bbKkg
+U[a'cl=
+A@'ZKK
+1zwgJe?\xw
+n?^FSG
+fe.&dn
+f'>D~=
+iL)j^|8
+G]yt(#
+C`!ewc
+o0Sl^wR
+VAGAtv
+[Rektd
+S>-["9
+S;[T&m
+bUc9+y%[
+uhH]3]
+vup>wn
+|Fa'un
+:4nE"p5
+|mt"'>
+W#E0(.
+T&xhN%
+.V?u>/
+^Qx#SJ
+4,aGc{
+`TF1xHp
+ab rSi
+qyu^-,1
+@.d|R*_W
+mUz=HX
+RKXP(.
+8VA-v@u
+5L_p1d7%
+!:B BL
+'r&*Oh_
+|J;5*m
+|vW0rd
+A$ VbA
+6g)aiE
+"X$Z`L
+NnBPJ"
++7pW_U
+ZpBX)]
+j|PNQV
+|~)-n%
+|Bx)9*
+W@t%-O8
+!`(3u+@
+"&zza]
+BIgLNmG
+tp-/^1@EZ
+E|ijY9
+0A:4t(j
+J)-m}7Q
+X<vQQ,h
+][5&h+
+ r.LGl
+2#DM:$V
+%:<Y9c
+(shKy.
+,=m.fu
+r^:JJZ
+96MMX7
+SDO;ni
+g7}Dnl
+,0\qio
+XNFi$_<
+i,!fM`
+qCI,L>ZQ
+2b>ylU
+v~4~MX,
+Pu2=$+
+ Ee|e7
+luyl&!"
+zde]vp5s
+?dz;=4A
+_ehRwZ
+r{5Bst
+o4-_V"x
+#b*`i*
+3#{gyx
+(jT-_T<
+V~4Ll<7
+jQ~{n}t]n
+A~sFzJ
+Lo5F'K
+2j}WGr
+YO2e),N
+2+Og,K
+t6,uK&q-
+f"@:(e
+!w\unB(
+cHT9zVHQLdi
+JjQx0F
+8t!ET)
+B\{xG+
+H#dv)^
+tAnALA
+MuMsFM
+4'{\vH
+:N9?Al
+1W@\7F
+$48Cey'8
+(Qj(ff
+Y&OtV8
+3']JnJ
+4B<_QO
+5=Mn|=
+!yGVV[*--
+rFj"3ms*
+kxvF`@
+6k)C>(&
+(DL b2
+KjU24O
+pIl_PK
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGX
+NTDLL.dll
+accParent
+accChildCount
+accChild
+accName
+accValue
+accDescription
+accRole
+accState
+accHelp
+accHelpTopic
+accKeyboardShortcut
+accFocus
+accSelection
+accDefaultAction
+accSelect
+accLocation
+accNavigate
+accHitTest
+accDoDefaultAction
+mscoree.dll
+kernel32.dll
+KERNEL32.DLL
+(null)
+         (((((                  H
+         h((((                  H
+                                 H
+A Kamal Shankar Quick Tool - Recursive Executer
+MS Sans Serif
+Cancel
+ Program options 
+Redirect STDIO
+Check2
+Confirm new entry
+Check this if you want the program to ask for confirmation everytime it enters a new (sub)directory..
+ Execution Options 
+&Browse..
+ Select the program you want to execute 
+ Select the starting directory 
+Browse ..
+ Executable arguments
+Directory Wildcard
+Timeout (ms)
+Current Dir Value
+MS Shell Dlg
+Cancel
+MS Shell Dlg
+Save As
+All Files (*.*)
+Untitled
+an unnamed file
+No error message is available.#Attempted an unsupported operation.$A required resource was unavailable.
+Out of memory.
+An unknown error has occurred.!Encountered an improper argument.
+Incorrect filename.
+Failed to open document.
+Failed to save document.
+Save changes to %1? Failed to create empty document.
+The file is too large to open.
+Could not start print job.
+Failed to launch help.
+Internal application error.
+Command failed.)Insufficient memory to perform operation.PSystem registry entries have been removed and the INI file (if any) was deleted.BNot all of the system registry entries (or INI file) were removed.FThis program requires the file %s, which was not found on this system.tThis program is linked to the missing export %s in the file %s. This machine may have an incompatible version of %s.
+Enter an integer.
+Enter a number.#Enter an integer between %1 and %2.!Enter a number between %1 and %2.!Enter no more than %1 characters.
+Select a button.#Enter an integer between 0 and 255.
+Enter a positive integer.
+Enter a date and/or time.
+Enter a currency.
+Enter a GUID.
+Enter a time.
+Enter a date.
+Unexpected file format.O%1
+Cannot find this file.
+Verify that the correct path and file name are given.Destination disk drive is full.5Unable to read from %1, it is opened by someone else.AUnable to write to %1, it is read-only or opened by someone else.1Encountered an unexpected error while reading %1.1Encountered an unexpected error while writing %1.
+%1: %2
+Continue running script?
+Dispatch exception: %1
+#Unable to read write-only property.#Unable to write read-only property.
+#Unable to load mail system support.
+Mail system DLL is invalid.!Send Mail failed to send message.
+No error occurred.-An unknown error occurred while accessing %1.
+%1 was not found.
+%1 contains an incorrect path.8Could not open %1 because there are too many open files.
+Access to %1 was denied.0An incorrect file handle was associated with %1.8Could not remove %1 because it is the current directory.2Could not create %1 because the directory is full.
+Seek failed on %14Encountered a hardware I/O error while accessing %1.3Encountered a sharing violation while accessing %1.3Encountered a locking violation while accessing %1.
+Disk full while accessing %1.$Attempted to access %1 past its end.
+No error occurred.-An unknown error occurred while accessing %1.%Attempted to write to the reading %1.$Attempted to access %1 past its end.&Attempted to read from the writing %1.
+%1 has a bad format."%1 contained an unexpected object. %1 contains an incorrect schema.
+pixels
+Uncheck
+VS_VERSION_INFO
+StringFileInfo
+040904B0
+CompanyName
+FileDescription
+RecurseExec MFC Application
+FileVersion
+1, 0, 0, 1
+InternalName
+RecurseExec
+LegalCopyright
+Copyright (C) 2004
+LegalTrademarks
+OriginalFilename
+RecurseExec.EXE
+ProductName
+RecurseExec Application
+ProductVersion
+1, 0, 0, 1
+VarFileInfo
+Translation

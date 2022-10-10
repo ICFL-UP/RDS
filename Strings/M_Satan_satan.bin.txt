@@ -1,0 +1,294 @@
+!This program cannot be run in DOS mode.
+lV YlV YlV YlV YmV Ye.
+YgV YlV!Y
+YhV Y*
+YfV Ya
+Y}V Ya
+YmV YRichlV Y
+`.rdata
+@.data
+.reloc
+SUVWh@
+D$0j@h
+uZhp#@
+;t$ ^]
+VC20XC00U
+;t$,v-
+UQPXY]Y[
+URPQQh
+E#+E/^ZY
+RtlGetVersion
+ntdll.dll
+l~g%iuk
+b~uhlpdr!kui
+w++8sxy
+8-,9>?
+VmKnyogV~w}aytb~ggZycnk|s
+T~pwx@t}pjxX~xl
+`cwTqgreaz
+vMn^NPWQQEWcFZUR[Z
+: %%6:
+\gCtbT{{n~`mJwnxcg
+_dF|xug@p}lU{Oz}uill
+,>36!&
+>>4<*:|.:24>!$tz+'$ia>9$'7
+77342s
++4,1#m%9+o:/9(: &#n
+*63$*:t
+b)&'$#vcm}`k*-*+Pxxy}d0evz<tthlkSDPLMMS
+ZV\A[M
+DgycurfzssNptpyb
+QCZWAY
+`vdjjkl~'lgf
+2$6889>5u>54
+8?97=5*u09:
+VF\k_]V
+wdkwld,fth
+|ochieq
+PCODEI]
+BJZMYN^H^GEREUMUNRWWBLenfv}
+GPHVBTVx}hFPbAX_V
+gzpcgp`v`ksHYK_
+}tn[L\J
+DSKUAWU{^DGDY^K
+u~GU^K@AMbUMS_
+)+(<&!'
+hWSxY]
+JV[Pw_SBC
+>,7=1:4
+1'70(%4l(4*
+*?='=;#?m'9%
+~kisiowkt8plv
+@NH@OLN
+gdzw~}
+BA_RSOD
+ICQILL
+2"9%12 
+NJCEOYALBY\@D
+vuhZa`.dvj
+DXPL]KLRWP
+GetFileSize
+GetCurrentThread
+VirtualFree
+ReadFile
+CreateFileW
+VirtualAlloc
+CloseHandle
+DeleteFileW
+ExitProcess
+GetCommandLineW
+GetModuleFileNameW
+GetProcAddress
+GetModuleHandleA
+HeapAlloc
+HeapFree
+GetProcessHeap
+GetCurrentProcess
+GetModuleHandleW
+VirtualQuery
+CreateProcessW
+OpenProcess
+TerminateProcess
+Process32FirstW
+Process32NextW
+CreateToolhelp32Snapshot
+GetThreadContext
+RemoveVectoredExceptionHandler
+SetUnhandledExceptionFilter
+LoadLibraryW
+AddVectoredExceptionHandler
+KERNEL32.dll
+FindWindowW
+USER32.dll
+CryptGetHashParam
+CryptAcquireContextW
+CryptReleaseContext
+CryptCreateHash
+CryptDestroyHash
+CryptHashData
+GetUserNameW
+ADVAPI32.dll
+RtlUnwind
+IsDebuggerPresent
+IsProcessorFeaturePresent
+UnhandledExceptionFilter
+a0ec7736168ddf708498e9cfcf3c4ca8fce0b7e5c9b8b6fc20f3dc957181954fe7d3e9fcd04c11ccd1d539fc2e1ff4fa9ceba2bbcac36df501628d8e6c3f9f6319cc1da42aa023a5bec07ab2b58698f6600e7f818ef2cd77e19cd4d19b5d6a69d83a4ff3016ed2ec5932ae7b7334c5455985e7a53ca3bec04584a199aa3853a18f0fa70bb8c95335c5eb8d14b6fa8c2ae264af522b02de71a2ba29a020494ff7fa29f1fe1bdcb66f6c4a07e0451233c7e0a6f9e98a22b66df6b63260384a89a38c535ce323ab0ea15338296fb4d17178bc876e2e6be149d6ceefe7813c379e86ed1c06d16fc9f41725204743e3d47fc3a8fe74a107cd8e9c6796d66be06c8a7cde5ac3edfe5c386ee89bee0d3e3938a9c773ee7089a3a20ef8d493e2af6a921d0fc5934c34ea3ea2af80bc1075f09abefea564993a8f9a03a3e558715ae132c8f363cd4176725537fc15b2df3387b8a83020dc1428010c39700f318711ad77974b20779cd4ac2d81940b8cb0ecf4d9a64a0c6772f09260e79d8727e3036980eef153e8673c34e423e4ad532ecb9a08ee67e77829bcddc57c4b081ddd6f63443fae6da502f665072c8a9299f3e66728bccf744f0335f4441e33e7c7b44bce70512fa678c240b4b513591bebf70eef5dce33414ca943f375d8162b2367a099387c4a0d6975c905a8950001b355719ed53dcf54e0f8bef6edc7c8e08459168d0584
+JJVVVVdd
+/0I0]0t0
+2@2K2[2
+3$3+353A3\3c3m3t3
+7"7,727
+9!:7:Z:j:
+A0B1I1
+3:3A3v3
+9c9l9y9
+;2=:=N=l=
+=U>o>x>f?k?}?
+,0;0E0
+1"222?2b2
+2&3+3=3[3o3u3
+6#6)60676>6E6L6S6Z6b6j6r6~6
+8D8R8Y8f8o8x8~8
+ 2,282D2P2\2
+6$6,646<6D6L6T6\6d6l6t6|6
+7$7,747<7D7L7T7\7d7l7t7|7
+8$8,848<8D8L8T8\8d8l8t8|8
+9$9,949<9D9L9T9\9d9
+uO+>xPQhX
+'l_TmdK
+e)g^Kh
+GPI=,M}
+{=]:_/BQ
+y?f.KD'
+1JL<+-OP
+DH(+,9
+;jmonzY
+V-'f#'
+UIgTJLe
+MwHlJ|
+CR]ce&
+g"N*XP?
+7mTO:L
+>kDmen
+G"g$/_
+$6r5#J
+N|e<n6<
+Cn'dgS
+hG()Fi
+k{x|>O
+uaJzL,
+y%\KKa
+2vca*p6
+E@ odd-a
+fRv\rr
+)TGNK6
+<N$Y~K
+[|j*R6/3
+L>9w{^
+L!^bL:
+X;4E,x
+"!'oBD
+`So[0s'
+j'Qg]YyF
+#Ze&=^
+`&:m0'#cI@
+zeGvO~N
+S Hd-^
+J7R<)\_1f
+]YPq3:'
+;8~GRu
+$l#(Q`/
+JeIC@gr|
+*Jm)Vn
+m2o&/v
+Clbe2h%
+A(Ha$&I
+ohv/b
+xpD|m
+D[\xA6
+&c"u?_;
+Eb,3;&
+8N_;_,zV
+4fk}P6&
+<gC:XT
+?YawE1
+K42?6sf
+h'n`y&
+KF?W|[
+SaiS5O
+SrZrErD
+_qag0r
+0FzmMh
+p%Sk![
+O1Usf'I
+G8"@|aZ
+huR!Kk
+BrW&n?
+FqKxl[
+80R.c`
+.[o{ZTkw
+[JF6y3
+6Z&Ncp
+dC^hX4
+g}RNF!>+}
+N,6\7H
+`p"\:S
+(C"fSq
+LQinn<
+Ow`<;1
+'^D?<T
+x r}c%
+({Uj ,
+1GAMbmJ
+I{5[Os
+]N;"dhOa
+:5ckli
+i[,:rD
+cY~n\G
+|+ZO,Ow
+E=B|2Mc
+J#iiwa
+xGVjZn
+)+'1d#j
++--}SI
+"uz(e;
+O5&$%:
+]}Lg  1
+<k4Yk4A{
+ >O6=t
+{[As0>p[
+WCF4w?9
+FOi,U/
+&#2]p}>
+K\C;>aIuk
+2uaZ;HO
+,3`F>:$
+`g/)nf
+)|piQV
+oSLYO}Wg
+cy@?3>
+sWzZ!kq
+6O@|<aS
+ESi+6aV
+M}uNH\
+D]|KFC
+[Zd~5j,Z
+xj^Wv^
+ ;t&KF
+hjnlUSI
+m?=dl~
+_KkBUE
+d9;75>
+(dB|_,[`T
+~ &s NBsU
+_1wuuO
+|%m.|[
+9_*=AM
+`Zu&xI
+N)<zC!
+\<5<Iw
+fx,bGY
+N;rAR|
+j7h3|h
+@v"16B
+bt@UM/
+sUYs${
+d`,]%ea
+_KN!7x
+ ~kIn~
+`#z CU
+CMz1yg
+fbJX"~
+=K_x__d4
+8Q@Eu
++:1W;A.
+gITLV2y
+/IGxm:
+WIf"w&
+o`4mp(C?
+8*#>&yb
+kcb&hU<
+,8o1J$
+Microsoft Enhanced Cryptographic Provider v1.0
+Microsoft Enhanced RSA and AES Cryptographic Provider (Prototype)
+Microsoft Enhanced RSA and AES Cryptographic Provider

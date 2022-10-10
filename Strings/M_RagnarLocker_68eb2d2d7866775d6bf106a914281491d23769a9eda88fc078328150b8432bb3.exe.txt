@@ -1,0 +1,384 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+.reloc
+HHtpHHtl
+t.;t$$t(
+VC20XC00U
+1AABBf
+QQSUVWj
+_^][YY
+YYF;5@
+>Cu28V
+WQj1Pj
+Vtvj0j
+F PjPWj
+F$PjQWj
+F*PjTWj
+F+PjUWj
+F,PjVWj
+F-PjWWj
+F.PjRWj
+PPPPPPPP
+PPPPPPPP
+tEj@Vh
+F@j@Ph
+It[IItM
+tn<%t2
+HHtiHtGH
+HtHHt(
+HtOHt)H
+ItIt&It
+zu^SSS
+tFGQPS
+QQSVWj
+>:uNFV
+>:u#FV
+t/WWUPj
+QQSVW3
+`h````
+ppxxxx
+(null)
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+- unable to initialize heap
+- not enough space for lowio initialization
+- not enough space for stdio initialization
+- pure virtual function call
+- not enough space for _onexit/atexit table
+- unable to open console device
+- unexpected heap error
+- unexpected multithread lock error
+- not enough space for thread data
+abnormal program termination
+- not enough space for environment
+- not enough space for arguments
+- floating point not loaded
+Microsoft Visual C++ Runtime Library
+Runtime Error!
+Program: 
+<program name unknown>
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+user32.dll
+LC_TIME
+LC_NUMERIC
+LC_MONETARY
+LC_CTYPE
+LC_COLLATE
+LC_ALL
+Paraguay
+Uruguay
+Ecuador
+Argentina
+Colombia
+Venezuela
+Dominican Republic
+South Africa
+Panama
+Luxembourg
+Costa Rica
+Switzerland
+Guatemala
+Canada
+Spanish - Modern Sort
+Australia
+English
+Austria
+German
+Belgium
+Mexico
+Spanish
+Basque
+Sweden
+Swedish
+Iceland
+Icelandic
+France
+French
+Finland
+Finnish
+Spanish - Traditional Sort
+united-states
+united-kingdom
+trinidad & tobago
+south-korea
+south-africa
+south korea
+south africa
+slovak
+puerto-rico
+pr-china
+pr china
+new-zealand
+hong-kong
+holland
+great britain
+england
+britain
+america
+swedish-finland
+spanish-venezuela
+spanish-uruguay
+spanish-puerto rico
+spanish-peru
+spanish-paraguay
+spanish-panama
+spanish-nicaragua
+spanish-modern
+spanish-mexican
+spanish-honduras
+spanish-guatemala
+spanish-el salvador
+spanish-ecuador
+spanish-dominican republic
+spanish-costa rica
+spanish-colombia
+spanish-chile
+spanish-bolivia
+spanish-argentina
+portuguese-brazilian
+norwegian-nynorsk
+norwegian-bokmal
+norwegian
+italian-swiss
+irish-english
+german-swiss
+german-luxembourg
+german-lichtenstein
+german-austrian
+french-swiss
+french-luxembourg
+french-canadian
+french-belgian
+english-usa
+english-us
+english-uk
+english-trinidad y tobago
+english-south africa
+english-nz
+english-jamaica
+english-ire
+english-caribbean
+english-can
+english-belize
+english-aus
+english-american
+dutch-belgian
+chinese-traditional
+chinese-singapore
+chinese-simplified
+chinese-hongkong
+chinese
+canadian
+belgian
+australian
+american-english
+american english
+american
+H:mm:ss
+dddd, MMMM dd, yyyy
+M/d/yy
+December
+November
+October
+September
+August
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+GetModuleHandleW
+VirtualAllocEx
+GetACP
+GetEnvironmentStringsW
+GetOEMCP
+GetTickCount
+CreateEventA
+GetProcAddress
+GetCommandLineA
+LoadLibraryW
+GetLastError
+DeleteCriticalSection
+LeaveCriticalSection
+EnterCriticalSection
+InitializeCriticalSectionAndSpinCount
+GetCurrentProcess
+GetProcessHeap
+InterlockedIncrement
+lstrlenA
+GetVersionExA
+GetVersionExW
+GetModuleHandleA
+KERNEL32.dll
+LoadCursorFromFileA
+CharUpperW
+USER32.dll
+GetStartupInfoW
+GetVersion
+ExitProcess
+TerminateProcess
+UnhandledExceptionFilter
+GetModuleFileNameW
+FreeEnvironmentStringsA
+MultiByteToWideChar
+FreeEnvironmentStringsW
+GetEnvironmentStrings
+GetCommandLineW
+SetHandleCount
+GetStdHandle
+GetFileType
+GetStartupInfoA
+GetCurrentThreadId
+TlsSetValue
+TlsAlloc
+TlsFree
+SetLastError
+TlsGetValue
+GetCurrentThread
+HeapDestroy
+HeapCreate
+VirtualFree
+HeapFree
+RtlUnwind
+WriteFile
+GetModuleFileNameA
+SetFilePointer
+InterlockedDecrement
+WideCharToMultiByte
+InitializeCriticalSection
+FatalAppExitA
+HeapAlloc
+VirtualAlloc
+HeapReAlloc
+IsBadWritePtr
+LoadLibraryA
+SetStdHandle
+FlushFileBuffers
+GetCPInfo
+IsValidLocale
+IsValidCodePage
+GetLocaleInfoA
+EnumSystemLocalesA
+GetUserDefaultLCID
+CloseHandle
+GetStringTypeA
+GetStringTypeW
+GetTimeZoneInformation
+GetLocaleInfoW
+LCMapStringA
+LCMapStringW
+CompareStringA
+CompareStringW
+SetEnvironmentVariableA
+=(T871
+PCM driver MIPS in window: Count High %d MaxMips %f  buffer %d
+STATUS_NONCONTINUABLE_EXCEPTION
+SetWindowContextHelpId
+PROPPATCH
+V42DC_ST_LRSPPENDING
+EV_MMAC_OID_TERMINATE_CONNECTION
+Fe State Machine Alloc Failed
+EV_MMAC_OID_RLC_NONDIR_STATISTICS
+Failed allocating memory for m_RxAgcInBuf
+STATUS_IO_REPARSE_DATA_INVALID
+DCCALC Tx DC Options: %d or %d
+m_DoDilResultsCorrectionPass
+0=1C1u1
+3 3Z3*40454;4?4E4O4U4Z4_4
+%0*0,1d1
+=$=*=0=6=<=B=H=N=T=Z=`=f=
+>H>R>n>
+4}4E7I7M7Q7U7Y7]7a7/8:8?8I8N8
+:,;c;s;
+> >2>J>
+?3?9?o?x?
+<0B0d0x0
+1#181\1
+20282R2X2i2
+4>4J4T4\4d4j4
+4*5D5M5E6T6f6
+6=7Q7o7{7
+;*;7;Q;_;m;x;
+<?<I<R<n<
+<!=)=/=7=
+?1?9?A?I?Q?d?l?
+2 2$2(2r2x2|2
+3 3$3A3k3
+5%5.555=5C5N5V5
+8-888>8C8I8V8s8y8
+<$<5<;<N<
+O0]0t0z0
+1)191?1Q1Y1x1
+4S4\4b4n4s4}4
+8)818}8
+9(9J9w9
+9@:l:s:
+;*;/;<;H;1<8<Q<
+0#0-0H0Q0V0]0e0o0y0
+061H1z1
+313R3Y3i3o3(4@4G4O4T4X4\4
+42585<5@5D5
+6+6]6d6h6l6p6t6x6|6
+778u8{8
+>)>/>5>B>I>V>c>t>y>
+?'?B?J?\?f?o?
+0)01070?0H0P0V0Z0e0p0
+1-2?2J2O2
+31464;4@4K4W4^4
+6!6(626;6A6y6
+818F8X8|8
+9&9-939M9]9g9z9
+:/:7:C:N:U:[:a:j:
+;/;D;I;O;U;^;};
+<(<O<U<k<|<
+4$4J4O4
+4%5@5E5^5c5
+7 7<7H7
+;C<d<~<
+=4=L=g=
+5#5)535;5A5O5V5]5i5q5y5
+6(6D6`6j6
+77)777t7
+8 8(808:8C8K8b8k8
+:%:2:E:K:Q:m:|:
+;);@;T;e;
+<,<<<S<k<|<
+<<=W=_=e=k=
+>X?]?|?
+1T2Y2x2
+5/5<5I5\5e5q5
+6!6&6.6E6Z6`6h6p6{6
+6'71767;7@7Y7_7
+8+8I8W8d8t8
+8$929@9O9y9
+;D<J<V<}<
+> >&>,>2>8>>>D>J>P>V>\>b>h>n>t>z>
+?"?(?.?4?:?@?F?L?R?X?^?d?
+= =(=,=4=8=
+85@5D5
+6$6,646<6D6L6T6\6d6l6t6|6
+6 9$9(9,9094989<9T;t;
+?(?0?T?\?
+00080\0d0
+181@1d1l1
+2@2H2l2t2
+3$3H3P3t3|3
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+6 6(60686@6H6P6X6`6h6p6t6x6|6
+7(7,7074787<7@7D7H7L7X7
+(null)
+Nkernel32
+user32.dll
+         (((((                  H

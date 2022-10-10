@@ -1,0 +1,2048 @@
+!This program cannot be run in DOS mode.$
+P`.rdata
+P@.data
+.pdata
+0@._deh
+0@.minfo
+0@.tls
+0@.rsrc
+.reloc
+1L$ D1L$ 
+L$"3L$ i
+\$"1\$ 
+L+k@u!
+M+a@L;#s]H
+H93s&H
+H93tiE1
+ HcU8H
+M+A M;
+t$0H;t$ s
+L$0H;L$ 
+t$0H;t$ s
+L$0H;L$ 
+t$0H;t$ s
+L$0H;L$ 
+O@L;N@u
+WHD;VHt
+AQAPHP
+I;T$(s]I
+M;\$(r
+4$H)w(L
+L+C L;
+X H;X0
+H9^ s)H
+<0r9<9w5I
+H;1r H
+I9|$(t/
+tFI9]Pt@I
+I9^Pu"
+H#T$(H
+W D;V u%D
+G$D;F$u
+O(D;N(u
+W,;V,u
+O0:N0t
+P(f;P*u
+A(f;A*uff
+A(f;A*u
+H(H95%
+H)|$ H
+H)|$ 1
+H)|$ L
+H)|$ H
+H)|$ H
+H)|$ L
+H)|$ H
+H)|$ L
+H)|$ H
+H)|$ H
+H)|$ L
+H)|$ H
+H)|$ L
+H)|$ H
+H)|$ H
+H)|$ L
+H)|$ H
+H)|$ L
+H)|$ H
+H)|$ H
+H)|$ L
+H)|$ H
+H)|$ L
+H)|$ H
+H)|$ H
+H)|$ L
+H)|$ H
+H)|$ L
+H)|$ H
+H)|$ H
+H)|$ L
+L+IHH)|$ H
+x NB09uAA
+ f=kx~VH
+f=kx~6H
+H93s H
+ATAUAVAWWVH
+ol$ fD
+od$0fD
+o\$@fD
+oT$PfD
+oL$`fD
+^_A_A^A]A\]YH
+I;T$(s]I
+M;\$(r
+L+F L;
+X H;X0
+H9^ s)H
+<0r9<9w5I
+H;1r H
+I9|$(t/
+H98s H
+H9;s H
+H93s H
+H93s H
+t$0H;t$ s
+L$0H;L$ 
+F(H;F0u/H
+~@H;~Pu
+F@H;F0sFH
+F@L;F0s
+F8H;FHu
+^@H;^Pu
+^HH9^(sHH
+FHH9F(s
+t$0H;t$ s
+L$0H;L$ 
+t$0H;t$ s
+L$0H;L$ 
+H9;s H
+E9)~kH
+H97tII
+9rTt&E1
+A9rTt0H
+A9pTt$E1
+H93teI
+t$0H;t$ s
+L$0H;L$ 
+D$(t]H
+L9F@t,L
+L9F@t,H
+I9H@t+M
+}0H+>H
+H9t$@t[H
+H9T$Pt'L
+H;T$Pr
+H;t$@r
+HcT$`I
+V@H;VPu
+SVWATAUAVAWL
+A_A^A]A\_^[
+SVWATAUAVH
+A^A]A\_^[
+SVWATH
+SVWATAUI
+A]A\_^[
+H9Q@t*L
+A]A\_^[
+H9w@t H
+H9Q@t"H
+H9~@t"H
+tHA9t$
+D$(tZH
+X(A;\$(sXH
+X(A;\$(s
+;w(s$H
+u@I;uPu
+U@M;UPu
+I+t$ I
+I;t$ s
+K@H;KPu
+C@H;CPu
+F@H;FPu
+T$@I;T$Pu
+O@H;OPu
+I+t$ I
+I;t$ s
+C@H;CPu
+S@H;SPu
+]@I;]Pu
+U@M;UPu
+E9!~MH
+H97t+I
+E9!~MH
+H97t+I
+L$ SUVWH
+WINDIR
+LOCALAPPDATA
+APPDATA
+ALLUSERSPROFILE
+ProgramFiles
+ProgramFiles(x86)
+HOMEDRIVE
+HOMEPATH
+crypto.aes
+crypto.padding
+std.conv
+std.file
+std.path
+std.array
+std.ascii
+std.stdio
+std.random
+std.process
+std.exception
+core.memory
+core.thread
+core.runtime
+core.internal.array.utils
+crypto.random
+std.traits
+std.range.primitives
+std.typecons
+std.format
+core.time
+std.datetime.date
+std.datetime.systime
+std.windows.syserror
+std.range
+std.functional
+std.algorithm.searching
+std.bitmanip
+std.uni
+std.algorithm.mutation
+core.stdc.stdio
+core.cpuid
+std.uuid
+std.string
+core.thread.fiber
+core.thread.osthread
+core.thread.threadbase
+core.thread.threadgroup
+core.thread.types
+kernel32.dll
+RtlCaptureStackBackTrace
+core.sys.windows.stacktrace
+core.exception
+rt.lifetime
+rt.deh_win64_posix
+rt.dmain2
+Deprecation: The `callStructDtorsDuringGC` option has been deprecated and will be removed in a future release.
+MessageBoxW
+Unknown GC cleanup method, please recheck ('%.*s').
+rt.sections_win64
+std.datetime.timezone
+std.windows.charset
+std.algorithm.sorting
+std.digest.md
+std.digest.sha
+gc.proxy
+core.sys.windows.threadaux
+core.sys.windows.dll
+dbghelp.dll
+SymInitialize
+SymCleanup
+StackWalk64
+SymGetOptions
+SymSetOptions
+SymFunctionTableAccess64
+SymGetLineFromAddr64
+SymGetModuleBase64
+SymGetModuleInfo64
+SymGetSymFromAddr64
+UnDecorateSymbolName
+SymLoadModule64
+SymGetSearchPath
+SymUnloadModule64
+SymRegisterCallback64
+ImagehlpApiVersion
+core.sys.windows.dbghelp
+bytes allocated, allocations, type, function, file:line
+%15llu
+%15llu
+cannot write profilegc log file '%.*s'
+rt.profilegc
+rt.tlsgc
+core.bitop
+rt.memory
+rt.msvc
+rt.monitor_
+rt.critical_
+Deprecation 16211 warning:
+A cycle has been detected in your program that was undetected prior to DMD
+2.072. This program will continue, but will not operate when using DMD 2.074
+to compile. Use runtime option --DRT-oncycle=print to see the cycle details.
+core.gc.config
+rt.minfo
+std.windows.registry
+std.concurrency
+std.internal.digest.sha_SSSE3
+gc.impl.proto.gc
+core.gc.gcinterface
+core.gc.registry
+core.internal.spinlock
+kernel32
+IsWow64Process
+std.internal.windows.advapi32
+std.variant
+core.sync.condition
+No GC was initialized, please recheck the name of the selected GC ('%.*s').
+core.sync.semaphore
+Advapi32.dll
+RegDeleteKeyExW
+gc.impl.conservative.gc
+gc.impl.manual.gc
+GC options are specified as white space separated assignments:
+    disable:0|1    - start disabled (%d)
+    profile:0|1|2  - enable profiling with summary when terminating program (%d)
+    gc:
+ - select gc implementation (default = conservative)
+    initReserve:N  - initial memory to reserve in MB (%lld%c)
+    minPoolSize:N  - initial and minimum pool size in MB (%lld%c)
+    maxPoolSize:N  - maximum pool size in MB (%lld%c)
+    incPoolSize:N  - pool size increment MB (%lld%c)
+    parallel:N     - number of additional threads for marking (%lld)
+    heapSizeFactor:N - targeted heap size to used memory ratio (%g)
+    cleanup:none|collect|finalize - how to treat live objects when terminating (collect)
+    Memory-related values can use B, K, M or G suffixes.
+%.*s %.*s option '%.*s'.
+core.sync.event
+Expecting %.*s as argument for %.*s option '%.*s', got '%.*s' instead.
+Expecting %.*s as argument for %.*s option '%.*s', got '%.*s' instead.
+Argument for %.*s option '%.*s' is too big.
+Expecting %.*s as argument for %.*s option '%.*s', got '%.*s' instead.
+Expecting %.*s as argument for %.*s option '%.*s', got '%.*s' instead.
+Argument for %.*s option '%.*s' is too big.
+Expecting %.*s as argument for %.*s option '%.*s', got '%.*s' instead.
+Argument for %.*s option '%.*s' is too big.
+%%%uf%%n
+Expecting %.*s as argument for %.*s option '%.*s', got '%.*s' instead.
+Number of collections:  %llu
+Total GC prep time:  %lld milliseconds
+Total mark time:  %lld milliseconds
+Total sweep time:  %lld milliseconds
+Max Pause Time:  %lld milliseconds
+Grand total GC time:  %lld milliseconds
+GC summary:%5lld MB,%5lld GC%5lld ms, Pauses%5lld ms <%5lld ms%s
+UUUUUU
+__getmainargs
+__iob_func
+__p___argc
+__p___argv
+__set_app_type
+_beginthreadex
+_errno
+_fdopen
+_filbuf
+_fileno
+_flsbuf
+_fputwc_nolock
+_fseeki64
+_ftelli64
+_get_osfhandle
+_initterm
+_initterm_e
+_localtime32
+_lock_file
+_set_output_format
+_setmode
+_tzset
+_unlock_file
+_vsnprintf
+_wfopen
+_wfreopen
+calloc
+fclose
+ferror
+fflush
+fprintf
+fwrite
+getenv
+isdigit
+isspace
+malloc
+memcmp
+memcpy
+memmove
+memset
+printf
+realloc
+sscanf
+strerror
+strlen
+strtod
+toupper
+wcscmp
+wcslen
+CloseHandle
+CreateEventW
+CreateProcessW
+CreateSemaphoreA
+CreateToolhelp32Snapshot
+DeleteCriticalSection
+DeleteFileW
+DuplicateHandle
+EnterCriticalSection
+ExitProcess
+ExpandEnvironmentStringsW
+FindClose
+FindFirstFileW
+FindNextFileW
+FormatMessageW
+FreeEnvironmentStringsW
+FreeLibrary
+FreeLibraryAndExitThread
+GetCommandLineA
+GetConsoleOutputCP
+GetConsoleScreenBufferInfo
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThread
+GetCurrentThreadId
+GetDiskFreeSpaceExW
+GetDriveTypeW
+GetEnvironmentStringsW
+GetEnvironmentVariableA
+GetEnvironmentVariableW
+GetExitCodeThread
+GetFileAttributesExW
+GetFileAttributesW
+GetHandleInformation
+GetLastError
+GetLogicalDriveStringsW
+GetModuleHandleA
+GetModuleHandleExW
+GetProcAddress
+GetStartupInfoA
+GetStdHandle
+GetSystemInfo
+GetThreadContext
+GetTimeZoneInformation
+InitializeCriticalSection
+LeaveCriticalSection
+LoadLibraryA
+LoadLibraryW
+LocalFree
+MultiByteToWideChar
+OpenThread
+Process32FirstW
+Process32NextW
+QueryPerformanceCounter
+QueryPerformanceFrequency
+ReleaseSemaphore
+ResumeThread
+RtlCaptureContext
+SetEnvironmentVariableW
+SetEvent
+SetFileAttributesW
+SetHandleInformation
+SetLastError
+SuspendThread
+SwitchToThread
+SystemTimeToTzSpecificLocalTime
+TerminateThread
+TryEnterCriticalSection
+TzSpecificLocalTimeToSystemTime
+VerSetConditionMask
+VerifyVersionInfoW
+VirtualAlloc
+VirtualFree
+WaitForSingleObject
+WideCharToMultiByte
+WriteFile
+lstrlenW
+CryptAcquireContextA
+CryptAcquireContextW
+CryptGenRandom
+GetCurrentHwProfileA
+RegCloseKey
+RegCreateKeyExW
+RegDeleteKeyW
+RegDeleteValueW
+RegEnumKeyExW
+RegEnumValueW
+RegFlushKey
+RegOpenKeyExW
+RegOpenKeyW
+RegQueryInfoKeyW
+RegQueryValueExW
+RegSetValueExW
+MSVCR120.dll
+KERNEL32.dll
+ADVAPI32.dll
+vovalex
+README.VOVALEX.txt
+\Desktop\
+notepad
+Invalid UTF-8 sequence
+Attempted to decode past the end of a string
+C:\D\dmd2\windows\bin\..\..\src\phobos\std\utf.d
+C:\D\dmd2\windows\bin\..\..\src\phobos\std\file.d
+Encoding an isolated surrogate code point in UTF-16
+Encoding an invalid code point in UTF-16
+surrogate UTF-16 high value past end of string
+surrogate UTF-16 low value out of range
+unpaired surrogate UTF-16 value
+std.array.Appender!string.Appender.Data
+Encoding a surrogate code point in UTF-8
+Encoding an invalid code point in UTF-8
+char[]
+std.array.Appender!(dchar[]).Appender.Data
+dchar[]
+Enforcement failed
+C:\D\dmd2\windows\bin\..\..\src\phobos\std\algorithm\mutation.d
+Cannot fill range with an empty filler
+Invalid UTF-32 value
+C:\D\dmd2\windows\bin\..\..\src\phobos\std\stdio.d
+Wrote 
+ instead of 
+ objects of type 
+ to file `
+rawRead must take a non-empty buffer
+std.array.Appender!(wchar[]).Appender.Data
+wchar[]
+core.demangle.reencodeMangled.PrependHooks.Replacement
+Your photos, documents and other files have been encrypted.
+If you want your files back, you can buy the decryptor.
+The decryptor costs 0.5 XMR. Here is the instruction:
+1. Send 0.5 XMR to this Monero wallet: 4B45W7V1sJAZBnPSnvcipa5k7BRyC4w8GCTfQCUL2XRx5CFzG3iJtEk2kqEvFbF7FagEafRYFfQ6FJnZmep5TsnrSfxpMkS
+2. Send us a mail with proofs of transaction: VovanAndLexus@cock.li
+3. If everything is good, you will receive the decryptor.
+If you don't know where to buy Monero - visit these websites: https://www.bestchange.ru/ https://www.bestchange.com
+Full list: https://www.getmonero.org/community/merchants/#exchanges
+ 0.5 XMR. 
+ 0.5 XMR 
+ Monero: 4B45W7V1sJAZBnPSnvcipa5k7BRyC4w8GCTfQCUL2XRx5CFzG3iJtEk2kqEvFbF7FagEafRYFfQ6FJnZmep5TsnrSfxpMkS
+: VovanAndLexus@cock.li
+ Monero - 
+: https://www.bestchange.ru/ https://www.bestchange.com 
+: https://www.getmonero.org/community/merchants/#exchanges
+This program must be run under Win32
+.idata
+.rdata
+P.reloc
+P.rsrc
+string
+InitInstance
+CleanupInstance
+ClassType
+ClassName
+ClassNameIs
+ClassParent
+ClassInfo
+InstanceSize
+InheritsFrom
+Dispatch
+MethodAddress
+MethodName
+FieldAddress
+DefaultHandler
+NewInstance
+FreeInstance
+TObject
+YZ]_^[
+YZ]_^[
+YZ]_^[
+_^[YY]
+YZ]_^[
+ZTUWVSPRTj
+tVSVWU
+Ht Ht.
+0123456789ABCDEF3
+kernel32.dll
+SetDllDirectoryW
+SetSearchPathMode
+SetProcessDEPPolicy
+Exception
+EAbort
+EOutOfMemory
+EInOutError
+EIntError
+EDivByZero
+ERangeError
+EIntOverflow
+EMathError
+EInvalidOp
+EZeroDivide
+EOverflow
+EUnderflow
+EInvalidPointer
+EInvalidCast
+EConvertError
+EAccessViolation
+EPrivilege
+EStackOverflow
+EControlC
+EVariantError
+EExternalException
+m/d/yy
+mmmm d, yyyy
+:mm:ss
+_^[YY]
+INFNANU
+$*@@@*$@@@$ *@@* $@@($*)@-$*@@$-*@@$*-@@(*$)@-*$@@*-$@@*$-@@-* $@-$ *@* $-@$ *-@$ -*@*- $@($ *)(* $)U
+<'t$<"t 
+<#t&<0t%<.t,<,t3<'t5<"t1<Et:<et6<;tF
+<#t'<0t#<.t
+<Et$<et <;tS
+_^[YY]
+YZ]_^[
+_^[YY]
+_^[YY]
+USERPROFILE
+GetUserDefaultUILanguage
+kernel32.dll
+.DEFAULT\Control Panel\International
+Locale
+Control Panel\Desktop\ResourceLocale
+[ExceptObject=nil]
+TCustomFile
+EFileError
+File I/O error %d
+ECompressError
+ECompressDataError
+ECompressInternalError
+TCustomDecompressor
+TCompressedBlockReader
+_^[YY]
+Compressed block is corrupted
+Compressed block is corrupted
+$Z]_^[
+Compressed block is corrupted
+TLZMA1SmallDecompressorS
+lzmadecompsmall: Compressed data is corrupted (%d)
+lzmadecompsmall: %s
+LzmaDecode failed (%d)
+YZ]_^[
+TSetupLanguageEntryA
+The setup files are corrupted. Please obtain a new copy of the program.
+Wow64DisableWow64FsRedirection
+kernel32.dll
+Wow64RevertWow64FsRedirection
+shell32.dll
+QQQQQQQQSVW
+SeShutdownPrivilege
+_^[YY]
+_^[YY]
+/SPAWNWND=
+/Lang=
+The setup files are corrupted. Please obtain a new copy of the program.
+InnoSetupLdrWindow
+STATIC
+/SL5="$%x,%d,%d,
+Runtime error     at 00000000
+                                                                
+Inno Setup Setup Data (5.5.0)
+Inno Setup Messages (5.5.0)
+0123456789ABCDEFGHIJKLMNOPQRSTUV
+kernel32.dll
+DeleteCriticalSection
+LeaveCriticalSection
+EnterCriticalSection
+InitializeCriticalSection
+VirtualFree
+VirtualAlloc
+LocalFree
+LocalAlloc
+WideCharToMultiByte
+TlsSetValue
+TlsGetValue
+MultiByteToWideChar
+GetModuleHandleA
+GetLastError
+GetCommandLineA
+WriteFile
+SetFilePointer
+SetEndOfFile
+RtlUnwind
+ReadFile
+RaiseException
+GetStdHandle
+GetFileSize
+GetSystemTime
+GetFileType
+ExitProcess
+CreateFileA
+CloseHandle
+user32.dll
+MessageBoxA
+oleaut32.dll
+VariantChangeTypeEx
+VariantCopyInd
+VariantClear
+SysStringLen
+SysAllocStringLen
+advapi32.dll
+RegQueryValueExA
+RegOpenKeyExA
+RegCloseKey
+OpenProcessToken
+LookupPrivilegeValueA
+kernel32.dll
+WriteFile
+VirtualQuery
+VirtualProtect
+VirtualFree
+VirtualAlloc
+SizeofResource
+SetLastError
+SetFilePointer
+SetErrorMode
+SetEndOfFile
+RemoveDirectoryA
+ReadFile
+LockResource
+LoadResource
+LoadLibraryA
+IsDBCSLeadByte
+GetWindowsDirectoryA
+GetVersionExA
+GetUserDefaultLangID
+GetSystemInfo
+GetSystemDefaultLCID
+GetProcAddress
+GetModuleHandleA
+GetModuleFileNameA
+GetLocaleInfoA
+GetLastError
+GetFullPathNameA
+GetFileSize
+GetFileAttributesA
+GetExitCodeProcess
+GetEnvironmentVariableA
+GetCurrentProcess
+GetCommandLineA
+GetACP
+InterlockedExchange
+FormatMessageA
+FindResourceA
+DeleteFileA
+CreateProcessA
+CreateFileA
+CreateDirectoryA
+CloseHandle
+user32.dll
+TranslateMessage
+SetWindowLongA
+PeekMessageA
+MsgWaitForMultipleObjects
+MessageBoxA
+LoadStringA
+ExitWindowsEx
+DispatchMessageA
+DestroyWindow
+CreateWindowExA
+CallWindowProcA
+CharPrevA
+comctl32.dll
+InitCommonControls
+advapi32.dll
+AdjustTokenPrivileges
+&&&&&'+'''
+'''''(,(((
+(((((****)
+8=CC<9
+2+22/?
+?/22224+440A
+B044445,551@
+@1555566663:
+;36666
+"""""#+###
+#####$,$$$
+$$$$$77777%-..-%77777
+FA?;0;
+!$"_!!! eHD@>B
+ !!$RQiQQQ$hIGDDD
+ #$QSZVjVUSQLC?>0<
+%RTVY]\[[[X%
+%TWX\\|*)))(
+LJIHHA
++kkondL+{
+hbC?JK
+mddbbf
+273^5543guonrc
+134437N7`8886Eetta?1477879POpOOONlF<;DbMNNOOOP
+pssqqk
+341110
+jONHEH
+gg    
+mPNGGH
+ _\qq^]]]\mPMHGH
+[]]]]_aaxxaaaa^LHEDDF
+^_aaaaa_a_````]
+!]`__a_+(&&&&&%
+"#&&'(
+*bb)+*'
+&()))+
+RPNMMI
+,npvsjS$
+jbFIPR
+mkkQPR
+KK5555
+nkkQQP
+55556?:dd>=>><vtplko
+89:=>>:@C;fg????:s}vuzl79;AAA??BUBhgCCCC@Lp
+~lF8>CCCCCCC
+Y{{YZYYX|iLLiuTVYZYYYY
+w||yys
+444944
+\EHHEHD9D]
+]HHHIEIGG_
+_IHHISHSS_
+kk|}_JLLSEEII_
+kkkpll}}nnnnnn\FFF89BFE_
+  llllllprtu
+ttttttXBB66878BW
+!mmqrttttsovu
+uuuuuo
+!mqssuuuvo
+*******(
+$(*****
+#(**,,
+aXLHEJTU
+-''''''''''
+%&&&'''))
+/H~OOMMNK^H
+11112b@:0VV/00000
+a[[[ZZ[[[
+/0000002@A<<yy<<<<:<
+2:<<<<<<<ce>=zy>>>>>>S
+S3=>>>>>>>=ejAA{|AAAAA?U
+U;?AAAA?AAcj
+hhhhhh
+MYbddhhhhhhi
+dZHHHH
+',*#"##"#,""""""!%dHZGFGHH
+ !+"**#"#*''&!+
+++++++&&!% l__]Z[Z[GGIFa
+ %&&++"+&'$$$$
+!%%%%%%  $
+feedd][[_[Ze
+$ &&%%$$$'&&&
+++++++&&&%$
+iaida_]^[[^i
+$$&&+++&&+''*+-
+--------,&%
+iegf^d^^^^_k
+ %++-----+-&/}0}
+~~~~~}}00-,
+ihedf^a^^Zdk
+$%+-.00~~}}00/1
+kfea\^[Z]]]l
+ *#0|~
+feaa][ZZZ]Xk
+ea`]XXHIYXIb&*.|
+~l`XXHYGI
+''//0111111
+A(())))))))(((
+((()((()B
+<<99<9<<<<<<<8
+4558889<
+========7
+457::==?=====:>
+468:=>
+\\\[G33
+_kead^ZZ\[dS_
+jgfigg
+\ffdem47;?
+=;;;;;;;;;;;;77
+bhba^``]aag
+4467:;:;:=;::?
+cYYY22Y
+OPPJJJJJJJ
+JJJJJMM
+OPMJaba
+c``a`a^``]]ZYG
+gjjjggjd]c
+PVOLffhKKLKLLKK
+LLLLLLNOQNttVP
+QQQQQQQMMK
+JKMOQQQQQQQUVUttWV
+UUUUUUUTTMK
+KMPUUUUUUUUVVoWwttW
+ooooooVVVTL
+LMPVVoooooooWpqpwwtr
+qqqqqqqppnO
+MRnqqqqqqqqqqrrr
+sssrssrrunn
+Nnnnrrvrvsvrsszzv
+zzzzzzzyunn
+Nnnuvvzzzzzzzzz
+C]58W-
+j#*=R9b
+$DL1Za
+QA$!)"1 
+R h$I*
+>q{?1U
+dqBT_
+EC6IRP Q_
+0jH]O5
+gZ$\v(
+ykK;isQ
+CHBTK4BT
+wy'sdg`J
+J53~"K2
+hIjTfmb}
+W~S9i}
+"AijKj
+stX5E3
+U!Ah'B]
+:jG524#G
+}.*:;L
+-}%Vb~
+(Ums?CQ&c
+d.hQ7D)
+")3G(a
+yrr4c&
+\PP"Bj-)A
+&(umKA#C
+uG(\%)/
+IsaQg8
+}P&m.e
+ag<o3U
+]r^L%!
+DVfAij-
+/;t;,U
+Ys9/SJq
+#5]TbR
+&D&*L413
+8x)'OG
+g|sLU9
+j}=c@\qY
+oo-u]?q
+2vWH]G
+{*Ibg:
+yTj1Ee
+1n@nP2
+5.m_`k
+;N=*V,w
+HT$&.>
+VWWWUVefee
+#K4[W`)}7
+fov`?!
+DFK:oR
+9}pL<z
+{S^nNU9(
+@bK{rn
+#|i%t}d
+&%_o)@
+]JN\l<
+^'big%
+/JEZvF
+|/*|CZ^
+P.SAoW
+ZqT/X45
+LoG7d_)`
+X6"[MAu
+nA0Y,>
+X|gl<(
+&0_6^>
+@xcAxj
+%0j)w0
+\.ftSe
+}0XUw.-
+,@v_C5
+)nu3sp
+=\'EF0
+4VDqrrTZd
+W|z$[q
+Xwi*:J
+Tvtk0M6
+MG+4a]
+h<zCfo9
+uR$ft(
+ktRx$K
+2]T^91
+ipS\2
+M~g"We
+b2Sj:
+CB&;!{8^:6
+o?8Yz6
+$x7F*o
+Q^=r8U
+z`3dbT.
+p[\ao{I
+@Nr>qD
+t%J>d8>
+%O$$v/
+yxDFdU
+Sj7)2"
+Qo'5xO"
+}`Ta4
+d#coF,
+:*{wT\
+H/'#_G
+bpLHQLr
++k!ztYH^
+PArDlPtS
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity
+    name="JR.Inno.Setup"
+    processorArchitecture="x86"
+    version="1.0.0.0"
+    type="win32"/>
+<description>Inno Setup</description>
+<dependency>
+    <dependentAssembly>
+        <assemblyIdentity
+            type="win32"
+            name="Microsoft.Windows.Common-Controls"
+            version="6.0.0.0"
+            processorArchitecture="x86"
+            publicKeyToken="6595b64144ccf1df"
+            language="*"
+        />
+    </dependentAssembly>
+</dependency>
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+        <requestedPrivileges>
+            <requestedExecutionLevel level="requireAdministrator" uiAccess="false"/>
+        </requestedPrivileges>
+    </security>
+</trustInfo>
+<application xmlns="urn:schemas-microsoft-com:asm.v3">
+    <windowsSettings>
+        <dpiAware xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">true</dpiAware>
+    </windowsSettings>
+</application>
+<compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+        <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/>
+        <supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>
+        <supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/>
+        <supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/>
+        <supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/>
+    </application>
+</compatibility>
+</assembly>
+PADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDzlb
+ma0&5V
+$9)0Z>
+5hQE{8
+$FCRNCe
+G)Bt=K
+u`+Y(^
+En|TYK
+c`y8pf
+Pi]!PT
+,6<@UIS
+V73d+
+;S<x+.=
+eHug4`
+S]ifCO]N,
+'6UWx6
+h/uz]uC
+j$~eXM
+|t2JxXt8
+"+s9#T
+qzg,t
+V;Iox-
+rW13St
+"&s3mSX
+.d.D>&
+#t!hUX
+PW!<]D
+oQtWY1
+H*dBKy.
+k"Fa#Fm
+?U0'+_'g
+Id.z;Tb
+-hrOxw
+YT2?H'
+[R@]v9
+>,I~)5
+na80d?
+xtLmUr
+Z2VDg?
+(PUc9XZ
+JXG}Je
+"~]} 8
+{9:.Mo>
+-X%s"X'
+d'Ubii]
+}C$y G}
+4g2Go@iE
+g&?(T+
+w0"XP-
+2[$U%15
+C;WJIl
+Vq'qH%
+VTl='z
+ zDYyq
+,##%Y-
+;z+)xe
+CGdY:xx
+b^2SiCl
+Az1a(&
+PpY%+
+yrxDrJ
+{tv,/S
+L. Z.f<
+I]im#2
+6[Tl-@
+7~$sPX
+1.pICg
+HE@UR"GF
+z>"B)h
+;D (BD"
+LI8lUp 
+KUQQ)ch
+dZDd/sS
+\[Z?LcS
+tF<]>+Y
+FYoP%a=Be
+1f6{Lu
+&zNg5R
+m6P[r2
+X[(cY>_Pn{
+bz9;.[
+GhZS|
+xMTa!\
+^&(b[I8F7
+oL:uAI
+0lj?NH
+,7a#,0>
+F0Ve p
+VJ`IG^
+Cw$+&N
+3O`oF
+WPDqq2_
+`z*\j;_
+CPvG&C
+]$@zm;
+gn2aOWs
+qeA,HP
+COvS^]^
+N`bP!n
+'d;`c1hTK
+Inr+V
+r'#x.;
+{ZniU!
+i70+kN
+jmL(dppC9
+T?&6cz
+47@kMW
+P:S7g,
+'YZddD
+b6RQlX
+O!dz3
+^"sD[YX]
+jsUe%q5D
+c~ G(FI
+5<Cd)qG?
+<'d''_q
+$C}O6
+RY0;iA
+n;Gi"
+)>z7\#Qb
+)xvxa45
+U.=l+g7
+[ Gd'_
+7?d\2i
+|hEZAG
+2n^m&PH
+KUDn=3qB
+](eH'9
+m(7LlG>
+R2.[8X
+381ekIv
+*>0Dg~tVIUK
+FrIQ^x
+gL1*E["
+g#eY*+O
+m9x'X(c
+<IP/(<
+W[-QZW
+HO+ `g
+UCb4F5
+eFA,XI
+2uEre=
+mG,,Y 
+iwaK|_
+/OMEWV
+Q^n]4s
+K.VK/Es
+j\zDpe
+pU,#F^
+^:2V|_
+V[:3W]
+6B, zz
+9j9\m \
+"~,StOchX
+|;}2/=
+G|!#JY4
+L-mPB'k
+o8I-G0
+E>TTO4#
+~&E{"0
+V9<r;P
+']~vK&&
++=ly.gg6
+IvP[>(nW
+[2R-2QR
+Y4@7d~
+mGKjHE
+0yTmAS 
+? *nN9
+8}]DLX
+$)ZXUY
+eC<FJ
+PEXf/-
+\vM=hJ
+4:&K(kS
+*UuNp:b
+HWW0B@
+KcPp01{4
+;l)]<W
++VYxdZ
+fFc[^`
+q4@@_2*
+ho{IQ^
+j<S75h
+[kCe1-
+F`7SlJ
+Du|y$'
+tLHQcs
+6atU~E
+9h+)"G6Q
+D!M&St
+XW<@*Pr `J
+*5;ci,<
+"M@_>i
+OtvLt'
+Lx!qVJ
+AtF{,lL
+a c C{
+giJl$(
+FoSy$p
+Hc.$6
+el=c\b
+*E9iK;|c
+0!AJ:C^Y
+~Fqt_]X
+QS`*vd
+oDJ+Wf
+hkHW2GRg
+x?Rf(~IA4R7
+k1`\J[
+2; bY7
+R'b\EJUz
+8|&J/f
+p/YW_8
+!u br&
+%l(;6LE{
+::Zz.m
+@o.!B'
+TZ%;y\
+#G["0l
+yU*^,X
+OI!Zb3
+{zut 
+<VQ/hR
+T|jw,*n
+^y=s]+
+|;B'^#
+oYT&ySyR6
+hyg~y^
+=}zwCOq
+Nis:~8
+]j9~%7
+_R=kL-`
+9@.n:J]o
+/1#rI{
+:,i?/SA
+V'$hgS<r#O4
+Pfw*kK
+NOR4Kk
+dYeP5 
+`2) I`
+)Z~#>(
+w)W6fq
+pKW22l
+l:?!$Z>J,XH
+7fIrO>
+O*bWea
+`IO&9ec
+nKZ4ow
+`*xbs!
+rT;ea
+)]?^b74
+qEZZBN
+_1$-_m
+6.hhS 
+NkDdwl
+^=`)}w
+Fuu3/`
+s.2,%W
+a7*z^)
+dr% <A
+?5;d{1
+(?!h/a7q
+fU'uOe
++0lTxH
+N7_a]k%
+`;&Udj%
+aqYy'<
+7VT"iz
+<|ER)#
+7oFi,W
+*Ys~:I
+2;SQDNc
+9`5N^U
+aFkW\3
+wls#nz
+?acjZ o
+-Y[nMI
+Y`?.hH
+pG#=Se
+tIT6[T
+\u\cnHT
+3qj5pX
+:DGE6l
++A'*qQ
+\K/,T!
+<zb91j
+iLi6'D
+5&Z 3~y
+S&;cnZ+
+6d$-Z.
+E6P:Z
+FMuQ-\
+?o7RhE-
+72E#(btb
+*Lx5UF,
+0&0 c8
+K$Y;;+
+iMXL!/
+O4AbT2
+4|PHO$[
+Z;Nk(@>
+1qpy48hl
+VTyj"6#
+V_g!=\
+@1Snq<
+QtC+a-
+*oM%t/J
+'Iy2&?
+@h:$dDG
+[Xgq%f
+glKOEo
+\.I$OC
+4?d2_p
+:=%j=
+b[AVQBdc
+GKKa-S
+"5Hgah
+u~$atC3
+g]&/rK
+q"?x./
+cY,XwW
+5_B"n5{
+?d'?+u
+b7EC<>
+\mx@@z4
+a/aeUU
+n944'E
+|ky_Ip
+p!NrHJ
+LegCSr;N
+"$<b"73
+n\A(mf;"e
+4,gq)=
+cg'2|^
+n?XkTe&m
+5; LP}
+BgrC|O
+'!A?9V
+*hv}rG
+L?3~NR
+ym1[ff
+|6#VRA
+r%`Ejn
+5~Px8E
+ y/zn5
+$?F[[?Y
+C"P}p7
+BDm2;}
+/xh1:Hc
+Vg4uQ-
+ %:yfV[
+J18$LR
+E:`R1 
+{LKY(
+m[g6)T
+t-ZKSI
+c3]bv.<#
+Yczza;
+:r~08Ez
+bZt~$S!sh
+/HuVS=
+=w_0%uP
++PQ}W%
+b|''AnU
+N'5n(N
+WHS6C`
+*'rK']n
+_(B>Dx
+s8 Gy+`
+R]UeY#
+Dn91`Hc$4
+wVz1kb
+h'x4%(
+[^sKp@I
+3F>DNSO
+\%:3.
+X*o;=ZR=
+5#Kt/+&
+r}#Op"7
+j+)3'9
+n0TQalIO\H
+P*?ZKo
+~F0k"#
+z6=zc,
+2'K|w.
+P}9uYfv
+pMm}S]
+TB6xLd+
+4y?m"7i
+$9w<X-Z
+JT+Hfc
+Q o"P"
+z/C2oW
+x'&y{}
+1'+tKrD
+2 <Y"R
+{j_2[6
+ln@ak4
+5N!hNu
+{DEYfT
+JW=II<
+ 7TTR]
+K R?Enx
+|k2$g`
+$_L8=A
+SN 10
+\+07As
+d4zIVa
+8N_@&OU3
+8!,Bv5
+gL&}C
+;*7x3c*
+/ciLf/
+fsdHK$
+\Sp=C4n
+,%!-7)
+/EOJOF~
+gbcYM.&
+P}APY|
+u|Ty5U
+$(PhP]
+Q5erpNm
+Vxvxz>
+{\hN:}$
+$xW`<g
+m)v?PSQ
+F6F)wi
+5=I4,B@
+MaLg9D
+2+m5B.
+"y6{5W
+^j<Lb[
+u1hOOUT
+JTK"bF
+WC4gI~&[
+dA?~zg\
+Y: >Rs
+>3@D\@C
+Bz!hq<
+/j 0`2
+.$f&kU:g
+?f-G%E
+^l}KSW
+^n+xu3S
+nB#s0u
+''*hFi
+IdD$M&
+VZ!U1O
+p28wOE
+/37=$wc`*U
+^1fdX#
+v~1:2q
+}AG] *
+Klo=8<
+WSJ-0Sd
+}xoPv]Y,
+%>jt$C6
+Sl5/OK
+8TXOKp
+% rNjT
+$*i^7p
+*Tt?5n
+O{WtH9n4t
+ LQuG(
+%wlzg|
+!T/_v#
+OQ0CuN 
+p@VzKJ
+@G}UJ29i
+esp6^7
+@FW1;0
+|fUh']
+$5cWj*D
+n,Vc#C
+C7=rMt
+z1'$s
+r\s>v9
+.d/n%l
+-^tFG8
+o|jJv]^r"
+M17DA&J
+sT;_y-JT
+!{}Vcv
+NqC?Sx
+ZT?N<l
+aM\DF#
+bS "p`B
+dl0z0r
+3l`kyQ
+CIsYs?
+;_^vi&3
+w.uO~5/
+\K2.vo
+}3{)v(S
+N5/tTm
+1Ru4 .
+]W4i[<q
+?(3bv}R
+)r[\{.
+v-dCfm
+k!QO981
+Vv*&l
+QV/(Tco
+nuk.ye
+tgUl.6
+jNOSsr
+pn<*#`
+:z6C{I
+*9}0I"D[0
+%c}]Z'[
+C2/`t?r
+zt`S[9
+t]>KQy(
+$N_}**3
+<3N=f>lD
+VsWMl#
+]CmB`T9>
+lS/OBu
++Zt8t}
+Iyi.dyW#
+?9h-6F
+~lYtme3NL,
+bGHd+M
+@K:L0>T
+P {,q1
+[z#^vh"^
+@R,;bu
+n'NY>I
+[eoO17
+>jYsi7
+qGJ#GX
+\d5sx7A
+~7Y>];
+Cgb/R9(
+iT-I&a
+AFNy[n
+#NE5cUQ
+"VMtB'7
+oULwKxIf
+7t$p!Fu
+(MJ=K
+VoMTHz
+iev"sN|
+hj;iK{f
+?0%3#T
+_8#<*g
+#>ucPW
+,4vA{V
+L_VTZ9
+pHxX|ozg
+0^mqcmf
+!Q]4>>
+T6k~"i
+?#7.<4
+n'7V`I
+ hq>4M
+e=uPk'
+Fmr!Yu
+kW;,2H
+oTL/z
+o52WrM
+3s2kv_
+IqMLDX
+?D3n%f
+|?5;z.u
+PjHf4B
+]'*1W@/
+LQUHIE
+lbhyz<u>
+P>e5Q?
+B{-~=A
+T'Ay0L
+KoUTA2oh
++!8cki
+;r }q0O:
+MdC=@(
+v$DnL{t
+f~F,c
+~?\P`B
+\G\,$ROv
+j=J7 
+&@{1eq
+N3/Ej
+LL%w@V
+v!P [Z
+v^OtP@
+8|e;/-
+I9Hj781M
++Z\fF%
+[iRwn^
+h^]"De`
+T)ylA@e
+w@#5FZ
+\N`qY!
+4)0!'v
+M-8f`T
+]6c7)M
+G<s)s[
+@$wdv/
+x>H/.R
+irLb=x
+C8 $(<s)
+\{.&C=
+A/OJak
+o<-sb
+|$)U\?
+9+;D4_d
+H~4_6)
+M2<('v
+8sM&Ft
+nS 6XR
+|14")Z
+P*v>(\w
+HFCx?3
+wpBdq?
+CiS$'M
+=Q`p%mi
+*rve1
+Etx6Zv
+2yT{/B$
+Xng^cR
+3|[-nq
+)L#-T%#
+$]ag)o
+YU8p|f
+Ei_2:bq'
+?$4DEz
+O5aF2!
+ln8t:]
+RI%eMh
+sHf\\CK
+gJbc;/
+%ku,ve
+ &[J,N
+zL~^Q
+;#"({d
+)3M"e'
+G4&VH(-5
+b _&a-
+OY=aBAK
+g&cd,6.
+VyvD<B|
+3f02{J
+cTE!Ar
+#; _mA
+,:`RQ@
+ELUZAQ
+Sbar`A
+}@;5q|
+`E2_x&
+h,V,qXa5
+:7?-]%
+\FdFA\w
+Yo2aGQK
+@Nu|,
+D9/*XM}&8
+POP_v|
+ZIu-`d~xve:
+[0LO\%G7M
+9Rio[
+qk}c2L
+bDP]RZg
+f-/nTK
+J@f}6L%
+hb@[%E
+jTNnGp
+&YaN"l
+ AuWI=
+hyT+rT"
+q#K``3
+E#EcI$
+Hy{pEx
+o2q\ '
+3xJIU,^^
+0'WtrH
+im'qkF
+8A2Y~M
+EFnK\4njY
+gs\1oC
+NoXeg2
+`$:'B1
+*8p`3m
+UIR\JvS
+JkoA9G
+U5D{f0-
+EMh6Ts
+z8EdMt
+T*c(X,
+A#I3Q8
+P! CyOA
+MuM@";Z
+pW=T21
+ U1}r;R>&
+'*mP?,
+VVJ_K'8
+~)R[oxQ
+p1<-6A
+B|jsP#?
+F`}@l=
+rrBQ!R#
+e:?#\(
+C-W(tGr
+ZB,"q65^
+oevpuX
+X.sYZ~_J4h0
+g(_]L`
+R1+(Ot~
+&ZHRYcdB-X%
+~EGh.^
+2C;M"-
+ZK0\;A'
+gIWH8x
+j% .,Ox
+Pa1l8u
+x&V:reL
+!3 [/v
++F?Qd!
+K9 ruw
+/c d$
+YV8_t?H
+aoW|rhy
+p#6~4L
+KIvI9a:5
+ja;#|$
+nKxBjQw
+1_S=D):'R
+j{dWRw
+b]e&~+
+=#dgnbb1
+,V?CV[
+;1\M^u
+=~>mz?
+\V4w3/
+9}[tq\]
+U{ ^S)G
+y<C'2*
+i$5S"gn+
+x,2lc8i
+{n92rt
+gn]:E2rw
+ML:zOZY
+0bq+]<
+r!Pn6s
+h^+gx9t
+L|5NB1Y
+e_MuDW
+!*lupxM
+9|k(#zFc
+D"W=HI
+oMZ5}={H
+r|r3R4
+O:nFyE
+^#>I|(
+l^.l^p
+d]@'9UQ
+df_x9<
+c5Y)4\
+Ek)p7"
+S>sL)>
+E,KtWMm
+}/o*&T
+c\tzeK
+7G)&b;
+Z"]WSG
+i' 6CE
+7ek1V6
+D{|l<N
+y0*.nl*
+Yr{KL!-
+(f}YOA}
+)^01C}
+1a-X5n
+Iq[.|,
+):nA%?
+!]~O0
+,TYojY
+"v\`jM
+kLzH6o
+Cr-::;S
+y-/gsY
+U\'"l+
+s'0Iev
+.-}VTW6
+zsOF13
+SMvz^9
+%L5!UF
+u,^c\+
+/u+?,=u
+F1HUCV
+Ij0{K2
+Z{/<4ix
+>4rm}-K
+>6A4pI
+]:omPnq)
+\7G=3.}
+;stGX`
+;\`,SvN
+O!fS'xZ
+NV9O:0`sL
+Bz>VmC
+eV.bFrz
+wo|wn3h
+!O=Y}$Y0
+h+z1w0
+|_ZFgbZ
+&*%vbG
+z_!}0^Q
+PdlsQ=lu
+Yme"=
+YWkxNEpt
+NTttX[
+58@ d<r
+*UJlf"
+Mnve0{:
+'hb#$&n
+WByFB6
+#~7]&^*a
+d/,XO$
+uw}"ZD
+vY!{Wl0
+\$>c\"
+s2"7r)f
+]C zv4
+GUi%+;Tj
+r1}f]-|),g
+EVur8u
+osEx@&
+4)?"Clj
+ede,1k
+N|pKfQ
+gme4{]dk
+'3s>#2R.
+RY,\~}`y
+&DV\ r
+aD!v=[x
+^~gxI~
+K|a$Wgv
+M8%4&D
+{HDb94
+>juY5{
+GF6fx!&
+Q|?H9B
+MW-[_3
+DCer&e
+]`jO7F
+\ Mh!+"*
+.|4qe^c
+aL{{1{}
+CT<a5r
+>3upRML
+%gFWG%~
+xt9cL;P
+a&Y!&_l
+Py0Qx+
+'8mN5cI
+_AAV7T
+gwD1t.
+{p_fURN}
+Oon47\Z(H]H
+d!J'k&
+k6?kU@
+EqyWa}
+r*zau4`
+fF.;9(
+`b6P`a
+Au1b(#
+9Bs$rN
+)m.%,|
+Z!USqR
+/Ok]kLwQ
+/U1aQA
+V5Jc.vm
+HF72X5
+%]]cEH
+ G?RN4e
+X8'e^
+eMhJ4X
+al]}{o
+7X=NeoxyjK6
+|@S>HE
+#z`1.d6
+4W2<d"
+!0|yCq
+48qNQ.
+e:(C|w
+axq_fgy
+Wz}jc>=
+z;yfk4
+@[QMWp
+-Q{]tYg$
+52~.[BS
+7p]-b>
+iD.w4v
+Y5lfFq
+pJ'?)Z
+J]|lI%
+JUi!f/
+OX6,B[
+%B@$Xg
+RR<Sz
+$!13-0
+<u 6ki
+SOBfjh
+,@>gV[
+ZG" fH
+[GA$,O
+C}GWE-
+dD@:Dio
+Aw^B'Yp
+_,8SFk
+-'zXfh\
+dEe')c6
+p{1FK,
+YYZ)G$
+pTJ1fz-Bh
+DWK*%5{t
+s*-S7x}
+/k;60o
+Q)p07-
+yi}=,:
+M(.INX
+kNEvTU
+=hj0[Z
+b6GJg`
+)J6h4b
+qhhq^72
+YXlrx?
+gOEU}q
+s<s*Qp
+M2~<UV
+x-FCB&
+Pa?cUTa
+7G33~Aj]K
+Uw4m)~
+_$Yhr}
+4fgC'T
+*&4JFx=
+LW]/"pDH
+c^#fxO
+OY82B(
+d|^_iD
+pMRB]w
+.[gn{~
+YQ)h_-
+_f=P49
+UD)z[2*
+)}$4B/2Ry
+H?2s 9
+7^dMME
+jn@UH8
+Y3x-jutzwN
+&A,5 d
+HXh"SJ
+}HNka J
+el0rQ)
+5&OLvR
+/o$Ze0
+G-jb^9k
+os,(5
+PlR$~~
+aQGpox
+aRHT-DL
+;_rIsIio
+t.30*=
+t Ym\+
+JJ@%}eN
+[u?7[wV2t
+RtPi9>n
+`SH_]l{
+$Cq1'K
+xr2[lt
+&fCx4?
+e[{!8V
+'g/\?|
+l#LFFK
+"i071m
+bC|k]G
++&N=n`\
+MS>{nt
+F7V$2,
+>`c3F}
+X*xkE<Y3
+rOXZ;.8
+)'jM?)R
+]sxZBdER
+}v}l '$
+\ozLWg2X
+NB0!8[
+i9Emg=
+WEqJqr
+>_iKB=
+HIu+ZK
+8).>49
+4Ql8XJ
+n0Pg|9
+l-Sz_m
+lv</5W
+pyfQb
+""?;yi
+)EStG@
+v}a?P;A
+Gw6[z'
+X-#FW
+d.~;^3
+-rSeMN}`w
+NL5UA1
+l)_rg{
+~tC'4Ch
+M>yiKE
+4xCTxt
+5UJ;,*
+H-CH8&
+F_$PzP
+|g([:
+m\]-[5
+e@]z"[
+sj:c:
+ 6U664?2uR
+Od#){/
++seo&H
+ZcRGi`
+K/1(wi'j
+E9]G*&
+FZ1 >KD'
+[{S6@V6@l
+{GAlWM
+mui{[u
+C-7t1E
+n'F@'yP<

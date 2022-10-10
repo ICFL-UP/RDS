@@ -1,0 +1,420 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+.gfids
+8SVW`2
+QSVW`f
+SVW`Sf
+8SVW`2
+QSVW`2
+`SVW`f
+,SVW`f
+5jdhhu
+URPQQh
+;t$,v-
+UQPXY]Y[
+t#Vhxj
+j"^f91j\^u8
+j"^f9q
+t/j=[f;
+PPPPPWS
+PP9E u:PPVWP
+taj*Xf
+VWj\^j:
+WWWPWS
+SSVWh 
+f9:t!V
+QQSWj0j@
+PPPPPPPP
+0123456789
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+5__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator "" 
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+CorExitProcess
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+GetCurrentPackageId
+LCMapStringEx
+LocaleNameToLCID
+?5Wg4p
+%S#[k=
+"B <1=
+_hypot
+_nextafter
+.text$mn
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIC
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPX
+.CRT$XPXA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$sxdata
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata$x
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.gfids$x
+.gfids$y
+GetProcAddress
+GetCurrentProcess
+GetCurrentThread
+SetLastError
+CloseHandle
+WinExec
+LoadLibraryA
+KERNEL32.dll
+CloseServiceHandle
+ADVAPI32.dll
+WS2_32.dll
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+IsDebuggerPresent
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetStartupInfoW
+IsProcessorFeaturePresent
+GetModuleHandleW
+TerminateProcess
+RtlUnwind
+GetLastError
+EnterCriticalSection
+LeaveCriticalSection
+DeleteCriticalSection
+InitializeCriticalSectionAndSpinCount
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+FreeLibrary
+LoadLibraryExW
+ExitProcess
+GetModuleHandleExW
+GetStdHandle
+WriteFile
+GetModuleFileNameW
+MultiByteToWideChar
+WideCharToMultiByte
+GetACP
+HeapFree
+HeapAlloc
+GetStringTypeW
+LCMapStringW
+FindClose
+FindFirstFileExW
+FindNextFileW
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+GetCommandLineA
+GetCommandLineW
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+SetStdHandle
+GetFileType
+GetProcessHeap
+HeapSize
+HeapReAlloc
+FlushFileBuffers
+GetConsoleCP
+GetConsoleMode
+SetFilePointerEx
+WriteConsoleW
+DecodePointer
+CreateFileW
+RaiseException
+31264879:9accffh
+Picuovphv Bbsg!Es|rwojrarkkd Stryjfes x4.3
+Ddvdpl440dlm
+FrystDdswirfCqovf{vD
+FrystFsgcteIaui
+FrystKbujDaua
+FrystGfuvrozHctj
+FrystUfngasfCqovf{v
+FrystJfvJasiPcscn
+oxmIKJlFTFVoQNLguxRHOVvlwDOFGzPbrgBNZPRxudNYZeELCpEiHhGlXvMRcbfSUvZhfJVdRxhffbgeaqcCvhbiVMcsKALGwuTUgFZvLSlFpybugMtBPgmjrRvGxDPHwxykSCtqSSkmlSJFepgcCWVwrShuZlbfpDVGcqIPgVeELSctZiljYkbiCQFLPKLUnTXfaKbySLLVpBfNMNkpLOFDTAHFMqlUkyaLCOqMrGKCpQcJVzjlKRZIREnSrBdyELLfYBVXncJGyLSbEVXvqzGfGPKRwYmTSYsqmnVSHciHchDFofBfPDmGJxiJThuvkoRuzjdsubGfWOjKGVCxXYiFyntPdwbGOYumtpDEsgmbBzTNeFCHdlqbPxEYlUFOqworcAUFuRDJQmXDXLkDhDzzJUepOwtuLtTMozFGTsXMvGrgWYyBmBkZrDMQmpXMofdLRkdTgGFegdNnZZPoswrwpFbqqkWrQhgwUchmybpSfeAkWyxKjrzpnUeVlxwcpkWDDIRtRGeSqCxDrELCgsVpefMPVRHezQZCjtAIjwutkjWoQYfmVlNVkwEzuxUlBZdSJyyoJlvooiAqTdFrRdvXoqLSLWHFvxlKVsKcSkOdqzFfOQFapaMZlrhFIPKhOsQGhhzWgbNhVhUvREFMUTKGdvgVVuWNYuIAVxpQaxJYLnWYqtBxuSKCcMlHdbtZlSkfXzeLaEbakmCJbNIPqYtYbkdyqaRBDCxbUJyIcyePLnoNmwFBMaVpXuLESqWXQsXHJmzmejnFkqMcuHvfEImujSCGPGsZafvSUfQzmBRuVCGXOGGzhNOKZtWtExqkBolawwTxGgtlXXNWuwVTirJHFlXnivkyiocdXkCEHoYyrUUlqnJVkKGUfzFedkujiFAUaQgToZcGqiwadPzAsaBlSvDMMltTEaEQHzkAdizQOOBNyvYUyhrcWcAAUkWrNGCSzUGMKfQrSrQBXOwMuafmjCFvrOPaAnylTwBLuGQNXICxjiHEMugGsTxiTvdA
+=&&Rz6)2
+*;k09
+x,5<6C
+,6&Jt[
+5!LjSDtvDrXHFFBGEAQCcVHBIvmCSkalgWUtuGfzVlsLfPYBUGmTbpGMJRrVgXdphWXYKscTQssKMP18xEPGCcwvWRsHUzLBFPdvgCQipGvEelsCTzILJyKBIcqflpkluNtxFAkBYsllvPbFnmnKPlozk$
+.i8&&1
+=)<I@Z_sqvEJq[SbeVQy@su]
+q^JscSSUZ^bN\I]JNDdWg~QmdeqC~zXwHURsUGP|izF_OVgtBRVDaKdz^``qSWWAaHubJvw~@LIQRpl}SqwxjK{ui{PbKuKJqsFA
+BOSoEeuT\evdBckUvCSl
+Zs\wP|Qu}`VLw=QZ
+HWEsSTJ
+MVANl+2, 
+>)\^`Iu:
+1@AIpW`dBprKBIi]D^TOb@eS}TqUFoTMc7%!vzY
+//MwL;"
+QonLadEbbNoBOPnNjobbjDXbDFOszCBYtwQzNicjuMXchgnqYIfoGZpAoBTOktDyTpzUifEzSCDQgoaE
+M*'{Jd
+#%6It2]3
+<LOJ;v
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+DigiCert Inc1
+www.digicert.com1+0)
+"DigiCert High Assurance EV Root CA0
+061110000000Z
+311110000000Z0l1
+DigiCert Inc1
+www.digicert.com1+0)
+"DigiCert High Assurance EV Root CA0
+:8P[w1
+AA"Nea
+DigiCert Inc1
+www.digicert.com1+0)
+"DigiCert EV Code Signing CA (SHA2)0
+200924000000Z
+210922120000Z0
+Private Organization1
+63451150001
+Nova Gorica1
+K & D KOMPANI d.o.o.1
+K & D KOMPANI d.o.o.0
+SI-63451150000
+1http://crl3.digicert.com/EVCodeSigningSHA2-g1.crl07
+1http://crl4.digicert.com/EVCodeSigningSHA2-g1.crl0K
+https://www.digicert.com/CPS0
+http://ocsp.digicert.com0H
+<http://cacerts.digicert.com/DigiCertEVCodeSigningCA-SHA2.crt0
+DigiCert Inc1
+www.digicert.com1!0
+DigiCert Assured ID CA-10
+141022000000Z
+241022000000Z0G1
+DigiCert1%0#
+DigiCert Timestamp Responder0
+https://www.digicert.com/CPS0
+2http://crl3.digicert.com/DigiCertAssuredIDCA-1.crl08
+2http://crl4.digicert.com/DigiCertAssuredIDCA-1.crl0w
+http://ocsp.digicert.com0A
+5http://cacerts.digicert.com/DigiCertAssuredIDCA-1.crt0
+iW!]4/q
+DigiCert Inc1
+www.digicert.com1+0)
+"DigiCert High Assurance EV Root CA0
+120418120000Z
+270418120000Z0l1
+DigiCert Inc1
+www.digicert.com1+0)
+"DigiCert EV Code Signing CA (SHA2)0
++.+1Xf
+http://ocsp.digicert.com0I
+=http://cacerts.digicert.com/DigiCertHighAssuranceEVRootCA.crt0
+:http://crl3.digicert.com/DigiCertHighAssuranceEVRootCA.crl0@
+:http://crl4.digicert.com/DigiCertHighAssuranceEVRootCA.crl0
+.http://www.digicert.com/ssl-cps-repository.htm0
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+061110000000Z
+211110000000Z0b1
+DigiCert Inc1
+www.digicert.com1!0
+DigiCert Assured ID CA-10
+.http://www.digicert.com/ssl-cps-repository.htm0
+http://ocsp.digicert.com0C
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
+4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
+DigiCert Inc1
+www.digicert.com1+0)
+"DigiCert EV Code Signing CA (SHA2)
+DigiCert Inc1
+www.digicert.com1!0
+DigiCert Assured ID CA-1
+200929235129Z0#
+/7o- Q
+advapi32
+api-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+kernel32
+mscoree.dll
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+         (((((                  H
+      (                          
+         (((((                  H
+api-ms-win-appmodel-runtime-l1-1-1
+api-ms-win-core-datetime-l1-1-1
+api-ms-win-core-file-l2-1-1
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-kernel32-package-current-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+user32
+zh-CHS
+az-AZ-Latn
+uz-UZ-Latn
+kok-IN
+syr-SY
+div-MV
+quz-BO
+sr-SP-Latn
+az-AZ-Cyrl
+uz-UZ-Cyrl
+quz-EC
+sr-SP-Cyrl
+quz-PE
+smj-NO
+bs-BA-Latn
+smj-SE
+sr-BA-Latn
+sma-NO
+sr-BA-Cyrl
+sma-SE
+sms-FI
+smn-FI
+zh-CHT
+az-az-cyrl
+az-az-latn
+bs-ba-latn
+div-mv
+kok-in
+quz-bo
+quz-ec
+quz-pe
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+syr-sy
+uz-uz-cyrl
+uz-uz-latn
+zh-chs
+zh-cht
+CONOUT$
+RAny use of this Certificate constitutes acceptance of the DigiCert CP/CPS and the Relying Party Agreement which limit liability and are incorporated herein by reference
+RAny use of this Certificate constitutes acceptance of the DigiCert CP/CPS and the Relying Party Agreement which limit liability and are incorporated herein by reference
+RAny use of this Certificate constitutes acceptance of the DigiCert CP/CPS and the Relying Party Agreement which limit liability and are incorporated herein by reference

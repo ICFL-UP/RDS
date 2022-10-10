@@ -1,0 +1,869 @@
+/lib64/ld-linux-x86-64.so.2
+_ITM_deregisterTMCloneTable
+_ITM_registerTMCloneTable
+__errno_location
+pthread_create
+pthread_mutex_lock
+pthread_mutex_unlock
+strcpy
+gmtime_r
+sprintf
+closedir
+signal
+putchar
+sched_setaffinity
+calloc
+strlen
+memset
+strstr
+memcmp
+memcpy
+fclose
+malloc
+strcat
+remove
+opendir
+usleep
+fwrite
+gettimeofday
+rename
+readdir64
+__cxa_finalize
+syscall
+memmove
+fopen64
+strcmp
+__libc_start_main
+ferror
+snprintf
+sysconf
+__xstat64
+libpthread.so.0
+libc.so.6
+GLIBC_2.2.5
+GLIBC_2.3.4
+__gmon_start__
+AUATSH
+[A\A]]
+AWAVAUATH
+@A\A]A^A_]
+%)+/5H
+;=CGIOSYH
+aegkmq
+[]A\A]A^A_
+%08x%08x%08x%08x
+  CTR_DRBG (PR = TRUE) : 
+failed
+passed
+  CTR_DRBG (PR = FALSE): 
+  ENTROPY test: 
+failed
+passed
+D7q/;M
+abcdefghbcdefghicdefghijdefghijkefghijklfghijklmghijklmnhijklmnoijklmnopjklmnopqklmnopqrlmnopqrsmnopqrstnopqrstu
+EMD#d<
+; D(V2
+Buffer allocation failed
+  SHA-%d test #%d: 
+passed
+failed
+message digest
+abcdefghijklmnopqrstuvwxyz
+abcdbcdecdefdefgefghfghighijhijkijkljklmklmnlmnomnopnopq
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+u.EW=K9
+  RIPEMD-160 test #%d: 
+passed
+failed
+/dev/urandom
+8-oVX]
+<Se>/E
+Single block msg
+""""""""""""""""
+""""""""""""""""
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+  AES-ECB-%3d (%s): 
+skipped
+passed
+  AES-CBC-%3d (%s): 
+  AES-CFB128-%3d (%s): 
+  AES-OFB-%3d (%s): 
+  AES-CTR-128 (%s): 
+  AES-XTS-128 (%s): 
+failed
+9292758453063D803DD603D5E777D7888ED1D5BF35786190FA2F23EBC0848AEADDA92CA6C3D80B32C4D109BE0F36D6AE7130B9CED7ACDF54CFC7555AC14EEBAB93A89813FBF3C4F8066D2D800F7C38A81AE31942917403FF4946B0A83D3D3E05EE57C6F5F5606FB5D4BC6CD34EE0801A5E94BB77B07507233A0BC7BAC8F90F79
+C36D0EB7FCD285223CFB5AABA5BDA3D82C01CAD19EA484A87EA4377637E75500FCB2005C5C7DD6EC4AC023CDA285D796C3D9E75E1EFC42488BB4F1D13AC30A57
+C000DF51A7C77AE8D7C7370C1FF55B69E211C2B9E5DB1ED0BF61D0D9899620F4910E4168387E3C30AA1E00C339A795088452DD96A9A5EA5D9DCA68DA636032AF
+24BF6185468786FDD303083D25E64EFC66CA472BC44D253102F8B4A9D3BFA75091386C0077937FE33FA3252D28855837AE1B484A8A9A45F7EE8C0C634F99E8CDDF79C5CE07EE72C7F123142198164234CABB724CF78B8173B9F880FC86322407AF1FEDFDDE2BEB674CA15F3E81A1521E071513A1E85B5DFA031F21ECAE91A34D
+  RSA key validation: 
+failed
+passed
+  PKCS#1 encryption : 
+passed
+  PKCS#1 decryption : 
+passed
+  PKCS#1 data sign  : 
+passed
+  PKCS#1 sig. verify: 
+0123456789ABCDEF
+EFE021C2645FD1DC586E69184AF4A31ED5F53E93B5F123FA41680867BA110131944FE7952E2517337780CB0DB80E61AAE7C8DDC6C5C6AADEB34EB38A2F40D5E6
+B2E7EFD37075B9F03FF989C7C5051C2034D2A323810251127E7BF8625A4F49A5F3E27F4DA8BD59C47D6DAABA4C8127BD5B5C25763222FEFCCFC38B832366C29E
+0066A198186C18C10B2F5ED9B522752A9830B69916E535C8F047518A889A43A594B6BED27A168D31D4A52F88925AA8F5
+602AB7ECA597A3D6B56FF9829A5E8B859E857EA95A03512E2BAE7391688D264AA5663B0341DB9CCFD2C4C5F421FEC8148001B72E848A38CAE1C65F78E56ABDEFE12D3C039B8A02D6BE593F0BBBDA56F1ECF677152EF804370C1A305CAF3B5BF130879B56C61DE584A0F53A2447A51E
+  MPI test #1 (mul_mpi): 
+failed
+passed
+256567336059E52CAE22925474705F39A94
+6613F26162223DF488E9CD48CC132C7A0AC93C701B001B092E4E5B9F73BCD27B9EE50D0657C77F374E903CDFA4C642
+  MPI test #2 (div_mpi): 
+36E139AEA55215609D2816998ED020BBBD96C37890F65171D948E9BC7CBAA4D9325D24D6A3C12710F10A09FA08AB87
+  MPI test #3 (exp_mod): 
+003A0AAEDD7E784FC07D8F9EC6E3BFD5C3DBA76456363A10869622EAC2DD84ECC5B8A74DAC4D09E03B5E0BE779F2DF61
+  MPI test #4 (inv_mod): 
+  MPI test #5 (simple gcd): 
+failed at %d
+Unexpected error, return code = %08X
+RIPEMD160
+SHA224
+SHA256
+SHA384
+SHA512
+message digest
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+z  MD5 test #%d: 
+passed
+failed
+abcdbcdecdefdefgefghfghighijhijkijkljklmklmnlmnomnopnopq
+o  SHA-1 test #%d: 
+passed
+failed
+abcdbcdecdefdefgefghfghighijhijkijkljklmklmnlmnomnopnopq
+Buffer allocation failed
+  SHA-%d test #%d: 
+passed
+failed
+RIPEMD160
+SHA224
+SHA256
+SHA384
+SHA512
+  TIMING tests note: will take some time!
+  TIMING test #1 (set_alarm / get_timer): 
+failed at line %d
+ cycles=%lu ratio=%lu millisecs=%lu secs=%lu hardfail=%d a=%lu b=%lu
+ elapsed(hires)=%lu elapsed(ctx)=%lu status(ctx)=%d
+passed
+  TIMING test #2 (set/get_delay        ): 
+  TIMING test #3 (hardclock / get_timer): 
+failed (ignored)
+id-at-commonName
+Common Name
+id-at-countryName
+Country
+id-at-locality
+Locality
+id-at-state
+id-at-organizationName
+Organization
+id-at-organizationalUnitName
+Org Unit
+emailAddress
+E-mail address
+id-at-serialNumber
+Serial number
+serialNumber
+id-at-postalAddress
+Postal address
+postalAddress
+id-at-postalCode
+Postal code
+postalCode
+id-at-surName
+Surname
+id-at-givenName
+Given name
+id-at-initials
+Initials
+initials
+id-at-generationQualifier
+Generation qualifier
+generationQualifier
+id-at-title
+id-at-dnQualifier
+Distinguished Name qualifier
+dnQualifier
+id-at-pseudonym
+Pseudonym
+pseudonym
+id-domainComponent
+Domain component
+id-at-uniqueIdentifier
+Unique Identifier
+uniqueIdentifier
+id-ce-basicConstraints
+Basic Constraints
+id-ce-keyUsage
+Key Usage
+id-ce-extKeyUsage
+Extended Key Usage
+id-ce-subjectAltName
+Subject Alt Name
+id-netscape-certtype
+Netscape Certificate Type
+id-kp-serverAuth
+TLS Web Server Authentication
+id-kp-clientAuth
+TLS Web Client Authentication
+id-kp-codeSigning
+Code Signing
+id-kp-emailProtection
+E-mail Protection
+id-kp-timeStamping
+Time Stamping
+id-kp-OCSPSigning
+OCSP Signing
+md5WithRSAEncryption
+RSA with MD5
+sha-1WithRSAEncryption
+RSA with SHA1
+sha224WithRSAEncryption
+RSA with SHA-224
+sha256WithRSAEncryption
+RSA with SHA-256
+sha384WithRSAEncryption
+RSA with SHA-384
+sha512WithRSAEncryption
+RSA with SHA-512
+ecdsa-with-SHA1
+ECDSA with SHA1
+ecdsa-with-SHA224
+ECDSA with SHA224
+ecdsa-with-SHA256
+ECDSA with SHA256
+ecdsa-with-SHA384
+ECDSA with SHA384
+ecdsa-with-SHA512
+ECDSA with SHA512
+RSASSA-PSS
+rsaEncryption
+id-ecPublicKey
+Generic EC key
+id-ecDH
+EC key for ECDH
+secp192r1
+secp224r1
+secp256r1
+secp384r1
+secp521r1
+secp192k1
+secp224k1
+secp256k1
+brainpoolP256r1
+brainpool256r1
+brainpoolP384r1
+brainpool384r1
+brainpoolP512r1
+brainpool512r1
+desCBC
+DES-CBC
+des-ede3-cbc
+DES-EDE3-CBC
+id-md5
+id-sha1
+id-sha224
+SHA-224
+id-sha256
+SHA-256
+id-sha384
+SHA-384
+id-sha512
+SHA-512
+hmacSHA1
+HMAC-SHA-1
+hmacSHA224
+HMAC-SHA-224
+hmacSHA256
+HMAC-SHA-256
+hmacSHA384
+HMAC-SHA-384
+hmacSHA512
+HMAC-SHA-512
+pbeWithSHAAnd3-KeyTripleDES-CBC
+PBE with SHA1 and 3-Key 3DES
+pbeWithSHAAnd2-KeyTripleDES-CBC
+PBE with SHA1 and 2-Key 3DES
+C95982D2E6450C582BAE4D3D9ED19DD04BD2C31E6943D6D7360DD670596465BA78761AE018399C71924E4853F76F20D14D74BDD61E2BC825142D408A04B56BE8FB9F109D93EA7F61C7303530DF665AEBD2BE8108730D65D61537763ADE9201C723063EE98F2B87C2039A8197340135DC04D0CEA5FD3E2409FD4F00801A8AC90EF59BBDDB02CA9901E2EA966DAB0A95A17B9CAFA79EE566CEA863F87CDFA9EBA273BB6A4AC3905D1BBD449D141D0CBE952930E7446A311DD0D2A4CF1E54E884F42A633684C995AB5623B82913ADE77B4DEB7DAE942DFACE6D1F4404A860D2D430B233A4DE791A0C45AC3ECD0E383EC1D9C0FDB5096D5C2EBB3237BD39BA2E9F28D0EB128508C84C9ADDB780327F03903480E0AE8809AF201F78CF61E0C253A6C7B2F3788E041692E9B4AEB70C6715798946CD640AB3FAE9C68ED991A79D69AC17DE4C9BE6C9836BD2EC1F98E7AD745FE00EA87A4CE77460A954E413966158605E961B5567A22265AB7BA382B6603C2991742F33045B1D8D044B48F4F71B280E7C6D073E95C19AE48A22392821E12C0D45C37A9351A280AA9E0933336240B104CFFE5C2D99A8AB439C20CD21C831AC7BCAD98A3FF0093EC24F5A2E3E7D37E484367E4A360E1313EA98A2147F9232C5DB5CF5DB0F51389257FCE060200D6A0765C1DCF02F0201953A0D5C00EF9A644C9BE8969F170ED0205D95731E4F0D6D61E20F
+010001
+.p3rt4m1n4777
+!_READ_PERTAMINA_!.txt
+Hello, Pertamina (pertamina.com)!
+All your data was encrypted.
+Please don
+t try to modify or rename any of encrypted files, because it can result in serious data loss and decryption failure.
+We have downloaded your files and we are ready to publish it.
+Here is your personal link with full information regarding this accident (use Tor browser):
+http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion/63643d085f36582ead29f2b9b30f7f51df2da9cd/
+ani|.cab|.cpl|.cur|.diagcab|.diagpkg|.dll|.drv|.hlp|.icl|.icns|.ico|.iso|.ics|.lnk|.idx|.mod|.mpa|.msc|.msp|.msstyles|.msu|.nomedia|.ocx|.pif|.prf|.rtp|.scr|.shs|.spl|.sys|.theme|.themepack|.exe|.bat|.cmd|.url|.mui
+GCC: (Debian 9.3.0-19) 9.3.0
+crtstuff.c
+deregister_tm_clones
+__do_global_dtors_aux
+completed.7454
+__do_global_dtors_aux_fini_array_entry
+frame_dummy
+__frame_dummy_init_array_entry
+cryptor.c
+regenerate_pre_data
+ConfigBuffer
+config.c
+StrCopyMem
+ransomware.c
+csPreData
+g_RansomHeader
+g_KeyAES
+CryptOneBlock
+logic.c
+RansomLogic
+GetMinimumBlockLength
+GetLogicByDataSize
+GetBlocksCountByDataSize
+enum_files.c
+MaxWorkers
+pThreads
+pWorkersPath
+encrypt_worker
+path_append
+add_task_to_worker
+wait_all_workers
+list_dir
+init_workers
+readme.c
+ctr_drbg.c
+block_cipher_df
+ctr_drbg_update_internal
+entropy_source_pr
+entropy_source_nopr
+nonce_pers_pr
+nonce_pers_nopr
+result_pr
+result_nopr
+test_offset
+ctr_drbg_self_test_entropy
+entropy.c
+entropy_update
+entropy_gather_internal
+entropy_dummy_source
+sha512.c
+sha512_test_buf
+sha512_test_buflen
+sha512_test_sum
+ripemd160.c
+ripemd160_padding
+ripemd160_test_str
+ripemd160_test_strlen
+ripemd160_test_md
+platform.c
+entropy_poll.c
+getrandom_wrapper
+platform_util.c
+memset_func
+aes_init_done
+aes_gen_tables
+mbedtls_aes_xts_decode_keys
+mbedtls_gf128mul_x_ble
+aes_test_ecb_dec
+aes_test_ecb_enc
+aes_test_cbc_dec
+aes_test_cbc_enc
+aes_test_cfb128_key
+aes_test_cfb128_iv
+aes_test_cfb128_pt
+aes_test_cfb128_ct
+aes_test_ofb_key
+aes_test_ofb_iv
+aes_test_ofb_pt
+aes_test_ofb_ct
+aes_test_ctr_key
+aes_test_ctr_nonce_counter
+aes_test_ctr_pt
+aes_test_ctr_ct
+aes_test_ctr_len
+aes_test_xts_key
+aes_test_xts_pt32
+aes_test_xts_ct32
+aes_test_xts_data_unit
+num_tests.3982
+aesni.c
+done.2344
+c.2345
+aesni_setkey_enc_128
+aesni_setkey_enc_192
+aesni_setkey_enc_256
+mbedtls_safer_memcmp
+rsa_check_context
+rsa_prepare_blinding
+mgf_mask
+all_or_nothing_int
+size_greater_than
+if_int
+mem_move_to_left
+rsa_rsassa_pkcs1_v15_encode
+myrand
+bignum.c
+mbedtls_mpi_zeroize
+mbedtls_clz
+mpi_get_digit
+mpi_write_hlp
+mpi_uint_bigendian_to_host_c
+mpi_uint_bigendian_to_host
+mpi_bigendian_to_host
+ct_lt_mpi_uint
+mpi_sub_hlp
+mpi_mul_hlp
+mbedtls_int_div_int
+mpi_montg_init
+mpi_montmul
+mpi_montred
+small_prime
+mpi_check_small_factors
+mpi_miller_rabin
+gcd_pairs
+rsa_internal.c
+supported_digests
+md5_test_buf
+md5_test_buflen
+md5_test_sum
+sha1.c
+sha1_test_buf
+sha1_test_buflen
+sha1_test_sum
+sha256.c
+sha256_test_buf
+sha256_test_buflen
+sha256_test_sum
+md_wrap.c
+md5_starts_wrap
+md5_update_wrap
+md5_finish_wrap
+md5_ctx_alloc
+md5_ctx_free
+md5_clone_wrap
+md5_process_wrap
+ripemd160_starts_wrap
+ripemd160_update_wrap
+ripemd160_finish_wrap
+ripemd160_ctx_alloc
+ripemd160_ctx_free
+ripemd160_clone_wrap
+ripemd160_process_wrap
+sha1_starts_wrap
+sha1_update_wrap
+sha1_finish_wrap
+sha1_ctx_alloc
+sha1_clone_wrap
+sha1_ctx_free
+sha1_process_wrap
+sha224_starts_wrap
+sha224_update_wrap
+sha224_finish_wrap
+sha224_wrap
+sha224_ctx_alloc
+sha224_ctx_free
+sha224_clone_wrap
+sha224_process_wrap
+sha256_starts_wrap
+sha256_wrap
+sha384_starts_wrap
+sha384_update_wrap
+sha384_finish_wrap
+sha384_wrap
+sha384_ctx_alloc
+sha384_ctx_free
+sha384_clone_wrap
+sha384_process_wrap
+sha512_starts_wrap
+sha512_wrap
+timing.c
+sighandler
+busy_msleep
+oid_x520_attr_type
+oid_x520_attr_from_asn1
+oid_x509_ext
+oid_x509_ext_from_asn1
+oid_ext_key_usage
+oid_ext_key_usage_from_asn1
+oid_sig_alg
+oid_sig_alg_from_asn1
+oid_pk_alg
+oid_pk_alg_from_asn1
+oid_ecp_grp
+oid_grp_id_from_asn1
+oid_cipher_alg
+oid_cipher_alg_from_asn1
+oid_md_alg
+oid_md_alg_from_asn1
+oid_md_hmac
+oid_md_hmac_from_asn1
+oid_pkcs12_pbe_alg
+oid_pkcs12_pbe_alg_from_asn1
+__FRAME_END__
+stat64
+__init_array_end
+_DYNAMIC
+__init_array_start
+__GNU_EH_FRAME_HDR
+_GLOBAL_OFFSET_TABLE_
+__udivti3
+mbedtls_sha512_process
+__libc_csu_fini
+mbedtls_sha512_update
+mbedtls_aes_crypt_ctr
+memcpy@GLIBC_2.2.5
+mbedtls_rsa_self_test
+mbedtls_oid_get_ec_grp
+ConfigLoadFromFile
+mbedtls_aes_self_test
+mbedtls_md_hmac_starts
+mbedtls_oid_get_oid_by_ec_grp
+mbedtls_md5_starts
+free@@GLIBC_2.2.5
+GeneratePreData
+mbedtls_sha512_finish
+mbedtls_oid_get_pkcs12_pbe_alg
+putchar@@GLIBC_2.2.5
+pthread_create@@GLIBC_2.2.5
+mbedtls_rsa_pkcs1_verify
+mbedtls_entropy_init
+__errno_location@@GLIBC_2.2.5
+mbedtls_mpi_copy
+mbedtls_mpi_is_prime_ext
+mbedtls_entropy_free
+remove@@GLIBC_2.2.5
+_ITM_deregisterTMCloneTable
+mbedtls_md5_free
+mbedtls_hardclock_poll
+mbedtls_mpi_fill_random
+mbedtls_timing_alarmed
+strcpy@@GLIBC_2.2.5
+mbedtls_md
+mbedtls_aesni_crypt_ecb
+mbedtls_sha1_init
+mbedtls_mpi_cmp_mpi
+mbedtls_sha1_starts_ret
+mbedtls_ripemd160_init
+mbedtls_sha256_info
+puts@@GLIBC_2.2.5
+ferror@@GLIBC_2.2.5
+CryptOneFile
+mbedtls_ctr_drbg_write_seed_file
+mbedtls_oid_get_oid_by_sig_alg
+mbedtls_md5_finish
+fread@@GLIBC_2.2.5
+mbedtls_sha256
+mbedtls_ctr_drbg_set_entropy_len
+mbedtls_rsa_export
+mbedtls_mpi_add_mpi
+mbedtls_md_get_size
+mbedtls_md5_update
+mbedtls_sha512_free
+__wrap_memcpy
+GetMaximumBlockLength
+mbedtls_oid_get_x509_ext_type
+mbedtls_aes_crypt_ofb
+mbedtls_mpi_swap
+mbedtls_aes_setkey_dec
+mbedtls_mpi_write_file
+mbedtls_mpi_sub_int
+mbedtls_oid_get_oid_by_pk_alg
+mbedtls_sha512_update_ret
+mbedtls_ctr_drbg_free
+mbedtls_rsa_public
+_edata
+mbedtls_oid_get_pk_alg
+mbedtls_internal_aes_decrypt
+mbedtls_sha1
+mbedtls_rsa_rsaes_oaep_decrypt
+fclose@@GLIBC_2.2.5
+mbedtls_mpi_add_int
+mbedtls_md5_init
+__xstat64@@GLIBC_2.2.5
+opendir@@GLIBC_2.2.5
+mbedtls_sha256_ret
+mbedtls_mpi_sub_abs
+mbedtls_mpi_size
+mbedtls_md5_self_test
+mbedtls_ctr_drbg_update
+strlen@@GLIBC_2.2.5
+mbedtls_timing_set_delay
+mbedtls_sha1_clone
+mbedtls_aes_crypt_cfb8
+EnumFiles
+mbedtls_aes_init
+mbedtls_sha256_finish
+mbedtls_mpi_cmp_abs
+mbedtls_entropy_add_source
+mbedtls_mpi_mod_mpi
+mbedtls_sha512_init
+mbedtls_mpi_write_binary
+mbedtls_sha512_finish_ret
+mbedtls_entropy_update_manual
+mbedtls_ctr_drbg_self_test
+mbedtls_ripemd160_update
+mbedtls_ripemd160_self_test
+snprintf@@GLIBC_2.2.5
+mbedtls_mpi_lt_mpi_ct
+mbedtls_rsa_export_raw
+mbedtls_oid_get_extended_key_usage
+gmtime_r@@GLIBC_2.2.5
+mbedtls_ripemd160_starts
+gettimeofday@@GLIBC_2.2.5
+mbedtls_md_hmac_update
+mbedtls_ripemd160_starts_ret
+mbedtls_sha256_update_ret
+mbedtls_md5_process
+mbedtls_timing_hardclock
+mbedtls_rsa_set_padding
+mbedtls_oid_get_sig_alg_desc
+mbedtls_sha256_starts_ret
+memset@@GLIBC_2.2.5
+mbedtls_rsa_deduce_crt
+mbedtls_internal_sha1_process
+mbedtls_ctr_drbg_seed_entropy_len
+mbedtls_mpi_init
+mbedtls_sha512_starts
+mbedtls_mpi_shrink
+alarm@@GLIBC_2.2.5
+mbedtls_ctr_drbg_update_seed_file
+mbedtls_entropy_gather
+mbedtls_md5_starts_ret
+mbedtls_sha512_ret
+sched_setaffinity@@GLIBC_2.3.4
+closedir@@GLIBC_2.2.5
+ReadMeStoreForDir
+mbedtls_mpi_div_int
+mbedtls_rsa_validate_crt
+mbedtls_ctr_drbg_random
+mbedtls_rsa_rsassa_pss_sign
+mbedtls_sha256_clone
+mbedtls_ripemd160_update_ret
+mbedtls_ctr_drbg_reseed
+mbedtls_ripemd160
+mbedtls_internal_md5_process
+__libc_start_main@@GLIBC_2.2.5
+srand@@GLIBC_2.2.5
+memcmp@@GLIBC_2.2.5
+mbedtls_sha1_ret
+mbedtls_md_init_ctx
+fgets@@GLIBC_2.2.5
+mbedtls_sha1_update_ret
+mbedtls_aes_crypt_cfb128
+mbedtls_aes_crypt_xts
+calloc@@GLIBC_2.2.5
+GetRansomConfig
+__data_start
+mbedtls_md5_ret
+mbedtls_md_get_type
+strcmp@@GLIBC_2.2.5
+signal@@GLIBC_2.2.5
+mbedtls_rsa_rsassa_pss_verify
+mbedtls_md_finish
+mbedtls_rsa_get_len
+mbedtls_sha256_free
+syscall@@GLIBC_2.2.5
+mbedtls_sha256_init
+ftell@@GLIBC_2.2.5
+mbedtls_md5_info
+mbedtls_ripemd160_free
+mbedtls_ripemd160_info
+__gmon_start__
+fopen64@@GLIBC_2.2.5
+mbedtls_platform_entropy_poll
+mbedtls_sha256_finish_ret
+mbedtls_rsa_export_crt
+mbedtls_rsa_check_pub_priv
+mbedtls_mpi_safe_cond_swap
+mbedtls_mpi_div_mpi
+mbedtls_md_update
+__dso_handle
+mbedtls_md_free
+mbedtls_entropy_func
+mbedtls_mpi_shift_r
+mbedtls_mpi_shift_l
+mbedtls_mpi_set_bit
+_IO_stdin_used
+mbedtls_oid_get_sig_alg
+mbedtls_aesni_gcm_mult
+mbedtls_mpi_cmp_int
+mbedtls_internal_aes_encrypt
+mbedtls_md_get_name
+mbedtls_internal_sha512_process
+mbedtls_mpi_self_test
+mbedtls_aes_crypt_ecb
+mbedtls_mpi_gen_prime
+time@@GLIBC_2.2.5
+mbedtls_ripemd160_process
+mbedtls_aes_xts_setkey_dec
+mbedtls_internal_sha256_process
+mbedtls_ctr_drbg_init
+mbedtls_rsa_free
+mbedtls_ctr_drbg_seed
+mbedtls_timing_self_test
+mbedtls_ripemd160_finish
+mbedtls_sha1_free
+mbedtls_rsa_complete
+mbedtls_md_hmac_reset
+pthread_mutex_unlock@@GLIBC_2.2.5
+mbedtls_mpi_lset
+__libc_csu_init
+mbedtls_aes_setkey_enc
+malloc@@GLIBC_2.2.5
+mbedtls_entropy_update_seed_file
+mbedtls_ripemd160_clone
+mbedtls_entropy_write_seed_file
+mbedtls_internal_ripemd160_process
+mbedtls_sha384_info
+mbedtls_oid_get_attr_short_name
+mbedtls_oid_get_cipher_alg
+mbedtls_md5
+mbedtls_set_alarm
+mbedtls_oid_get_numeric_string
+mbedtls_rsa_copy
+mbedtls_mpi_exp_mod
+mbedtls_ctr_drbg_set_prediction_resistance
+mbedtls_sha512_clone
+fseek@@GLIBC_2.2.5
+mbedtls_sha512_info
+mbedtls_mpi_get_bit
+mbedtls_aesni_inverse_key
+mbedtls_aes_xts_free
+mbedtls_rsa_rsassa_pkcs1_v15_verify
+mbedtls_md_hmac
+mbedtls_aes_xts_init
+mbedtls_mpi_read_string
+ProcessFileHandleWithLogic
+mbedtls_mpi_write_string
+mbedtls_platform_teardown
+mbedtls_md5_finish_ret
+mbedtls_rsa_pkcs1_encrypt
+__bss_start
+mbedtls_ctr_drbg_set_reseed_interval
+mbedtls_rsa_rsassa_pkcs1_v15_sign
+mbedtls_mpi_grow
+mbedtls_aesni_setkey_enc
+mbedtls_oid_get_oid_by_md
+mbedtls_aes_decrypt
+mbedtls_mpi_mul_mpi
+mbedtls_aes_crypt_cbc
+mbedtls_md_file
+mbedtls_md5_update_ret
+mbedtls_rsa_import_raw
+mbedtls_oid_get_md_hmac
+mbedtls_sha1_finish
+mbedtls_md_setup
+mbedtls_sha1_info
+mbedtls_rsa_init
+mbedtls_mpi_lsb
+memmove@@GLIBC_2.2.5
+readdir64@@GLIBC_2.2.5
+mbedtls_oid_get_md_alg
+mbedtls_sha1_update
+mbedtls_md_info_from_type
+mbedtls_rsa_deduce_private_exponent
+mbedtls_mpi_safe_cond_assign
+mbedtls_sha1_self_test
+mbedtls_platform_setup
+mbedtls_mpi_gcd
+mbedtls_rsa_check_privkey
+mbedtls_sha512
+mbedtls_md_clone
+mbedtls_rsa_rsaes_pkcs1_v15_encrypt
+mbedtls_entropy_self_test
+sysconf@@GLIBC_2.2.5
+mbedtls_mpi_read_file
+rename@@GLIBC_2.2.5
+mbedtls_mpi_sub_mpi
+mbedtls_md_process
+mbedtls_md_starts
+mbedtls_rsa_pkcs1_decrypt
+mbedtls_aes_encrypt
+mbedtls_ripemd160_finish_ret
+mbedtls_ctr_drbg_random_with_add
+mbedtls_md_info_from_string
+mbedtls_sha256_starts
+mbedtls_md_hmac_finish
+mbedtls_mpi_inv_mod
+mbedtls_sha224_info
+mbedtls_ctr_drbg_update_ret
+strcat@@GLIBC_2.2.5
+mbedtls_rsa_deduce_primes
+mbedtls_timing_get_delay
+mbedtls_rsa_rsaes_pkcs1_v15_decrypt
+mbedtls_rsa_import
+mbedtls_sha1_starts
+mbedtls_aes_xts_setkey_enc
+sprintf@@GLIBC_2.2.5
+mbedtls_md5_clone
+mbedtls_rsa_private
+fwrite@@GLIBC_2.2.5
+__TMC_END__
+mbedtls_sha1_finish_ret
+mbedtls_rsa_rsassa_pss_verify_ext
+mbedtls_platform_zeroize
+_ITM_registerTMCloneTable
+mbedtls_sha256_process
+mbedtls_mpi_read_binary
+mbedtls_aesni_has_support
+mbedtls_md_list
+mbedtls_mpi_mul_int
+mbedtls_rsa_check_pubkey
+mbedtls_mpi_free
+mbedtls_rsa_validate_params
+mbedtls_mpi_add_abs
+mbedtls_mpi_bitlen
+mbedtls_sha256_update
+mbedtls_sha512_starts_ret
+ReadMeRemoveForDir
+mbedtls_sha256_self_test
+mbedtls_sha1_process
+mbedtls_mpi_is_prime
+__cxa_finalize@@GLIBC_2.2.5
+ConfigLoadFromBuffer
+mbedtls_rsa_rsaes_oaep_encrypt
+mbedtls_ripemd160_ret
+mbedtls_rsa_gen_key
+mbedtls_timing_get_timer
+strstr@@GLIBC_2.2.5
+pthread_mutex_lock@@GLIBC_2.2.5
+mbedtls_mpi_mod_int
+mbedtls_md_init
+mbedtls_platform_gmtime_r
+usleep@@GLIBC_2.2.5
+mbedtls_sha512_self_test
+mbedtls_aes_free
+mbedtls_rsa_pkcs1_sign
+.symtab
+.strtab
+.shstrtab
+.interp
+.note.gnu.build-id
+.note.ABI-tag
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.plt.got
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.data.rel.ro
+.dynamic
+.got.plt
+.comment
