@@ -1,0 +1,2048 @@
+!This program cannot be run in DOS mode.
+$Rich%
+`.rdata
+@.data
+E4;Etu
+t";O`tJ
+t";K`tJ
+w);N8w$
+;Q8sV
+q$;q(W
+y tAjLj
+J89J$s
+QRPhlXL
+Wu!WWW
+tG9uCj
+tG9uCj
+tZ9uVj
+t)hvlC
+tC97u?j4
+t{9uwj
+t{9uwj
+tO9uKjD
+tO9uKjD
+tG9uCj
+tG9uCj
+tG9uCj
+tG9uCj
+tG9uCj
+tG9uCj
+tc9u_jX
+td9u`jX
+tc9u_jX
+td9u`jX
+tG9uCj
+tG9uCj
+tG9uCj
+tG9uCj
+tZ9uVj
+tZ9uVj
+tI97uEjD
+tI97uEjD
+tS9uOj
+tS9uOj
+M$+E4@Pj
+M$+E4@Pj
+<:t2<,t.</u2
+<:t2<,t.</u2
+<:t2<,t.</u2
+<:t2<,t.</u2
+t{9uwj
+tG9uCj
+tG9uCj
+tG9uCj
+tc9u_jX
+td9u`jX
+tI97uEjD
+tS9uOj
+M$+E4@Pj
+<xt><Xu=
+<xt <Xt
+<xt"<Xu!
+Wj4XPV
+A(;A,v
+O,9O(vV
++A Vj$
++AHVj(
+FT9~Xt0
+;{dv52
+@(;A(s
++A$tU3
+G(9_Lu8
+/SPPWh
+FYY;w(|
+FY;w(|
+9V(~?j
+V<;V8}
+YYF;w,|
+G@WVPR
+Q;FD~Z
+4Q;FD~Z
+C8;sx|
+tWVWj>
+WVh2QE
+9V(~?j
+V<;V8}
+1QhClE
+j,hpCL
+tB;wPt
+];w0tR
+6;w0t5j
+);{0t3
+FP;FL~
+Q;FD~R
+t]VWj>
+}:;2|6
+9pdt>V
+Sk{$4kK(4
+kG$4kW(4
+BHkW($
+Q;FD~R
+t]VWj>
+FY;w(|
+9V(~?j
+V<;V8}
+O`j@SV
+FY;w(|
+Q;FD~R
+FYY;w(|
+9V(~>j
+V<;V8}
+9V(~Bj
+V<;V8}
+Q;FD~R
+1QhClE
+F,H_[u
+tO9xp~J
+u28C`t
+QQSVWd
+YYhdNL
+URPQQh
+;t$,v-
+UQPXY]Y[
+F4_^[]
+<ItC<Lt3<Tt#<h
+A<lt'<tt
+<ItC<Lt3<Tt#<h
+A<lt'<tt
+<ItC<Lt3<Tt#<h
+A<lt'<tt
+j,h@PL
+7ARPRQh
+PPPPPPPP
+zSSSSj
+SWt@jU
+@s1PVj@W
+>Cu2f9V
+u9jAXf;
+u-jAXf;
+Wj0XPV
+SPjdVQ
+3=tqL
+PPPPPWS
+PP9E u<PPVWP
+<at1<rt!<wt
+<=upG8
+[Sh$nK
+[Sh,nK
+[Sh4nK
+tlj*Yf
+SSVWh 
+f9:t!V
+QQSVj8j@
+NX9^`t1
+;V\uYW
+tjh|#K
+u2Vj@hhpK
+9C`u99C\t4
+u29K\t-
+WHPhxsK
+HPhhpK
+PPPPPPPP
+/upgrade/client/win32-arm64/
+Unknown exception
+bad array new length
+string too long
+bad cast
+generic
+iostream
+iostream stream error
+system
+unknown error
+bad locale name
+SpotifyInstaller/1.0
+IsWow64Process2
+https://
+https://www.spotify.com
+~~Spotify_WRITE_TEST~~
+Software\Microsoft\Windows\CurrentVersion\Uninstall\Spotify
+%.4d%.2d%.2d
+Spotify.exe
+DisplayIcon
+Spotify
+DisplayName
+DisplayVersion
+Version
+InstallDate
+InstallLocation
+NoModify
+NoRepair
+Spotify AB
+Publisher
+" /uninstall
+UninstallString
+URLInfoAbout
+Spotify.lnk
+C:\Program\Spotify
+SpWebInst%d.exe
+ /webinstall
+C:\Users
+C:\Users\
+Spotify Web Helper
+Software\Microsoft\Windows\CurrentVersion\Run
+\Spotify.exe
+ /UPDATECOMPLETE
+Please install Spotify using a normal account instead of an Administrator account.
+Spotify_new.exe
+Spotify_new.exe.sig
+Spotify requires Windows 7 or later. The installer is unable to continue.
+extract
+update
+webinstall
+silent
+A Windows Store installation of Spotify was found in your system. Please uninstall that version first, or update through the Windows Store.
+The Spotify installation is already in progress.
+It looks like you have already installed Spotify. Do you want to replace it?
+Do you want to close Spotify and proceed with the installation?
+invalid string position
+invalid flags
+invalid mode
+The installer is corrupt. Please download it from the web site again and retry.
+The computer has not enough free memory and disk space. Please close some programs and delete some files from the disk and retry.
+The installer is unable to install Spotify because the neccessary files could not be created.
+The installer is unable to install Spotify because the files to be written are in use by another process. Please make sure Spotify is not running and retry.
+The installer is unable to get administrator privileges.
+Spotify could not be started.
+The installer was unable to connect to the Internet. Please make sure the computer is connected to the Internet and that no firewall is blocking the connection and try again.
+Automatic download failed. Press OK to download the installer from your browser.
+The installer encountered an unknown error.
+Error code: 
+Spotify Installer
+Aborting...
+Unable to download Spotify... will try again in %d seconds
+Unable to download Spotify... will try again in %d second
+Downloading Spotify...
+  %d seconds left
+  %d second left
+  about %d minutes left
+  about %d minute left
+Installing Spotify...
+The installation of Spotify is not complete. Do you want to cancel?
+  %d second left
+  %d seconds left
+  about %d minute left
+  about %d minutes left
+A Windows Store installation of Spotify was found in your system. Please uninstall that version first, or update through the Windows Store.
+Aborting...
+Automatic download failed. Press OK to download the installer from your browser.
+Do you want to close Spotify and proceed with the installation?
+Downloading Spotify...
+Error code: 
+Installing Spotify...
+It looks like you have already installed Spotify. Do you want to replace it?
+Please install Spotify using a normal account instead of an Administrator account.
+Spotify Installer
+Spotify could not be started.
+Spotify requires Windows 7 or later. The installer is unable to continue.
+The Spotify installation is already in progress.
+The computer has not enough free memory and disk space. Please close some programs and delete some files from the disk and retry.
+The installation of Spotify is not complete. Do you want to cancel?
+The installer encountered an unknown error.
+The installer is corrupt. Please download it from the web site again and retry.
+The installer is unable to get administrator privileges.
+The installer is unable to install Spotify because the files to be written are in use by another process. Please make sure Spotify is not running and retry.
+The installer is unable to install Spotify because the neccessary files could not be created.
+The installer was unable to connect to the Internet. Please make sure the computer is connected to the Internet and that no firewall is blocking the connection and try again.
+Unable to download Spotify... will try again in %d second
+Unable to download Spotify... will try again in %d seconds
+Project-Id-Version: Spotify 1.0.90.207.gd4a1b644
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2018-09-12 06:03+0000
+PO-Revision-Date: 2018-09-12 06:03+0000
+Last-Translator: Automatically generated
+Language-Team: none
+Language: sv_SE
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=n != 1;
+  %1$d sekund kvar
+  %1$d sekunder kvar
+  ungef
+r %1$d minut kvar
+  ungef
+r %1$d minuter kvar
+En Windows Store-installation av Spotify hittades i ditt system. Avinstallera den versionen f
+rst eller uppdatera via Windows Store.
+Avbryter 
+Den automatiska nedladdningen misslyckades. Tryck p
+ OK om du vill ladda ned installationsprogrammet fr
+n webbl
+saren.
+Vill du st
+nga Spotify och forts
+tta med installationen?
+Laddar ned Spotify
+Felkod: 
+Installerar Spotify
+Det verkar som Spotify redan 
+r installerat p
+ din dator. Vill du ers
+tta det?
+Installera Spotify med ett vanligt konto i st
+llet f
+r med ett administrat
+rskonto.
+Installera Spotify
+Det gick inte att starta Spotify.
+Spotify kr
+ver Windows 7 eller senare. Installationsprogrammet kan inte forts
+Spotify-installationen k
+rs redan.
+Det finns inte tillr
+ckligt med ledigt minne och diskutrymme p
+ datorn. St
+gra program och ta bort n
+gra filer p
+ disken och f
+k igen.
+Installationen av Spotify har inte slutf
+rts. Vill du avbryta 
+Installationsprogrammet st
+ ett ok
+nt fel.
+Installationsprogrammet 
+r skadat. Ladda ned det fr
+n webbplatsen igen och f
+k en g
+ng till.
+Installationsprogrammet kan inte f
+ administrat
+righet.
+r inte att installera Spotify eftersom filerna som installationsprogrammet beh
+ver skriva till anv
+nds av en annan process. Kontrollera att inte Spotify k
+rs och f
+k igen.
+r inte att installera Spotify eftersom det inte g
+r att skapa de n
+ndiga filerna.
+Installationsprogrammet kunde inte ansluta till internet. Kontrollera att datorn 
+r ansluten till internet och att ingen brandv
+gg blockerar anslutningen och f
+k sedan igen.
+Det gick inte att ladda ned Spotify ... Ett nytt f
+rs om %1$d sekund
+Det gick inte att ladda ned Spotify ... Ett nytt f
+rs om %1$d sekunder
+  %d second left
+  %d seconds left
+  about %d minute left
+  about %d minutes left
+A Windows Store installation of Spotify was found in your system. Please uninstall that version first, or update through the Windows Store.
+Aborting...
+Automatic download failed. Press OK to download the installer from your browser.
+Do you want to close Spotify and proceed with the installation?
+Downloading Spotify...
+Error code: 
+Installing Spotify...
+It looks like you have already installed Spotify. Do you want to replace it?
+Please install Spotify using a normal account instead of an Administrator account.
+Spotify Installer
+Spotify could not be started.
+Spotify requires Windows 7 or later. The installer is unable to continue.
+The Spotify installation is already in progress.
+The computer has not enough free memory and disk space. Please close some programs and delete some files from the disk and retry.
+The installation of Spotify is not complete. Do you want to cancel?
+The installer encountered an unknown error.
+The installer is corrupt. Please download it from the web site again and retry.
+The installer is unable to get administrator privileges.
+The installer is unable to install Spotify because the files to be written are in use by another process. Please make sure Spotify is not running and retry.
+The installer is unable to install Spotify because the neccessary files could not be created.
+The installer was unable to connect to the Internet. Please make sure the computer is connected to the Internet and that no firewall is blocking the connection and try again.
+Unable to download Spotify... will try again in %d second
+Unable to download Spotify... will try again in %d seconds
+Project-Id-Version: Spotify 1.0.90.207.gd4a1b644
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2018-09-12 06:03+0000
+PO-Revision-Date: 2018-09-12 06:03+0000
+Last-Translator: Automatically generated
+Language-Team: none
+Language: id_ID
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=1; plural=0;
+  %1$d detik tersisa
+  sekitar %1$d menit tersisa
+Pemasangan Spotify Windows Store ditemukan di sistem kamu. Hapus versi itu lebih dulu, atau perbarui lewat Windows Store.
+Menghentikan...
+Download otomatis gagal. Tekan OK untuk mendownload pemasang dari browser kamu.
+Apakah kamu ingin menutup Spotify dan melanjutkan penginstalan?
+Men-download Spotify...
+Kode kesalahan: 
+Memasang Spotify...
+Sepertinya kamu sudah menginstal Spotify. Kamu ingin menggantinya?
+Harap instal Spotify menggunakan akun biasa, bukan akun Administrator.
+Pemasang Spotify 
+Spotify tidak dapat dimulai.
+Spotify membutuhkan Windows 7 atau versi terbaru. Pemasang tidak dapat melanjutkan.
+Pemasangan Spotify sedang berlangsung.
+Komputer tidak memiliki memori dan kapasitas disk yang cukup. Tutup beberapa program dan hapus beberapa file dari disk, lalu coba lagi.
+Pemasangan Spotify belum selesai. Batalkan?
+Pemasang mengalami kesalahan yang tidak diketahui.
+Penginstal rusak. Download lagi dari situs web dan coba lagi.
+Pemasang tidak bisa mendapatkan hak istimewa administrator.
+Pemasang tidak dapat memasang Spotify karena file yang akan ditulis sedang digunakan oleh proses lain. Pastikan Spotify tidak berjalan dan coba lagi.
+Pemasang tidak dapat memasang Spotify karena file yang dibutuhkan tidak dapat dibuat.
+Penginstal tidak dapat terhubung ke Internet. Pastikan komputer terhubung ke Internet dan tidak ada firewall yang memblokir koneksi, lalu coba lagi.
+Tidak dapat mendownload Spotify... akan mencoba lagi dalam %1$d detik
+  %d second left
+  %d seconds left
+  about %d minute left
+  about %d minutes left
+A Windows Store installation of Spotify was found in your system. Please uninstall that version first, or update through the Windows Store.
+Aborting...
+Automatic download failed. Press OK to download the installer from your browser.
+Do you want to close Spotify and proceed with the installation?
+Downloading Spotify...
+Error code: 
+Installing Spotify...
+It looks like you have already installed Spotify. Do you want to replace it?
+Please install Spotify using a normal account instead of an Administrator account.
+Spotify Installer
+Spotify could not be started.
+Spotify requires Windows 7 or later. The installer is unable to continue.
+The Spotify installation is already in progress.
+The computer has not enough free memory and disk space. Please close some programs and delete some files from the disk and retry.
+The installation of Spotify is not complete. Do you want to cancel?
+The installer encountered an unknown error.
+The installer is corrupt. Please download it from the web site again and retry.
+The installer is unable to get administrator privileges.
+The installer is unable to install Spotify because the files to be written are in use by another process. Please make sure Spotify is not running and retry.
+The installer is unable to install Spotify because the neccessary files could not be created.
+The installer was unable to connect to the Internet. Please make sure the computer is connected to the Internet and that no firewall is blocking the connection and try again.
+Unable to download Spotify... will try again in %d second
+Unable to download Spotify... will try again in %d seconds
+Project-Id-Version: Spotify 1.0.96.119.g4eeda731
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2018-12-04 12:16+0000
+PO-Revision-Date: 2018-12-04 12:16+0000
+Last-Translator: Automatically generated
+Language-Team: none
+Language: ja_JP
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=1; plural=0;
+Windows
+Spotify
+Windows
+Spotify
+Spotify
+Spotify
+Spotify
+Spotify
+Spotify
+Spotify
+Spotify
+Spotify
+Windows 7
+ Windows 7
+Spotify
+Spotify
+Spotify
+Spotify
+Spotify
+Spotify
+  %d second left
+  %d seconds left
+  about %d minute left
+  about %d minutes left
+A Windows Store installation of Spotify was found in your system. Please uninstall that version first, or update through the Windows Store.
+Aborting...
+Automatic download failed. Press OK to download the installer from your browser.
+Do you want to close Spotify and proceed with the installation?
+Downloading Spotify...
+Error code: 
+Installing Spotify...
+It looks like you have already installed Spotify. Do you want to replace it?
+Please install Spotify using a normal account instead of an Administrator account.
+Spotify Installer
+Spotify could not be started.
+Spotify requires Windows 7 or later. The installer is unable to continue.
+The Spotify installation is already in progress.
+The computer has not enough free memory and disk space. Please close some programs and delete some files from the disk and retry.
+The installation of Spotify is not complete. Do you want to cancel?
+The installer encountered an unknown error.
+The installer is corrupt. Please download it from the web site again and retry.
+The installer is unable to get administrator privileges.
+The installer is unable to install Spotify because the files to be written are in use by another process. Please make sure Spotify is not running and retry.
+The installer is unable to install Spotify because the neccessary files could not be created.
+The installer was unable to connect to the Internet. Please make sure the computer is connected to the Internet and that no firewall is blocking the connection and try again.
+Unable to download Spotify... will try again in %d second
+Unable to download Spotify... will try again in %d seconds
+Project-Id-Version: Spotify 1.0.90.207.gd4a1b644
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2018-09-12 06:03+0000
+PO-Revision-Date: 2018-09-12 06:03+0000
+Last-Translator: Automatically generated
+Language-Team: none
+Language: en
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=(n != 1);
+  %d second left
+  %d seconds left
+  about %d minute left
+  about %d minutes left
+A Windows Store installation of Spotify was found in your system. Please uninstall that version first, or update through the Windows Store.
+Aborting...
+Automatic download failed. Press OK to download the installer from your browser.
+Do you want to close Spotify and proceed with the installation?
+Downloading Spotify...
+Error code: 
+Installing Spotify...
+It looks like you have already installed Spotify. Do you want to replace it?
+Please install Spotify using a normal account instead of an Administrator account.
+Spotify Installer
+Spotify could not be started.
+Spotify requires Windows 7 or later. The installer is unable to continue.
+The Spotify installation is already in progress.
+The computer has not enough free memory and disk space. Please close some programs and delete some files from the disk and retry.
+The installation of Spotify is not complete. Do you want to cancel?
+The installer encountered an unknown error.
+The installer is corrupt. Please download it from the web site again and retry.
+The installer is unable to get administrator privileges.
+The installer is unable to install Spotify because the files to be written are in use by another process. Please make sure Spotify is not running and retry.
+The installer is unable to install Spotify because the neccessary files could not be created.
+The installer was unable to connect to the Internet. Please make sure the computer is connected to the Internet and that no firewall is blocking the connection and try again.
+Unable to download Spotify... will try again in %d second
+Unable to download Spotify... will try again in %d seconds
+  %d second left
+  %d seconds left
+  about %d minute left
+  about %d minutes left
+A Windows Store installation of Spotify was found in your system. Please uninstall that version first, or update through the Windows Store.
+Aborting...
+Automatic download failed. Press OK to download the installer from your browser.
+Do you want to close Spotify and proceed with the installation?
+Downloading Spotify...
+Error code: 
+Installing Spotify...
+It looks like you have already installed Spotify. Do you want to replace it?
+Please install Spotify using a normal account instead of an Administrator account.
+Spotify Installer
+Spotify could not be started.
+Spotify requires Windows 7 or later. The installer is unable to continue.
+The Spotify installation is already in progress.
+The computer has not enough free memory and disk space. Please close some programs and delete some files from the disk and retry.
+The installation of Spotify is not complete. Do you want to cancel?
+The installer encountered an unknown error.
+The installer is corrupt. Please download it from the web site again and retry.
+The installer is unable to get administrator privileges.
+The installer is unable to install Spotify because the files to be written are in use by another process. Please make sure Spotify is not running and retry.
+The installer is unable to install Spotify because the neccessary files could not be created.
+The installer was unable to connect to the Internet. Please make sure the computer is connected to the Internet and that no firewall is blocking the connection and try again.
+Unable to download Spotify... will try again in %d second
+Unable to download Spotify... will try again in %d seconds
+Project-Id-Version: Spotify 1.1.8.36.g05360a37
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2019-05-10 15:04+0000
+PO-Revision-Date: 2019-05-10 15:04+0000
+Last-Translator: Automatically generated
+Language-Team: none
+Language: cs_CZ
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;
+ %1$d sekunda
+ %1$d sekundy
+ %1$d sekund
+ %1$d minuta
+ %1$d minuty
+ %1$d minut
+m syst
+mu se na
+la instalace Spotify z
+obchodu WIndows Store. Nejd
+v tuto verzi odinstaluj nebo aplikaci aktualizuj p
+es obchod Windows Store.
+Automatick
+ se nezda
+ilo. Stisknut
+tka OK st
+hni instala
+ program z prohl
+t Spotify a pokra
+ovat v instalaci?
+Stahov
+ Spotify...
+d chyby: 
+Instalace Spotify...
+ aplikaci Spotify nainstalovanou. Chce
+ tuto instalaci nahradit?
+Nainstaluj pros
+m Spotify pomoc
+tu, a ne 
+tu Spr
+Instala
+ program Spotify
+Spotify se nepoda
+ilo spustit.
+Spotify vy
+aduje Windows 7 nebo nov
+. Instala
+ program nem
+e pokra
+Instalace Spotify ji
+ dostatek voln
+ti a m
+sta na disku. Zav
+i pros
+ programy a vyma
+ soubory z disku, potom to zkus znovu.
+Instalace Spotify nebyla dokon
+ena. Chce
+ ji zru
+Instala
+ program narazil na nezn
+mou chybu.
+Instala
+ program je po
+hni si jej pros
+m znovu z internetov
+ch str
+nek a zkus to znovu.
+Instala
+ program nemohl z
+skat opr
+Instala
+ program nemohl nainstalovat Spotify, proto
+e soubory, do kter
+ch je t
+eba zapisovat, jsou vyu
+ny jin
+m procesem. Ujisti se pros
+ aplikace Spotify spu
+na, a zkus to znovu. 
+Instala
+ program nemohl nainstalovat Spotify, proto
+e se nepoda
+ilo vytvo
+it nezbytn
+ soubory.
+ipojen
+ instala
+ho programu k internetu se nezda
+ilo. Ujisti se pros
+m, zda je po
+ipojen k internetu a 
+ipojen
+ blokov
+nou firewall, potom to zkus znovu.
+ Spotify se nezda
+ilo... Zkus
+me to znovu za %1$d sekundu
+ Spotify se nezda
+ilo... Zkus
+me to znovu za %1$d sekundy
+ Spotify se nezda
+ilo... Zkus
+me to znovu za %1$d sekund
+  %d second left
+  %d seconds left
+  about %d minute left
+  about %d minutes left
+A Windows Store installation of Spotify was found in your system. Please uninstall that version first, or update through the Windows Store.
+Aborting...
+Automatic download failed. Press OK to download the installer from your browser.
+Do you want to close Spotify and proceed with the installation?
+Downloading Spotify...
+Error code: 
+Installing Spotify...
+It looks like you have already installed Spotify. Do you want to replace it?
+Please install Spotify using a normal account instead of an Administrator account.
+Spotify Installer
+Spotify could not be started.
+Spotify requires Windows 7 or later. The installer is unable to continue.
+The Spotify installation is already in progress.
+The computer has not enough free memory and disk space. Please close some programs and delete some files from the disk and retry.
+The installation of Spotify is not complete. Do you want to cancel?
+The installer encountered an unknown error.
+The installer is corrupt. Please download it from the web site again and retry.
+The installer is unable to get administrator privileges.
+The installer is unable to install Spotify because the files to be written are in use by another process. Please make sure Spotify is not running and retry.
+The installer is unable to install Spotify because the neccessary files could not be created.
+The installer was unable to connect to the Internet. Please make sure the computer is connected to the Internet and that no firewall is blocking the connection and try again.
+Unable to download Spotify... will try again in %d second
+Unable to download Spotify... will try again in %d seconds
+Project-Id-Version: Spotify 1.0.90.207.gd4a1b644
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2018-09-12 06:03+0000
+PO-Revision-Date: 2018-09-12 06:03+0000
+Last-Translator: Automatically generated
+Language-Team: none
+Language: es_ES
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=n != 1;
+  %1$d segundo restante
+  %1$d segundos restantes
+  sobre %1$d minuto restante
+  sobre %1$d minutos restantes
+Se ha encontrado en tu sistema una instalaci
+n de Spotify de la Tienda Windows. Es necesario que primero desinstales esa versi
+n, o bien actualiza a trav
+s de la Tienda Windows.
+Operaci
+n cancelada...
+La descarga autom
+tica ha fallado. Pulsa OK para descargar el instalador desde tu navegador.
+Quieres cerrar Spotify y proceder a su instalaci
+Descargando Spotify...
+digo de error: 
+Instalando Spotify...
+Parece que ya has instalado Spotify. 
+Deseas reemplazarlo?
+Por favor, instala Spotify usando una cuenta normal en lugar de la cuenta de Administrador
+Programa de instalaci
+n de Spotify
+No se puede iniciar Spotify
+Spotify requiere Windows 7 o versi
+n posterior. La instalaci
+n no puede continuar.
+La instalaci
+n de Spotify ya est
+ en proceso
+Este equipo no tiene suficiente memoria y espacio en el disco. Por favor, cierre programas, borre algunos archivos del disco e int
+ntelo de nuevo.
+La instalaci
+n de Spotify no est
+ completa. 
+Deseas cancelar?
+El instalador encontr
+ un error desconocido.
+El instalador est
+ado. Por favor, desc
+rgalo desde la p
+gina web e int
+ntalo de nuevo.
+El instalador no puede obtener privilegios de administrador.
+El instalador de Spotify no puede terminar el proceso porque los archivos necesarios ya est
+n siendo usados. Por favor, comprueba que Spotify no est
+ siendo ejecutado e int
+ntalo de nuevo.
+El instalador de Spotify no puede terminar el proceso porque los archivos necesarios no fueron creados.
+El instalador no puede conectarse a Internet. Por favor, comprueba que la conexi
+n de tu equipo sea correcta, que el firewall no est
+ bloqueando la conexi
+n y vuelve a intentarlo.
+No se ha podido descargar Spotify... nuevo intento dentro de %1$d segundo
+No se ha podido descargar Spotify... nuevo intento dentro de %1$d segundos
+  %d second left
+  %d seconds left
+  about %d minute left
+  about %d minutes left
+A Windows Store installation of Spotify was found in your system. Please uninstall that version first, or update through the Windows Store.
+Aborting...
+Automatic download failed. Press OK to download the installer from your browser.
+Do you want to close Spotify and proceed with the installation?
+Downloading Spotify...
+Error code: 
+Installing Spotify...
+It looks like you have already installed Spotify. Do you want to replace it?
+Please install Spotify using a normal account instead of an Administrator account.
+Spotify Installer
+Spotify could not be started.
+Spotify requires Windows 7 or later. The installer is unable to continue.
+The Spotify installation is already in progress.
+The computer has not enough free memory and disk space. Please close some programs and delete some files from the disk and retry.
+The installation of Spotify is not complete. Do you want to cancel?
+The installer encountered an unknown error.
+The installer is corrupt. Please download it from the web site again and retry.
+The installer is unable to get administrator privileges.
+The installer is unable to install Spotify because the files to be written are in use by another process. Please make sure Spotify is not running and retry.
+The installer is unable to install Spotify because the neccessary files could not be created.
+The installer was unable to connect to the Internet. Please make sure the computer is connected to the Internet and that no firewall is blocking the connection and try again.
+Unable to download Spotify... will try again in %d second
+Unable to download Spotify... will try again in %d seconds
+Project-Id-Version: Spotify 1.0.90.207.gd4a1b644
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2018-09-12 06:03+0000
+PO-Revision-Date: 2018-09-12 06:03+0000
+Last-Translator: Automatically generated
+Language-Team: none
+Language: nl_NL
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=n != 1;
+  Nog %1$d seconde
+  Nog %1$d seconden
+  Nog {0} minuut
+  nog %1$d minuten
+Er is een Windows Store-installatie van Spotify aangetroffen op je systeem. Verwijder deze versie eerst of voer een update uit via de Windows Store.
+Afbreken...
+Automatisch downloaden mislukt Druk op OK om het installatieprogramma vanuit je browser te downloaden.
+Wil je Spotify afsluiten en doorgaan met de installatie?
+Spotify aan het downloaden...
+Foutcode: 
+Spotify aan het installeren...
+Het lijkt erop dat je Spotify al eerder hebt geinstalleerd. Wil je de ge
+nstalleerde versie vervangen?
+Installeer Spotify met behulp van een normaal account in plaats van een Administrator-account.
+Spotify-installatieprogramma
+Spotify kon niet worden opgestart.
+Spotify vereist Windows 7 of hoger. Het installatieprogramma kan niet doorgaan.
+De installatie van Spotify is al bezig.
+De computer heeft onvoldoende geheugen en schijfruimte. Sluit enkele programma's en verwijder een aantal bestanden van de schijf en probeer het opnieuw.
+De installatie van Spotify is niet voltooid. Wil je de installatie afbreken?
+Het installatieprogramma vond een onbekende fout.
+Het installatieprogramma is beschadigd. Download het opnieuw van de website en start de installatie opnieuw.
+Het installatieprogramma kan geen administratorprivileges krijgen.
+Het installatieprogramma kan Spotify niet installeren omdat de bestanden die moeten worden geschreven, in gebruik zijn voor een ander proces. Zorg dat Spotify niet actief is en probeer het opnieuw.
+Het installatieprogramma kan Spotify niet installeren omdat de benodigde bestanden niet kunnen worden aangemaakt.
+Het installatieprogramma kon geen verbinding maken met het internet. Zorg ervoor dat de computer is aangesloten op het internet en dat er geen firewall de verbinding blokkeert en probeer het opnieuw.
+Kan Spotify niet downloaden. Nieuwe poging over %1$d seconde
+Kan Spotify niet downloaden. Nieuwe poging over %1$d seconden
+  %d second left
+  %d seconds left
+  about %d minute left
+  about %d minutes left
+A Windows Store installation of Spotify was found in your system. Please uninstall that version first, or update through the Windows Store.
+Aborting...
+Automatic download failed. Press OK to download the installer from your browser.
+Do you want to close Spotify and proceed with the installation?
+Downloading Spotify...
+Error code: 
+Installing Spotify...
+It looks like you have already installed Spotify. Do you want to replace it?
+Please install Spotify using a normal account instead of an Administrator account.
+Spotify Installer
+Spotify could not be started.
+Spotify requires Windows 7 or later. The installer is unable to continue.
+The Spotify installation is already in progress.
+The computer has not enough free memory and disk space. Please close some programs and delete some files from the disk and retry.
+The installation of Spotify is not complete. Do you want to cancel?
+The installer encountered an unknown error.
+The installer is corrupt. Please download it from the web site again and retry.
+The installer is unable to get administrator privileges.
+The installer is unable to install Spotify because the files to be written are in use by another process. Please make sure Spotify is not running and retry.
+The installer is unable to install Spotify because the neccessary files could not be created.
+The installer was unable to connect to the Internet. Please make sure the computer is connected to the Internet and that no firewall is blocking the connection and try again.
+Unable to download Spotify... will try again in %d second
+Unable to download Spotify... will try again in %d seconds
+Project-Id-Version: Spotify 1.0.90.207.gd4a1b644
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2018-09-12 06:03+0000
+PO-Revision-Date: 2018-09-12 06:03+0000
+Last-Translator: Automatically generated
+Language-Team: none
+Language: tr_TR
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=n != 1;
+  {0} saniye kald
+  %1$d saniye kald
+  yakla
+k {0} dakika kald
+  yakla
+k %1$d dakika kald
+Sisteminde Windows Store taraf
+ndan y
+klenmi
+ bir Spotify s
+ bulundu. L
+ncelikle o s
+r veya Windows Store vas
+ncelle.
+ptal ediliyor...
+Otomatik indirme ba
+kleyiciyi taray
+ndan indirmek i
+in Tamam'a bas.
+Spotify'
+ kapat
+klemeye devam etmek istiyor musun?
+Spotify indiriliyor...
+Hata kodu: 
+Spotify y
+kleniyor...
+Spotify'
+ zaten y
+kledin. De
+tirmek istiyor musun?
+tfen Spotify'
+netici hesab
+ yerine normal kullan
+ hesab
+Spotify Y
+kleyici
+Spotify ba
+Spotify i
+in Windows 7 ve 
+ gerekiyor. Y
+kleyici devam edemiyor.
+Spotify y
+klemesi halen devam ediyor.
+Bilgisayarda yeterli bo
+ bellek ve disk alan
+ yok. L
+tfen baz
+ programlar
+ kapat, diskten baz
+ dosyalar
+ sil ve tekrar dene.
+Spotify kurulumu tamamlanmad
+ptal etmek istiyor musun?
+kleyici bilinmeyen bir hatayla kar
+kleyici bozuk. L
+tfen web sitesinden indirip tekrar dene.
+kleyici y
+netici ayr
+lmak istenen dosyalar ba
+ka bir i
+lem taraf
+ndan kullan
+kleyici Spotify'
+ kuram
+yor. L
+tfen Spotify'
+ndan emin ol ve tekrar dene.
+kleyici baz
+ gerekli dosyalar olu
+turulamad
+in Spotify'
+kleyemiyor.
+kleyici 
+nternet'e ba
+yor. L
+tfen bilgisayar
+nternet'e ba
+undan ve ba
+ engelleyen g
+venlik duvar
+ olmad
+ndan emin ol ve tekrar dene.
+Spotify indirilemiyor... {0} saniye i
+inde tekrar denenecek
+Spotify indirilemiyor...%1$d %%d saniye i
+inde tekrar denenecek
+  %d second left
+  %d seconds left
+  about %d minute left
+  about %d minutes left
+A Windows Store installation of Spotify was found in your system. Please uninstall that version first, or update through the Windows Store.
+Aborting...
+Automatic download failed. Press OK to download the installer from your browser.
+Do you want to close Spotify and proceed with the installation?
+Downloading Spotify...
+Error code: 
+Installing Spotify...
+It looks like you have already installed Spotify. Do you want to replace it?
+Please install Spotify using a normal account instead of an Administrator account.
+Spotify Installer
+Spotify could not be started.
+Spotify requires Windows 7 or later. The installer is unable to continue.
+The Spotify installation is already in progress.
+The computer has not enough free memory and disk space. Please close some programs and delete some files from the disk and retry.
+The installation of Spotify is not complete. Do you want to cancel?
+The installer encountered an unknown error.
+The installer is corrupt. Please download it from the web site again and retry.
+The installer is unable to get administrator privileges.
+The installer is unable to install Spotify because the files to be written are in use by another process. Please make sure Spotify is not running and retry.
+The installer is unable to install Spotify because the neccessary files could not be created.
+The installer was unable to connect to the Internet. Please make sure the computer is connected to the Internet and that no firewall is blocking the connection and try again.
+Unable to download Spotify... will try again in %d second
+Unable to download Spotify... will try again in %d seconds
+Project-Id-Version: Spotify 1.0.90.207.gd4a1b644
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2018-09-12 06:03+0000
+PO-Revision-Date: 2018-09-12 06:03+0000
+Last-Translator: Automatically generated
+Language-Team: none
+Language: fr_CA
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=n>1;
+  %1$d
+seconde restante
+  %1$d
+secondes restantes
+  environ %1$d
+minute restante
+  environ %1$d
+minutes restantes
+Une installation Windows Store de Spotify a 
+ trouv
+e dans votre syst
+me. Veuillez d'abord d
+sinstaller cette version ou effectuer une mise 
+ jour par l'entremise du Windows Store.
+Abandon
+chec du t
+chargement automatique. Appuyez sur OK pour t
+charger le programme d'installation 
+ partir de votre navigateur.
+Souhaitez-vous quitter Spotify et proc
+ une nouvelle installation?
+chargement de Spotify
+Code d'erreur
+Installation de Spotify
+Il semble que vous ayez d
+ install
+ Spotify. Voulez-vous le remplacer?
+Veuillez installer Spotify depuis un compte utilisateur et non un compte administrateur.
+Programme d
+installation de Spotify
+Spotify n'a pas pu d
+marrer.
+Spotify n
+cessite Windows
+7 ou une version ult
+rieure. Le programme d
+installation ne peut pas continuer.
+L'installation de Spotify est d
+ en cours.
+L'ordinateur n'a pas assez de m
+moire disponible et d'espace disque libre. Quittez plusieurs programmes et lib
+rez de l
+espace sur votre disque dur, puis relancez l
+installation.
+L'installation de Spotify n
+est pas termin
+e. Souhaitez-vous l
+annuler?
+Le programme d
+installation a rencontr
+ une erreur inconnue.
+Le programme d
+installation est corrompu. Veuillez le t
+charger de nouveau depuis notre site Web, puis recommencez l
+installation.
+Le programme d
+installation ne peut obtenir les droits administrateur n
+cessaires.
+Le programme d
+installation ne peut pas mettre 
+ jour Spotify, car les fichiers 
+ remplacer sont en cours d
+utilisation par une autre application. Assurez-vous que Spotify n
+est pas en cours d
+cution, puis r
+essayez.
+Le programme d
+installation ne peut pas installer Spotify, car les fichiers n
+cessaires ne peuvent 
+tre cr
+Le programme d
+installation n
+a pas pu se connecter 
+ Internet. Assurez-vous que votre ordinateur est bien connect
+ Internet et qu
+aucun pare-feu ne bloque la connexion, puis relancez l
+installation.
+Impossible de t
+charger Spotify
+ nouvelle tentative dans %1$d
+seconds
+Impossible de t
+charger Spotify
+ nouvelle tentative dans %1$d
+secondes
+  %d second left
+  %d seconds left
+  about %d minute left
+  about %d minutes left
+A Windows Store installation of Spotify was found in your system. Please uninstall that version first, or update through the Windows Store.
+Aborting...
+Automatic download failed. Press OK to download the installer from your browser.
+Do you want to close Spotify and proceed with the installation?
+Downloading Spotify...
+Error code: 
+Installing Spotify...
+It looks like you have already installed Spotify. Do you want to replace it?
+Please install Spotify using a normal account instead of an Administrator account.
+Spotify Installer
+Spotify could not be started.
+Spotify requires Windows 7 or later. The installer is unable to continue.
+The Spotify installation is already in progress.
+The computer has not enough free memory and disk space. Please close some programs and delete some files from the disk and retry.
+The installation of Spotify is not complete. Do you want to cancel?
+The installer encountered an unknown error.
+The installer is corrupt. Please download it from the web site again and retry.
+The installer is unable to get administrator privileges.
+The installer is unable to install Spotify because the files to be written are in use by another process. Please make sure Spotify is not running and retry.
+The installer is unable to install Spotify because the neccessary files could not be created.
+The installer was unable to connect to the Internet. Please make sure the computer is connected to the Internet and that no firewall is blocking the connection and try again.
+Unable to download Spotify... will try again in %d second
+Unable to download Spotify... will try again in %d seconds
+Project-Id-Version: Spotify 1.0.90.207.gd4a1b644
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2018-09-12 06:03+0000
+PO-Revision-Date: 2018-09-12 06:03+0000
+Last-Translator: Automatically generated
+Language-Team: none
+Language: zh_TW
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=1; plural=0;
+ %1$d 
+ %1$d 
+ Windows Store 
+ Spotify 
+ Windows Store 
+ Spotify 
+ Spotify 
+ Spotify 
+ Spotify
+ Spotify
+Spotify 
+ Spotify
+Spotify 
+ Windows 7 
+Spotify 
+Spotify 
+ Spotify
+ Spotify
+ Spotify
+ Spotify
+ %1$d 
+  %d second left
+  %d seconds left
+  about %d minute left
+  about %d minutes left
+A Windows Store installation of Spotify was found in your system. Please uninstall that version first, or update through the Windows Store.
+Aborting...
+Automatic download failed. Press OK to download the installer from your browser.
+Do you want to close Spotify and proceed with the installation?
+Downloading Spotify...
+Error code: 
+Installing Spotify...
+It looks like you have already installed Spotify. Do you want to replace it?
+Please install Spotify using a normal account instead of an Administrator account.
+Spotify Installer
+Spotify could not be started.
+Spotify requires Windows 7 or later. The installer is unable to continue.
+The Spotify installation is already in progress.
+The computer has not enough free memory and disk space. Please close some programs and delete some files from the disk and retry.
+The installation of Spotify is not complete. Do you want to cancel?
+The installer encountered an unknown error.
+The installer is corrupt. Please download it from the web site again and retry.
+The installer is unable to get administrator privileges.
+The installer is unable to install Spotify because the files to be written are in use by another process. Please make sure Spotify is not running and retry.
+The installer is unable to install Spotify because the neccessary files could not be created.
+The installer was unable to connect to the Internet. Please make sure the computer is connected to the Internet and that no firewall is blocking the connection and try again.
+Unable to download Spotify... will try again in %d second
+Unable to download Spotify... will try again in %d seconds
+Project-Id-Version: Spotify 1.0.90.207.gd4a1b644
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2018-09-12 06:03+0000
+PO-Revision-Date: 2018-09-12 06:03+0000
+Last-Translator: Automatically generated
+Language-Team: none
+Language: el_GR
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=n != 1;
+ %1$d 
+ %1$d 
+ %1$d 
+ %1$d 
+ Spotify 
+ Windows Store 
+ Windows Store.
+ download 
+ download 
+ Spotify 
+ Spotify...
+ Spotify...
+ Spotify. 
+ Spotify 
+ Spotify
+ Spotify.
+ Spotify 
+ Windows 7 
+ Spotify 
+ Spotify 
+ Spotify, 
+ Spotify 
+ Spotify, 
+ download 
+ Spotify... 
+ %1$d 
+ download 
+ Spotify... 
+ %1$d 
+  %d second left
+  %d seconds left
+  about %d minute left
+  about %d minutes left
+A Windows Store installation of Spotify was found in your system. Please uninstall that version first, or update through the Windows Store.
+Aborting...
+Automatic download failed. Press OK to download the installer from your browser.
+Do you want to close Spotify and proceed with the installation?
+Downloading Spotify...
+Error code: 
+Installing Spotify...
+It looks like you have already installed Spotify. Do you want to replace it?
+Please install Spotify using a normal account instead of an Administrator account.
+Spotify Installer
+Spotify could not be started.
+Spotify requires Windows 7 or later. The installer is unable to continue.
+The Spotify installation is already in progress.
+The computer has not enough free memory and disk space. Please close some programs and delete some files from the disk and retry.
+The installation of Spotify is not complete. Do you want to cancel?
+The installer encountered an unknown error.
+The installer is corrupt. Please download it from the web site again and retry.
+The installer is unable to get administrator privileges.
+The installer is unable to install Spotify because the files to be written are in use by another process. Please make sure Spotify is not running and retry.
+The installer is unable to install Spotify because the neccessary files could not be created.
+The installer was unable to connect to the Internet. Please make sure the computer is connected to the Internet and that no firewall is blocking the connection and try again.
+Unable to download Spotify... will try again in %d second
+Unable to download Spotify... will try again in %d seconds
+Project-Id-Version: Spotify 1.0.90.207.gd4a1b644
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2018-09-12 06:03+0000
+PO-Revision-Date: 2018-09-12 06:03+0000
+Last-Translator: Automatically generated
+Language-Team: none
+Language: pt_BR
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=n>1;
+  %1$d segundo restante
+  %1$d segundos restantes
+  aproximadamente %1$d minuto restante
+  aproximadamente %1$d minutos restantes
+Foi encontrada uma instala
+o do Spotify pela Windows Store no seu sistema. Desinstale essa vers
+o primeiro ou baixe a atualiza
+o pela Windows Store.
+Anulando...
+Falha no dowload autom
+tico. Clique em OK para baixar o instalador a partir do navegador.
+Quer fechar o Spotify e continuar a instala
+Baixando o Spotify...
+digo do erro: 
+Instalando o Spotify...
+Parece que voc
+ instalou o Spotify. Quer substitu
+Instale o Spotify usando uma conta normal em vez da conta de administrador.
+Instalador do Spotify
+o foi poss
+vel iniciar o Spotify.
+O Spotify requer o Windows 7 ou posterior. O instalador n
+o pode continuar.
+A instala
+o do Spotify j
+ em andamento.
+O computador n
+o tem mem
+ria e espa
+o em disco suficientes. Feche alguns programas e apague alguns arquivos do disco e tente de novo.
+A instala
+o do Spotify n
+o terminou. Quer cancelar?
+Ocorreu um erro desconhecido no instalador.
+O instalador est
+ corrompido. Baixe-o de novo do site e repita.
+O instalador n
+o consegue obter privil
+gios de administrador.
+O instalador
+pode instalar o Spotify porque os arquivos
+necess
+rios est
+o sendo utilizados por outros processos. Feche o Spotify e tente novamente.
+O instalador n
+o consegue instalar o Spotify porque n
+o foi poss
+vel criar os arquivos necess
+rios. 
+O instalador n
+o conseguiu se conectar com a Internet. Veja se o computador est
+ conectado 
+ Internet e se n
+ um firewall bloqueando a conex
+o. Depois, tente de novo.
+o foi poss
+vel baixar o Spotify... tentando novamente em %1$d segundo
+o foi poss
+vel baixar o Spotify... tentando novamente em %1$dsegundos
+  %d second left
+  %d seconds left
+  about %d minute left
+  about %d minutes left
+A Windows Store installation of Spotify was found in your system. Please uninstall that version first, or update through the Windows Store.
+Aborting...
+Automatic download failed. Press OK to download the installer from your browser.
+Do you want to close Spotify and proceed with the installation?
+Downloading Spotify...
+Error code: 
+Installing Spotify...
+It looks like you have already installed Spotify. Do you want to replace it?
+Please install Spotify using a normal account instead of an Administrator account.
+Spotify Installer
+Spotify could not be started.
+Spotify requires Windows 7 or later. The installer is unable to continue.
+The Spotify installation is already in progress.
+The computer has not enough free memory and disk space. Please close some programs and delete some files from the disk and retry.
+The installation of Spotify is not complete. Do you want to cancel?
+The installer encountered an unknown error.
+The installer is corrupt. Please download it from the web site again and retry.
+The installer is unable to get administrator privileges.
+The installer is unable to install Spotify because the files to be written are in use by another process. Please make sure Spotify is not running and retry.
+The installer is unable to install Spotify because the neccessary files could not be created.
+The installer was unable to connect to the Internet. Please make sure the computer is connected to the Internet and that no firewall is blocking the connection and try again.
+Unable to download Spotify... will try again in %d second
+Unable to download Spotify... will try again in %d seconds
+Project-Id-Version: Spotify 1.0.90.207.gd4a1b644
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2018-09-12 06:03+0000
+PO-Revision-Date: 2018-09-12 06:03+0000
+Last-Translator: Automatically generated
+Language-Team: none
+Language: th_TH
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=1; plural=0;
+ %1$d 
+ %1$d 
+ Spotify 
+ Windows Store 
+ Windows Store
+ Spotify 
+ Spotify...
+ Spotify...
+ Spotify 
+ Spotify 
+ Spotify
+Spotify 
+Spotify 
+ Windows 7 
+ Spotify 
+ Spotify 
+ Spotify 
+ Spotify 
+ Spotify 
+ Spotify... 
+ %1$d 
+  %d second left
+  %d seconds left
+  about %d minute left
+  about %d minutes left
+A Windows Store installation of Spotify was found in your system. Please uninstall that version first, or update through the Windows Store.
+Aborting...
+Automatic download failed. Press OK to download the installer from your browser.
+Do you want to close Spotify and proceed with the installation?
+Downloading Spotify...
+Error code: 
+Installing Spotify...
+It looks like you have already installed Spotify. Do you want to replace it?
+Please install Spotify using a normal account instead of an Administrator account.
+Spotify Installer
+Spotify could not be started.
+Spotify requires Windows 7 or later. The installer is unable to continue.
+The Spotify installation is already in progress.
+The computer has not enough free memory and disk space. Please close some programs and delete some files from the disk and retry.
+The installation of Spotify is not complete. Do you want to cancel?
+The installer encountered an unknown error.
+The installer is corrupt. Please download it from the web site again and retry.
+The installer is unable to get administrator privileges.
+The installer is unable to install Spotify because the files to be written are in use by another process. Please make sure Spotify is not running and retry.
+The installer is unable to install Spotify because the neccessary files could not be created.
+The installer was unable to connect to the Internet. Please make sure the computer is connected to the Internet and that no firewall is blocking the connection and try again.
+Unable to download Spotify... will try again in %d second
+Unable to download Spotify... will try again in %d seconds
+Project-Id-Version: Spotify 1.0.90.207.gd4a1b644
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2018-09-12 06:03+0000
+PO-Revision-Date: 2018-09-12 06:03+0000
+Last-Translator: Automatically generated
+Language-Team: none
+Language: hu_HU
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=n != 1;
+  %1$d m
+sodperc maradt
+  %1$d m
+sodperc maradt
+l %1$d perc maradt
+l %1$d perc maradt
+A Spotify Windows 
+z-telep
+ltuk a rendszerben. El
+tsd el azt a verzi
+t vagy friss
+tsd a Windows 
+zon kereszt
+Megszak
+Az automatikus let
+s sikertelen. Az OK gomb megnyom
+ltsd le a telep
+Szeretn
+rni a Spotifyt, 
+s folytatni a telep
+A Spotify let
+A Spotify telep
+tszik, m
+r telep
+tetted a Spotifyt. Szeretn
+d lecser
+A Spotifyt norm
+kkal telep
+tsd, ne rendszergazdaival.
+A Spotify telep
+A Spotifyt nem lehetett elind
+A Spotify telep
+hez Windows 7 vagy 
+jabb verzi
+ges. A telep
+s nem folytathat
+A Spotify telep
+r folyamatban van.
+p nem rendelkezik elegend
+ szabad mem
+s lemezter
+lettel. Z
+rj be n
+ny programot 
+jlt a merevlemezr
+l, majd pr
+ld meg 
+A Spotify telep
+se nem fejez
+tt be. Meg szeretn
+d szak
+A telep
+program ismeretlen hib
+A telep
+program s
+ltsd le 
+jra a webhelyr
+ld meg ism
+A telep
+program nem kap rendszergazdai jogosults
+gokat.
+A telep
+program nem tudja telep
+teni a Spotifyt, mert egy m
+sik folyamat haszn
+lja azokat a f
+jlokat, amelyeket 
+rnia kellene. Gy
+dj meg arr
+l, hogy a Spotify nem fut, 
+ld meg 
+A telep
+program nem tudja telep
+teni a Spotifyt, mert nem lehet l
+trehozni a sz
+jlokat.
+A telep
+program nem tudott kapcsol
+dni az internetre. Gy
+dj meg arr
+l, hogy a sz
+p csatlakozik az internetre 
+s egyetlen t
+zfal sem blokkolja a kapcsolatot, majd pr
+ld meg 
+Nem lehet let
+lteni a Spotifyt... %1$d m
+sodperc m
+jra megpr
+Nem lehet let
+lteni a Spotifyt... %1$d m
+sodperc m
+jra megpr
+  %d second left
+  %d seconds left
+  about %d minute left
+  about %d minutes left
+A Windows Store installation of Spotify was found in your system. Please uninstall that version first, or update through the Windows Store.
+Aborting...
+Automatic download failed. Press OK to download the installer from your browser.
+Do you want to close Spotify and proceed with the installation?
+Downloading Spotify...
+Error code: 
+Installing Spotify...
+It looks like you have already installed Spotify. Do you want to replace it?
+Please install Spotify using a normal account instead of an Administrator account.
+Spotify Installer
+Spotify could not be started.
+Spotify requires Windows 7 or later. The installer is unable to continue.
+The Spotify installation is already in progress.
+The computer has not enough free memory and disk space. Please close some programs and delete some files from the disk and retry.
+The installation of Spotify is not complete. Do you want to cancel?
+The installer encountered an unknown error.
+The installer is corrupt. Please download it from the web site again and retry.
+The installer is unable to get administrator privileges.
+The installer is unable to install Spotify because the files to be written are in use by another process. Please make sure Spotify is not running and retry.
+The installer is unable to install Spotify because the neccessary files could not be created.
+The installer was unable to connect to the Internet. Please make sure the computer is connected to the Internet and that no firewall is blocking the connection and try again.
+Unable to download Spotify... will try again in %d second
+Unable to download Spotify... will try again in %d seconds
+Project-Id-Version: Spotify 1.1.2.78.g639d9717
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2019-02-19 18:04+0000
+PO-Revision-Date: 2019-02-19 18:04+0000
+Last-Translator: Automatically generated
+Language-Team: none
+Language: ar
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=6; plural= n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;
+ %1$d 
+ %1$d 
+ %1$d 
+ %1$d 
+ %1$d 
+ %1$d 
+ %1$d 
+ %1$d 
+ Windows 
+ Spotify 
+ Windows.
+ Spotify 
+ Spotify ...
+ Spotify
+ Spotify. 
+ Spotify 
+ Spotify
+ Spotify.
+ Spotify 
+ Windows 7 
+ Spotify 
+ Spotify . 
+ Spotify 
+ Spotify 
+ Spotify 
+ Spotify... 
+ %1$d 
+ Spotify... 
+ Spotify... 
+ Spotify... 
+ %1$d 
+ Spotify... 
+ %1$d 
+ Spotify... 
+ %1$d 
+  %d second left
+  %d seconds left
+  about %d minute left
+  about %d minutes left
+A Windows Store installation of Spotify was found in your system. Please uninstall that version first, or update through the Windows Store.
+Aborting...
+Automatic download failed. Press OK to download the installer from your browser.
+Do you want to close Spotify and proceed with the installation?
+Downloading Spotify...
+Error code: 
+Installing Spotify...
+It looks like you have already installed Spotify. Do you want to replace it?
+Please install Spotify using a normal account instead of an Administrator account.
+Spotify Installer
+Spotify could not be started.
+Spotify requires Windows 7 or later. The installer is unable to continue.
+The Spotify installation is already in progress.
+The computer has not enough free memory and disk space. Please close some programs and delete some files from the disk and retry.
+The installation of Spotify is not complete. Do you want to cancel?
+The installer encountered an unknown error.
+The installer is corrupt. Please download it from the web site again and retry.
+The installer is unable to get administrator privileges.
+The installer is unable to install Spotify because the files to be written are in use by another process. Please make sure Spotify is not running and retry.
+The installer is unable to install Spotify because the neccessary files could not be created.
+The installer was unable to connect to the Internet. Please make sure the computer is connected to the Internet and that no firewall is blocking the connection and try again.
+Unable to download Spotify... will try again in %d second
+Unable to download Spotify... will try again in %d seconds
+Project-Id-Version: Spotify 1.0.90.207.gd4a1b644
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2018-09-12 06:03+0000
+PO-Revision-Date: 2018-09-12 06:03+0000
+Last-Translator: Automatically generated
+Language-Team: none
+Language: it_IT
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=n != 1;
+  {0} secondo rimanente
+  %1$d secondi rimanenti
+  circa {0} minuto rimanente
+  circa %1$d minuti rimanenti
+Nel sistema 
+ stata rilevata un'installazione di Spotify da Windows Store. Disinstalla prima questa versione, oppure aggiorna l'app tramite Windows Store.
+Interruzione in corso...
+Download automatico non riuscito. Premi OK per scaricare il programma di installazione tramite il browser.
+Chiudere Spotify e procedere con l'installazione?
+Download di Spotify in corso...
+Codice di errore: 
+Installazione di Spotify in corso...
+Spotify 
+ installato. Sostituirlo?
+Installa Spotify utilizzando un account normale e non un account amministratore.
+Programma di installazione di Spotify
+Impossibile avviare Spotify.
+Spotify richiede Windows 7 o versioni successive. Impossibile proseguire l'installazione.
+Installazione di Spotify gi
+ in corso.
+Il computer non ha abbastanza memoria libera e spazio disponibile su disco. Chiudi alcuni programmi, elimina alcuni file e riprova.
+L'installazione di Spotify non 
+ stata completata. Interromperla?
+Errore sconosciuto del programma di installazione.
+Programma di installazione danneggiato. Scaricalo di nuovo dal sito Web e riprova.
+Il programma di installazione non 
+ in grado di ottenere i privilegi di amministratore.
+Il programma di installazione non 
+ in grado di installare Spotify perch
+ i file in cui deve scrivere sono utilizzati da un altro processo. Accertati che Spotify non sia in funzione e riprova.
+Il programma di installazione non 
+ in grado di installare Spotify in quando non 
+ possibile creare i file necessari.
+Il programma di installazione non 
+ stato in grado di connettersi a Internet. Accertati che il computer sia connesso a Internet e che la connessione non sia bloccata da firewall, quindi riprova.
+Impossibile scaricare Spotify. Nuovo tentativo fra {0} secondo...
+Impossibile scaricare Spotify. Nuovo tentativo fra %1$d secondi...
+  %d second left
+  %d seconds left
+  about %d minute left
+  about %d minutes left
+A Windows Store installation of Spotify was found in your system. Please uninstall that version first, or update through the Windows Store.
+Aborting...
+Automatic download failed. Press OK to download the installer from your browser.
+Do you want to close Spotify and proceed with the installation?
+Downloading Spotify...
+Error code: 
+Installing Spotify...
+It looks like you have already installed Spotify. Do you want to replace it?
+Please install Spotify using a normal account instead of an Administrator account.
+Spotify Installer
+Spotify could not be started.
+Spotify requires Windows 7 or later. The installer is unable to continue.
+The Spotify installation is already in progress.
+The computer has not enough free memory and disk space. Please close some programs and delete some files from the disk and retry.
+The installation of Spotify is not complete. Do you want to cancel?
+The installer encountered an unknown error.
+The installer is corrupt. Please download it from the web site again and retry.
+The installer is unable to get administrator privileges.
+The installer is unable to install Spotify because the files to be written are in use by another process. Please make sure Spotify is not running and retry.
+The installer is unable to install Spotify because the neccessary files could not be created.
+The installer was unable to connect to the Internet. Please make sure the computer is connected to the Internet and that no firewall is blocking the connection and try again.
+Unable to download Spotify... will try again in %d second
+Unable to download Spotify... will try again in %d seconds
+Project-Id-Version: Spotify 1.0.90.207.gd4a1b644
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2018-09-12 06:03+0000
+PO-Revision-Date: 2018-09-12 06:03+0000
+Last-Translator: Automatically generated
+Language-Team: none
+Language: es_LA
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=n != 1;
+  falta %1$d segundo
+  faltan %1$d segundos
+  falta aproximadamente %1$d minuto
+  faltan aproximadamente %1$d minutos
+Hay una instalaci
+n de Spotify realizada a trav
+s de Windows Store en tu sistema. Desinstala esa versi
+n o actualiza la aplicaci
+n directamente desde Windows Store.
+Operaci
+n cancelada...
+Error en la descarga autom
+tica. Presiona OK para descargar el instalador desde tu navegador.
+Quieres cerrar Spotify y proceder a su instalaci
+Descargando Spotify...
+digo de error: 
+Instalando Spotify...
+Parece que ya has instalado Spotify. 
+Deseas reemplazarlo?
+Por favor, instala Spotify usando una cuenta normal en lugar de una cuenta de Administrador
+Programa de instalaci
+n de Spotify
+No se puede iniciar Spotify
+Spotify requiere Windows 7 o posterior. No se puede continuar con la instalaci
+La instalaci
+n de Spotify ya est
+ en proceso
+Este equipo no tiene suficiente memoria y espacio en el disco. Por favor, cierre programas, borre algunos archivos del disco e int
+ntelo de nuevo.
+La instalaci
+n de Spotify no est
+ completa. 
+Deseas cancelar?
+El instalador encontr
+ un error desconocido.
+El instalador est
+ado. Por favor, desc
+rgalo desde la p
+gina web e int
+ntalo de nuevo.
+El instalador no puede obtener privilegios de administrador.
+El instalador de Spotify no puede terminar el proceso porque los archivos necesarios ya est
+n en uso. Por favor, aseg
+rate de que Spotify no est
+ siendo ejecutado e int
+ntalo de nuevo.
+El instalador de Spotify no puede terminar el proceso porque los archivos necesarios no fueron creados.
+El instalador no puede conectarse a Internet. Por favor, comprueba que la conexi
+n de tu equipo sea correcta, que el firewall no est
+ bloqueando la conexi
+n y vuelve a intentarlo.
+Imposible descargar Spotify... nuevo intento en %1$d segundo
+Imposible descargar Spotify... nuevo intento en %1$d segundos
+  %d second left
+  %d seconds left
+  about %d minute left
+  about %d minutes left
+A Windows Store installation of Spotify was found in your system. Please uninstall that version first, or update through the Windows Store.
+Aborting...
+Automatic download failed. Press OK to download the installer from your browser.
+Do you want to close Spotify and proceed with the installation?
+Downloading Spotify...
+Error code: 
+Installing Spotify...
+It looks like you have already installed Spotify. Do you want to replace it?
+Please install Spotify using a normal account instead of an Administrator account.
+Spotify Installer
+Spotify could not be started.
+Spotify requires Windows 7 or later. The installer is unable to continue.
+The Spotify installation is already in progress.
+The computer has not enough free memory and disk space. Please close some programs and delete some files from the disk and retry.
+The installation of Spotify is not complete. Do you want to cancel?
+The installer encountered an unknown error.
+The installer is corrupt. Please download it from the web site again and retry.
+The installer is unable to get administrator privileges.
+The installer is unable to install Spotify because the files to be written are in use by another process. Please make sure Spotify is not running and retry.
+The installer is unable to install Spotify because the neccessary files could not be created.
+The installer was unable to connect to the Internet. Please make sure the computer is connected to the Internet and that no firewall is blocking the connection and try again.
+Unable to download Spotify... will try again in %d second
+Unable to download Spotify... will try again in %d seconds
+Project-Id-Version: Spotify 1.0.90.207.gd4a1b644
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2018-09-12 06:03+0000
+PO-Revision-Date: 2018-09-12 06:03+0000
+Last-Translator: Automatically generated
+Language-Team: none
+Language: ms_MY
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=1; plural=0;
+  %1$d saat lagi
+  kira-kira %1$d minit lagi
+Satu pemasangan Windows Store daripada Spotify telah ditemui di dalam sistem anda. Sila keluarkan dahulu pemasangan versi yang pertama, atau kemas kini melalui Windows Store.
+Menghentikan...
+Muat turun automatik gagal. Tekan OK untuk memuat turun pemasang daripada pelayar anda.
+Anda mahu menutup Spotify dan meneruskan dengan pemasangan?
+Memuat turun Spotify...
+Kod ralat: 
+Memasang Spotify...
+Kelihatan seperti anda sudah memasang Spotify. Anda mahu menggantikannya?
+Sila pasang Spotify menggunakan akaun biasa dan bukannya akaun Pentadbir.
+Pemasang Spotify
+Spotify tidak dapat dimulakan.
+Spotify memerlukan Windows 7 atau yang lebih baharu. Pemasang tidak berupaya untuk meneruskannya.
+Pemasangan Spotify sedang berjalan.
+Komputer tiada memori dan ruang cakera kosong yang mencukupi. Sila tutup beberapa program dan padam beberapa fail dari cakera dan cuba lagi.
+Pemasangan Spotify belum selesai. Anda mahu batalkannya?
+Pemasang menghadapi ralat yang tidak diketahui.
+Pemasang rosak. Sila muat turun dari laman web sekali lagi dan cuba lagi.
+Pemasang gagal mendapat hak keistimewaan pentadbir.
+Pemasang tidak dapat memasang Spotify kerana fail yang hendak ditulis sedang digunakan oleh proses lain. Sila pastikan Spotify tidak digunakan sekarang dan cuba lagi.
+Pemasang tidak dapat memasang Spotify kerana fail yang diperlukan tidak boleh dicipta. 
+Pemasang tidak dapat menyambung ke Internet. Sila pastikan komputer disambungkan ke Internet dan tiada tembok api yang menghalang sambungan dan cuba lagi.
+Tidak dapat memuat turun Spotify... akan cuba lagi dalam %1$d saat
+  %d second left
+  %d seconds left
+  about %d minute left
+  about %d minutes left
+A Windows Store installation of Spotify was found in your system. Please uninstall that version first, or update through the Windows Store.
+Aborting...
+Automatic download failed. Press OK to download the installer from your browser.
+Do you want to close Spotify and proceed with the installation?
+Downloading Spotify...
+Error code: 
+Installing Spotify...
+It looks like you have already installed Spotify. Do you want to replace it?
+Please install Spotify using a normal account instead of an Administrator account.
+Spotify Installer
+Spotify could not be started.
+Spotify requires Windows 7 or later. The installer is unable to continue.
+The Spotify installation is already in progress.
+The computer has not enough free memory and disk space. Please close some programs and delete some files from the disk and retry.
+The installation of Spotify is not complete. Do you want to cancel?
+The installer encountered an unknown error.
+The installer is corrupt. Please download it from the web site again and retry.
+The installer is unable to get administrator privileges.
+The installer is unable to install Spotify because the files to be written are in use by another process. Please make sure Spotify is not running and retry.
+The installer is unable to install Spotify because the neccessary files could not be created.
+The installer was unable to connect to the Internet. Please make sure the computer is connected to the Internet and that no firewall is blocking the connection and try again.
+Unable to download Spotify... will try again in %d second
+Unable to download Spotify... will try again in %d seconds
+Project-Id-Version: Spotify 1.0.90.207.gd4a1b644
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2018-09-12 06:03+0000
+PO-Revision-Date: 2018-09-12 06:03+0000
+Last-Translator: Automatically generated
+Language-Team: none
+Language: fi_FI
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=n != 1;
+  %1$d sekunti j
+  %1$d sekuntia j
+  noin %1$d minuutti j
+  noin %1$d minuuttia j
+rjestelm
+si on Windows-kaupan versio Spotify-sovelluksesta. Poista kyseinen versio tai p
+ sovellus Windows-kaupan kautta.
+Keskeytet
+Automaattinen lataus ep
+onnistui. Lataa asennusohjelma selaimestasi painamalla OK.
+Haluatko sulkea Spotifyn ja jatkaa asennusta?
+Ladataan Spotify
+Virhekoodi: 
+Asennetaan Spotify
+Olet jo asentanut Spotifyn. Haluatko korvata sen?
+Asenna Spotify k
+tiliss
+rjestelm
+nvalvojatilin sijaan.
+Spotify-asennusohjelma Installer
+Spotifyta ei voitu k
+ynnist
+Spotify vaatii Windows
+rjestelm
+n tai sit
+ uudemman. Asennusohjelma ei voi jatkaa.
+Spotifyta asennetaan parhaillaan.
+Tietokoneessa ei ole tarpeeksi vapaata muistia ja levytilaa. Sulje ohjelmia, poista tiedostoja levylt
+ ja yrit
+ sitten uudelleen.
+Spotifyn asennus ei ole valmis. Haluatko peruuttaa?
+Asennusohjelma havaitsi tuntemattoman virheen.
+Asennusohjelma on viallinen. Lataa asennusohjelma verkkosivustosta ja yrit
+ uudelleen.
+Asennusohjelma ei voi hakea j
+rjestelm
+nvalvojan oikeuksia.
+Asennusohjelma ei voi asentaa Spotifyta, koska kirjoitettavia tiedostoja k
+n toisessa prosessissa. Varmista, ett
+ Spotify ei ole k
+ynniss
+, ja yrit
+ uudelleen.
+Asennusohjelma ei voi asentaa Spotifyta, koska tarvittavia tiedostoja ei voitu luoda.
+Asennusohjelma ei voinut luoda internetyhteytt
+. Varmista, ett
+ tietokoneesta on yhteys internetiin ja ett
+ palomuuri ei est
+ yhteytt
+. Yrit
+ sitten uudelleen.
+Spotifyta ei voi ladata
+ Yritet
+n uudelleen %1$d sekunnin kuluttua
+Spotifyta ei voi ladata
+ Yritet
+n uudelleen %1$d sekunnin kuluttua
+  %d second left
+  %d seconds left
+  about %d minute left
+  about %d minutes left
+A Windows Store installation of Spotify was found in your system. Please uninstall that version first, or update through the Windows Store.
+Aborting...
+Automatic download failed. Press OK to download the installer from your browser.
+Do you want to close Spotify and proceed with the installation?
+Downloading Spotify...
+Error code: 
+Installing Spotify...
+It looks like you have already installed Spotify. Do you want to replace it?
+Please install Spotify using a normal account instead of an Administrator account.
+Spotify Installer
+Spotify could not be started.
+Spotify requires Windows 7 or later. The installer is unable to continue.
+The Spotify installation is already in progress.
+The computer has not enough free memory and disk space. Please close some programs and delete some files from the disk and retry.
+The installation of Spotify is not complete. Do you want to cancel?
+The installer encountered an unknown error.
+The installer is corrupt. Please download it from the web site again and retry.
+The installer is unable to get administrator privileges.
+The installer is unable to install Spotify because the files to be written are in use by another process. Please make sure Spotify is not running and retry.
+The installer is unable to install Spotify because the neccessary files could not be created.
+The installer was unable to connect to the Internet. Please make sure the computer is connected to the Internet and that no firewall is blocking the connection and try again.
+Unable to download Spotify... will try again in %d second
+Unable to download Spotify... will try again in %d seconds
+Project-Id-Version: Spotify 1.0.90.207.gd4a1b644
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2018-09-12 06:03+0000
+PO-Revision-Date: 2018-09-12 06:03+0000
+Last-Translator: Automatically generated
+Language-Team: none
+Language: vi_VN
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=1; plural=0;
+i %1$d gi
+ng %1$d ph
+t Windows Store c
+a Spotify 
+y trong h
+t, vui l
+t qua Windows Store.
+ng. Nh
+nh duy
+ng Spotify v
+ng Spotify...
+t Spotify...
+t Spotify r
+n thay th
+t Spotify thay v
+t Spotify
+Spotify kh
+Spotify y
+ Windows 7 tr
+t Spotify 
+ng gian l
+. Vui l
+t Spotify ch
+. Vui l
+ trang web v
+t Spotify do c
+c ghi 
+ng trong m
+t quy tr
+c. Vui l
+o Spotify 
+ang kh
+t Spotify do kh
+i Internet. Vui l
+i Internet v
+ng Spotify... s
+i trong %1$d gi
+  %d second left
+  %d seconds left
+  about %d minute left
+  about %d minutes left
+A Windows Store installation of Spotify was found in your system. Please uninstall that version first, or update through the Windows Store.
+Aborting...
+Automatic download failed. Press OK to download the installer from your browser.
+Do you want to close Spotify and proceed with the installation?
+Downloading Spotify...
+Error code: 
+Installing Spotify...
+It looks like you have already installed Spotify. Do you want to replace it?
+Please install Spotify using a normal account instead of an Administrator account.
+Spotify Installer
+Spotify could not be started.
+Spotify requires Windows 7 or later. The installer is unable to continue.
+The Spotify installation is already in progress.
+The computer has not enough free memory and disk space. Please close some programs and delete some files from the disk and retry.
+The installation of Spotify is not complete. Do you want to cancel?
+The installer encountered an unknown error.
+The installer is corrupt. Please download it from the web site again and retry.
+The installer is unable to get administrator privileges.
+The installer is unable to install Spotify because the files to be written are in use by another process. Please make sure Spotify is not running and retry.
+The installer is unable to install Spotify because the neccessary files could not be created.
+The installer was unable to connect to the Internet. Please make sure the computer is connected to the Internet and that no firewall is blocking the connection and try again.
+Unable to download Spotify... will try again in %d second
+Unable to download Spotify... will try again in %d seconds
+Project-Id-Version: Spotify 1.0.90.207.gd4a1b644
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2018-09-12 06:03+0000
+PO-Revision-Date: 2018-09-12 06:03+0000
+Last-Translator: Automatically generated
+Language-Team: none
+Language: de_DE
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=n != 1;
+  noch %1$d Sekunde
+  noch %1$d Sekunden
+  noch ungef
+hr %1$d Minute
+  noch ungef
+hr %1$d Minuten
+Wir haben eine 
+ber den Windows Store installierte Version von Spotify auf deinem System gefunden. Deinstalliere diese Version zun
+chst oder f
+hre das Update 
+ber den Windows Store durch.
+Abbrechen...
+Automatischer Download fehlgeschlagen. Klicke auf 
+, um das Installationsprogramm 
+ber deinen Browser herunterzuladen.
+chstest du Spotify schlie
+en und mit der Installation fortfahren?
+Spotify wird heruntergeladen
+Error code: 
+Spotify installieren...
+Spotify scheint bereits auf deinem Computer installiert zu sein. M
+chtest du trotzdem fortfahren?
+Bitte installiere Spotify mit einem normalen Account anstatt dem Administrator-Account
+Spotify Installer
+Spotify konnte nicht gestartet werden
+r Spotify ben
+tigst du Windows
+7 oder eine neuere Version.  Die Installation kann nicht fortgesetzt werden.
+Spotify wird bereits installiert
+Es steht nicht genug freier Speicherplatz zur Verf
+gung. Bitte schlie
+e einige Programme und l
+sche einige Dateien bevor du es erneut versuchst.
+Spotify wurde nicht fertig installiert. M
+chtest du abbrechen?
+Ein unbekannter Fehler ist aufgetreten
+digter Installer. Bitte lade ihn erneut von der Website herunter und versuche es noch einmal.
+Der Installer kann nicht mit ausreichenden Privilegien ausgestattet werden
+Spotify kann nicht installiert werden, da die zu 
+berschreibenden Dateien derzeit von einem anderen Prozess verwendet werden. Stelle sicher, dass Spotify nicht bereits ausgef
+hrt wird, und versuche es erneut.
+Spotify konnte nicht installiert werden da die notwendigen Dateien nicht erstellt werden konnten
+Der Insteller konnte nicht mit dem Internet verbunden werden. Stelle sicher dass der Computer mit dem Internet verbunden ist und dass die Firewall die Verbindung nicht blockiert bevor du es erneut versuchst.
+Spotify konnte nicht heruntergeladen werden. In %1$d Sekunde wird ein erneuter Versuch unternommen.
+Spotify konnte nicht heruntergeladen werden. In %1$d Sekunden wird ein erneuter Versuch unternommen.
+  %d second left
+  %d seconds left
+  about %d minute left
+  about %d minutes left
+A Windows Store installation of Spotify was found in your system. Please uninstall that version first, or update through the Windows Store.
+Aborting...
+Automatic download failed. Press OK to download the installer from your browser.
+Do you want to close Spotify and proceed with the installation?
+Downloading Spotify...
+Error code: 
+Installing Spotify...
+It looks like you have already installed Spotify. Do you want to replace it?
+Please install Spotify using a normal account instead of an Administrator account.
