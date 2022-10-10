@@ -1,0 +1,227 @@
+!This program cannot be run in DOS mode.
+.adata
+Q.q^M(r
+"ExD?Tj
+0RM/9odk{
+)k(Yt!?N%
+g(&NxQ
+VVNiBn
+8^W]!`<5
+.lUBx?
+\}D&IZ$
+T}f+^rom
+9k>3Ko
+:VUhLt
+kernel32.dll
+q=7_i.
+Jy"5VE4
+D tu~~
+Dw&Yrx
+vl4haPN
+63|84"
+k{HygO
+x}XTCo
+y=1VNA0
+/csI4f
+v":9Bs
+kernel32.dll
+GetProcAddress
+GetModuleHandleA
+LoadLibraryA
+oleaut32.dll
+kernel32.dll
+VariantChangeTypeEx
+RaiseException
+Rt$A?
+!H&1<B
+XZ}l|y
+&~W?$J
+RE\Bor
+UMaskV
+uXez$Y
+X#1L]'!
+Tx^B 4
+Por:ti
+ghz(c)
+7W0`yw
+" XJ@N
+", 8@A
+jX{O%(l
+*"^Yh1
+!TDM-B
+a=2\lf
+kern0l32
+LongPa
+QH}B^D
+0)\~Y{
+d-4|s=
+prlH9X0d"`#\
+`4"0#,
+Memory:
+EDivB(
+j~k@,LB
+DpHtk;9l
+BFaHod
+c[D#2m)
+=K{cXu
+).c?'a
+QJz};oi
+,(t$N@
+ !Rec_
+L'<TQ$
+mVRfz
+Nz1=Jt
+Y?={W5p
+m0),Wt
+'Y$aCl
+B'-"}N
+E`f6u)
+omIniF
+jZ^S_0V
+ansd@r
+p& $i S
+q'YQTh
+@4vNX@*
+#/P!~f
+BCDEFGH8
+JKLMNOP.Q
+yz0123
+u_~QX?m
+h0 %2{
+HJ=|n_
+C?PY$]
+t4!8;UQ
+@_*eoL
+@r< N,
+vrn=;L
+a'tc.|-
+o?kb}xW
+lo#pyt
+.Cache 
+Obta1{
+T r4B
+ <7ACY
+256ToM
+Int: L8
+?S r}9x<c
+sk#C}:
+M\"Hd$
+VBC`~%
+egist\
+GCOpot
+Hbp\^RaIrX
+_K{>}B
+Bxy4 v,z
+10:Bhm
+&'00@K
+uV68J
+ s3w%rq)
+PActiNv
+`I|#uZ
+u(IfFN
+\Z$M;EX
+t*#@q1B~x<
+fes8-al
+9rhHE%
+(R) 9or
+ouwi q\W
+ansm;etg
+RX1u<Ix
+adp*H$
+Z_Yz[PX
+u7r2yS
+~0,ht
+|$WN42x
+'RDC45
+(8P'QR
+GgL0"tM
+kbq%eip
+LO Us>
+.With[
+fqrm@`Vg
+uEip@)%
+ZtCh#6
+{s|J?.
+ H@ce9fA
+~,H0G8:`5
+trgpC;
+uzgi{pU
+'R[Q$&
+sN3 {H
+\3'sSY
+&"P( U
+U/&u7{
+^ Y\Ps
+T'he~@
+SI"`J_
+qCan-'t
+f~HRq%
+?RB>@=
+${)Tk9
+:CK=u)
+jlQ]Z@^
+VskHM7
+(h=V,.
+>RHAxL
+R}8|^a
+K>`+pB
+3l]| tL
+!)Q5r0
+xC0>RQ
+%@sFNJ
+@A/!>[
+ !tGPb
+Runtim
+~~(&0"
+wx(zv 
+ dsi.Xkl
+"05p`)
+00"4NZ
+Cri^Gca
+]EBoxSH
+IsB9"R
+L'PGTgb
+B'JGRgZ
+z/|P~X
+V\Gdgv
+'G0g6
+\cGrgy
+(0rBtl
+!5r't/vR
+#16AX9
+x"z*L2
+0'4GDgd
+' G$g(
+T'8<t{
+r=tAvExI
+zM|Q~U
+@<T: :
+VLV]3[
+rTtX]`a
+f:q;{<
+wSt[He
+jr/tObq?
+V|i~{]
+f2jCg3k
+R]@?/C
+D|r9t=]
+U4^'iD
+wI}\?r
+~:+;_<c}=
+>k?o@s'wa
+'0Ah8c(
+<69_H-
+FK[c0"
+4r#t`]B
+/?r;^*
+*,n/,=
+[^YjXbH
+e%P`=[B
+@8zyjS
+s5E<uj
+CfM)?ag
+?brmuhSQo
+QXN|D(
+Q%]"k7
+Gor{\\No:`3
+3WqwF

