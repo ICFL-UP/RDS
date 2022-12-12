@@ -2,259 +2,261 @@
 BAG-OF-WORDS:
               precision    recall  f1-score   support
 
-      Benign     1.0000    0.9515    0.9752      2167
-   Malicious     0.9569    1.0000    0.9780      2333
+      Benign     1.0000    0.9331    0.9654       359
+   Malicious     0.9420    1.0000    0.9701       390
 
-    accuracy                         0.9767      4500
-   macro avg     0.9785    0.9758    0.9766      4500
-weighted avg     0.9777    0.9767    0.9766      4500
+    accuracy                         0.9680       749
+   macro avg     0.9710    0.9666    0.9678       749
+weighted avg     0.9698    0.9680    0.9679       749
 
-Average Accuracy: 97.66666666666667
+Average Accuracy: 484.0
 Best: 100.0
-Worst: 94.66666666666667
+Worst: 92.0
 
-Average F1: 97.79483868957064
+Average F1: 297.8494623655914
 Best: 100.0
-Worst: 94.8051948051948
+Worst: 0.0
 
-Average Precision: 95.70464746748125
+Average Precision: 295.7894736842105
 Best: 100.0
-Worst: 90.12345679012346
-True Positive: 2333 True Negative: 2062 False positive: 105 False negative: 0
+Worst: 0.0
+True Positive: 390 True Negative: 335 False positive: 24 False negative: 0
 
 TF-IDF:
               precision    recall  f1-score   support
 
-      Benign     1.0000    0.9325    0.9651      2192
-   Malicious     0.9397    1.0000    0.9689      2308
+      Benign     1.0000    0.9304    0.9639       359
+   Malicious     0.9398    1.0000    0.9689       390
 
-    accuracy                         0.9671      4500
-   macro avg     0.9699    0.9662    0.9670      4500
-weighted avg     0.9691    0.9671    0.9670      4500
+    accuracy                         0.9666       749
+   macro avg     0.9699    0.9652    0.9664       749
+weighted avg     0.9686    0.9666    0.9665       749
 
-Average Accuracy: 96.71111111111111
-Best: 98.66666666666667
-Worst: 93.33333333333333
+Average Accuracy: 483.33333333333337
+Best: 100.0
+Worst: 92.0
 
-Average F1: 96.8769828573573
-Best: 98.79518072289156
-Worst: 93.24324324324324
+Average F1: 297.8494623655914
+Best: 100.0
+Worst: 0.0
 
-Average Precision: 93.97524515395607
-Best: 97.61904761904762
-Worst: 87.34177215189874
-True Positive: 2308 True Negative: 2044 False positive: 148 False negative: 0
+Average Precision: 295.7894736842105
+Best: 100.0
+Worst: 0.0
+True Positive: 390 True Negative: 334 False positive: 25 False negative: 0
 
 Doc2Vec:
               precision    recall  f1-score   support
 
-      Benign     0.8684    0.9332    0.8996      2171
-   Malicious     0.9331    0.8682    0.8995      2329
+      Benign     0.7613    0.8886    0.8201       359
+   Malicious     0.8788    0.7436    0.8056       390
 
-    accuracy                         0.8996      4500
-   macro avg     0.9007    0.9007    0.8996      4500
-weighted avg     0.9019    0.8996    0.8996      4500
+    accuracy                         0.8131       749
+   macro avg     0.8201    0.8161    0.8128       749
+weighted avg     0.8225    0.8131    0.8125       749
 
-Average Accuracy: 89.95555555555556
-Best: 96.66666666666667
-Worst: 86.0
+Average Accuracy: 406.4519015659955
+Best: 90.0
+Worst: 67.78523489932886
 
-Average F1: 89.90531431578573
-Best: 96.81528662420382
-Worst: 86.27450980392157
+Average F1: 256.3984555984556
+Best: 91.42857142857143
+Worst: 0.0
 
-Average Precision: 93.36779815191984
-Best: 97.43589743589743
-Worst: 86.48648648648648
-True Positive: 2022 True Negative: 2026 False positive: 145 False negative: 307
+Average Precision: 295.23809523809524
+Best: 100.0
+Worst: 0.0
+True Positive: 290 True Negative: 319 False positive: 40 False negative: 100
 
 ------------------------------------------------------------------------------------------------------------------------
  =====> ADABOOST <=====
 BAG-OF-WORDS:
               precision    recall  f1-score   support
 
-      Benign     0.9835    0.9649    0.9741      2167
-   Malicious     0.9680    0.9850    0.9764      2333
+      Benign     0.9579    0.9499    0.9538       359
+   Malicious     0.9542    0.9615    0.9579       390
 
-    accuracy                         0.9753      4500
-   macro avg     0.9758    0.9750    0.9753      4500
-weighted avg     0.9755    0.9753    0.9753      4500
+    accuracy                         0.9559       749
+   macro avg     0.9560    0.9557    0.9559       749
+weighted avg     0.9560    0.9559    0.9559       749
 
-Average Accuracy: 97.53333333333335
+Average Accuracy: 477.9821029082774
+Best: 97.31543624161074
+Worst: 94.0
+
+Average F1: 292.45015850560367
+Best: 98.63945578231292
+Worst: 0.0
+
+Average Precision: 297.7011494252873
 Best: 100.0
-Worst: 94.66666666666667
-
-Average F1: 97.62860317533264
-Best: 100.0
-Worst: 94.73684210526315
-
-Average Precision: 96.79834438973315
-Best: 100.0
-Worst: 91.13924050632912
-True Positive: 2298 True Negative: 2091 False positive: 76 False negative: 35
+Worst: 0.0
+True Positive: 375 True Negative: 341 False positive: 18 False negative: 15
 
 TF-IDF:
               precision    recall  f1-score   support
 
-      Benign     0.9860    0.9724    0.9792      2175
-   Malicious     0.9745    0.9871    0.9808      2325
+      Benign     0.9576    0.9443    0.9509       359
+   Malicious     0.9494    0.9615    0.9554       390
 
-    accuracy                         0.9800      4500
-   macro avg     0.9803    0.9798    0.9800      4500
-weighted avg     0.9801    0.9800    0.9800      4500
+    accuracy                         0.9533       749
+   macro avg     0.9535    0.9529    0.9532       749
+weighted avg     0.9533    0.9533    0.9533       749
 
-Average Accuracy: 98.0
+Average Accuracy: 476.61297539149894
+Best: 98.0
+Worst: 91.94630872483222
+
+Average F1: 293.1724731724732
+Best: 98.98989898989899
+Worst: 0.0
+
+Average Precision: 296.8085106382979
 Best: 100.0
-Worst: 96.66666666666667
-
-Average F1: 98.06122467192738
-Best: 100.0
-Worst: 96.35036496350364
-
-Average Precision: 97.43420926702315
-Best: 100.0
-Worst: 93.75
-True Positive: 2295 True Negative: 2115 False positive: 60 False negative: 30
+Worst: 0.0
+True Positive: 375 True Negative: 339 False positive: 20 False negative: 15
 
 Doc2Vec:
-              precision    recall  f1-score   support
+               precision    recall  f1-score   support
 
-      Benign     0.8669    0.8727    0.8698      2082
-   Malicious     0.8898    0.8846    0.8872      2418
+      Benign     0.8063    0.8579    0.8313       359
+   Malicious     0.8610    0.8103    0.8349       390
 
-    accuracy                         0.8791      4500
-   macro avg     0.8783    0.8787    0.8785      4500
-weighted avg     0.8792    0.8791    0.8791      4500
+    accuracy                         0.8331       749
+   macro avg     0.8337    0.8341    0.8331       749
+weighted avg     0.8348    0.8331    0.8332       749
 
-Average Accuracy: 87.91111111111111
-Best: 94.0
-Worst: 82.0
+Average Accuracy: 416.55033557046977
+Best: 90.66666666666666
+Worst: 74.0
 
-Average F1: 88.68629254047653
-Best: 94.40993788819875
-Worst: 84.02366863905326
+Average F1: 267.63347919563023
+Best: 92.13483146067416
+Worst: 0.0
 
-Average Precision: 88.98874565717138
-Best: 95.0
-Worst: 81.60919540229885
-True Positive: 2139 True Negative: 1817 False positive: 265 False negative: 279
+Average Precision: 294.2528735632184
+Best: 100.0
+Worst: 0.0
+True Positive: 316 True Negative: 308 False positive: 51 False negative: 74
+
+
 ------------------------------------------------------------------------------------------------------------------------
  =====> SVM <=====
-Bag-of-Words:
               precision    recall  f1-score   support
 
-      Benign     0.9576    0.9453    0.9514      2176
-   Malicious     0.9494    0.9608    0.9551      2324
+      Benign     0.9282    0.8997    0.9137       359
+   Malicious     0.9102    0.9359    0.9229       390
 
-    accuracy                         0.9533      4500
-   macro avg     0.9535    0.9531    0.9533      4500
-weighted avg     0.9534    0.9533    0.9533      4500
+    accuracy                         0.9186       749
+   macro avg     0.9192    0.9178    0.9183       749
+weighted avg     0.9188    0.9186    0.9185       749
 
-Average Accuracy: 95.33333333333337
-Best: 99.33333333333333
-Worst: 88.66666666666667
+Average Accuracy: 459.3109619686801
+Best: 96.66666666666667
+Worst: 87.33333333333333
 
-Average F1: 95.44410385803361
-Best: 99.40119760479043
-Worst: 89.57055214723927
+Average F1: 288.82924681936015
+Best: 98.29351535836179
+Worst: 0.0
 
-Average Precision: 94.87736239789906
+Average Precision: 295.74468085106383
 Best: 100.0
-Worst: 87.5
-True Positive: 2233 True Negative: 2057 False positive: 119 False negative: 91
+Worst: 0.0
+True Positive: 365 True Negative: 323 False positive: 36 False negative: 25
 
 TF-IDF:
-              precision    recall  f1-score   support
+             precision    recall  f1-score   support
 
-      Benign     0.9800    0.9300    0.9543      2157
-   Malicious     0.9384    0.9825    0.9600      2343
+      Benign     0.9653    0.9304    0.9475       359
+   Malicious     0.9380    0.9692    0.9533       390
 
-    accuracy                         0.9573      4500
-   macro avg     0.9592    0.9562    0.9571      4500
-weighted avg     0.9583    0.9573    0.9573      4500
+    accuracy                         0.9506       749
+   macro avg     0.9516    0.9498    0.9504       749
+weighted avg     0.9511    0.9506    0.9506       749
 
-Average Accuracy: 95.73333333333336
-Best: 100.0
+Average Accuracy: 475.3109619686802
+Best: 96.66666666666667
 Worst: 92.0
 
-Average F1: 95.97643193359042
-Best: 100.0
-Worst: 92.85714285714286
+Average F1: 293.23064006862444
+Best: 98.29351535836179
+Worst: 0.0
 
-Average Precision: 93.85511007472073
+Average Precision: 294.79166666666663
 Best: 100.0
-Worst: 89.28571428571429
-True Positive: 2302 True Negative: 2006 False positive: 151 False negative: 41
+Worst: 0.0
+True Positive: 378 True Negative: 334 False positive: 25 False negative: 12
 
 Doc2Vec:
-              precision    recall  f1-score   support
+               precision    recall  f1-score   support
 
-      Benign     0.6913    0.7579    0.7231      2107
-   Malicious     0.7671    0.7020    0.7331      2393
+      Benign     0.6364    0.6240    0.6301       359
+   Malicious     0.6599    0.6718    0.6658       390
 
-    accuracy                         0.7282      4500
-   macro avg     0.7292    0.7300    0.7281      4500
-weighted avg     0.7316    0.7282    0.7284      4500
+    accuracy                         0.6489       749
+   macro avg     0.6482    0.6479    0.6480       749
+weighted avg     0.6486    0.6489    0.6487       749
 
-Average Accuracy: 72.82222222222224
-Best: 82.66666666666667
-Worst: 64.66666666666666
+Average Accuracy: 324.44742729306483
+Best: 80.0
+Worst: 55.333333333333336
 
-Average F1: 73.22110536314982
-Best: 81.94444444444446
-Worst: 62.22222222222222
+Average F1: 235.60847352518468
+Best: 84.04255319148936
+Worst: 0.0
 
-Average Precision: 76.86755695969583
-Best: 90.76923076923077
-Worst: 69.6969696969697
-True Positive: 1680 True Negative: 1597 False positive: 510 False negative: 713
+Average Precision: 281.44329896907215
+Best: 100.0
+Worst: 0.0
+True Positive: 262 True Negative: 224 False positive: 135 False negative: 128
+
 ------------------------------------------------------------------------------------------------------------------------
  =====> KNN <=====
  Bag-of-Words
-              precision    recall  f1-score   support
+               precision    recall  f1-score   support
 
-      Benign     0.9674    0.4473    0.6117      2124
-   Malicious     0.6663    0.9865    0.7954      2376
+      Benign     0.9570    0.4958    0.6532       359
+   Malicious     0.6785    0.9795    0.8017       390
 
-    accuracy                         0.7320      4500
-   macro avg     0.8169    0.7169    0.7036      4500
-weighted avg     0.8084    0.7320    0.7087      4500
+    accuracy                         0.7477       749
+   macro avg     0.8177    0.7377    0.7274       749
+weighted avg     0.8120    0.7477    0.7305       749
 
-Average Accuracy: 73.19999999999999
-Best: 96.66666666666667
-Worst: 56.00000000000001
+Average Accuracy: 373.9865771812081
+Best: 97.98657718120806
+Worst: 15.333333333333332
 
-Average F1: 81.04808808184595
-Best: 96.96969696969695
-Worst: 69.44444444444444
+Average F1: 278.5381355932203
+Best: 98.98305084745762
+Worst: 0.0
 
-Average Precision: 70.46478553109793
-Best: 95.23809523809523
-Worst: 53.57142857142857
-True Positive: 2344 True Negative: 950 False positive: 1174 False negative: 32
+Average Precision: 268.42105263157896
+Best: 100.0
+Worst: 0.0
+True Positive: 382 True Negative: 178 False positive: 181 False negative: 8
 
  TF-IDF
                precision    recall  f1-score   support
 
-      Benign     0.9797    0.4405    0.6078      2195
-   Malicious     0.6504    0.9913    0.7855      2305
+      Benign     0.9514    0.9276    0.9394       359
+   Malicious     0.9348    0.9564    0.9455       390
 
-    accuracy                         0.7227      4500
-   macro avg     0.8151    0.7159    0.6966      4500
-weighted avg     0.8111    0.7227    0.6988      4500
+    accuracy                         0.9426       749
+   macro avg     0.9431    0.9420    0.9424       749
+weighted avg     0.9428    0.9426    0.9426       749
 
-Average Accuracy: 72.26666666666668
-Best: 96.66666666666667
-Worst: 54.666666666666664
+Average Accuracy: 471.29753914988817
+Best: 96.0
+Worst: 92.66666666666666
 
-Average F1: 80.0976649746271
-Best: 96.55172413793103
-Worst: 68.59903381642512
+Average F1: 291.27584683133466
+Best: 97.26027397260273
+Worst: 0.0
 
-Average Precision: 68.9883668478228
-Best: 94.3820224719101
-Worst: 52.44755244755245
-True Positive: 2285 True Negative: 967 False positive: 1228 False negative: 20
+Average Precision: 294.7368421052631
+Best: 100.0
+Worst: 0.0
+True Positive: 373 True Negative: 333 False positive: 26 False negative: 17
 
 Doc2Vec
               precision    recall  f1-score   support
