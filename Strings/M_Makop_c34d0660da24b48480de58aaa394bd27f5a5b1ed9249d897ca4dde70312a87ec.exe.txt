@@ -1,0 +1,388 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+.ndata
+ s495l
+Instu`
+softuW
+NulluN
+D$$Ph,
+D$(SPS
+Vj%SSS
+D$$+D$
+D$,+D$$P
+SSSSjn
+<v"Ph
+HtVHtHH
+UXTHEME
+USERENV
+SETUPAPI
+APPHELP
+PROPSYS
+DWMAPI
+CRYPTBASE
+OLEACC
+CLBCATQ
+NTMARTA
+RichEdit
+RichEdit20A
+RichEd32
+RichEd20
+.DEFAULT\Control Panel\International
+Control Panel\Desktop\ResourceLocale
+Software\Microsoft\Windows\CurrentVersion
+\Microsoft\Internet Explorer\Quick Launch
+RegEnumValueA
+RegEnumKeyA
+RegQueryValueExA
+RegSetValueExA
+RegCloseKey
+RegDeleteValueA
+RegDeleteKeyA
+AdjustTokenPrivileges
+LookupPrivilegeValueA
+OpenProcessToken
+SetFileSecurityA
+RegOpenKeyExA
+RegCreateKeyExA
+ADVAPI32.dll
+SHFileOperationA
+SHGetFileInfoA
+SHBrowseForFolderA
+SHGetPathFromIDListA
+ShellExecuteExA
+SHGetSpecialFolderLocation
+SHELL32.dll
+CoTaskMemFree
+CoCreateInstance
+OleUninitialize
+OleInitialize
+IIDFromString
+ole32.dll
+ImageList_Destroy
+ImageList_AddMasked
+ImageList_Create
+COMCTL32.dll
+EndPaint
+DrawTextA
+FillRect
+GetClientRect
+BeginPaint
+DefWindowProcA
+SendMessageA
+InvalidateRect
+EnableWindow
+ReleaseDC
+LoadImageA
+SetWindowLongA
+GetDlgItem
+IsWindow
+FindWindowExA
+SendMessageTimeoutA
+wsprintfA
+ShowWindow
+SetForegroundWindow
+PostQuitMessage
+SetWindowTextA
+SetTimer
+CreateDialogParamA
+DestroyWindow
+ExitWindowsEx
+CharNextA
+DialogBoxParamA
+GetClassInfoA
+CreateWindowExA
+SystemParametersInfoA
+RegisterClassA
+EndDialog
+ScreenToClient
+GetWindowRect
+EnableMenuItem
+GetSystemMenu
+SetClassLongA
+IsWindowEnabled
+SetWindowPos
+GetSysColor
+GetWindowLongA
+SetCursor
+LoadCursorA
+CheckDlgButton
+GetMessagePos
+CallWindowProcA
+IsWindowVisible
+CloseClipboard
+SetClipboardData
+EmptyClipboard
+OpenClipboard
+TrackPopupMenu
+AppendMenuA
+CreatePopupMenu
+GetSystemMetrics
+SetDlgItemTextA
+GetDlgItemTextA
+MessageBoxIndirectA
+CharPrevA
+DispatchMessageA
+PeekMessageA
+USER32.dll
+SelectObject
+SetTextColor
+SetBkMode
+CreateFontIndirectA
+CreateBrushIndirect
+DeleteObject
+GetDeviceCaps
+SetBkColor
+GDI32.dll
+MulDiv
+DeleteFileA
+FindFirstFileA
+FindNextFileA
+FindClose
+SetFilePointer
+GetPrivateProfileStringA
+WritePrivateProfileStringA
+MultiByteToWideChar
+FreeLibrary
+LoadLibraryExA
+GetModuleHandleA
+GlobalAlloc
+GlobalFree
+ExpandEnvironmentStringsA
+lstrcmpA
+lstrcmpiA
+CloseHandle
+SetFileTime
+CompareFileTime
+SearchPathA
+GetShortPathNameA
+GetFullPathNameA
+MoveFileA
+SetCurrentDirectoryA
+GetFileAttributesA
+SetFileAttributesA
+GetTickCount
+GetFileSize
+GetModuleFileNameA
+GetCurrentProcess
+CopyFileA
+ExitProcess
+SetEnvironmentVariableA
+GetWindowsDirectoryA
+GetTempPathA
+GetCommandLineA
+lstrlenA
+GetVersion
+SetErrorMode
+lstrcpynA
+GetDiskFreeSpaceA
+GlobalUnlock
+GlobalLock
+CreateThread
+GetLastError
+CreateDirectoryA
+CreateProcessA
+RemoveDirectoryA
+CreateFileA
+GetTempFileNameA
+ReadFile
+WriteFile
+lstrcpyA
+MoveFileExA
+lstrcatA
+WideCharToMultiByte
+GetSystemDirectoryA
+GetProcAddress
+GetExitCodeProcess
+WaitForSingleObject
+KERNEL32.dll
+verifying installer: %d%%
+Installer integrity check has failed. Common causes include
+incomplete download and damaged media. Contact the
+installer's author to obtain a new copy.
+More information at:
+http://nsis.sf.net/NSIS_Error
+Error launching installer
+... %d%%
+SeShutdownPrivilege
+NSIS Error
+Error writing temporary file. Make sure your temp folder is valid.
+%u.%u%s%s
+VerQueryValueA
+GetFileVersionInfoA
+GetFileVersionInfoSizeA
+VERSION
+SHGetFolderPathA
+SHFOLDER
+SHAutoComplete
+SHLWAPI
+SHGetKnownFolderPath
+SHELL32
+InitiateShutdownA
+RegDeleteKeyExA
+ADVAPI32
+GetUserDefaultUILanguage
+GetDiskFreeSpaceExA
+SetDefaultDllDirectories
+KERNEL32
+[Rename]
+*?|<>/":
+%s%s.dll
+rP?=~)
+82<;W7"
+F4Gcu
+\szv~e
+ldR4k%
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"><assemblyIdentity version="1.0.0.0" processorArchitecture="*" name="Nullsoft.NSIS.exehead" type="win32"/><description>Nullsoft Install System v3.06.1</description><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"/></requestedPrivileges></security></trustInfo><compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1"><application><supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/><supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/><supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/><supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/></application></compatibility></assembly>
+NullsoftInst
+w 1<9{
+Kqbx|9
+#954B$1'
+,/H.T#
+9H7wD(*
+{n>>fc
+:vm`Zv
+uwv[5]
+ed@<|+OW
+_uOmFaj3Y
+`skDyh
+OepZcR
+k3pUQ!
+?K .S\
+OZ,O%r
+%'aut>
+0'8~2D
+[TjJZ^
+cyV^%O
+uUi(P491|`?
+%D!j#]1
+u!]d3n5
+4NN$%m
+xWVkG*C
+31mY3gU
+%^T(uD
+-)n,L3
+sIn(Vh
+WUhoo,
+*H1]T\
+%|E ,urm
+'^9I$?ix
+vSm[N.
+)24v`+
+<UQfFP
+v/h^\NLN
+7_-5.)-
+]+O}f#
+}l/]2;b
+cq{m=uH.=
+gVFGxL<xa
+lHH*q+!
+COM|/`
+#.7f&K
+_ba`kV
+"I2&M{
+|t<ke
+Z&$`d<
+Yr_ff[
+YeKwh8
+!~=xLl(
+i5Z^FB
+MTv~s%
+o2C3%O
+X&L ~q/
+E+bo @
+G&^WJo
+Aj3YR(!k
+uT{y1]
+!vMN#X
+Nz5%{p
+5FZ'di
+U`[i)ZM"
+A]@'EC(4
+e;=A_Y
+<fdAcS
+#fE^$i
+@+8n|y
+6#*e+<[
+vUwWUW=U
+25g[b/qa
+EdUF?f
+Fxm)'x
+={$Wf
+f=v??f
+2Z"`74
+t(giSf
+~fYauI
+'[3s1A
+dAj\m
+c|9?vg
+V2mTyU
+j|K--W
+|AtxQ
+}]|GQ^
+lgyKdI
+@h-RXT
+6IcdHa
+NfOZs4
+r8bJ[w
+|4a[4T}B
+P?0}2xa
+]]tl^d)
+u[!Gx'
+{ike8\
+jwzzy{U6
+PfYU>r
+\]B=i-
+!N-x_p{
+qvj\VF7
++Y?-V)
+/I Y8w}
+P8~FjP
+U"E#|"y5#
+$29c"{
+c"h.jC
+=Db2f'
+D*[x_L*
+@Gtb|4
+4,b?-h
+Q\< ;C?
++:R8Bca
+>s44&h
+-%K}/8
+1Bej4\
+4/##=?1
+uC91A5k
+7/U3];iE
+JIg^^
+Y\z?Pqs
+jT*soo9
+K=t%)xMx
+~b*W:
+l938IN
+&MNj&.
+TBJrQ
+BV&Uon
+:`=l=n
+\Qb)YT
+#+3;CScs
+MS Shell Dlg
+MS Shell Dlg
+msctls_progress32
+SysListView32
+MS Shell Dlg
+VS_VERSION_INFO
+StringFileInfo
+040904E4
+CompanyName
+philandro Software GmbH
+FileDescription
+AnyDesk
+FileVersion
+6.1.0.0
+ProductName
+AnyDesk
+ProductVersion
+LegalCopyright
+(C) 2020 philandro Software GmbH
+VarFileInfo
+Translation

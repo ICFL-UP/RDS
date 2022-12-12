@@ -1,0 +1,2048 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+.wixburn8
+@.rsrc
+@.reloc
+uJVVRQV
+uLSSSSRQS
+Bj-_f;>
+Wj\_f;|A
+t5f9t0V
+t3Vj\^f;
+t/Wj\_f;
+j\Zf;TN
+f92tHSWf9q
+j:Xf;F
+ulj?Xf;F
+mj\Yf;
+tij\Zf;
+/u"PSP
+r&j\Yf;K
+9~ t?9~
+t@j"Zf;
+<SVWj83
+SSWSh3
+9_ t!j
+;.wixu
+8.wixu
+burntC
+97tN9w
+TSVWjP3
+w`h,!E
+wdhD!E
+9N\t1;
+uM9~\uH9~tuC
+t f90t
+tKh`,E
+2jv_f;
+RQh<:E
+WWWh4;E
+ynVhL;E
+@PWPPPV
+j=Zf;T
+j=Zf;T
+j=Zf;T
+yIhPRE
+t@h0KE
+t;PhDJE
+QVWjDXj
+yRhHnE
+WVh(pE
+y!hxpE
+9G$u_P
+y&SWh$sE
+SWh@sE
+9p t$QWP
+y&SWh$sE
+SWh@sE
+y3h|gE
+v%j.Yf;
+t0jrYf;
+PQQQQj
+PQQQQj
+`SVWj,3
+x(C;_,r
+uU9u$ua9u
+CD+CHV
+t*f90t%
+t/9~ t
+t/9~$t
+A9~,t!
+uA9](t<!]
+s 9wPt
+C`9G@~
+;O,sL3
+Bh9^\}
+^\9F`}
+VVVVVVVj
+t*f90t%
+x7G;{xr
+t6f98t19}
+t|f9:tw
+C PShi
+ue9s t 
+uGjiYf;H
+u>jtYf;H
+u5jsZf;P
+PPPPPP
+PPRPh]
+9]<t S
+9]@tM3
+tD90t@
+jhYjtf
+URPQQh
+;t$,v-
+UQPXY]Y[
+Tt1jhZ;
+^$+^8+
+t0jXXf
+~$+~8+
+F2jgYf;
+j"^f91j\^u8
+j"^f9q
+t/j=[f;
+u0jAXf;
+u0jAXf;
+Wj0XPV
+taj*Xf
+VWj\^j:
+WWWPWS
+SSVWh 
+f9:t!V
+QQSWj0j@
+PPPPPWS
+PP9E u:PPVWP
+PPPPPPPP
+PSSSSSS
+Vjnh4fF
+x.h$fF
+uwSSSSSS
+xSSSSS
+uqf;Tx
+VjwhtfF
+VjRhtfF
+VjhtfF
+u\j:Xf;B
+uSj Xf;B
+PSSSSSSh 
+Vj:h`hF
+tmj\Zf;
+j\Yf;H
+tpj\_f;
+f90tnj
+f90t1j
+t6VWVSVP
+j\Yf;K
+!},!}0
+3Qh8kF
+t<PPPP
+PPPPh@jF
+PjxhXjF
+u.9u*
+O$Qh|kF
+O$Qh|kF
+A$;r u9;B$u7
+A,;r(u
+B4;A4w
+B0;A0r
+C,;C$r$w
+C(;C r
+PjTh,mF
+SetDefaultDllDirectories
+SetDllDirectoryW
+apputil.cpp
+strutil.cpp
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+ !"#$%&'()*+,-./0123U456U789:;<=>?@ABCDEFGHIJKLMNOPQRSTUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+pathutil.cpp
+>`memutil.cpp
+dirutil.cpp
+Failed to parse command line.
+Failed to initialize engine state.
+Failed to initialize COM.
+Failed to initialize Cryputil.
+Failed to initialize Regutil.
+Failed to initialize Wiutil.
+Failed to initialize XML util.
+engine.cpp
+Failed to get OS info.
+3.11.1.2318
+Failed to initialize core.
+Failed to run untrusted mode.
+Failed to run per-user mode.
+Failed to run per-machine mode.
+Failed to run embedded mode.
+Failed to run RunOnce mode.
+Invalid run mode.
+Missing required parameter for switch: %ls
+Failed to parse file handle: '%ls'
+Failed to initialize engine section.
+Failed to get path for current process.
+Failed to cache to clean room.
+Failed to allocate parameters for unelevated process.
+Failed to append %ls
+Failed to append original command line.
+Failed to allocate full command-line.
+Failed to launch clean room process: %ls
+Failed to wait for clean room process: %ls
+Failed to open log.
+Failed to check global conditions
+Failed to create the message window.
+Failed to query registration.
+Failed to set action variables.
+Failed to set registration variables.
+Failed to set layout directory variable to value provided from command-line.
+Failed while running 
+Failed to connect to unelevated process.
+Failed to allocate thread local storage for logging.
+Failed to set elevated pipe into thread local storage for logging.
+Failed to pump messages from parent process.
+Failed to connect to parent of embedded process.
+Failed to run bootstrapper application embedded.
+Unable to get resume command line from the registry
+Failed to get current process path.
+Failed to re-launch bundle process after RunOnce: %ls
+Failed to create engine for UX.
+Failed to load UX.
+Failed to start bootstrapper application.
+Unexpected return value from message pump.
+Failed to get process token.
+Failed to get shutdown privilege LUID.
+Failed to adjust token to add shutdown privileges.
+Failed to schedule restart.
+Failed to add built-in variable: %ls.
+Failed to select variable nodes.
+Failed to get variable node count.
+Failed to get next node.
+Failed to get @Id.
+Failed to get @Hidden.
+Failed to get @Persisted.
+Failed to get @Value.
+Failed to set variant value.
+Failed to get @Type.
+Initializing numeric variable '%ls' to value '%ls'
+Initializing string variable '%ls' to value '%ls'
+Initializing version variable '%ls' to value '%ls'
+Invalid value for @Type: %ls
+Initializing hidden variable '%ls'
+Failed to change variant type.
+Failed to find variable value '%ls'.
+Failed to insert variable '%ls'.
+variable.cpp
+Attempt to set built-in variable value: %ls
+Failed to set value of variable: %ls
+Failed to set variant encryption
+Failed to get value of variable: %ls
+Failed to get value as numeric for variable: %ls
+Failed to get value as string for variable: %ls
+Failed to get value as version for variable: %ls
+Failed to copy value of variable: %ls
+Failed to get variable: %ls
+Failed to get unformatted string.
+Failed to format value '%ls' of variable: %ls
+Failed to allocate buffer for escaped string.
+Failed to append characters.
+Failed to format escape sequence.
+Failed to append escape sequence.
+Failed to copy string.
+Failed to write variable count.
+Failed to write included flag.
+Failed to write variable name.
+Failed to write variable value type.
+Failed to get numeric.
+Failed to write variable value as number.
+Failed to get version.
+Failed to get string.
+Failed to write variable value as string.
+Unsupported variable type.
+Failed to write literal flag.
+Failed to read variable count.
+Failed to read variable included flag.
+Failed to read variable name.
+Failed to read variable value type.
+Failed to read variable value as number.
+Failed to set variable value.
+Failed to read variable value as string.
+Failed to read variable literal flag.
+Failed to set variable.
+Failed to get visibility of variable: %ls
+Failed to allocate buffer for format string.
+Failed to append string.
+Failed to get variable name.
+Failed to reallocate variable array.
+Failed to allocate variable array.
+Failed to determine variable visibility: '%ls'.
+Failed to format placeholder string.
+Failed to append placeholder.
+Failed to allocate record.
+Failed to set record format string.
+Failed to set record string.
+Failed to get formatted length.
+Failed to allocate string.
+Failed to format record.
+Failed to find variable value.
+Failed to insert variable.
+Failed to initialize built-in variable value '%ls'.
+Failed to compare strings.
+Overflow while growing variable array size
+Overflow while calculating size of variable array buffer
+Failed to allocate room for more variables.
+Overflow while dealing with variable array buffer allocation
+Failed to allocate room for variables.
+Failed to copy variable name.
+Setting hidden variable '%ls'
+Unsetting variable '%ls'
+Setting numeric variable '%ls' to value %lld
+Setting string variable '%ls' to value '%ls'
+Setting version variable '%ls' to value '%hu.%hu.%hu.%hu'
+Setting variable failed: ID '%ls', HRESULT 0x%x
+Failed to locate NTDLL.
+RtlGetVersion
+Failed to locate RtlGetVersion.
+Failed to get computer name.
+DllGetVersion
+Failed to find DllGetVersion entry point in msi.dll.
+Failed to get msi.dll version info.
+Failed to get shell folder.
+Failed to get temp path.
+Failed to get 64-bit system folder.
+Failed to get 32-bit system folder.
+Failed to backslash terminate system folder.
+Failed to set system folder variant value.
+Failed to get windows directory.
+Failed to get volume path name.
+Failed to check if process could run privileged.
+Failed to set reboot pending variant value.
+Failed to get 64-bit folder.
+Failed to get the required buffer length for the Date.
+Failed to allocate the buffer for the Date.
+Failed to get the Date.
+Failed to copy the engine version.
+Failed to get the user name.
+Failed to open Windows folder key.
+Failed to read folder path for '%ls'.
+Failed to ensure path was backslash terminated.
+Failed to read next symbol.
+Failed to parse expression.
+Failed to expect end symbol.
+Failed to evaluate condition: %ls
+Failed to display error dialog
+Failed to select condition node.
+Failed to get Condition inner text.
+Failed to copy condition string from BSTR
+Failed to parse boolean-term.
+Failed to parse boolean-factor.
+Failed to parse term.
+Failed to expect right parenthesis.
+Failed to parse value.
+Failed to compare value.
+condition.cpp
+Failed to find variable.
+Failed to parse condition '%ls' at position: %u
+Failed to parse condition "%ls". Unexpected '~' operator at position %d.
+Failed to parse condition "%ls". Unterminated literal at position %d.
+Failed to set symbol value.
+Failed to parse condition "%ls". Identifier cannot start at a digit, at position %d.
+Failed to parse condition "%ls". Constant too big, at position %d.
+Failed to parse condition "%ls". Version can have a maximum of 4 parts, at position %d.
+Failed to parse condition "%ls". Invalid version format, at position %d.
+Failed to parse condition "%ls". Unexpected character at position %d.
+Failed to get the left string
+Failed to get the right string
+Failed to get the left numeric
+Failed to get the right numeric
+Failed to get the left version
+Failed to get the right version
+Failed to select search nodes.
+Failed to get search node count.
+search.cpp
+Failed to allocate memory for search structs.
+Failed to get @Variable.
+Failed to get @Condition.
+Failed to get @Path.
+Failed to get @Root.
+Invalid value for @Root: %ls
+Failed to get Key attribute.
+Failed to get Value attribute.
+Failed to get Win64 attribute.
+Failed to get @ExpandEnvironment.
+Failed to get @VariableType.
+Invalid value for @VariableType: %ls
+Failed to get @ProductCode.
+Failed to get @ComponentId.
+Failed to get @UpgradeCode.
+Failed to get @ProductCode or @UpgradeCode.
+Failed to get @FeatureId.
+Unexpected element name: %ls
+Failed to evaluate search condition. Id = '%ls', Condition = '%ls'
+Failed to format variable string.
+Failed while searching directory search: %ls, for path: %ls
+Failed to set directory search path variable.
+Directory search: %ls, did not find path: %ls, reason: 0x%x
+File search: %ls, did not find path: %ls
+Failed get to file attributes. '%ls'
+Failed to format path string.
+Failed get file version.
+Failed to set variable to file search path.
+Failed while searching file search: %ls, for path: %ls
+Failed to format key string.
+Registry key not found. Key = '%ls'
+Failed to open registry key. Key = '%ls'
+Failed to format value string.
+Registry value not found. Key = '%ls', Value = '%ls'
+Failed to query registry key value.
+RegistrySearchExists failed: ID '%ls', HRESULT 0x%x
+Failed to clear variable.
+Failed to open registry key.
+Failed to query registry key value size.
+Failed to allocate memory registry value.
+Failed to allocate string buffer.
+Failed to get expand environment string.
+Unsupported registry key value type. Type = '%u'
+Failed to read registry value.
+Failed to change value type.
+RegistrySearchValue failed: ID '%ls', HRESULT 0x%x
+Failed to format component id string.
+Failed to format product code string.
+Failed to get component path: %d
+MsiComponentSearch failed: ID '%ls', HRESULT 0x%x
+Unsupported product search type: %u
+Failed to format GUID string.
+Failed to enumerate related products for upgrade code.
+Failed to copy upgrade code.
+Trying per-machine extended info for property '%ls' for product: %ls
+Trying per-user extended info for property '%ls' for product: %ls
+Product or related product not found: %ls
+Failed to get product info.
+MsiProductSearch failed: ID '%ls', HRESULT 0x%x
+MsiFeatureSearch failed: ID '%ls', HRESULT 0x%x
+section.cpp
+Failed to open handle to engine process path.
+Failed to seek to start of file.
+Failed to read DOS header.
+Failed to find valid DOS image header in buffer.
+Failed to seek to NT header.
+Failed to read NT header.
+Failed to find valid NT image header in buffer.
+Failed to seek to section info.
+Failed to read signature offset.
+Failed to read signature size.
+Failed to seek past optional headers.
+Failed to read image section header, index: %u
+Failed to read complete image section header, index: %u
+.wixburn
+Failed to find Burn section.
+Failed to read section info, data to short: %u
+Failed to allocate buffer for section info.
+Failed to read section info.
+Failed to read complete section info.
+Failed to read section info, unsupported version: %08x
+Failed to get total size of bundle.
+Failed to allocate memory for container sizes.
+PE Header from file didn't match PE Header in memory.
+Failed to find container info, too few elements: %u
+Unexpected container format.
+Failed to get module handle to process.
+Bundle guid didn't match the guid in the PE Header in memory.
+Failed to select approved exe nodes.
+Failed to get approved exe node count.
+approvedexe.cpp
+Failed to allocate memory for approved exe structs.
+Failed to get @Key.
+Failed to get @ValueName.
+Failed to get @Win64.
+Failed to format argument string.
+Failed to create executable command.
+Failed to format obfuscated argument string.
+Failed to create obfuscated executable command.
+Failed to CreateProcess on path: %ls
+Failed to get the variable: %ls
+Failed to get the root package cache folder.
+Failed to select container nodes.
+Failed to get container node count.
+container.cpp
+Failed to allocate memory for container structs.
+Failed to get @Primary.
+Failed to get @Attached.
+Failed to get @AttachedIndex.
+Failed to get path to current process for attached container.
+Failed to set attached container file path.
+Failed to get @FilePath.
+Failed to copy @FilePath
+Failed to get @DownloadUrl. Either @SourcePath or @DownloadUrl needs to be provided.
+Failed to hex decode the Container/@Hash.
+Failed to get @Hash.
+Failed to get attached container information.
+Failed to get container information for UX container.
+Failed to get path for executing module.
+Failed to open attached container.
+Failed to open file: %ls
+Failed to duplicate handle to container: %ls
+Failed to move file pointer to container offset.
+Failed to open container.
+Failed to close cabinet.
+Failed to select catalog nodes.
+Failed to get payload node count.
+catalog.cpp
+Failed to allocate memory for payload structs.
+Failed to get @Payload.
+Failed to find payload for catalog file.
+Failed to get catalog local file path
+Failed to open catalog in working path: %ls
+Failed to verify catalog signature: %ls
+Failed to select payload nodes.
+payload.cpp
+Failed to get @Packaging.
+Invalid value for @Packaging: %ls
+Failed to get @Container.
+Failed to to find container: %ls
+Failed to get @LayoutOnly.
+Failed to get @SourcePath.
+Failed to get @DownloadUrl.
+Failed to get @FileSize.
+Failed to parse @FileSize.
+Failed to get @CertificateRootPublicKeyIdentifier.
+Failed to hex decode @CertificateRootPublicKeyIdentifier.
+Failed to get @CertificateRootThumbprint.
+Failed to hex decode @CertificateRootThumbprint.
+Failed to hex decode the Payload/@Hash.
+Failed to get @Catalog.
+Failed to find catalog.
+Failed to get next stream.
+Failed to find embedded payload: %ls
+Failed to concat file paths.
+Failed to get directory portion of local file path
+Failed to ensure directory exists
+Failed to extract file.
+Payload was not found in container: %ls
+Failed to select user experience node.
+Failed to to get UX/@SplashScreen
+Failed to parse user experience payloads.
+Too few UX payloads.
+userexperience.cpp
+Failed to load UX DLL.
+BootstrapperApplicationCreate
+Failed to get BootstrapperApplicationCreate entry-point
+Failed to create UX.
+BootstrapperApplicationDestroy
+Failed to create working folder.
+Failed to calculate the bootstrapper application working path.
+Failed create bootstrapper application working folder.
+Engine active cannot be changed because it was already in that state.
+Engine is active, cannot proceed.
+Failed to select rollback boundary nodes.
+Failed to get rollback bundary node count.
+package.cpp
+Failed to allocate memory for rollback boundary structs.
+Failed to get @Vital.
+Failed to select package nodes.
+Failed to get package node count.
+Failed to allocate memory for package structs.
+Invalid cache type: %ls
+Failed to get @Cache.
+Failed to get @CacheId.
+Failed to get @Size.
+Failed to get @InstallSize.
+Failed to get @PerMachine.
+Failed to get @Permanent.
+Failed to get @LogPathVariable.
+Failed to get @RollbackLogPathVariable.
+Failed to get @InstallCondition.
+Failed to get @RollbackBoundaryForward.
+Failed to find forward transaction boundary: %ls
+Failed to get @RollbackBoundaryBackward.
+Failed to find backward transaction boundary: %ls
+Failed to parse EXE package.
+Failed to parse MSI package.
+Failed to parse MSP package.
+Failed to parse MSU package.
+Failed to parse payload references.
+Failed to parse dependency providers.
+Failed to allocate memory for MSP patch sequence information.
+Failed to allocate memory for patch sequence information to package lookup.
+Failed to parse target product codes.
+Failed to copy the property value.
+Failed to allocate memory for compatible packages.
+Failed to allocate memory for package payloads.
+Failed to get Id attribute.
+Failed to find payload.
+Failed to select PatchTargetCode nodes.
+Failed to get PatchTargetCode node count.
+Failed to allocate memory for patch targetcodes.
+Failed to get @TargetCode attribute.
+Failed to get @Product.
+Failed to select Bundle/Update node.
+Failed to get Update@Location.
+Failed to select registration node.
+Failed to get @Tag.
+Failed to parse related bundles
+Failed to get @Version.
+Failed to parse @Version: %ls
+Failed to get @ProviderKey.
+Failed to get @ExecutableName.
+Failed to select ARP node.
+Failed to get @Register.
+Failed to get @DisplayName.
+Failed to get @DisplayVersion.
+Failed to get @Publisher.
+Failed to get @HelpLink.
+Failed to get @HelpTelephone.
+Failed to get @AboutUrl.
+Failed to get @UpdateUrl.
+Failed to get @ParentDisplayName.
+Failed to get @Comments.
+Failed to get @Contact.
+registration.cpp
+Invalid modify disabled type: %ls
+Failed to get @DisableModify.
+Failed to get @DisableRemove.
+Failed to parse software tag.
+Failed to select Update node.
+Failed to get @Manufacturer.
+Failed to get @Department.
+Failed to get @ProductFamily.
+Failed to get @Name.
+Failed to get @Classification.
+Failed to set registration paths.
+Failed to set the bundle installed built-in variable.
+Failed to initialize bundle name.
+Failed to initialize bundle manufacturer.
+Failed to overwrite the bundle active parent built-in variable.
+Failed to overwrite the bundle provider key built-in variable.
+Failed to overwrite the bundle tag built-in variable.
+Failed to format pending restart registry key to read.
+Failed to open registration key.
+Failed to read Resume value.
+Failed to initialize per-machine related bundles.
+Failed to initialize per-user related bundles.
+Failed to cache bundle from path: %ls
+Failed to create registration key.
+Failed to write %ls value.
+Failed to update name and publisher.
+Failed to write software tags.
+Failed to write update registration.
+Failed to register the bundle dependency key.
+Failed to update resume mode.
+Failed to write volatile reboot required registry key.
+Failed to delete registration key: %ls
+Failed to write state to file: %ls
+Failed to select software tag nodes.
+Failed to get software tag count.
+Failed to allocate memory for software tag structs.
+Failed to get @Filename.
+Failed to get @Regid.
+Failed to get SoftwareTag text.
+Failed to convert SoftwareTag text to UTF-8
+Failed to build uninstall registry key path.
+Failed to build cache directory.
+Failed to build cached executable path.
+Failed to build state file path.
+Failed to set bundle manufacturer.
+Failed to get bundle manufacturer.
+Failed to set bundle name.
+Failed to get bundle name.
+Failed to write Resume value.
+Failed to write Installed value.
+Failed to format resume command line for RunOnce.
+Failed to create run key.
+Failed to write run key value.
+Failed to write resume command line value.
+Failed to delete run key value.
+Failed to delete resume command line value.
+Failed to get RelatedBundle nodes
+Failed to get RelatedBundle element count.
+Failed to get next RelatedBundle element.
+Failed to get @Action.
+Failed to resize Detect code array in registration
+Failed to resize Upgrade code array in registration
+Failed to resize Addon code array in registration
+Failed to resize Patch code array in registration
+Invalid value for @Action: %ls
+Failed to format the key path for update registration.
+Failed to format tag folder path.
+Failed to allocate regid folder path.
+Failed to allocate regid file path.
+Failed to create regid folder: %ls
+Failed to write tag xml to file: %ls
+Failed to get the formatted key path for update registration.
+Failed to create the key for update registration.
+Failed to format key for update registration.
+Failed to remove update registration key: %ls
+Failed to get the %ls variable.
+Failed to set the bundle action built-in variable.
+Failed to get default request state for action.
+Failed to evaluate install condition.
+Failed to get path for current executing process as layout directory.
+Failed to get executing process as layout directory.
+Failed to get bundle layout directory property.
+Failed to ensure layout directory is backslash terminated.
+Failed to append bundle start action.
+Failed to to copy executable name for bundle.
+Failed to to copy layout directory for bundle.
+Failed to calculate bundle layout working path.
+Failed to plan layout payload.
+Failed to copy ancestors and self to related bundle ancestors.
+Failed to copy self to related bundle ancestors.
+Failed to process package.
+Failed to add compatible package for package: %ls
+Failed to append execute action.
+Failed to copy installed ProductCode
+Failed to process compatible package.
+Failed to plan install keep registration.
+Failed to plan uninstall remove registration.
+Failed to plan rollback boundary begin.
+Failed to plan clean package.
+Failed to create the string dictionary.
+Failed to allocate registration action.
+Failed to add self-dependent to ignore dependents.
+Failed to add dependents ignored from command-line.
+Failed to add dependent bundle provider key to ignore dependents.
+Failed to check for remaining dependents during planning.
+Failed to add registration action for dependent related bundle.
+Failed to add registration action for self dependent.
+Failed to process passthrough package.
+Failed to plan rollback boundary for passthrough package.
+Failed to process update package.
+Failed to plan rollback boundary for update package.
+Failed to plan clean of update package.
+Failed to set default package state.
+plan.cpp
+UX aborted plan package begin.
+Failed to process package rollback boundary.
+Failed to plan layout package.
+Failed to plan execute package.
+Failed to plan cache package.
+Failed to plan dependency actions for package: %ls
+Failed to append execute checkpoint.
+Failed to plan rollback boundary complete.
+Failed to append package start action.
+Failed to append layout container action.
+Failed to append cache/layout payload action.
+Failed to append cache action.
+Failed to calculate execute actions for package: %ls
+Failed to calculate plan actions for package: %ls
+Failed to begin plan dependency actions for package: %ls
+Invalid package type.
+Failed to add plan actions for package: %ls
+Failed to complete plan dependency actions for package: %ls
+Failed to create string array from ancestors.
+Failed to create dictionary from ancestors array.
+Failed to lookup the bundle ID in the ancestors dictionary.
+Unexpected relation type encountered during plan: %d
+UX aborted plan related bundle.
+Failed to add the package provider key "%ls" to the planned list.
+Failed to get the list of dependencies to ignore.
+Failed to create dictionary for planned packages.
+Failed to check the dictionary for a related bundle provider key: "%ls".
+Failed to copy the list of dependencies to ignore.
+Failed to calcuate plan for related bundle: %ls
+Failed to begin plan dependency actions to  package: %ls
+Failed to add to plan related bundle: %ls
+Failed to complete plan dependency actions for related bundle package: %ls
+Failed to begin plan dependency actions for related bundle package: %ls
+Failed to plan related bundle package provider actions.
+Failed to remove unnecessary execute actions.
+Failed to finalize slipstream execute actions.
+Failed to finalize slipstream rollback actions.
+Failed to grow plan's array of clean actions.
+Failed to append wait action for caching.
+Failed to append rollback action.
+Failed to append execute checkpoint for cache rollback.
+Failed to grow plan's array of execute actions.
+Failed to grow plan's array of rollback actions.
+Failed to insert keep registration execute action.
+Failed to insert keep registration rollback action.
+Failed to insert remove registration execute action.
+Failed to insert remove registration rollback action.
+Failed to append rollback boundary begin action.
+Failed to recreate resume command-line.
+Invalid action state.
+Failed to grow plan's array of registration actions.
+Failed to copy owner bundle to registration action.
+Failed to copy dependent provider key to registration action.
+Failed to grow plan's array of rollback registration actions.
+Failed to copy dependent provider key to rollback registration action.
+Failed to plan slipstream patches for package.
+Failed to append rollback cache action.
+Failed to append payload cache action.
+Failed to create syncpoint event.
+Failed to plan slipstream MSP: %ls
+Failed to grow plan's array of cache actions.
+Failed to grow plan's array of rollback cache actions.
+Failed to append acquire container action for layout to plan.
+Failed to copy container working path for layout.
+Failed to append cache action to cache payload.
+Failed to copy layout directory into plan.
+Failed to calculate unverified path for payload.
+Failed to add extract payload action to previous package.
+Failed to create container extract action.
+Failed while searching for package's container extract action.
+Failed to add extract payload to current package.
+Failed to append cache action to acquire payload.
+Failed to copy unverified path for payload to acquire.
+Failed to append acquire container action to plan.
+Failed to get path for executing module as attached container working path.
+Failed to copy container unverified path for cache action to extract container.
+Failed to append cache action to extract payloads from container.
+Failed to calculate unverified path for container.
+Failed to grow list of payloads to extract from container.
+Failed to copy unverified path for payload to extract.
+execute
+rollback
+Failed to allocate memory for patch actions.
+Failed to plan package dependency actions.
+Failed to get current directory.
+Failed to open log: %ls
+Failed to get non-session specific TEMP folder.
+Failed to copy log path to prefix.
+Failed to copy log extension to extension.
+Failed to copy full log path to prefix.
+logging.cpp
+Failed to open Application event log
+Failed to allocate path for package log.
+Failed to set log path into variable.
+Failed to copy package log path.
+Unknown
+Layout
+Uninstall
+Install
+Modify
+Repair
+UpdateReplace
+UpdateReplaceEmbedded
+Invalid
+AdminInstall
+MinorUpgrade
+MajorUpgrade
+Register
+Unregister
+Obsolete
+Absent
+Cached
+Present
+Superseded
+Partial
+Complete
+Advertised
+Source
+AddLocal
+AddSource
+AddDefault
+Reinstall
+Advertise
+Remove
+AllUserManaged
+Machine
+UserManaged
+UserUnmanaged
+PerMachine
+PerUser
+Required
+Initiated
+Active
+Suspend
+Reboot Pending
+Detect
+Upgrade
+Dependent
+Update
+Downgrade
+MinorUpdate
+ForceAbsent
+%I64u.%I64u.%I64u.%I64u
+Failed to get temp folder.
+Failed to get length of temp folder.
+Failed to format session id as a string.
+Failed to get length of session id string.
+Failed to copy temp folder.
+Failed to write send message to pipe.
+Failed to pump messages during send message to pipe.
+Failed to read log message.
+Failed to write log message:'%hs'.
+pipe.cpp
+No status returned to PipePumpMessages()
+Failed to read returned result to PipePumpMessages()
+Failed to read returned restart to PipePumpMessages()
+Failed to process message: %u
+Failed to post result to child process.
+Failed to get message over pipe
+Failed to create pipe guid.
+Failed to convert pipe guid into string.
+Failed to allocate pipe name.
+Failed to allocate pipe secret.
+Failed to create the security descriptor for the connection event and pipe.
+Failed to allocate full name of pipe: %ls
+Failed to create pipe: %ls
+Failed to allocate full name of cache pipe: %ls
+Failed to allocate parameters for elevated process.
+Failed to launch elevated child process: %ls
+Failed to set pipe to non-blocking.
+Failed to wait for child to connect to pipe.
+Failed to reset pipe to blocking.
+Failed to write secret length to pipe.
+Failed to write secret to pipe.
+Failed to write our process id to pipe.
+Failed to read ACK from pipe.
+Failed to write exit code to message buffer.
+Failed to write restart to message buffer.
+Failed to post terminate message to child process cache thread.
+Failed to post terminate message to child process.
+Failed to wait for child process exit.
+Failed to allocate name of parent pipe.
+Failed to open parent pipe: %ls
+Failed to verify parent pipe: %ls
+Failed to allocate name of parent cache pipe.
+Failed to open companion process with PID: %u
+Failed to allocate memory for message.
+Failed to allocate message to write.
+Failed to write message type to pipe.
+Failed to read message from pipe.
+Failed to allocate data for message.
+Failed to read data for message.
+Failed to read size of verification secret from parent pipe.
+Verification secret from parent is too big.
+Failed to allocate buffer for verification secret.
+Failed to read verification secret from parent pipe.
+Verification secret from parent does not match.
+Failed to read verification process id from parent pipe.
+Verification process id from parent does not match.
+Failed to inform parent process that child is running.
+Failed to initialize variables.
+Failed to open attached UX container.
+Failed to open manifest stream.
+Failed to get manifest stream from container.
+Failed to load manifest.
+Failed to overwrite the %ls built-in variable.
+Failed to set source process path variable.
+Failed to get source process folder from path.
+Failed to set source process folder variable.
+Failed to set original source variable.
+Failed to initialize internal cache functionality.
+Failed to get unique temporary folder for bootstrapper application.
+Failed to extract bootstrapper application payloads.
+Failed to load catalog files.
+Failed to serialize variables.
+Failed to detect resume type.
+Engine cannot start detect because it is busy with another action.
+core.cpp
+UX aborted detect begin.
+Failed to execute searches.
+Failed to detect related bundles.
+Failed to detect forward compatible bundle.
+Failed to detect provider key bundle id.
+Failed to report detected related bundles.
+Failed to detect update.
+Failed to initialize MSP engine detection.
+UX aborted detect package begin.
+Failed to detect if payloads are all cached for package: %ls
+Package type not supported by detect yet.
+Engine cannot start plan because it is busy with another action.
+UX aborted plan begin.
+Failed to update action.
+Failed to set resume command
+Failed to initialize the dependencies for the plan.
+Failed to plan the layout of the bundle.
+Failed to plan packages.
+Failed to plan update.
+Failed to plan passthrough.
+Failed to plan registration.
+Failed to plan related bundles.
+Failed to schedule related bundles.
+Failed to remove unnecessary actions from plan.
+Failed to cache engine to working directory.
+Failed to actually elevate.
+Engine cannot start apply because it is busy with another action.
+UX aborted apply begin.
+Another per-user setup is already executing.
+Failed to set initial apply variables.
+Failed to elevate.
+Another per-machine setup is already executing.
+Failed to register bundle.
+Failed to create cache thread.
+Failed while caching, aborting execution.
+Engine cannot start LaunchApprovedExe because it is busy with another action.
+UX aborted LaunchApprovedExe begin.
+Failed to serialize engine state.
+Failed to save engine state in per-machine process.
+Failed to save engine state.
+Failed to empty command line.
+Failed to append display state to command-line
+Failed to append action state to command-line
+Failed to append restart state to command-line
+Failed to format active parent command-line for command-line.
+Failed to format parent:none command-line for command-line.
+Failed to append active parent command-line to command-line.
+Failed to format ancestors for command-line.
+Failed to append ancestors to command-line.
+Failed to format relation type for command-line.
+Failed to append relation type to command-line.
+Failed to format passthrough for command-line.
+Failed to append passthrough to command-line.
+Failed to format append log command-line for command-line.
+Failed to append log command-line to command-line
+Failed to append space to command-line.
+Failed to append command-line to command-line.
+Failed to duplicate file handle for attached container.
+Failed to append the file handle to the command line.
+Failed to append the file handle to the obfuscated command line.
+Must specify a path for log.
+Failed to copy log file path.
+Failed to copy path for layout directory.
+Must specify a path for original source.
+Failed to copy last used source.
+Must specify a value for parent.
+Failed to copy parent.
+Failed to initialize parent to none.
+Must specify a path for append log.
+Failed to copy append log file path.
+Must specify the elevated name, token and parent process id.
+Multiple mode command-line switches were provided.
+Failed to parse elevated connection.
+Failed to copy source process path.
+Must specify the embedded name, token and parent process id.
+Failed to parse embedded connection.
+Failed to allocate the list of dependencies to ignore.
+Failed to allocate the list of ancestors.
+Failed to determine whether variable is hidden.
+Failed to copy sanitized argument.
+Failed to copy connection name from command line.
+Failed to copy connection secret from command line.
+Failed to copy parent process id from command line.
+Failed to get completed cache path.
+Failed to concat payload cache path.
+Failed to initialize COM on cache thread.
+Failed to wait for cache thread to terminate.
+Failed to get cache thread exit code.
+Failed to get completed path for bundle.
+Failed to combine working path with engine file name.
+Failed to compare current path for bundle: %ls
+Failed to initialize cache source path.
+Failed to copy current path to original source.
+Failed to get directory from original source path.
+Failed to set original source directory variable.
+Failed to calculate working folder to ensure it exists.
+Failed create working folder.
+Failed to copy working folder.
+Failed to get working folder for bundle.
+Failed to calculate the bundle working path.
+Failed to get working folder for bundle layout.
+Failed to append bundle id for bundle layout working path.
+Failed to get working folder for payload.
+Failed to append SHA1 hash as payload unverified path.
+Failed to get working folder for container.
+Failed to append SHA1 hash as container unverified path.
+per-machine
+per-user
+Failed to get %hs package cache root directory.
+Failed to construct cache path.
+Failed to ensure cache path was backslash terminated.
+Failed to get old %hs package cache root directory.
+Failed to get current process directory.
+Failed to combine last source with source.
+Failed to combine layout source with source.
+Failed to copy source path.
+Failed to determine length of source path.
+Failed to determine length of relative path.
+Failed to trim source folder.
+Failed to set last source.
+cache.cpp
+UX aborted on download progress.
+Invalid return code from progress routine.
+Failed to get current path for process to cache to clean room.
+Failed to cache bundle to clean room.
+Failed to use current process path as target path.
+Failed to copy engine to working folder.
+Failed to combine completed path with engine file name for layout.
+Layout bundle from: '%ls' to: '%ls'
+Failed to layout bundle from: '%ls' to '%ls'
+Failed to create completed cache path for bundle.
+Failed to combine completed path with engine file name.
+Failed to compare completed cache path for bundle: %ls
+Caching bundle from: '%ls' to: '%ls'
+Failed to cache bundle from: '%ls' to '%ls'
+Failed to reset permissions on cached bundle: '%ls'
+Failed to get directory from engine working path: %ls
+Failed to build payload source path.
+Failed to complete the cache of payload: %ls
+Failed to concat complete cached path.
+Failed to layout container from cached path: %ls
+Failed to layout payload from cached payload: %ls
+Failed to get cached path for package with cache id: %ls
+Failed to create unverified path.
+Failed to transfer working path to unverified path for payload: %ls.
+Failed to find payload: %ls in working path: %ls and unverified path: %ls
+Failed to reset permissions on unverified cached payload: %ls
+moving
+copying
+Failed to move verified file to complete payload path: %ls
+Failed to calculate the working folder to remove it.
+Failed to remove bundle id: %ls.
+Failed to remove package id: %ls.
+Failed authenticode verification of payload: %ls
+Failed to get provider state from authenticode certificate.
+Failed to get signer chain from authenticode certificate.
+Failed to verify expected payload against actual certificate chain.
+Failed to get windows path for working folder.
+Failed to ensure windows path for working folder ended in backslash.
+Failed to concat Temp directory on windows path for working folder.
+Failed to get temp path for working folder.
+Failed to create working folder guid.
+Failed to convert working folder guid into string.
+Failed to append bundle id on to temp path for working folder.
+Failed to copy working folder path.
+Failed to find local %hs appdata directory.
+Failed to construct %hs package cache directory name.
+Failed to backslash terminate default %hs package cache directory name.
+Failed to read PackageCache policy directory.
+Failed to backslash terminate redirected per-machine package cache directory name.
+Failed to copy default package cache directory to current package cache directory.
+Failed to copy %hs package cache root directory.
+Failed to compare default and current package cache directories.
+Failed to get cache directory.
+Failed to create cache directory: %ls
+Failed to secure cache directory: %ls
+Failed to create unverified cache directory: %ls
+Failed to concat payload id to unverified folder path.
+Failed to open container in working path: %ls
+Failed to verify container hash: %ls
+%ls container from working path '%ls' to path '%ls'
+Failed to move %ls to %ls
+Failed to copy %ls to %ls
+Failed to open payload in working path: %ls
+Failed to verify payload signature: %ls
+Failed to verify payload hash: %ls
+%ls payload from working path '%ls' to path '%ls'
+Failed to open payload at path: %ls
+Failed to verify signature of payload: %ls
+Failed to verify catalog signature of payload: %ls
+Failed to verify hash of payload: %ls
+Failed to allocate memory for well known SID.
+Failed to create well known SID.
+Failed to allocate administrator SID.
+Failed to initialize ACL.
+Failed to allocate SID to grate access.
+Failed to allocate access for Administrators group to path: %ls
+Failed to allocate access for SYSTEM group to path: %ls
+Failed to allocate access for Everyone group to path: %ls
+Failed to allocate access for Users group to path: %ls
+Failed to create ACL to secure cache path: %ls
+Failed to secure cache path: %ls
+Failed to create working path to copy engine.
+Failed to calculate the bundle working folder target name.
+Failed create bundle working folder.
+Failed to copy engine: '%ls' to working path: %ls
+Failed to get directory from engine path: %ls
+Failed to build payload source path for working copy.
+Failed to build payload target path for working copy.
+Failed to copy UX payload from: '%ls' to: '%ls'
+Failed to copy target path for engine working path.
+Failed to create engine file at path: %ls
+Failed to seek to beginning of engine file: %ls
+Failed to copy engine from: %ls to: %ls
+Failed to seek to checksum in exe header.
+Failed to update signature offset.
+Failed to seek to signature table in exe header.
+Failed to seek to original data in exe burn section header.
+Failed to zero out original data offset.
+Failed to calculate cache path.
+Failed to calculate hash for path: %ls
+Hash mismatch for path: %ls, expected: %ls, actual: %ls
+Hash mismatch for path: %ls
+Failed to allocate memory
+Failed to get file hash.
+Failed to encode file hash.
+Could not verify file %ls.
+Could not close verify handle.
+Failed to get certificate public key identifier.
+Failed to read certificate thumbprint.
+Failed to find expected public key in certificate chain.
+elevation.cpp
+UX aborted elevation requirement.
+Failed to create pipe name and client token.
+Failed to create pipe and cache pipe.
+Failed to connect to elevated child process.
+Failed to write action to message buffer.
+Failed to write update action to message buffer.
+Failed to write system restore point action to message buffer.
+Failed to write variables.
+Failed to send message to per-machine process.
+Failed to write engine working path to message buffer.
+Failed to write resume command line to message buffer.
+Failed to write resume flag.
+Failed to write registration operations to message buffer.
+Failed to write dependency registration action to message buffer.
+Failed to write estimated size to message buffer.
+Failed to write resume mode to message buffer.
+Failed to write restart enum to message buffer.
+Failed to write layout directory to message buffer.
+Failed to write payload unverified path to message buffer.
+Failed to send BURN_ELEVATION_MESSAGE_TYPE_LAYOUT_BUNDLE message to per-machine process.
+Failed to write container id to message buffer.
+Failed to write package id to message buffer.
+Failed to write payload id to message buffer.
+Failed to write unverified path to message buffer.
+Failed to write move flag to message buffer.
+Failed to send BURN_ELEVATION_MESSAGE_TYPE_CACHE_OR_LAYOUT_CONTAINER_OR_PAYLOAD message to per-machine process.
+Failed to send BURN_ELEVATION_MESSAGE_TYPE_CACHE_CLEANUP message to per-machine process.
+Failed to write action type to message buffer.
+Failed to write bundle id to message buffer.
+Failed to write dependent provider key to message buffer.
+Failed to send BURN_ELEVATION_MESSAGE_TYPE_PROCESS_DEPENDENT_REGISTRATION message to per-machine process.
+Failed to write rollback.
+Failed to write the list of dependencies to ignore to the message buffer.
+Failed to write the list of ancestors to the message buffer.
+Failed to send BURN_ELEVATION_MESSAGE_TYPE_EXECUTE_EXE_PACKAGE message to per-machine process.
+Failed to write parent hwnd to message buffer.
+Failed to write package log to message buffer.
+Failed to write UI level to message buffer.
+Failed to write feature action to message buffer.
+Failed to write slipstream patch action to message buffer.
+Failed to write rollback flag to message buffer.
+Failed to send BURN_ELEVATION_MESSAGE_TYPE_EXECUTE_MSI_PACKAGE message to per-machine process.
+Failed to write target product code to message buffer.
+Failed to write count of ordered patches to message buffer.
+Failed to write ordered patch order to message buffer.
+Failed to write ordered patch id to message buffer.
+Failed to send BURN_ELEVATION_MESSAGE_TYPE_EXECUTE_MSP_PACKAGE message to per-machine process.
+Failed to write StopWusaService.
+Failed to send BURN_ELEVATION_MESSAGE_TYPE_EXECUTE_MSU_PACKAGE message to per-machine process.
+Failed to send BURN_ELEVATION_MESSAGE_TYPE_EXECUTE_PACKAGE_PROVIDER message to per-machine process.
+Failed to write bundle dependency key to message buffer.
+Failed to send BURN_ELEVATION_MESSAGE_TYPE_EXECUTE_PACKAGE_DEPENDENCY message to per-machine process.
+Failed to write installed ProductCode to message buffer.
+Failed to write installed version to message buffer.
+Failed to send BURN_ELEVATION_MESSAGE_TYPE_LOAD_COMPATIBLE_PACKAGE message to per-machine process.
+Failed to write clean package id to message buffer.
+Failed to send BURN_ELEVATION_MESSAGE_TYPE_CLEAN_PACKAGE message to per-machine process.
+Failed to write approved exe id to message buffer.
+Failed to write approved exe arguments to message buffer.
+Failed to write approved exe WaitForInputIdle timeout to message buffer.
+Failed to send BURN_ELEVATION_MESSAGE_TYPE_LAUNCH_APPROVED_EXE message to per-machine process.
+Failed to create elevated cache thread.
+Failed to pump messages in child process.
+Failed to resume automatic updates after pausing them, continuing...
+Failed to set elevated cache pipe into thread local storage for logging.
+Failed to allowed results.
+Failed to progress.
+Failed to read error code.
+Failed to read message.
+Failed to read file count.
+Failed to allocate buffer for files in use.
+Failed to read file name: %u
+Invalid package message.
+Failed to read MSI data count.
+Failed to allocate buffer to read MSI data.
+Failed to read MSI data: %u
+Failed to read UI flags.
+Failed to read progress.
+Failed to read message type.
+Failed to read approved exe process id.
+Invalid launch approved exe message.
+Unexpected elevated message sent to child process, msg: %u
+Unexpected elevated cache message sent to child process, msg: %u
+Failed to read action.
+Failed to read update action.
+Failed to read system restore point action.
+Failed to read variables.
+Failed to acquire lock due to setup in other session.
+Failed to read engine working path.
+Failed to read resume command line.
+Failed to read resume flag.
+Failed to read registration operations.
+Failed to read dependency registration action.
+Failed to read estimated size.
+Failed to begin registration session.
+Failed to resume registration session.
+Failed to read resume mode enum.
+Failed to read restart enum.
+Failed to suspend registration session.
+Failed to save state.
+Failed to read layout directory.
+Failed to read unverified bundle path.
+Failed to layout bundle from: %ls
+Failed to read package id.
+Failed to find container: %ls
+Failed to find package: %ls
+Failed to read payload id.
+Failed to find payload: %ls
+Failed to read unverified path.
+Failed to read move flag.
+Failed to layout container from: %ls to %ls
+Failed to layout payload from: %ls to %ls
+Failed to cache payload: %ls
+Invalid data passed to cache or layout payload.
+Failed to read action type.
+Failed to read bundle id.
+Failed to read dependent provider key.
+Failed to execute dependent registration action for provider key: %ls
+Failed to read EXE package id.
+Failed to read rollback.
+Failed to read the list of dependencies to ignore.
+Failed to read the list of ancestors.
+Failed to execute EXE package.
+Failed to read MSI package id.
+Failed to read parent hwnd.
+Failed to read package log.
+Failed to read UI level.
+Failed to allocate memory for feature actions.
+Failed to read feature action.
+Failed to allocate memory for slipstream patch actions.
+Failed to read slipstream action.
+Failed to read rollback flag.
+Failed to execute MSI package.
+Failed to read MSP package id.
+Failed to read target product code.
+Failed to read count of ordered patches.
+Failed to allocate memory for ordered patches.
+Failed to read ordered patch order number.
+Failed to read ordered patch package id.
+Failed to find ordered patch package: %ls
+Failed to execute MSP package.
+Failed to read MSU package id.
+Failed to read StopWusaService.
+Failed to execute MSU package.
+Failed to read package id from message buffer.
+Failed to execute package provider action.
+Failed to read bundle dependency key from message buffer.
+Failed to execute package dependency action.
+Failed to read installed ProductCode from message buffer.
+Failed to read installed version from message buffer.
+Failed to copy installed ProductCode.
+Failed to load compatible package.
+Failed to write UI flags.
+Failed to write progress percentage to message buffer.
+Failed to write error code to message buffer.
+Failed to write message to message buffer.
+Failed to count of files in use to message buffer.
+Failed to write file in use to message buffer.
+Failed to send message to per-user process.
+Failed to write MSI data count to message buffer.
+Failed to write MSI data to message buffer.
+Failed to write MSI message type to message buffer.
+Invalid message type: %d
+Failed to remove from cache package: %ls
+Failed to read approved exe id.
+Failed to read approved exe arguments.
+Failed to read approved exe WaitForInputIdle timeout.
+The per-user process requested unknown approved exe with id: %ls
+Failed to open the registry key for the approved exe path.
+Failed to read the value for the approved exe path.
+Failed to verify the executable path is in a secure location: %ls
+The executable path is not in a secure location: %ls
+Failed to launch approved exe: %ls
+Failed to write the approved exe process id to message buffer.
+Failed to send BURN_ELEVATION_MESSAGE_TYPE_LAUNCH_APPROVED_EXE_PROCESSID message to per-user process.
+splashscreen.cpp
+Failed to create modal event.
+Failed to create UI thread.
+Failed to allocate string to display error message
+Failed to load splash screen.
+Failed to register window.
+Failed to create window.
+Failed to load splash screen bitmap.
+uithread.cpp
+Failed to create initialization event.
+Failed to create the UI thread.
+EngineForApplication.cpp
+Invalid argument ppvObject
+Failed to log UX message.
+Application requested to send embedded message when not in embedded mode.
+Failed to write message string to message buffer.
+Failed to write UI hint to message buffer.
+Failed to send embedded message over pipe.
+Application requested to send embedded progress message when not in embedded mode.
+Failed to write overall progress percentage to message buffer.
+Failed to send embedded progress message over pipe.
+Failed to default local update source
+Failed to recreate command-line for update bundle.
+Failed to create bundle update guid.
+Failed to convert bundle update guid into string.
+Failed to set update bundle.
+Engine is active, cannot change engine state.
+UX requested unknown payload with id: %ls
+UX denied while trying to set source on embedded payload: %ls
+Failed to set source path for payload.
+UX requested unknown container with id: %ls
+Failed to set source path for container.
+UX denied while trying to set download URL on embedded payload: %ls
+UX did not provide container or payload id.
+Failed to set download URL.
+Failed to set download user.
+Failed to set download password.
+Failed to set numeric variable.
+UX did not provide variable name.
+Failed to set version variable.
+Failed to post detect message.
+Failed to post plan message.
+Failed to post elevate message.
+Failed to post apply message.
+Failed to post shutdown message.
+UX requested unknown approved exe with id: %ls
+Failed to copy the id.
+Failed to copy the arguments.
+Failed to post launch approved exe message.
+Cannot marshal IBootstrapperEngine interface out of proc.
+Invalid size output parameter is NULL.
+The marshaling stream parameter is NULL.
+Failed to write the stream because the stream is full.
+Failed to write the IBootstrapperEngine interface pointer to the marshaling stream.
+The interface output parameter is NULL.
+Failed to read the IBootstrapperEngine interface pointer from the marshaling stream.
+Failed to allocate new BootstrapperEngineForApplication object.
+Failed to QI for IBootstrapperEngine from BootstrapperEngineForApplication object.
+Failed to convert int64 to string.
+Failed to convert version to string.
+Failed to copy variant.
+Failed to copy variant value.
+Failed to set the variant's encryption state
+Failed to get the size of the string
+The string is too big: size %u
+Failed to resize the string so it could be encrypted
+Failed to decrypt numeric
+Failed to decrypt string
+Failed to copy value.
+Failed to decrypt version
+<the>.cab
+Failed to copy file name.
+cabextract.cpp
+Failed to create begin operation event.
+Failed to create operation complete event.
+Failed to create extraction thread.
+Failed to wait for operation complete.
+Failed to begin and wait for operation.
+Failed to set begin operation event.
+Failed to wait for thread to terminate.
+Failed to reset operation complete event.
+Failed to get extraction thread exit code.
+Failed to wait for operation complete event.
+Failed to initialize cabinet.dll.
+Failed to extract all files from container, erf: %d:%X:%d
+Failed to set operation complete event.
+Failed to wait for begin operation event.
+Failed to reset begin operation event.
+Invalid operation for this state.
+Failed to copy stream name: %ls
+Failed to create file: %ls
+Failed to set file pointer to end of file.
+Failed to set end of file.
+Failed to set file pointer to beginning of file.
+Failed to allocate buffer for stream.
+Failed to duplicate handle to cab container.
+Failed to add virtual file pointer for cab container.
+Failed to open cabinet file: %hs
+Failed to read during cabinet extraction.
+Failed to write during cabinet extraction.
+Unexpected call to CabWrite().
+Invalid seek type.
+Failed to move file pointer 0x%x bytes.
+Failed to allocate memory for the virtual file pointer array.
+Failed to move to virtual file pointer.
+Failed to get @DetectCondition.
+Failed to get @InstallArguments.
+Failed to get @UninstallArguments.
+Failed to get @RepairArguments.
+Failed to get @Repairable.
+Invalid protocol type: %ls
+Failed to get @Protocol.
+Failed to parse exit codes.
+Failed to parse command lines.
+Failed to evaluate executable package detect condition.
+exeengine.cpp
+Invalid package current state: %d.
+Invalid package expected state.
+Failed to plan package cache syncpoint
+Failed to insert execute action.
+Failed to get cached path for package: %ls
+Failed to build executable path.
+Invalid Exe package action: %d.
+Failed to copy package arguments.
+Failed to evaluate executable package command-line condition.
+Failed to separate command-line arguments.
+Failed to get command-line argument for install.
+Failed to get command-line argument for uninstall.
+Failed to get command-line argument for repair.
+Failed to append the list of dependencies to ignore to the command line.
+Failed to append the list of dependencies to ignore to the obfuscated command line.
+Failed to append the list of ancestors to the command line.
+Failed to append the list of ancestors to the obfuscated command line.
+Failed to run bundle as embedded from path: %ls
+Failed to run netfx chainer: %ls
+Bootstrapper application aborted during EXE progress.
+Failed to wait for executable to complete: %ls
+Process returned error: 0x%x
+Failed to select exit code nodes.
+Failed to get exit code node count.
+Failed to allocate memory for exit code structs.
+Invalid exit code type: %ls
+Failed to get @Code.
+Failed to parse @Code value: %ls
+Failed to select command-line argument nodes.
+Failed to get command-line argument count.
+Failed to allocate memory for command-line argument structs.
+Failed to get next command-line argument node.
+Failed to get @InstallArgument.
+Failed to get @UninstallArgument.
+Failed to get @RepairArgument.
+Failed to get @Language.
+Failed to get @DisplayInternalUI.
+Failed to select feature nodes.
+Failed to get feature node count.
+msiengine.cpp
+Failed to allocate memory for MSI feature structs.
+Failed to get @AddLocalCondition.
+Failed to get @AddSourceCondition.
+Failed to get @AdvertiseCondition.
+Failed to get @RollbackAddLocalCondition.
+Failed to get @RollbackAddSourceCondition.
+Failed to get @RollbackAdvertiseCondition.
+Failed to parse properties from XML.
+Failed to select related MSI nodes.
+Failed to get related MSI node count.
+Failed to allocate memory for related MSI structs.
+Failed to parse related MSI element.
+Failed to allocate memory for slipstream MSP packages.
+Failed to allocate memory for slipstream MSP ids.
+Failed to get next slipstream MSP node.
+Failed to parse slipstream MSP ids.
+Failed to select property nodes.
+Failed to get property node count.
+Failed to allocate memory for MSI property structs.
+Failed to get @RollbackValue.
+Failed to convert version: %ls to DWORD64 for ProductCode: %ls
+UX aborted detect related MSI package.
+UX aborted detect compatible MSI package.
+Failed to copy the installed ProductCode to the package.
+Failed to get product information for ProductCode: %ls
+Failed to enum related products.
+Failed to get version for product in user unmanaged context: %ls
+Failed to get version for product in machine context: %ls
+Failed to query feature state.
+Invalid state value.
+UX aborted detect.
+Failed to evaluate requested state conditions.
+Failed to evaluate expected state conditions.
+UX aborted plan MSI feature.
+Failed to calculate execute feature state.
+Failed to calculate rollback feature state.
+Invalid package current state result encountered during plan: %d
+Invalid package detection result encountered.
+Failed to allocate memory for rollback feature actions.
+Failed to allocate memory for compatible MSI package.
+Failed to copy installed ProductCode to compatible package.
+Failed to detect compatible package from provider key.
+Failed to format version number string.
+Failed to read version from compatible package.
+Failed to copy installed ProductCode as compatible package ID.
+Failed to format log path variable for compatible package.
+Failed to format cache ID for compatible package.
+Failed to allocate for compatible package providers.
+Failed to copy the compatible provider key.
+Failed to copy the compatible provider version.
+Failed to build MSI path.
+Failed to initialize external UI handler.
+Failed to enable logging for package: %ls to: %ls
+Failed to add properties to argument string.
+Failed to add obfuscated properties to argument string.
+Failed to add feature action properties to argument string.
+Failed to add feature action properties to obfuscated argument string.
+Failed to add patch properties to argument string.
+Failed to add patch properties to obfuscated argument string.
+Failed to add ADMIN property on admin install.
+Failed to add reboot suppression property on install.
+Failed to install MSI package.
+Failed to add reinstall all property on minor upgrade.
+Failed to add reinstall mode and reboot suppression properties on minor upgrade.
+Failed to perform minor upgrade of MSI package.
+Failed to add reinstall mode and reboot suppression properties on repair.
+Failed to add the list of dependencies to ignore to the properties.
+Failed to run maintanance mode for MSI package.
+Failed to add reboot suppression property on uninstall.
+Failed to uninstall MSI package.
+Failed to format property value.
+Failed to escape string.
+Failed to format property string part.
+Failed to append property string part.
+Failed to get @MinVersion.
+Failed to parse @MinVersion: %ls
+Failed to get @MinInclusive.
+Failed to get @MaxVersion.
+Failed to parse @MaxVersion: %ls
+Failed to get @MaxInclusive.
+Failed to get @OnlyDetect.
+Failed to select language nodes.
+Failed to get language node count.
+Failed to get @LangInclusive.
+Failed to allocate memory for language IDs.
+Failed to get Language/@Id.
+Failed to evaluate add local condition.
+Failed to evaluate add source condition.
+Failed to evaluate advertise condition.
+Failed to concat separator.
+Failed to concat feature.
+Failed to format ADDLOCAL string.
+Failed to concat argument string.
+Failed to format ADDSOURCE string.
+Failed to format ADDDEFAULT string.
+Failed to format REINSTALL string.
+Failed to format ADVERTISE string.
+Failed to format REMOVE string.
+Failed to get cached path for MSP package: %ls
+Failed to build MSP path.
+Failed to prefix with PATCH property.
+Failed to semi-colon delimit patches.
+Failed to append patch path.
+Failed to close the quoted PATCH property.
+Failed to append PATCH property.
+Failed to get directory for path: %ls
+Failed to get @PatchCode.
+Failed to get @PatchXml.
+Failed to get possible target product codes.
+Failed to add target product code to package: %ls
+Failed to get patch information for patch code: %ls, target product code: %ls
+mspengine.cpp
+UX aborted detect target MSI package.
+UX aborted plan target MSI package.
+Failed to plan target product.
+Failed to plan rollack target product.
+Failed to append patch.
+Failed to add properties to obfuscated argument string.
+Failed to add PATCH property on install.
+Failed to add patches to PATCH property on install.
+Failed to install MSP package.
+Failed to uninstall MSP package.
+Failed to create unique target product codes.
+Failed to add product code to possible target product codes.
+Failed to add upgrade product code to possible target product codes.
+Failed to enumerate all products to patch related to upgrade code: %ls
+Failed to add product code to search product codes.
+Failed to enumerate all products on the machine for patches applicability.
+Failed to add possible target code to unique product codes.
+Failed to grow array of possible target products.
+Failed to copy possible target product code.
+Failed to ensure enough target product codes were allocated.
+Failed to copy target product code.
+Failed to plan action for target product.
+Failed grow array of ordered patches.
+Failed to get @KB.
+Failed to evaluate MSU package detect condition.
+msuengine.cpp
+Invalid package state.
+Failed to determine WOW64 status.
+Failed to find Windows directory.
+Failed to append SysNative directory.
+Failed to find System32 directory.
+Failed to allocate WUSA.exe path.
+Failed to build MSU path.
+Failed to format MSU install command.
+Failed to format MSU uninstall command.
+Failed to get action arguments for MSU package.
+Failed to append log switch to MSU command-line.
+Failed to append log path to MSU command-line.
+Failed to ensure WU service was enabled to install MSU package.
+Bootstrapper application aborted during MSU progress.
+Failed to get process exit code.
+Failed to open service control manager.
+Failed to open WU service.
+Failed to query status of WU service.
+Failed to read configuration for WU service.
+Failed to mark WU service to start on demand.
+Failed to set service start type.
+Failed to stop wusa service.
+Failed to select dependency provider nodes.
+Failed to get the dependency provider node count.
+dependency.cpp
+Failed to allocate memory for dependency providers.
+Failed to get the next dependency provider node.
+Failed to get the Key attribute.
+Failed to get the Version attribute.
+Failed to get the DisplayName attribute.
+Failed to get the Imported attribute.
+Failed to get the package provider information.
+Failed to get the package default provider information.
+Failed to get provider key bundle id.
+Failed to initialize provider key bundle id.
+Failed to add the bundle provider key to the list of dependencies to ignore.
+Failed to split the list of dependencies to ignore.
+Failed to join the list of dependencies to ignore.
+Failed to check the dictionary of unique dependencies.
+Failed to add "%ls" to the string dictionary.
+Failed to build the list of ignored dependents.
+Failed to check if "ALL" was set in IGNOREDEPENDENCIES.
+Failed dependents check on package provider: %ls
+Failed to plan the dependency actions for package: %ls
+Failed to append provider rollback action.
+Failed to plan provider checkpoint action.
+Failed to insert provider execute action.
+Failed to append provider execute action.
+Failed to register the package providers.
+Failed to register the dependency on the package provider.
+Failed to format the registration version string.
+Failed to register the bundle dependency provider.
+Failed to register dependent: %ls
+Failed to unregister dependent: %ls
+Unrecognized registration action type: %d
+Failed to add "%ls" to the list of dependencies to ignore.
+Failed to append the string delimiter.
+Failed to append the key "%ls".
+Failed to add the bundle provider key "%ls" to the list of ignored dependencies.
+Failed to add the package provider key "%ls" to the list of ignored dependencies.
+Failed to get the package property: %ls
+Failed to add the authored ignored dependencies to the cumulative list of ignored dependencies.
+Failed to get the provider key package id.
+Failed to copy the provider key.
+Failed to copy the bundle dependency provider.
+Failed to plan dependency checkpoint action.
+Failed to register the package dependency provider: %ls
+Failed to register the dependency on package dependency provider: %ls
+Failed to open uninstall registry key.
+Failed to enumerate uninstall key for related bundles.
+Failed to open uninstall key for potential related bundle: %ls
+Failed to ensure there is space for related bundles.
+Failed to initialize package from related bundle id: %ls
+relatedbundle.cpp
+Failed to allocate list for a single upgrade code from older bundle.
+upgrade codes
+Failed to create string dictionary for %hs.
+Failed to do array search for upgrade code match.
+Failed to do array search for detect code match.
+Failed to do array search for addon code match.
+addon codes
+patch codes
+Failed to do array search for patch code match.
+detect codes
+Failed to read version from registry for bundle: %ls
+Failed to read cache path from registry for bundle: %ls
+Failed to get size of pseudo bundle: %ls
+Failed to read provider key from registry for bundle: %ls
+Failed to copy version for bundle: %ls
+Failed to copy display name for bundle: %ls
+Failed to read tag from registry for bundle: %ls
+Failed to initialize related bundle to represent bundle: %ls
+detect.cpp
+BA aborted detect forward compatible bundle.
+Failed to initialize update bundle.
+Unexpected relation type encountered: %d
+BA aborted detect related bundle.
+UX aborted detect update begin.
+Failed to detect atom feed update.
+Failed to allocation error string.
+Failed to create UpdateFeed based on current system time.
+Failed to copy update url.
+Failed attempt to download update feed from URL: '%ls' to: '%ls'
+Failed to initialize Atom.
+Failed to download update feed.
+Failed to parse update atom feed: %ls.
+Failed to allocate update chain from atom feed.
+Failed to set the bundle forced restart package built-in variable.
+apply.cpp
+UX aborted register begin.
+Failed to resume registration session in per-machine process.
+Failed to calculate working path for engine.
+Failed to begin registration session in per-machine process.
+Failed to end session in per-machine process.
+Failed to end session in per-user process.
+UX aborted cache.
+Failed to set syncpoint event.
+BA aborted execute begin.
+Failed to execute dependent registration action.
+Failed to process dependency registration action.
+Failed to open container: %ls.
+Failed to extract payload: %ls from container: %ls
+Failed to skip the extraction of payload: %ls from container: %ls
+Failed to extract all payloads from container: %ls
+Failed to get path to bundle source process path to layout.
+Failed to get path to bundle to layout.
+Failed to concat layout path for bundle.
+Failed to determine if layout bundle path was equivalent with current process path.
+BA aborted cache acquire begin.
+Failed to copy bundle from: '%ls' to: '%ls'
+UX aborted cache verify begin.
+Failed to layout bundle: %ls to layout directory: %ls
+Failed to search local source.
+Failed to determine if payload source path was equivalent to the destination path.
+Failed while prompting for source (original path '%ls').
+BA aborted cache download payload begin.
+Failed to acquire payload from: '%ls' to working path: '%ls'
+Failed to find external payload to cache.
+container
+payload
+BA aborted verify of %hs: %ls
+Failed to clear readonly bit on payload destination path: %ls
+BA aborted copy of payload from: '%ls' to: %ls.
+Failed attempt to copy payload from: '%ls' to: %ls.
+download
+Failed attempt to download URL: '%ls' to: '%ls'
+Cache thread exited unexpectedly.
+Failed to wait for cache check-point.
+Failed to execute package provider registration action.
+Failed to execute dependency action.
+Failed to execute compatible package action.
+Invalid execute action.
+Invalid rollback action: %d.
+UX aborted execute EXE package begin.
+UX aborted EXE progress.
+Failed to configure per-machine EXE package.
+Failed to configure per-user EXE package.
+UX aborted EXE package execute progress.
+UX aborted execute MSI package begin.
+Failed to configure per-machine MSI package.
+Failed to configure per-user MSI package.
+UX aborted MSI package execute progress.
+UX aborted execute MSP package begin.
+BA aborted execute MSP target.
+Failed to configure per-machine MSP package.
+Failed to configure per-user MSP package.
+UX aborted MSP package execute progress.
+UX aborted execute MSU package begin.
+UX aborted MSU progress.
+Failed to configure per-machine MSU package.
+UX aborted MSU package execute progress.
+Failed to register the package provider on per-machine package.
+Failed to register the package provider on per-user package.
+Failed to register the dependency on per-machine package.
+Failed to register the dependency on per-user package.
+Failed to load compatible package on per-machine package.
+Failed to load manifest as XML document.
+Failed to get bundle element.
+Failed to get Log element.
+Failed to get Log/@PathVariable.
+Failed to get Log/@Prefix attribute.
+Failed to get Log/@Extension attribute.
+Failed to get chain element.
+Failed to get Chain/@DisableRollback
+Failed to get Chain/@DisableSystemRestore
+Failed to get Chain/@ParallelCache
+Failed to parse global condition.
+Failed to parse variables.
+Failed to parse searches.
+Failed to parse user experience.
+Failed to parse catalog files.
+Failed to parse registration.
+Failed to parse update.
+Failed to parse containers.
+Failed to parse payloads.
+Failed to parse packages.
+Failed to parse approved exes.
+pseudobundle.cpp
+Failed to allocate space for burn package payload inside of related bundle struct
+Failed to allocate space for burn payload inside of related bundle struct
+Failed to copy key for pseudo bundle payload.
+Failed to copy filename for pseudo bundle.
+Failed to copy local source path for pseudo bundle.
+Failed to copy download source for pseudo bundle.
+Failed to allocate memory for pseudo bundle payload hash.
+Failed to copy key for pseudo bundle.
+Failed to copy cache id for pseudo bundle.
+Failed to copy install arguments for related bundle package
+Failed to append relation type to install arguments for related bundle package
+Failed to copy repair arguments for related bundle package
+Failed to append relation type to repair arguments for related bundle package
+Failed to copy uninstall arguments for related bundle package
+Failed to append relation type to uninstall arguments for related bundle package
+Failed to copy version for pseudo bundle.
+Failed to copy display name for pseudo bundle.
+Failed to allocate space for burn package payload inside of passthrough bundle.
+Failed to copy key for passthrough pseudo bundle payload.
+Failed to copy filename for passthrough pseudo bundle.
+Failed to copy local source path for passthrough pseudo bundle.
+Failed to copy download source for passthrough pseudo bundle.
+Failed to copy key for passthrough pseudo bundle.
+Failed to copy cache id for passthrough pseudo bundle.
+Failed to recreate command-line arguments.
+Failed to copy install arguments for passthrough bundle package
+Failed to copy related arguments for passthrough bundle package
+Failed to copy uninstall arguments for passthrough bundle package
+Failed to create embedded pipe name and client token.
+Failed to create embedded pipe.
+Failed to allocate embedded command.
+embedded.cpp
+Failed to create embedded process at path: %ls
+Failed to wait for embedded process to connect to pipe.
+Failed to process messages from embedded message.
+Failed to wait for embedded executable: %ls
+Failed to process embedded error message.
+Failed to process embedded progress message.
+Unexpected embedded message sent to child process, msg: %u
+Failed to read error code from buffer.
+Failed to read error message from buffer.
+Failed to read UI hint from buffer.
+Failed to read progress from buffer.
+NetFxChainer.cpp
+Failed to allocate memory for NetFxChainer struct.
+Failed to create event: %ls
+failed to allocate memory for event name
+failed to allocate memory for mutex name
+Failed to create mutex: %ls
+Failed to memory map cabinet file: %ls
+Failed to MapViewOfFile for %ls.
+failed to copy event name to shared memory structure.
+Failed to allocate memory for message data
+Failed to allocate buffer.
+Failed to get message from netfx chainer.
+Failed to send files in use message from netfx chainer.
+Failed to create netfx chainer guid.
+Failed to convert netfx chainer guid into string.
+Failed to allocate section name.
+Failed to allocate event name.
+Failed to create netfx chainer.
+Failed to allocate netfx chainer arguments.
+Failed to get netfx return code.
+Failed to process netfx chainer message.
+Failed to wait for netfx chainer process to complete
+k"bitsengine.cpp
+Failure while sending progress during BITS job transferred.
+Failed to get error context.
+Failed to get state during job modification.
+Failure while sending progress during BITS job modification.
+Failed while waiting for download.
+Failed to get progress when BITS job was transferred.
+Failed to send progress from BITS job.
+Failed to get BITS job state.
+Failure while sending progress.
+Failed to create BITS job complete event.
+Invalid BITS engine URL: %ls
+Failed to copy download URL.
+Failed to create BITS job.
+Failed to set credentials for BITS job.
+Failed to add file to BITS job.
+Failed to create BITS job callback.
+Failed to initialize BITS job callback.
+Failed to set callback interface for BITS job.
+Falied to start BITS job.
+Failed while waiting for BITS download.
+Failed to download BITS job.
+Failed to complete BITS job.
+|Failed to create IBackgroundCopyManager.
+Failed to set notification flags for BITS job.
+Failed to set progress timeout.
+Failed to set BITS job to foreground.
+Failed to set background copy NTLM credentials
+Failed to set background copy negotiate credentials
+Unknown exception
+bad allocation
+bad array new length
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator "" 
+operator co_await
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+`h````
+xpxxxx
+(null)
+CorExitProcess
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+NAN(SNAN)
+nan(snan)
+NAN(IND)
+nan(ind)
+GetCurrentPackageId
+LCMapStringEx
+LocaleNameToLCID
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+[aOni*{
+~ $s%r
+@b;zO]
+v2!L.2
+1#QNAN
+1#SNAN
+?5Wg4p
+%S#[k=
+"B <1=
+_hypot
+_nextafter
+Cabinet.dll
+CRYPT32.dll
+msi.dll
+WININET.dll
+WINTRUST.dll
+buffutil.cpp
+SystemFunction040
+SystemFunction041
+CryptProtectMemory
+cryputil.cpp
+CryptUnprotectMemory
+unknown
+warning
+standard
+verbose
+logutil.cpp
+--- logging level: %hs ---
+Error 0x%x: %ls
+=== Logging started: %ls ===
+Executable: %ls v%d.%d.%d.%d

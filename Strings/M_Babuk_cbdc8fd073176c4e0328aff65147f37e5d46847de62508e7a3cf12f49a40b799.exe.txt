@@ -1,0 +1,116 @@
+!This program cannot be run in DOS mode.
+`.data
+.idata
+@.reloc
+B.rsrc
+Press 'OK' to start decryption process!
+DoYouWantToHaveSexWithCoungDong
+DoYouWantToHaveSexWithCoungDong
+Your files decrypted, bye!
+AQLwH'
+.rdata
+.rdata$zzzdbg
+.text$mn
+.idata$5
+.00cfg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+GetCommandLineW
+CreateFileW
+DeleteFileW
+FindClose
+FindFirstFileW
+FindNextFileW
+GetDriveTypeW
+GetFileSizeEx
+GetLogicalDrives
+ReadFile
+SetEndOfFile
+SetFilePointerEx
+WriteFile
+CloseHandle
+CreateMutexA
+WaitForMultipleObjects
+ExitProcess
+CreateThread
+ExitThread
+SetProcessShutdownParameters
+GetSystemInfo
+lstrcmpW
+lstrcmpiW
+lstrcpyW
+lstrcatW
+lstrlenW
+OpenMutexA
+MoveFileExW
+HeapAlloc
+HeapFree
+GetProcessHeap
+InitializeCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+ReleaseSemaphore
+WaitForSingleObject
+CreateSemaphoreA
+KERNEL32.DLL
+MessageBoxA
+MessageBoxW
+USER32.dll
+CommandLineToArgvW
+SHEmptyRecycleBinA
+SHELL32.dll
+NetShareEnum
+NetApiBufferFree
+NETAPI32.dll
+WNetGetConnectionW
+WNetOpenEnumW
+WNetEnumResourceW
+WNetCloseEnum
+MPR.dll
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+IsProcessorFeaturePresent
+a``Bome
+a``Bome
+a``Bome
+a``Bome
+a``Bome
+a``Bome
+Windows
+Windows.old
+Tor Browser
+Internet Explorer
+Google
+Opera Software
+Mozilla
+Mozilla Firefox
+$Recycle.Bin
+ProgramData
+All Users
+autorun.inf
+boot.ini
+bootfont.bin
+bootsect.bak
+bootmgr
+bootmgr.efi
+bootmgfw.efi
+desktop.ini
+iconcache.db
+ntuser.dat
+ntuser.dat.log
+ntuser.ini
+thumbs.db
+ecdh_pub_k.bin
+Program Files
+Program Files (x86)
+Key broken!
+.babyk
+\How To Restore Your Files.txt
+ADMIN$
+gtestfile
+shares
+before

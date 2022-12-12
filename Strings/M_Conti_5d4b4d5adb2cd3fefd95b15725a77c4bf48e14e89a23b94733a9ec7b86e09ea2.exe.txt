@@ -1,0 +1,1099 @@
+!This program cannot be run in DOS mode.
+pRich*
+`.rdata
+@.data
+L$|RPQ
+V#D$8SP
+tQVWSU
+L$@_^][d
+L$(_^]d
+L$8_^][d
+\$DUV3
+tQVWUS
+L$@_^][d
+T$$Rj<P
+L$`_^][d
+j[hxDB
+L$(_^d
+L$(_^d
+D$ htNB
+T$ hXOB
+L$ hXOB
+L$$hXOB
+L$0_^][d
+RQhXOB
+T$ h$OB
+QRhXOB
+L$0_^][d
+F$@;F(v
+F$@@;F(v
+QQSVWd
+t.;t$$t(
+vBWSSSj
+uRFGHt
+sO;>|C;~
+8t9UW
+SS@SSPVSS
+t#SSUP
+t$$VSS
+_^][YY
+VC20XC00U
+PPPPPPPP
+PPPPPPPP
+PPPPPPPP
+HHtpHHtl
+QQSVWj
+>:uNFV
+>:u#FV
+VWuBh(
+HSVHWtgHHtF
+YYF;5`
+t/WWUPj
+tFGQPS
+QQSVW3
+D$0f9D$,t
+T$ PQR
+\$XRSVP
+T$XPRV
+T$ )L$$j
+L$4+D$$
+L$,+D$ Q+
+D$49D$ u
+tSf@f=
+t$4SWV
+\$4USWVj
+l$8USWVj
+\$8USWV
+\$4USWVj
+\$4USWVP
+L$0QSWPV
+D$,+D$$PSQRV
+T$(QRV
+T$$PQRV
+D$,+D$$PQRV
+\$<PQSV
+D$8+D$0+D$(
+D$$+D$
+L$DPQSV
+;D$0u,
+D$8QRPV
+D$D+D$<PQRV
+D$HSQRPVW
+T$dPQRV
+L$TPQh
+T$lQRV
+D$LQPV
+T$lQRV
+T$dPQRV
+D$P+D$H+D$@
+t$dSWV
+\$dPSWVj
+\$dPSWVj
+\$dPSWVj
+D$h]_^[
+t$PWUj
+D$H+D$@
+D$$UPS
+\$,PWVSVt
+|$4QRVW
+T$@PQVWRW
+T$@PQVWRW
+L$8PQVWSW
+T$@QPVWRW
+L$(9L$
+D$<_^[
+t$ WUj
+t$XSWV
+\$XPSWVj
+\$XPSWVj
+D$\_^[
+|$(t@<#u
+9|$(u*V
+nt2Ht#Ht
+F\jLSP
+u$SShe
+Wj(_Wj
+PPPPhd
+tvWWWWU
+F,_^][
+(wqt\HHtS
+t>Ht Ht
+hWj@_;
+QSUVWj
+n0SSSSU
+_SSSSU
+Ph_^][Y
+tD9_Pt?
+^$_^[]
+F(_+F$^[;E
+<A|2<Z
+<A|@<Z
++tJHt:Ht*
+PWVWWW
+^,_^][
+CTempWnd
+AfxOldWndProc423
+AfxWnd42s
+AfxControlBar42s
+AfxMDIFrame42s
+AfxFrameOrView42s
+AfxOleControl42s
+GetMonitorInfoA
+EnumDisplayMonitors
+MonitorFromPoint
+MonitorFromRect
+MonitorFromWindow
+GetSystemMetrics
+USER32
+DISPLAY
+commctrl_DragListMsg
+InitCommonControlsEx
+COMCTL32.DLL
+CComboBox
+CButton
+CStatic
+CCmdTarget
+CTempGdiObject
+CTempDC
+CBitmap
+CBrush
+CGdiObject
+CClientDC
+CUserException
+CResourceException
+CStringArray
+CToolTipCtrl
+tooltips_class32
+CWinApp
+PreviewPages
+Settings
+CWinThread
+CDialog
+MS Sans Serif
+MS Shell Dlg
+software
+CFileDialog
+CNotSupportedException
+CMemoryException
+CException
+combobox
+CMapPtrToPtr
+CTempMenu
+CObject
+CMapStringToPtr
+System
+commdlg_SetRGBColor
+commdlg_help
+commdlg_ColorOK
+commdlg_FileNameOK
+commdlg_ShareViolation
+commdlg_LBSelChangedNotify
+CArchiveException
+MSWHEEL_ROLLMSG
+H:mm:ss
+dddd, MMMM dd, yyyy
+M/d/yy
+December
+November
+October
+September
+August
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+- unable to initialize heap
+- not enough space for lowio initialization
+- not enough space for stdio initialization
+- pure virtual function call
+- not enough space for _onexit/atexit table
+- unable to open console device
+- unexpected heap error
+- unexpected multithread lock error
+- not enough space for thread data
+abnormal program termination
+- not enough space for environment
+- not enough space for arguments
+- floating point not loaded
+Microsoft Visual C++ Runtime Library
+Runtime Error!
+Program: 
+<program name unknown>
+`h````
+ppxxxx
+(null)
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+user32.dll
+FButton
+ListBox
+ComboBox
+Static
+ComboLBox
+MultiByteToWideChar
+LocalFree
+LocalAlloc
+FreeLibrary
+LoadLibraryA
+GetWindowsDirectoryA
+lstrcpyA
+WinExec
+lstrlenA
+lstrcatA
+GetProcAddress
+LoadLibraryW
+VirtualAlloc
+GetModuleHandleA
+GlobalDeleteAtom
+GlobalFindAtomA
+GlobalAddAtomA
+lstrcmpiA
+GlobalGetAtomNameA
+GetCurrentThreadId
+GetVersion
+LockResource
+LoadResource
+FindResourceA
+InterlockedDecrement
+SetLastError
+MulDiv
+GlobalUnlock
+GlobalLock
+InterlockedIncrement
+WideCharToMultiByte
+GetModuleFileNameA
+GetCurrentThread
+lstrcmpA
+GlobalAlloc
+CloseHandle
+GlobalFree
+GetPrivateProfileIntA
+GetPrivateProfileStringA
+WritePrivateProfileStringA
+lstrcpynA
+GetLastError
+InitializeCriticalSection
+TlsAlloc
+DeleteCriticalSection
+GlobalHandle
+TlsFree
+LeaveCriticalSection
+GlobalReAlloc
+EnterCriticalSection
+TlsSetValue
+LocalReAlloc
+TlsGetValue
+GlobalFlags
+GetProcessVersion
+GetCPInfo
+GetOEMCP
+GetCurrentDirectoryA
+SizeofResource
+SetErrorMode
+GetCurrentProcess
+WriteFile
+SetFilePointer
+FlushFileBuffers
+FindClose
+FindFirstFileA
+GetFullPathNameA
+FileTimeToSystemTime
+FileTimeToLocalFileTime
+RtlUnwind
+GetDriveTypeA
+HeapAlloc
+GetStartupInfoA
+GetCommandLineA
+ExitProcess
+RaiseException
+HeapFree
+TerminateProcess
+HeapSize
+HeapReAlloc
+GetACP
+GetTimeZoneInformation
+HeapDestroy
+HeapCreate
+VirtualFree
+IsBadWritePtr
+UnhandledExceptionFilter
+FreeEnvironmentStringsA
+FreeEnvironmentStringsW
+GetEnvironmentStrings
+GetEnvironmentStringsW
+SetHandleCount
+GetStdHandle
+GetFileType
+SetUnhandledExceptionFilter
+LCMapStringA
+LCMapStringW
+GetStringTypeA
+GetStringTypeW
+IsBadReadPtr
+IsBadCodePtr
+SetStdHandle
+CompareStringA
+CompareStringW
+SetEnvironmentVariableA
+KERNEL32.dll
+LoadImageA
+InvalidateRect
+ReleaseCapture
+PtInRect
+GetClientRect
+SetCapture
+GetCapture
+GetParent
+GetActiveWindow
+DrawStateA
+SendMessageA
+OffsetRect
+DrawFocusRect
+GetSysColor
+FillRect
+InflateRect
+FrameRect
+CopyRect
+GetWindowLongA
+TabbedTextOutA
+DrawTextA
+GrayStringA
+EnableWindow
+SetWindowTextA
+GetSystemMetrics
+MessageBeep
+RedrawWindow
+SetCursor
+SetWindowLongA
+IsWindow
+ReleaseDC
+GetWindowRect
+CopyIcon
+LoadCursorA
+FindWindowA
+GetWindowPlacement
+IsIconic
+SystemParametersInfoA
+IntersectRect
+RegisterWindowMessageA
+SetWindowPos
+GetWindow
+SetForegroundWindow
+GetForegroundWindow
+GetLastActivePopup
+GetMessagePos
+GetMessageTime
+RemovePropA
+CallWindowProcA
+GetPropA
+UnhookWindowsHookEx
+SetPropA
+GetClassLongA
+CallNextHookEx
+SetWindowsHookExA
+CreateWindowExA
+DestroyWindow
+DefWindowProcA
+GetKeyState
+GetDlgCtrlID
+GetWindowTextA
+GetWindowTextLengthA
+GetDlgItem
+GetMenuItemID
+GetSubMenu
+GetMenuItemCount
+GetMenu
+RegisterClassA
+GetClassInfoA
+wsprintfA
+WinHelpA
+MessageBoxA
+GetTopWindow
+IsWindowVisible
+ScreenToClient
+AdjustWindowRectEx
+SetFocus
+SetActiveWindow
+GetFocus
+DispatchMessageA
+PeekMessageA
+MapWindowPoints
+SendDlgItemMessageA
+UpdateWindow
+PostMessageA
+LoadIconA
+SetDlgItemTextA
+IsDialogMessageA
+MoveWindow
+ShowWindow
+IsWindowEnabled
+GetNextDlgTabItem
+EnableMenuItem
+CheckMenuItem
+SetMenuItemBitmaps
+ModifyMenuA
+GetMenuState
+LoadBitmapA
+GetMenuCheckMarkDimensions
+ClientToScreen
+GetWindowDC
+BeginPaint
+EndPaint
+WindowFromPoint
+GetCursorPos
+PostQuitMessage
+ValidateRect
+TranslateMessage
+GetMessageA
+CreateDialogIndirectParamA
+EndDialog
+GetClassNameA
+GetSysColorBrush
+DestroyMenu
+LoadStringA
+USER32.dll
+BitBlt
+SelectObject
+CreateCompatibleDC
+CreateCompatibleBitmap
+PtVisible
+RectVisible
+TextOutA
+ExtTextOutA
+Escape
+GetTextExtentPoint32A
+GetStockObject
+CreateFontIndirectA
+GetObjectA
+GetClipBox
+SetTextColor
+SetBkColor
+CreateBitmap
+DeleteDC
+SaveDC
+RestoreDC
+SetBkMode
+SetMapMode
+SetViewportOrgEx
+OffsetViewportOrgEx
+SetViewportExtEx
+ScaleViewportExtEx
+SetWindowOrgEx
+SetWindowExtEx
+ScaleWindowExtEx
+IntersectClipRect
+MoveToEx
+LineTo
+DeleteObject
+GetDeviceCaps
+CreatePen
+CreateSolidBrush
+GDI32.dll
+GetSaveFileNameA
+GetOpenFileNameA
+comdlg32.dll
+ClosePrinter
+DocumentPropertiesA
+OpenPrinterA
+WINSPOOL.DRV
+RegCloseKey
+RegQueryValueA
+RegOpenKeyExA
+RegCreateKeyExA
+RegQueryValueExA
+RegSetValueExA
+RegDeleteValueA
+RegDeleteKeyA
+ADVAPI32.dll
+SHGetPathFromIDListA
+SHBrowseForFolderA
+SHGetDesktopFolder
+SHGetMalloc
+DragFinish
+DragQueryFileA
+ShellExecuteA
+DragAcceptFiles
+SHELL32.dll
+COMCTL32.dll
+OleInitialize
+OleUninitialize
+CoCreateInstance
+ole32.dll
+GetProfileStringA
+IsWindowUnicode
+CharNextA
+DefDlgProcA
+ExcludeUpdateRgn
+ShowCaret
+HideCaret
+UnregisterClassA
+PatBlt
+GetTextExtentPointA
+CreateDIBitmap
+OLE initialization failed. Make sure that the OLE libraries are the correct version
+\winhlp32.exe
+Unable to open hyperlink:
+Unknown Error (%d) occurred.
+A sharing violation occurred. 
+There was not enough memory to complete the operation.
+There is no application associated
+with the given filename extension.
+The specified dynamic-link library was not found.
+The DDE transaction could not
+be completed because the request timed out.
+The DDE transaction failed.
+The DDE transaction could not
+be completed because other DDE transactions
+were being processed.
+The filename association is
+incomplete or invalid.
+The operating system denied
+access to the specified file.
+The .EXE file is invalid
+(non-Win32 .EXE or error in .EXE image).
+The specified file was not found.
+The specified path was not found.
+The operating system is out
+of memory or resources.
+\shell\open\command
+Codeguru samples
+b<>(_wNT@T&7ZC&pIOqzx_B*8Pe7eQQR%sAUCbk$SS!O$rxxL@bhVuuuw+ypRo8iw_gn@?RvTbv!hGRbxl#d(veB_+
+koooo6
+_oooo6
+[oooo6
+Soooo'
+Ooooo6
+goooo~&
+t3(sooo0Po
+|3'sooo@O
+?'pooo
+2;;;;;;;;
+v'mnnnZq
+kooooZ
+2;;;;;;;;;;;;;;
+y'poooX
+cooooZ
+v'poooZvX
+2;;;;;;;;;;;;;;;
+kooooZ
+2;;;;;;;;;;;;;;
+goooo6
+2;;;;;;;;;;
+_'wooo
+kooooZx
+2;;;;;
+2;;;;;;;;
+goooo6
+Soooo6
+[oooo6
+cooooZx
+tSlnnZ76
+_ooooZx
+|Smnnr
+tSlnnr@
+|SmnnZ
+goooo6
+WooooZx
+tSmnnr
+Smnnr7
+2;;;;;;;;;C:\Program Files\Microsoft Visual Studio\Common\Tools\WINDIFF.EXE
+ Select file 1
+All Files (*.*) |*.*||
+ Select file 2
+Choose directory 1
+Choose directory 2
+ Search for WinDiff
+WinDiff.exe|WinDiff.exe|Executables (*.exe) |*.exe| All Files (*.*) |*.*||
+You must specify two files or two directories
+Unable to run WinDiff - check the location of the WinDiff executable
+"%s" %s "%s" "%s"
+WinDiffViewerClass
+WinDiff
+Please locate WinDiff.exe
+Expanded
+WinDiff Location
+Recurse
+Outline
+Selection 2
+File 2:%d
+File 2 Count
+Selection 1
+File 1:%d
+Settings
+File 1 Count
+mailto:YPBLAZE@aol.com?Subject=WinDiff front end
+mailto:cmaunder@mail.com?Subject=WinDiff front end
+.?AVCObject@@
+.?AVCCmdTarget@@
+.?AVCWnd@@
+.PAVCException@@
+.?AVCCmdUI@@
+.?AVCTestCmdUI@@
+.PAVCUserException@@
+.?AVCTempWnd@@
+.?AVCNoTrackObject@@
+.?AV_AFX_CTL3D_STATE@@
+.?AVCStatic@@
+.?AVCButton@@
+.?AVCComboBox@@
+.?AVCEdit@@
+.?AV_AFX_THREAD_STATE@@
+.?AVAFX_MODULE_STATE@@
+.?AVAFX_MODULE_THREAD_STATE@@
+.?AV_AFX_BASE_MODULE_STATE@@
+.?AVCDC@@
+.?AVCClientDC@@
+.?AVCGdiObject@@
+.?AVCPen@@
+.?AVCBrush@@
+.?AVCTempDC@@
+.?AVCTempGdiObject@@
+.PAVCObject@@
+.PAVCSimpleException@@
+.PAVCResourceException@@
+.?AVCException@@
+.?AVCSimpleException@@
+.?AVCResourceException@@
+.?AVCUserException@@
+.?AVCStringArray@@
+.?AVCToolTipCtrl@@
+.?AV_AFX_WIN_STATE@@
+.?AVCWinThread@@
+.?AVCWinApp@@
+.?AV_AFX_CTL3D_THREAD@@
+.?AVCDialog@@
+.?AVCCommonDialog@@
+.?AVCFileDialog@@
+.PAVCMemoryException@@
+.PAVCNotSupportedException@@
+.?AVCMemoryException@@
+.?AVCNotSupportedException@@
+.?AUCThreadData@@
+.?AVCHandleMap@@
+.?AVCMapPtrToPtr@@
+.?AVCMenu@@
+.?AVCTempMenu@@
+.PAVCArchiveException@@
+.?AVCMapStringToPtr@@
+.?AVCArchiveException@@
+.?AVtype_info@@
+hangeul
+english
+hangeulmenu
+kanjimenu
+windows
+C3dHNew
+C3dLNew
+C3dNew
+#32770
+DisableThreadLibraryCalls
+KERNEL32.DLL
+,H|[$c
+4h_uu%
+^<eGL"
+mGZ\xiG
+8+3dkp]
+`MB68^(
+!\YHx91
+DZ)1lK
+Fbw}Hqf
+*.&[ej
+2p]9<)k<M
+vSK+'E
+;^l,gO
+o~Q:uqP
+^\:z>uPB
+gT1Q"y2s
+yD2T.O
+|br3}N
+Mj;cM_c
++<l*^I
+X~D&9rO_[
+\'3b'JT;D_v
+cKx$(JK
+l?Vg'?,
+l,StB/4f
+S'!7y`
+}LwBai
+rX\SIW
+wj]A7l
+']0Q_)
+jSo<@U
+<h':~K_[
+NI'4\4]
+gLqo=#'$B
+-x;UJ8
+:iEa@H0,
+%W2t{n{
+C(#%/c
+3-)fTdL
+irBX2,u
+HG?$]{
+@c*%QV
+{LB)l#
+`)>cEl
+d{ c;e=
+E/s:w&
+N,~~y9
+0C,f F
+$MSV]P
+0JtE*|FF{
+[}3!WNf
+tznL*M^
+-"c#sT/
+x%d6xb2V
+vOY]S9
+ZqG23B&U
+^1M+EN 
+"JuK$Sx
+cvRr)l
+hMX,'"
+`P;cRP%
+{Ij^Ii}
+]dk6]1
+wRWam$.Z? D6
+-Swh^5
+|&+n_\/
+v16avIA*
+[;Foou
+FB3xpu
+u&4_![
+c4{/jK
+#3=SKj
+9[R/l*
+75M]|l
+XA"TrP#
+e%Tc9N-hT
+C#7b2J;
+aqD+0(
+{}-mit
+oo_F%)n+
+6I2z?
+I. gS 
+YWxG(pRT-s
+V%Z4g:e
+ <ijB7
+_$7fqKB&
+/=Swg^
+n+c[08
+31jcbo
+NR[qy_
+v^`Pw5
+e)79y
+5sZk>78I
+z(2I w
+_h=HS(&pG
+rM$.'@
+wM.f o[|
+DiKU1+
+)o?m3I
+0i1-`A
+8#ocn,V_
+{[]7^x
+/Pd_W|
+xe"uzus
+GsBZL(
+YqP*YBL#
+^!hZUE
+]&O8ZK
+7S!Os8$
+fLLY9?
+}SBzfy9
+VRTm`4
+\t#1B^
+x>]Hcv
+\XjXKB
+7jY\mfb
+G%N9Pw
+J5JDn]
+WkG_cI5
+`*IO @
+(7Pv~ 
+lM6oi>
+!R}hA@
+.Eug!M
+nTHz @
+"sy*7:
+Rt=f}U
+|2`&.6
+uL#g&96
+`q3yIG;
+<!f};(=
+1)O]:{e
+\0v{M2t
+T+SR$H
+pu,\hLv{/
+[,._jE
+)vJ_GT
+>Hp\7W
+\`s[xx
+^=&wyY
+I6De)'
+YQ@A05@'
+1N@QY+
+F :V Sn5
+#CSS4n
+Qb`#VPn
+y3!K2H
+h>eS.QALwc>U
+>j%qf>H
+&@Efxx
+RU7HV#
+Y>-mpH
+Zf(Y+>
+8T1;VW
+aL"%R2J
+lMmJ71.c
+SiMCn&$
+.6N]Ch
+sqh:~l
+(oGfm<
+L5D >+k
+y'YhP$
+v=dA5KS
+c%O[?L
+1#eNHQ
+S?ir(|
+,9xQ@
+"``3em
+y[/Cf>
+I^R36LY
+f+K^ O
+N*Kx4f
+,K'\ L
+MUdlJM
+CpO;`c~-
+/%L/:D
+Utt$Ja
+Sja7|9
+}k~=e.
+TTG,e
+^vJL\2
+f6 b)G
+chMO9S
+#S9+[P$
+k}_GMm
+=klMCQB
+E9pArZ
+bL+@|s;Z
+3UoMh_'&
+Uwi3cX
+[x26{5
+zg+HR/
+CH:1|8
+Y:&Rw&]
+2K@?N1
+z^<m5 ;
+&CL/=Q
+%?%Lwh
+C<&^w+(9
+C'Efo{
+WMN4<F
+Tych%{$
+Hm)T!Y%5[q
+ty]R_8x}
+Aq*#,B
+U!,D|>5
+?1y~HW
+w1F`%BO
+}h'72f
+Rt\V-Z
+1U',5xm
+6h&FtJ]
+f("ED4
+S:DxZbx
+j3S#nY!9z;
+7c0mi-
+V8m5(?Mh
+5#'&y
+Lylj/{
+\7=xQ
+s3#>eX
+FzS>-D
+DIDkx
+o"3AlD
+AXQ<+0
+e{"r7/
+wQTEai
+6d>t?}?
+x>cK*a
+#P-O$Z
+Z_uIYRf
+h7ck'35H
+Wdm'$n]4'
+{dXoHXV
+vy\N`g
+o4ed4N>I`g!
+ehCxn&
+eFI"ALS
+,^);Zk
+'cLH`E!w
+^|'cOH
+X3sUj*
+3y7>o@
+.OxF1E
+Vg3C>y
+:@3>]tIR
+!W'7>1M
+mCfq.x
+50O{wl
+2OIE]%=>
+ `xXXZ
+#5d_p
+]g5fpV
+J3MGka.
+8go)hh
+H)]pP$
+[a09~+r
+G?}tubW
+\_[gx*
+Ck"&aot+#V`
+BK=K'8
+m~i"N5
+%\/kX~
+"'>92
+IxBZP^3
+&4e1MI
+lVIZAT
+|(`NHV
+&[t?c^
+eeJ-* 
+O9XxF0
+x5M_FT
+qx$F^y
+n9vEd\
+'f8f,0Lv
+#'jJ'5P&
+>o1-j>[c
+\]G%W)2
+>qJw$EX
+ozX*l|
++maIe~
+l<aV1X
+Q26uj$
+u*Y;wo3
+Bi:BlT
++,}DKkc
+NL>EYx|N8&?
+-]4i,GfHO
+E5:v!H
+xk^==S
+(V5MCB
+**$Nq|v
+yo=S,C,
+[e2>UB4
+w}a<<c3
+uxu Os
+>=J"pJr
+nInm3Z
+dJx?+<
+9DjTf"
+->J8@<a&`
+i>\OG-
+]+#mNG
+YC,Ta{
+&W2X1
+Ds`IG|
+C4p=AFI)ar
+JB!s&<
+Bg[CeFV
+"#3"" 
+wwwwww
+wwwwww
+wwwwww
+wwwwww
+wwwwww
+wwwwww
+wwwwww
+wwwwww
+(null)
+ADVAPI32.DLL
+         (((((                  H
+ WinDiff UI
+MS Sans Serif
+Outline only
+WinDiff location:
+Recursive
+ WinDiffUI - Build: 061198-01
+MS Sans Serif
+Copyright 
+Authors: 
+WinDiff Interface
+Chris Maunder
+Daniel Lyons
+VS_VERSION_INFO
+StringFileInfo
+040904B0
+CompanyName
+FileDescription
+RunWinDiff MFC Application
+FileVersion
+1, 0, 0, 1
+InternalName
+RunWinDiff
+LegalCopyright
+Copyright (C) 1998
+LegalTrademarks
+OriginalFilename
+RunWinDiff.EXE
+ProductName
+RunWinDiff Application
+ProductVersion
+1, 0, 0, 1
+VarFileInfo
+Translation
+MS Shell Dlg
+Cancel
+AEnter the files or directories or use the drag and drop feature. +Enter the working directory for WinDiff.exe#Open the files in outline mode only
+Select Directory
+Select Files  
+Compare Files 
+Close Windiff !Browse for the WinDiff executable Reuse an existing Windiff window
+Expand or contract the dialog
+Save As
+All Files (*.*)
+Untitled
+an unnamed file
+No error message is available.'An unsupported operation was attempted.$A required resource was unavailable.
+Out of memory.
+An unknown error has occurred.
+Invalid filename.
+Failed to open document.
+Failed to save document.
+Save changes to %1? Failed to create empty document.
+The file is too large to open.
+Could not start print job.
+Failed to launch help.
+Internal application error.
+Command failed.)Insufficient memory to perform operation.PSystem registry entries have been removed and the INI file (if any) was deleted.BNot all of the system registry entries (or INI file) were removed.FThis program requires the file %s, which was not found on this system.tThis program is linked to the missing export %s in the file %s. This machine may have an incompatible version of %s.
+#Unable to read write-only property.#Unable to write read-only property.
+Unexpected file format.V%1
+Cannot find this file.
+Please verify that the correct path and file name are given.Destination disk drive is full.5Unable to read from %1, it is opened by someone else.AUnable to write to %1, it is read-only or opened by someone else..An unexpected error occurred while reading %1..An unexpected error occurred while writing %1.
+Please enter an integer.
+Please enter a number.*Please enter an integer between %1 and %2.(Please enter a number between %1 and %2.(Please enter no more than %1 characters.
+Please select a button.*Please enter an integer between 0 and 255. Please enter a positive integer. Please enter a date and/or time.
+Please enter a currency.
+No error occurred.-An unknown error occurred while accessing %1.
+%1 was not found.
+%1 contains an invalid path.=%1 could not be opened because there are too many open files.
+Access to %1 was denied..An invalid file handle was associated with %1.<%1 could not be removed because it is the current directory.6%1 could not be created because the directory is full.
+Seek failed on %15A hardware I/O error was reported while accessing %1.0A sharing violation occurred while accessing %1.0A locking violation occurred while accessing %1.
+Disk full while accessing %1..An attempt was made to access %1 past its end.
+No error occurred.-An unknown error occurred while accessing %1./An attempt was made to write to the reading %1..An attempt was made to access %1 past its end.0An attempt was made to read from the writing %1.
+%1 has a bad format."%1 contained an unexpected object. %1 contains an incorrect schema.
+#Unable to load mail system support.
+Mail system DLL is invalid.!Send Mail failed to send message.
+pixels

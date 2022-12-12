@@ -1,0 +1,1677 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+T$4SSRP
+D$4QSSP
+T$$SSQPWSSR
+T$8RQP
+T$dRQP
+D$,+D$<
+L$p_^[
+|$@SSWP+
+L$X_^][d
+F(@@;F,v
+HtMHt,H
+PhF;t$
+t-9>u)
+t-9HLu
+tW9qptR
+VVVVPVVVj
+F8+F0W
+YYu/h@
+^LSh40C
+N8+F,+N0
+t<Ht0Ht$Ht
+Zt(Ht Ht
+9^@Wt;3
+HtyHtWHtOHt&H
+HHtjHtHHt&H
+9^@t83
+QQSVW3
+9~Ht]9~
+HtvHt@H
+SSSPQR
+@u';t$
+QQSVWd
+t.;t$$t(
+VC20XC00U
+}*9X ~%
+sVS;7|B;w
+QQSVW3
+t#SSUP
+t$$VSS
+_^][YY
+HHt`HHt\
+oG<-uK
+F,98uX
+t%<.u(
+t!SS9]
+PPPPPPPP
+PPPPPPPP
+>:u>FV
+VVVVVUWUUj
+VVVVVj
+PPPPPPPP
+VWumh<
+t|h$C
+;F(r(8_
+C PjPVj
+C$PjQVj
+C*PjTVj
+C+PjUVj
+C,PjVVj
+C-PjWVj
+C.PjRVj
+C/PjSVj
+It[IItM
+s9~(~
+SVWj ^
+WWWWVSW
+t2WWVPVSW
+HHtjHHtF
+zu^SSS
+Yt:SVW
++t"HHt
+u.h|/C
+u+WWSW
+t!VV9u
+t-hL8C
+t&97u"j
+uJ9^<u
+FP_9^Xtv
+YYu{9E
+PQQQQQ
+S\_^[]
+S\_^[]
+F@_^][
+SVWj(3
+tLShmhB
+PPPPhd
+u;j0^V
+OH;Alt
+NH;Alt
+NH;Alt
+QQSUVW
+0UUUUW
+WtuHHt
+tD9wdt?
+tLShmhB
+tLShmhB
+tLShmhB
+F,+F(_;E
+^(_^[]
+<A|2<Z
+<A|@<Z
+PWVWWW
+t$ PUSVV
+F\9~Lu)h
+9~du"h
+N(;N,r
+;F8ve9^,ue
+tQ9^(tLW
+^(_^][
+CButtonEx
+CButtonEx1
+CSliderCtrlEx
+CStaticEx
+Local AppWizard-Generated Applications
+###tranparentctrl_tag###
+AfxOldWndProc423
+AfxWnd70s
+AfxControlBar70s
+AfxMDIFrame70s
+AfxFrameOrView70s
+AfxOleControl70s
+EnumDisplayDevicesA
+GetMonitorInfoA
+EnumDisplayMonitors
+MonitorFromPoint
+MonitorFromRect
+MonitorFromWindow
+GetSystemMetrics
+USER32
+DISPLAY
+qInitCommonControlsEx
+COMCTL32.DLL
+HtmlHelpA
+hhctrl.ocx
+#32768
+commctrl_DragListMsg
+CButton
+CStatic
+STATIC
+BUTTON
+CBitmap
+CGdiObject
+CPaintDC
+CWindowDC
+CClientDC
+CUserException
+CResourceException
+CCmdTarget
+CSliderCtrl
+msctls_trackbar32
+COleException
+CInvalidArgException
+CNotSupportedException
+CMemoryException
+CException
+CWinApp
+PreviewPages
+Settings
+ntdll.dll
+Control Panel\Desktop\ResourceLocale
+GetSystemDefaultUILanguage
+GetUserDefaultUILanguage
+kernel32.dll
+NoFileMru
+NoBackButton
+NoPlacesBar
+Software\Microsoft\Windows\CurrentVersion\Policies\Comdlg32
+NoEntireNetwork
+Software\Microsoft\Windows\CurrentVersion\Policies\Network
+NoClose
+NoRecentDocsHistory
+NoNetConnectDisconnect
+RestrictRun
+NoDrives
+Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+%s.dll
+Software\
+CWinThread
+CDialog
+MS Shell Dlg
+software
+CMapPtrToPtr
+CPtrList
+CObject
+Delete
+NoRemove
+ForceRemove
+CArchiveException
+System
+Dw=U:s
+CMemFile
+CByteArray
+commdlg_FindReplace
+MSWHEEL_ROLLMSG
+NotifyWinEvent
+user32.dll
+CFileException
+COleDispatchException
+RichEdit Text and Objects
+Rich Text Format
+FileNameW
+FileName
+Link Source Descriptor
+Object Descriptor
+Link Source
+Embed Source
+Embedded Object
+ObjectLink
+OwnerLink
+Native
+KERNEL32
+%2\CLSID
+%2\Insertable
+%2\protocol\StdFileEditing\verb\0
+%2\protocol\StdFileEditing\server
+CLSID\%1
+CLSID\%1\ProgID
+CLSID\%1\InprocHandler32
+ole32.dll
+CLSID\%1\LocalServer32
+CLSID\%1\Verb\0
+&Edit,0,2
+CLSID\%1\Verb\1
+&Open,0,2
+CLSID\%1\Insertable
+CLSID\%1\AuxUserType\2
+CLSID\%1\AuxUserType\3
+CLSID\%1\DefaultIcon
+CLSID\%1\MiscStatus
+CLSID\%1\InProcServer32
+CLSID\%1\DocObject
+%2\DocObject
+CLSID\%1\Printable
+CLSID\%1\DefaultExtension
+%9, %8
+COleBusyDialog
+COleDialog
+CorExitProcess
+mscoree.dll
+FlsFree
+FlsSetValue
+FlsGetValue
+FlsAlloc
+Microsoft Visual C++ Runtime Library
+Program: 
+<program name unknown>
+A buffer overrun has been detected which has corrupted the program's
+internal state.  The program cannot safely continue execution and must
+now be terminated.
+Buffer overrun detected!
+A security error of unknown cause has been detected which has
+corrupted the program's internal state.  The program cannot safely
+continue execution and must now be terminated.
+Unknown security failure detected!
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+- This application cannot run using the active version of the Microsoft .NET Runtime
+Please contact the application's support team for more information.
+- unable to initialize heap
+- not enough space for lowio initialization
+- not enough space for stdio initialization
+- pure virtual function call
+- not enough space for _onexit/atexit table
+- unable to open console device
+- unexpected heap error
+- unexpected multithread lock error
+- not enough space for thread data
+This application has requested the Runtime to terminate it in an unusual way.
+Please contact the application's support team for more information.
+- not enough space for environment
+- not enough space for arguments
+- floating point not loaded
+Runtime Error!
+Program: 
+`h````
+ppxxxx
+(null)
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+LC_TIME
+LC_NUMERIC
+LC_MONETARY
+LC_CTYPE
+LC_COLLATE
+LC_ALL
+GAIsProcessorFeaturePresent
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+GetProcessWindowStation
+GetUserObjectInformationA
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+InitializeCriticalSectionAndSpinCount
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+Paraguay
+Uruguay
+Ecuador
+Argentina
+Colombia
+Venezuela
+Dominican Republic
+South Africa
+Panama
+Luxembourg
+Costa Rica
+Switzerland
+Guatemala
+Canada
+Spanish - Modern Sort
+Australia
+English
+Austria
+German
+Belgium
+Mexico
+Spanish
+Basque
+Sweden
+Swedish
+Iceland
+Icelandic
+France
+French
+Finland
+Finnish
+Spanish - Traditional Sort
+united-states
+united-kingdom
+trinidad & tobago
+south-korea
+south-africa
+south korea
+south africa
+slovak
+puerto-rico
+pr-china
+pr china
+new-zealand
+hong-kong
+holland
+great britain
+england
+britain
+america
+swedish-finland
+spanish-venezuela
+spanish-uruguay
+spanish-puerto rico
+spanish-peru
+spanish-paraguay
+spanish-panama
+spanish-nicaragua
+spanish-modern
+spanish-mexican
+spanish-honduras
+spanish-guatemala
+spanish-el salvador
+spanish-ecuador
+spanish-dominican republic
+spanish-costa rica
+spanish-colombia
+spanish-chile
+spanish-bolivia
+spanish-argentina
+portuguese-brazilian
+norwegian-nynorsk
+norwegian-bokmal
+norwegian
+italian-swiss
+irish-english
+german-swiss
+german-luxembourg
+german-lichtenstein
+german-austrian
+french-swiss
+french-luxembourg
+french-canadian
+french-belgian
+english-usa
+english-us
+english-uk
+english-trinidad y tobago
+english-south africa
+english-nz
+english-jamaica
+english-ire
+english-caribbean
+english-can
+english-belize
+english-aus
+english-american
+dutch-belgian
+chinese-traditional
+chinese-singapore
+chinese-simplified
+chinese-hongkong
+chinese
+canadian
+belgian
+australian
+american-english
+american english
+american
+Norwegian-Nynorsk
+1#QNAN
+1#SNAN
+Dw=|:s
+Dw=U:s
+Dw=}:s
+Dw=~:s
+Dw=m:s
+Dw=c:s
+Dw=&:s
+Dw=y:s
+Dw=':s
+Dw=d:s
+Dw=]:s
+Dw=z:s
+Dw=h:s
+Dw=i:s
+Dw={:s
+Dw=g:s
+Dw=f:s
+Dw=t:s
+Dw=u:s
+Dw=_:s
+Dw=^:s
+Dw=`:s
+ios_base::eofbit set
+ios_base::failbit set
+ios_base::badbit set
+bad cast
+invalid string position
+string too long
+OLEACC.dll
+Unknown exception
+c:\Users\Dodo\Pictures\TransparentControl_src\TransparentControl\Release\TransparentControl.pdb
+CreateStdAccessibleObject
+LresultFromObject
+InterlockedExchange
+GetACP
+GetLocaleInfoA
+GetThreadLocale
+GetVersionExA
+MultiByteToWideChar
+WideCharToMultiByte
+GetLastError
+GetVersion
+lstrcmpiA
+lstrlenA
+CompareStringA
+CompareStringW
+GetProcAddress
+GetModuleHandleA
+SizeofResource
+LockResource
+LoadResource
+FindResourceA
+lstrcpynA
+lstrcmpW
+lstrcatA
+FreeLibrary
+LoadLibraryA
+GlobalDeleteAtom
+GlobalFindAtomA
+GlobalAddAtomA
+GlobalGetAtomNameA
+GetCurrentThreadId
+FreeResource
+InterlockedDecrement
+SetLastError
+MulDiv
+GlobalUnlock
+GlobalLock
+LocalFree
+FormatMessageA
+GlobalAlloc
+GlobalFree
+lstrcpyA
+EnumResourceLanguagesA
+ConvertDefaultLocale
+GetModuleFileNameA
+lstrcmpA
+GetCurrentThread
+CloseHandle
+WritePrivateProfileStringA
+LocalAlloc
+LeaveCriticalSection
+GlobalReAlloc
+GlobalHandle
+EnterCriticalSection
+TlsGetValue
+InitializeCriticalSection
+TlsAlloc
+TlsSetValue
+LocalReAlloc
+DeleteCriticalSection
+TlsFree
+GlobalFlags
+InterlockedIncrement
+GetCPInfo
+GetOEMCP
+RaiseException
+FileTimeToSystemTime
+ReadFile
+WriteFile
+SetFilePointer
+FlushFileBuffers
+LockFile
+UnlockFile
+SetEndOfFile
+GetFileSize
+DuplicateHandle
+GetCurrentProcess
+FindClose
+FindFirstFileA
+GetVolumeInformationA
+GetFullPathNameA
+CreateFileA
+SetErrorMode
+FileTimeToLocalFileTime
+GetFileAttributesA
+GetFileTime
+GetTickCount
+RtlUnwind
+ExitProcess
+HeapAlloc
+HeapFree
+VirtualProtect
+VirtualAlloc
+GetSystemInfo
+VirtualQuery
+GetStartupInfoA
+GetCommandLineA
+HeapReAlloc
+TerminateProcess
+HeapSize
+QueryPerformanceCounter
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+HeapDestroy
+HeapCreate
+VirtualFree
+IsBadWritePtr
+GetStdHandle
+UnhandledExceptionFilter
+FreeEnvironmentStringsA
+GetEnvironmentStrings
+FreeEnvironmentStringsW
+GetEnvironmentStringsW
+SetHandleCount
+GetFileType
+SetUnhandledExceptionFilter
+LCMapStringA
+LCMapStringW
+GetStringTypeA
+GetStringTypeW
+GetTimeZoneInformation
+IsBadReadPtr
+IsBadCodePtr
+GetUserDefaultLCID
+EnumSystemLocalesA
+IsValidLocale
+IsValidCodePage
+SetStdHandle
+GetLocaleInfoW
+SetEnvironmentVariableA
+KERNEL32.dll
+LoadBitmapA
+GetClientRect
+InvalidateRect
+EnableWindow
+CopyRect
+SendMessageA
+IsWindowEnabled
+CharUpperA
+OffsetRect
+DrawIcon
+AppendMenuA
+GetSystemMenu
+IsIconic
+GetWindowRect
+ReleaseDC
+LoadIconA
+GetSystemMetrics
+GetParent
+ScreenToClient
+SetPropA
+GetPropA
+RemovePropA
+GetWindow
+GetWindowLongA
+IsWindowVisible
+GetTopWindow
+PtInRect
+GetWindowPlacement
+SystemParametersInfoA
+IntersectRect
+SetWindowPos
+SetWindowLongA
+CallWindowProcA
+DefWindowProcA
+GetDlgCtrlID
+UnregisterClassA
+RegisterClassA
+GetClassInfoA
+EqualRect
+AdjustWindowRectEx
+GetSysColor
+GetMenuItemCount
+GetMenuItemID
+GetSubMenu
+PostMessageA
+GetMenu
+UpdateWindow
+SetForegroundWindow
+GetKeyState
+MessageBoxA
+MapWindowPoints
+PeekMessageA
+GetMessagePos
+GetMessageTime
+UnhookWindowsHookEx
+DestroyWindow
+GetDlgItem
+DispatchMessageA
+SetActiveWindow
+GetLastActivePopup
+GetForegroundWindow
+GetWindowTextA
+GetWindowTextLengthA
+IsChild
+SetFocus
+IsWindow
+GetFocus
+SendDlgItemMessageA
+GetClassNameA
+GetClassInfoExA
+GetClassLongA
+CallNextHookEx
+SetWindowsHookExA
+CreateWindowExA
+GetCapture
+WinHelpA
+RegisterWindowMessageA
+TabbedTextOutA
+DrawTextA
+DrawTextExA
+GrayStringA
+ClientToScreen
+GetWindowDC
+BeginPaint
+EndPaint
+IsDialogMessageA
+SetWindowTextA
+MoveWindow
+ShowWindow
+GetMenuCheckMarkDimensions
+CheckMenuItem
+EnableMenuItem
+GetMenuState
+ModifyMenuA
+SetMenuItemBitmaps
+PostQuitMessage
+SetCursor
+ValidateRect
+GetCursorPos
+GetActiveWindow
+TranslateMessage
+GetMessageA
+EndDialog
+GetNextDlgTabItem
+CreateDialogIndirectParamA
+GetDesktopWindow
+wsprintfA
+MapDialogRect
+SetWindowContextHelpId
+DestroyMenu
+GetSysColorBrush
+LoadCursorA
+SetCapture
+ReleaseCapture
+CharNextA
+IsRectEmpty
+SetRect
+CopyAcceleratorTableA
+InvalidateRgn
+GetNextDlgGroupItem
+MessageBeep
+RegisterClipboardFormatA
+PostThreadMessageA
+USER32.dll
+GetObjectA
+CreateCompatibleDC
+SelectObject
+CreateCompatibleBitmap
+BitBlt
+StretchBlt
+GetClipBox
+SetTextColor
+SetBkColor
+SaveDC
+RestoreDC
+SetBkMode
+SetMapMode
+DeleteObject
+GetViewportExtEx
+GetWindowExtEx
+PtVisible
+RectVisible
+TextOutA
+ExtTextOutA
+Escape
+SetViewportOrgEx
+OffsetViewportOrgEx
+SetViewportExtEx
+ScaleViewportExtEx
+SetWindowExtEx
+ScaleWindowExtEx
+ExtSelectClipRgn
+DeleteDC
+CreateBitmap
+GetStockObject
+GetDeviceCaps
+CreateRectRgnIndirect
+GetMapMode
+GetBkColor
+GetTextColor
+GetRgnBox
+GDI32.dll
+AlphaBlend
+TransparentBlt
+MSIMG32.dll
+GetFileTitleA
+comdlg32.dll
+ClosePrinter
+DocumentPropertiesA
+OpenPrinterA
+WINSPOOL.DRV
+CryptAcquireContextA
+RegCloseKey
+RegOpenKeyA
+RegQueryValueExA
+RegOpenKeyExA
+RegDeleteKeyA
+RegEnumKeyA
+RegQueryValueA
+RegCreateKeyExA
+RegSetValueExA
+ADVAPI32.dll
+SHELL32.dll
+_TrackMouseEvent
+COMCTL32.dll
+PathFindExtensionA
+PathFindFileNameA
+PathStripToRootA
+PathIsUNCA
+SHLWAPI.dll
+oledlg.dll
+CoTaskMemFree
+CoTaskMemAlloc
+CLSIDFromProgID
+CLSIDFromString
+CoGetClassObject
+StgOpenStorageOnILockBytes
+StgCreateDocfileOnILockBytes
+CreateILockBytesOnHGlobal
+OleUninitialize
+CoFreeUnusedLibraries
+OleInitialize
+CoRevokeClassObject
+OleIsCurrentClipboard
+OleFlushClipboard
+CoRegisterMessageFilter
+ole32.dll
+OLEAUT32.dll
+TransparentControl.exe
+CSBhvSWCvFRvfCfAoJdoFuAUmK
+<fwh37Ey$BY3mdVG(f9#N$@i3!+u#ANG?BG^mtp<)3ll(
+.?AVXAccessible@CWnd@@
+.?AVXAccessibleServer@CWnd@@
+.?AVCObject@@
+.?AVCCmdTarget@@
+.?AVCWnd@@
+.PAVCException@@
+.?AVCNoTrackObject@@
+.?AV_AFX_HTMLHELP_STATE@@
+.?AVCCmdUI@@
+.?AVCTestCmdUI@@
+.PAVCUserException@@
+.?AUIAccessibleProxy@@
+.?AUIUnknown@@
+.?AUIDispatch@@
+.?AUIAccessible@@
+.?AV?$IAccessibleProxyImpl@VCAccessibleProxy@ATL@@@ATL@@
+.?AUIOleWindow@@
+.?AVCComObjectRootBase@ATL@@
+.?AV?$CComObjectRootEx@VCComSingleThreadModel@ATL@@@ATL@@
+.?AVCAccessibleProxy@ATL@@
+.?AV?$CMFCComObject@VCAccessibleProxy@ATL@@@@
+.?AVCStatic@@
+.?AVCButton@@
+.?AV_AFX_THREAD_STATE@@
+.?AVAFX_MODULE_STATE@@
+.?AVAFX_MODULE_THREAD_STATE@@
+.?AV_AFX_BASE_MODULE_STATE@@
+.PAVCObject@@
+.PAVCSimpleException@@
+.PAVCResourceException@@
+.?AVCException@@
+.?AVCSimpleException@@
+.?AVCResourceException@@
+.?AVCUserException@@
+.?AVCGdiObject@@
+.?AVCDC@@
+.?AVCClientDC@@
+.?AVCWindowDC@@
+.?AVCPaintDC@@
+.?AVCBitmap@@
+.?AUIAtlStringMgr@ATL@@
+.?AVCAfxStringMgr@@
+.?AVCSliderCtrl@@
+.?AVCRgn@@
+.?AVCOleException@@
+.PAVCOleException@@
+.PAVCMemoryException@@
+.PAVCNotSupportedException@@
+.PAVCInvalidArgException@@
+.?AVCMemoryException@@
+.?AVCNotSupportedException@@
+.?AVCInvalidArgException@@
+.?AVCWinThread@@
+.?AVCWinApp@@
+.?AVCDialog@@
+.?AVCOccManager@@
+.?AVCFont@@
+.?AVCMenu@@
+.?AUCThreadData@@
+.?AVCMapPtrToPtr@@
+.?AVCHandleMap@@
+.?AVCPtrList@@
+.PAVCArchiveException@@
+.?AVCArchiveException@@
+.?AUISequentialStream@@
+.?AUIStream@@
+.?AVCArchiveStream@@
+.?AVCFile@@
+.?AVCFileException@@
+.?AVCEnumArray@@
+.?AVCEnumUnknown@@
+.?AV?$_CTypedPtrList@VCPtrList@@PAUCOleControlSiteOrWnd@@@@
+.?AVCOleControlContainer@@
+.?AV?$CTypedPtrList@VCPtrList@@PAUCOleControlSiteOrWnd@@@@
+.?AUIParseDisplayName@@
+.?AUIOleContainer@@
+.?AVXOleContainer@COleControlContainer@@
+.?AUIOleInPlaceUIWindow@@
+.?AUIOleInPlaceFrame@@
+.?AVXOleIPFrame@COleControlContainer@@
+.?AVCDataSourceControl@@
+.?AUINotifyDBEvents@@
+.?AUIOleClientSite@@
+.?AVXOleClientSite@COleControlSite@@
+.?AUIOleControlSite@@
+.?AVXOleControlSite@COleControlSite@@
+.?AVXAmbientProps@COleControlSite@@
+.?AUIPropertyNotifySink@@
+.?AVXPropertyNotifySink@COleControlSite@@
+.?AVXEventSink@COleControlSite@@
+.?AUIBoundObjectSite@@
+.?AVXBoundObjectSite@COleControlSite@@
+.?AVXNotifyDBEvents@COleControlSite@@
+.?AUIRowsetNotify@@
+.?AVXRowsetNotify@COleControlSite@@
+.?AUIOleInPlaceSite@@
+.?AUIOleInPlaceSiteEx@@
+.?AUIOleInPlaceSiteWindowless@@
+.?AVXOleIPSite@COleControlSite@@
+.?AVCOleControlSite@@
+.?AVCMemFile@@
+.?AVCByteArray@@
+.PAVCFileException@@
+.?AVCCommonDialog@@
+.?AVCOleDispatchException@@
+.PAVCOleDispatchException@@
+.?AUIEnumVOID@@
+.?AVXEnumVOID@CEnumArray@@
+.?AVCOleMessageFilter@@
+.?AUIMessageFilter@@
+.?AVXMessageFilter@COleMessageFilter@@
+Apartment
+.?AV_AFX_OLE_STATE@@
+.?AVCOleDialog@@
+.?AVCOleBusyDialog@@
+.?AVtype_info@@
+.?AV?$_Iosb@H@std@@
+.?AVios_base@std@@
+.?AVexception@@
+.?AVruntime_error@std@@
+.?AVfailure@ios_base@std@@
+.?AVfacet@locale@std@@
+.?AUctype_base@std@@
+.?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
+.?AV?$ctype@D@std@@
+.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+.?AVbad_cast@@
+.?AV?$basic_filebuf@DU?$char_traits@D@std@@@std@@
+.?AVcodecvt_base@std@@
+.?AV?$codecvt@DDH@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AV_Locimp@locale@std@@
+Copyright (c) 1992-2001 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
+wwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwww}
+wwwwwwww
+wwwwwwwwwwwwww
+wwwwwwwwwwwwww
+wwwwwww}
+wwwwwww}x
+}wwwwwww}
+_`__``_``a`_`_aaaa`
+     !        !     
+i\\\\\\\\[\\\\\\\[\\a///2/////////2/22///
+da2/BB<<<<777111,,,*/
+RFGHJCDKLL=>>88+/
+[`//"QRT$
+1=>>8+2
+\`2/"OQ
+$%=>>*2
+\a//"NO
+\a//"WN
+FTHI*++LL=(/
+\`//'VW
+RFTHJCDKLL)2
+j\]x|~
+\_//'VV
+QRFTHJCDKL(/
+i\^wx|~pcccccb
+\`//'UV
+OQRFGHJCDK(/
+i\]wwx|pcckrss
+\a//0UU
+NOQRSGHIJD(2
+i\^vwwxpccr
+\`///YU
+WNOQRFTHIJ)/
+j\]uvwwmccp
+\`//9YY
+VWNO5;*THI)2
+j\]uuvwmccp
+\a//9XY
+i\]ouuvmccbbbbbs
+\a//@XX0
+RST)/
+i\]oouulefffggkt
+\`/2@ZXX:
+;NPRF(/
+h\]loouuvwwx|~
+\_2/@ZZXXYYUUUVWNOPQ(/
+i\]ffggkkqqqzzz{{{
+\_//?MMMMEEEAAAA33452
+i\\\\\\\\\\\\\\\\\\\`//&&&&&--&&&&-&&&&./
+illlllllll
+]ZZZZZZZZZZZWV-1---------1-
+mV2.AHBC5D;<<(-
+kV2.P:#
+!!+=>(-
+OGJKD;*1
+]d}~wca``
+OOGJKD*1
+\dy}rch{
+MNOGIK/1
+\buyrcj
+RR.#:I/-
+[btuncfssv
+]_ptqhhhjj
+kV?LTE
+]_mptuy}~
+lV6SUTTQQQRRN91
+[WXXXYXXYXYYWV-)))))))))),,
+F5><<==.
+ECK2LPV.
+E@J3MOU.
+D?H31IT.
+B;G1JKS.(
+E9A011R.&#
+E/4678:."&' 
+NQWhX^XXXe
+djklnoc
+sgba`_f|
+ux||||
+ # #  #  # # # # #! # #! #! # #  # # # # # #gdc # #  #! # # #  #  # # #  # #  # # # # #  #  #  #
+t5! #! #
+b;wi=ua=ua=ua=ua<u`=ua=ua<u`9d[qikunntnntnnunntnnunnunntpwyr
+4@egdc
+5@fgdc
+5@fgdc
+4@egdc
+5Afgdc
+4@egdc
+5@fgdc
+5@fgdc
+4@egdc
+4@egdc
+5@fgdc
+5Afgdc
+5@egdc
+5@fgdc
+ # # # # # # # # # # # # #
+ # # # # # # # # # # # # #
+BL@BM@BM@BL@BL@BL@BL@BM@CMABM@BL@BL@ #w\Rv\Rw]Sw\Rw\Rw\Sv\Rv\Rw\Rw]Sw]Sw]StYQ1-/ #
+t6REE #
+t6RDD #
+t5REE #
+t5RDE #
+u6RDD #
+=REE #
+=REE #
+=SEE #
+=REE #
+=REE #
+=SEE #
+=SEE #
+;tcc #
+WbLO}x`OQ
+^lZ=/{5}
+lL`otk{*
+;H2Xus
+E.bMSt
+L&(i]F
+Y_INk
+R+|rH{
+t5V\8{F
+/=7'\&
+oCp0pK
+hl;dM
+i79i)&
+cK/z!=ko
+Gb`fs{%
+},CJs
+c3J^<,(
+IUOu
+Fjr`[k
+HW8l8^
+"TP2m+.v
+nTLTCT
+`H}`V2
+<A"<.7
+n&15tz;
+,!$%g7
+,^NMCC
+HRh.+ 
+_KE:|'
+2pPGi0
+DE#^m\ad
+fuF9<Q
+'e~|67O3
+`FcHCf
+WzF+^!
+:rcb5p;
+(`|"& 
+&lmLz.5&
+>k,9!-bS
+s_E2fA
+Y/@"1E
+6mZ<B\:
+>b5)dw2
+SIME\5&
+m]<a9&
+@^yZ;$]
+DHt`PY/
+}(@8"v
+;p}VS!
+vG&qA=v
+$h~-H|
+GeYNo^
+EzN]^l[}[!7
+P&='76Q
+s_]C|Y
+w:<v+j
+;GLf63{|
+gl'%ee0
+p<Qof;
+}HGg8
+OvN~pD7rGE
+">P.-h
+!36^lyt
+v>#E*M
+:}|H]V
+Lc=}hR
+4"WFW}
+VdQq[q;$
+T%XN+'E
+Q,XKv)
+Eslfk@
+qh 6{E
+Rmlq*G]) ,
+,QALl4/
+`"BA~M
+^#dg}F
+',ww4n
+}\vBwm
+dHfI^:
+Yf4b[qb
+3&['&*
+e~%p>
+6nx)w"W]
+Ul=my
+hoDws=)
+~xCnKMh
+bN!;B="
+A6eag2
+3>o^|e
+R QqI2
+JsL@?$<
+4dv52e I
+ Nbwo+s
+po)5zy
+?ZHWMI
+f!GvO9F'
+ _5l\"wOj
+0?~?4 F
+BlW~w}
+Q/S[ni'-
+U?M0yHs'
+\p;9nf
+e|nUTO
+%rFSHnK
+ie{Bl"
+ #m<O:
+m(| A-
+e2V`=&
+h(YX|n
+[dL1mkU?
+qs~K.4
+f&;NE?
+k _~pE
+H`E6*Xg7
+d4YI.Q
+&2SQJu
+Y)656m60
+)CsW>>+
+##/OC6
+Z[D{>S
+?LAfr;
+>VDEwpB
+@q,n>#
+f)(L*,
+PYP^79
+WhZDc%~9D1G3O
+4%J"4)wr"
+tG]/RL
+$:.3sf.
+t#v)AXf
+r=B7p7
+i>]/#R
+ial[4
+o6ErrZ
+o4&0LG
+2Nn*uAv
+fk7lb{P
+ak~<Tb
+~S`wd
+&s,CFRzQ
+1>Br,]
+18[PH$
+]Wp`UYK
+?+n'5Z
+Pb({Shz
+14E@}SkcN
+:pa+xS
+.6z>5Lc\DlydIe
+n][Q p
+24lHIoo 
+'+/B3"
+Z,AEN3
+Q;oq-K
+I~nw+
+0R.ij=Q
+k;9@pV
+1](jeI
+8?X7M=
+>z$~"!
+%R7gmV
+/u!zA^v
+x\cx@@S
+r0&.Uo
+UGistX{
+=|e?`.
+-h,b'kqI
+j_e4fv
+NELuMv
+~,ZI^(
+3:v z'
+?AqKD[
+Z]_yc6
+~96B&6
+*)[lz*~
+^;7L5f
+YL(BVm;
+PArUC|
+EuW>U'
+oD60SN/
+5z^mc.D
+e4<?DM
+3v6J7:%
+3BuwIb
+#pXw*`ae
+umc[z@
+fi_WOh5
+Y^M^l}k
+,R]Ih7
+v2rInd
+qc2bVh8U
+",hWkf
+@$1K>j
+Uf@WX\[
+Rf[ WR
+>N:cxGy
+]mq7'X&f
+Kz#?G*
+g_~8yZni
+@':$|'K
+s-}U0Hd
+cZTDTO
+Q;LUh-n
+:9_Ci1
+PPzbHa#1
+EiDu:m
+O'd@Y}m5
+cxzB3'm
+y_[/V<
+k"8!Zb
+Tz:m>i
+y[#/*D
+X9(z5]
+Bi ;D^TS
+J:_W#,|u&
+&rrH=t
+Q{GRaT%
+"3h9RwkE
+;3,862
+t,[l+#
+gTPX*T
+2F2zDi
+Q^eM ;-
+xpsFv,%M
+S+ev[St8
+zS!a'PE
+g1ooX5qqoo
+uFpa6!
+EDKI1V\
+5l(sb_
+WX&>X(
+"zb^TB
+kD;]S<
+b_S)KJD+
+|>qUDT
+R3nz4-
+zFO/e$
+97Twn
+ff US4d#sd
+nMHM7{
+l<~K#s]4
+>q;2gx3
+<M^YX.p
+=]_F$tR
+y1Rxt^
+4uQgFtQ#
+2:x9m)
+;b003
+ <)(K1
+d;sO!"
+p.b~6%
+e}*,.F(
+P$:E%s
+l#!PN?U$$7
+39yp?.
+;g>:@x/
+ 1Hp"\<
+Y32V{3
+upf5V
+_($}dww
+AZr8R
+&FPoZ/
+#<}hQI
+:9ku6{
+~6p6}7x
+W-5&7d
+G<n#ts
+^6<mF@
+\1@r16
+FM?_uT
+d8uc150
+_1)d?@?
+Yru}/=
+.e2JJ@
+PZ2/UL}
+R(Ntee
+J%3K\d
+WU`f$;Sq
+niL5EUxD
+NXAg~P
+a7f;'R
+r+$UN%
+,]:W3+(
+d"}pG)E
+wh}ZZz
+~Zt?c/k
+h$_&Yh
+&l{n}
+u7G8'#@
+0P7$eo=i
+43@DB}
+5!>aL!
+BQz. ^?bsoQ
+Sha4U&
+#{zz8f0K
+XT`\][.uhhj.
+f,KRfNa1c
+x4aGEnq
+|YM>po
+{4C>Z<
+Ay"0lY>F
+S]L^k'
+ x~+,E
+qX19,+
+sQPk6o
+gc[`qp
+}@^am{
+bn/r)8
+nW7KLyF
+Y6Q9Cp
+;G-U %
+Be.1N,
+w6D2BbX
+!szw8:
+5McW1_
+DqczLh
+:KD<`Q
+9XI6 +
+.&:bT1
+vuf#CK 
+P%s=iG
+N9/;KK`
+f^({sk^}-
+2+fzD*
+;H{eaYse)
+bf+|.dF
+& e!^^
+^EPFA<M=
+JOd`;HS
+C}Kg$!C
+!(2{z+
+yRPG\]
+~wB/{
+cS>tF_
+v-.iX1
+/qNq7V
+X$qO9~
+B?===============================================================?B
+*!!!!!!!!!**
+=2$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$2=
+=##=
+=0+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++0=
+>3.,,994444--:555..;666//<777771111111177777<//666;..555:--444499,.3>
+E@===============================================================@E
+K<<<<<<<<<<<<<
+99999999
+ 87777777785rpppoo
+qqtvwx666
+-fcccfjliimoorr222
+gghdd`bb]]YYZ[[Z|
+)_[_ccffiiimmorrrs1..
+gggdd``b^]]]Y[VVVU[:
+/)[[_ccffiiimoorqqtt411.
+ngggedd`bb^]]W[[VVUU,
+-([[_ccffiiimoorqtvwux4430.
+ukkkggdd``aa]]]Y[[VUU(
+)[__ccf)iiimo
+rqvvwxzzzz641.
+065++kk*gedd`ba]]]XX[VUU\
+|c_cffiiimmo
+rqtwyxz}}}}}{530
+++****eddaaa]]\X[VVV[
+?>>>>>>>==;;
+<>>>J#
+GE!!B@@
+!&&
+JJ""""""""EED
+"""""JQQ
+#########JJGGFD
+J#####$
+LLLLLLLLLL
+IL%%%%%O''
+MMPPPPPPPPPPMN
+PPQQQQQQ
+SSSTTTTTTTTTTTSSS
+RRRRRRRRRR&
+offfffffffffff
+cccccccc
+0baaaaaaaaa
+```````````a
+sj&%%%%%%%\
+]]]^^$$$$$$$$_%
+~~zzz~
+s.%!!!#"RNyxx~~
+XYYY     [_
+|||}{{{OOxMxKKwvvvz
+MuuCwwKKxOOOP
+SSTWWU
+|LLLJJJGGHHBBBAA>tt?R*5
+C??>AACIKKMMOPP{QSSTW
+LLFFDD@@B@=;;;<9976
+5*N?<>>ACCIKKMOOPPQSSTWWVU
+@@@:::<<9766:
+I>AACIIKKMOOPPQSTTW
+@@==:<<99789
+IACCIKKMOOP{QSTTW
+@@@=::<99987
+ffee'''''''ddd
+iih((((((((gg
+ggg()p
+--------+++ihhg
+-----.r
+///00000//kjj
+k00000l
+mmnn11111nnmml0kk
+nn1111p
+q3r44444443qq
+44444444
+,..339998?>>CCIMONUUYY^bcckpptty|||
+,..339998:;A@DDKJPQRVWZ_deghlqruvz
+**+221=<<HONUUYY^bcfiimswwvz
+$$$!  
+))(677GLLTaaa|||
+'//4FFF[``nx{
+&$$#   
+055ESX\}
+%$$"  
+BBB]jo
+IFFFFwvvvvvvvvS
+[[[[[[
+^^^^^]]
+Cpppppp@@@@@;;;OQQSSSSSSS
+-3333333..i....CLLLLLLKKKK
+HK||||||||||||||||||||||
+n)).)eee''''''''8CCCCCqqqqqu
+AAtttttttttttttttttHHHHHKKyy||
+urrrwwwz}
+"""'''''''''####.777777777:::
+09?????????????????AAAADDDtLCpll@pvvFwz}
+3      
+ --------*1552
+*2jjjjjjjjj777777k::::::?n3...iimpprwwz}
+)))))ddddddddd
+%dffffff-hhhhhh222jjj7n3e'ee..illmrrwzz}
+"""""&&&&&&&&&&
+%dddffffffff***2222-)#''ee..3llrrwwz}
+
+%%dddddddddffffg)e###'eee.ilmrrwwz}
+
+46======oBBBBBBEA5-h857:?qutty|
+A!!!!!!!
+   )/////444444444444
+<BEEEEssGGGGGGH:nn:CquutL
+*((*((((((())))))$"""-==================
+EG{{{NNNN~~~{DCCuILLy|QS
+=++00+++,111111----333-BBEEEEEEEEEEEEEEEEE
+N~UUUUU
+=>>>A>>A9999???::777888G{{{{PPPPPPPPPPPPPPP
+EEJJJJJKJJHKKKKLLDDIIFCC
+UUUUYYYYYYYYYYYYYYYYc
+RPRRRRRRRRRR
+YYYYYYYYYY\\\\\[[
+ZZWXXXTZ
+```````````````c
+vvvvvvv
+xxxxxxxxxxxxxxxxxxxxyyyy
+ttttttttrrrrrrrvwwwwwwww
+uuuuuuuuuuuuuuuuuuuu
+nnnnnnnnnnnnnjn
+sssssssss
+oooooooooooooooooooooooopqqqqqo
+fbbbbbbbbcccccccfmmmmmmmmmm
+hhhhhhhhhhhhhhhhhhhhhhkkkkkkgeeeeffigill
+lMMMMMMMMMMLLLLLL_ddddddddddd
+```````````````````aaaaaa_^MMM____bbeffgglll
+MGIGGGGGGGJJJHJHHK^^^^^^^^^^^^
+\\\\\\\\\\\\\\\\\]]]]]\KJJJIGKLKMMMM___beefill
+_DDDDDDDDDDDDDDDD1DGGGFFFFFFFFFF
+IIIIIIIIIIIIIIKKKKKKJ2222HHHHHJLLLLMMccccbjjinn
+j21111111111111
+1EEEEEEEEEEEEEE
+N4444444444444555542 3333"$66666888999c:OOnnPPrP6
+22222222222N
+N"""""""""$$$$$$#!!!!!!%%%''''777888999::OOOnPPr9
+ N
+N#######&&&&&&#!!!!!!!%%%'''7777888999::OOQPPPQ%
+                N
+*)******,+,+++;;;;...<<<RRRzzzzz;
+)))))(((((()
+-,,,-,---;...<<<RRRRRzzzTTT{
+z++++++++++,,,,,********
+///////
+>=====???>>SS@@@TWTT{{{VVV
+........
+----,-,,,
+BBBBB0W?SSSUUUUWWW}XXXXX~~~~
+@@@@AAAAAA@SSS>????===
+000000000BBBBBBBBB0
+XXXXXXXXXXXXX}}XX}}WUUUU?
+CCCCCCCCCCCCCC
+[[[[[[[[[[[[[[[[[[[[[
+wwwwww
+wwwwwww
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+VVVVVVVVVVVVVV
+beeeee
+sf\\\\\\\\\\\\\\\\\\\\\\\\\\\[[`````````]
+LHHHHHHHHHHIIIIMTTTTTTT_
+rYOOOOOOOOOOOOOOOOOOOOOOOOPPPRRRRUUUP|MyzMM{||}}W~
+M444444455??????DKKKKKKKKTq
+TFFFFFFFFFFFFFFFFFFFFFFFFJJJJJJJKEDCDDGGLyyz{{||}~
+>999:----,,,,))(2666666666Kq
+JBBBBBBBBBBBBBBBBBBBBBBBBBBEEB6@4@@AACDDGxxyzz||}~~
+G""""""""!!!!!###9333333<<<<Hq
+E======================6666<;::;;?>@AACDGGxyz{||}~
+~9       
+#++++++*****6q
+6.........11111113333<<=29)))-::;;>@AACDGGxy{{|}~
+%%&&''''''''Aq
+6*******//////.1111332+)()),-::;?>@ACCDGxyz{||}~
+%%%%%$$$$$$$$Aq
+q6*****//////.11133329(()),-::;?@@AACDGxyz{||}~
+"%%%$$$$$$$$$$Aq
+6**///////.111333+-(()),-::;?>@AACDGxyz{||}~~
+!%%%$$$$'''''''6q
+ticccccccccccccca[XXXX[[[[
+SSSQSSSQQQQQQRPPNOOOX^^^^^^^^aaaaaaais
+jjjjjjjjjjjjid``fddddhg
+ZZZZZZZZZZ[[X[XXXXYYY[iiiiiiiiiiiiiiii
+llllllllll
+igggggggghhhhhhddfff``d
+mmmmmmmmmmmo
+88888888
+8888888
+88888888888
+CSBhvSWCvFRvfCfAoJdoFuAUmK
+YaccDoDefaultAction
+accHitTest
+accNavigate
+accLocation
+accSelect
+accDefaultAction
+accSelection
+accFocus
+accKeyboardShortcut
+accHelpTopic
+accHelp
+accState
+accRole
+accDescription
+accValue
+accName
+accChild
+accChildCount
+accParent
+(null)
+        h((((                  H
+         (((((                  H
+         h((((                  H
+                                 H
+About TransparentControl
+MS Shell Dlg
+TransparentControl Version 1.0
+Copyright (C) 2008
+TransparentControl
+MS Shell Dlg
+This is a transparent static
+Button1
+Move Button1
+msctls_trackbar32
+Button3
+Chaged Bk Image
+VS_VERSION_INFO
+StringFileInfo
+040904e4
+CompanyName
+TODO: <Company name>
+FileDescription
+TODO: <File description>
+FileVersion
+1.0.0.1
+InternalName
+TransparentControl.exe
+LegalCopyright
+TODO: (c) <Company name>.  All rights reserved.
+OriginalFilename
+TransparentControl.exe
+ProductName
+TODO: <Product name>
+ProductVersion
+1.0.0.1
+VarFileInfo
+Translation
+MS Shell Dlg
+Cancel
+&About TransparentControl...
+Save As
+All Files (*.*)
+Untitled
+an unnamed file
+No error message is available.'An unsupported operation was attempted.$A required resource was unavailable.
+Out of memory.
+An unknown error has occurred.$An invalid argument was encountered.
+Invalid filename.
+Failed to open document.
+Failed to save document.
+Save changes to %1? Failed to create empty document.
+The file is too large to open.
+Could not start print job.
+Failed to launch help.
+Internal application error.
+Command failed.)Insufficient memory to perform operation.PSystem registry entries have been removed and the INI file (if any) was deleted.BNot all of the system registry entries (or INI file) were removed.FThis program requires the file %s, which was not found on this system.tThis program is linked to the missing export %s in the file %s. This machine may have an incompatible version of %s.
+#Unable to read write-only property.#Unable to write read-only property.
+Unexpected file format.V%1
+Cannot find this file.
+Please verify that the correct path and file name are given.Destination disk drive is full.5Unable to read from %1, it is opened by someone else.AUnable to write to %1, it is read-only or opened by someone else..An unexpected error occurred while reading %1..An unexpected error occurred while writing %1.
+Please enter an integer.
+Please enter a number.*Please enter an integer between %1 and %2.(Please enter a number between %1 and %2.(Please enter no more than %1 characters.
+Please select a button.*Please enter an integer between 0 and 255. Please enter a positive integer. Please enter a date and/or time.
+Please enter a currency.
+Please enter a GUID.
+Please enter a time.
+Please enter a date.
+No error occurred.-An unknown error occurred while accessing %1.
+%1 was not found.
+%1 contains an invalid path.=%1 could not be opened because there are too many open files.
+Access to %1 was denied..An invalid file handle was associated with %1.<%1 could not be removed because it is the current directory.6%1 could not be created because the directory is full.
+Seek failed on %15A hardware I/O error was reported while accessing %1.0A sharing violation occurred while accessing %1.0A locking violation occurred while accessing %1.
+Disk full while accessing %1..An attempt was made to access %1 past its end.
+No error occurred.-An unknown error occurred while accessing %1./An attempt was made to write to the reading %1..An attempt was made to access %1 past its end.0An attempt was made to read from the writing %1.
+%1 has a bad format."%1 contained an unexpected object. %1 contains an incorrect schema.
+#Unable to load mail system support.
+Mail system DLL is invalid.!Send Mail failed to send message.
+pixels
+%1: %2
+Continue running script?
+Dispatch exception: %1
+Uncheck

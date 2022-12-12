@@ -1,0 +1,536 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+^\9nTr
+^@9n8r
+C0)0)t$0
+C4)0)t$,
+9q<v9A<s
+F09^(u
+SVWj>3
+0WWWWW
+0WWWWW
+QQSVWd
+^SSSSS
+^SSSSS
+0SSSSS
+t"SS9]
+t hhvA
+0SSSSS
+^F<-uB
+<xtX<XtT
+>=Yt1j
+j@j ^V
+HtHu4j
+s[S;7|G;w
+YYhxvA
+tR99u2
+C PjPV
+C$PjQV
+C*PjTV
+C+PjUV
+C,PjVV
+C-PjWV
+C.PjRV
+C/PjSV
+0A@@Ju
+0SSSSS
+PPPPPPPP
+0SSSSS
+PPPPPPPP
+t+WWVPV
+URPQQh
+u,VVWV
+t VV9u
+;t$,v-
+UQPXY]Y[
+D$\D,vL
+l$4Y6JG
+l$Xe[e{
+D$0)D$
+L$$;L$(v
+bad allocation
+string too long
+invalid string position
+Unknown exception
+CorExitProcess
+LC_TIME
+LC_NUMERIC
+LC_MONETARY
+LC_CTYPE
+LC_COLLATE
+LC_ALL
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+Illegal byte sequence
+Directory not empty
+Function not implemented
+No locks available
+Filename too long
+Resource deadlock avoided
+Result too large
+Domain error
+Broken pipe
+Too many links
+Read-only file system
+Invalid seek
+No space left on device
+File too large
+Inappropriate I/O control operation
+Too many open files
+Too many open files in system
+Invalid argument
+Is a directory
+Not a directory
+No such device
+Improper link
+File exists
+Resource device
+Unknown error
+Bad address
+Permission denied
+Not enough space
+Resource temporarily unavailable
+No child processes
+Bad file descriptor
+Exec format error
+Arg list too long
+No such device or address
+Input/output error
+Interrupted function call
+No such process
+No such file or directory
+Operation not permitted
+No error
+EncodePointer
+DecodePointer
+FlsFree
+FlsSetValue
+FlsGetValue
+FlsAlloc
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+An application has made an attempt to load the C runtime library incorrectly.
+Please contact the application's support team for more information.
+- Attempt to use MSIL code from this assembly during native code initialization
+This indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.
+- not enough space for locale information
+- Attempt to initialize the CRT more than once.
+This indicates a bug in your application.
+- CRT not initialized
+- unable to initialize heap
+- not enough space for lowio initialization
+- not enough space for stdio initialization
+- pure virtual function call
+- not enough space for _onexit/atexit table
+- unable to open console device
+- unexpected heap error
+- unexpected multithread lock error
+- not enough space for thread data
+This application has requested the Runtime to terminate it in an unusual way.
+Please contact the application's support team for more information.
+- not enough space for environment
+- not enough space for arguments
+- floating point support not loaded
+Microsoft Visual C++ Runtime Library
+<program name unknown>
+Runtime Error!
+Program: 
+bad exception
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+united-states
+united-kingdom
+trinidad & tobago
+south-korea
+south-africa
+south korea
+south africa
+slovak
+puerto-rico
+pr-china
+pr china
+new-zealand
+hong-kong
+holland
+great britain
+england
+britain
+america
+swedish-finland
+spanish-venezuela
+spanish-uruguay
+spanish-puerto rico
+spanish-peru
+spanish-paraguay
+spanish-panama
+spanish-nicaragua
+spanish-modern
+spanish-mexican
+spanish-honduras
+spanish-guatemala
+spanish-el salvador
+spanish-ecuador
+spanish-dominican republic
+spanish-costa rica
+spanish-colombia
+spanish-chile
+spanish-bolivia
+spanish-argentina
+portuguese-brazilian
+norwegian-nynorsk
+norwegian-bokmal
+norwegian
+italian-swiss
+irish-english
+german-swiss
+german-luxembourg
+german-lichtenstein
+german-austrian
+french-swiss
+french-luxembourg
+french-canadian
+french-belgian
+english-usa
+english-us
+english-uk
+english-trinidad y tobago
+english-south africa
+english-nz
+english-jamaica
+english-ire
+english-caribbean
+english-can
+english-belize
+english-aus
+english-american
+dutch-belgian
+chinese-traditional
+chinese-singapore
+chinese-simplified
+chinese-hongkong
+chinese
+canadian
+belgian
+australian
+american-english
+american english
+american
+Norwegian-Nynorsk
+ Complete Object Locator'
+ Class Hierarchy Descriptor'
+ Base Class Array'
+ Base Class Descriptor at (
+ Type Descriptor'
+`local static thread guard'
+`managed vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`vector copy constructor iterator'
+`dynamic atexit destructor for '
+`dynamic initializer for '
+`eh vector vbase copy constructor iterator'
+`eh vector copy constructor iterator'
+`managed vector destructor iterator'
+`managed vector constructor iterator'
+`placement delete[] closure'
+`placement delete closure'
+`omni callsig'
+ delete[]
+ new[]
+`local vftable constructor closure'
+`local vftable'
+`udt returning'
+`copy constructor closure'
+`eh vector vbase constructor iterator'
+`eh vector destructor iterator'
+`eh vector constructor iterator'
+`virtual displacement map'
+`vector vbase constructor iterator'
+`vector destructor iterator'
+`vector constructor iterator'
+`scalar deleting destructor'
+`default constructor closure'
+`vector deleting destructor'
+`vbase destructor'
+`string'
+`local static guard'
+`typeof'
+`vcall'
+`vbtable'
+`vftable'
+operator
+ delete
+__unaligned
+__restrict
+__ptr64
+__clrcall
+__fastcall
+__thiscall
+__stdcall
+__pascal
+__cdecl
+__based(
+GetProcessWindowStation
+GetUserObjectInformationA
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+USER32.DLL
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+CONOUT$
+bad allocation
+WertualBridecd
+ios_base::badbit set
+ios_base::failbit set
+ios_base::eofbit set
+bad cast
+C:\vajabunejoharakudewu-lefiwagayamubukawak\satoxacucipamu\ti.pdb
+GetSystemDefaultLangID
+GetComputerNameA
+SetDefaultCommConfigA
+SetThreadContext
+lstrlenA
+GetCPInfo
+BuildCommDCBAndTimeoutsA
+SetUnhandledExceptionFilter
+LoadLibraryExW
+GetCommState
+ReadConsoleOutputAttribute
+CreateJobObjectW
+GetNamedPipeHandleStateA
+CancelWaitableTimer
+GetProcessPriorityBoost
+WriteFile
+SetProcessPriorityBoost
+LoadLibraryW
+_hread
+LeaveCriticalSection
+HeapValidate
+GetBinaryTypeA
+SetSystemPowerState
+GetLargestConsoleWindowSize
+GetPrivateProfileIntW
+GetStdHandle
+FreeLibraryAndExitThread
+GetLastError
+GetCurrentDirectoryW
+SetLastError
+GetProcAddress
+VirtualAlloc
+SetVolumeLabelW
+OpenMutexA
+LocalAlloc
+BuildCommDCBAndTimeoutsW
+BeginUpdateResourceA
+GetCommMask
+AddAtomA
+WaitForMultipleObjects
+SetSystemTime
+SetEnvironmentVariableA
+GetOEMCP
+DebugBreakProcess
+CreateMutexA
+VirtualProtect
+EnumDateFormatsW
+LocalSize
+DeleteFileW
+TlsFree
+GetProfileSectionW
+CommConfigDialogW
+lstrcpyA
+KERNEL32.dll
+GetAncestor
+USER32.dll
+WideCharToMultiByte
+InterlockedIncrement
+InterlockedDecrement
+InterlockedCompareExchange
+InterlockedExchange
+MultiByteToWideChar
+InitializeCriticalSection
+DeleteCriticalSection
+EnterCriticalSection
+HeapFree
+DeleteFileA
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+IsDebuggerPresent
+GetModuleHandleW
+ExitProcess
+GetCommandLineA
+GetStartupInfoA
+RtlUnwind
+RaiseException
+LCMapStringW
+LCMapStringA
+GetStringTypeW
+SetStdHandle
+GetFileType
+GetConsoleCP
+GetConsoleMode
+HeapAlloc
+HeapCreate
+VirtualFree
+HeapReAlloc
+TlsGetValue
+TlsAlloc
+TlsSetValue
+GetCurrentThreadId
+GetModuleFileNameA
+LoadLibraryA
+InitializeCriticalSectionAndSpinCount
+FreeEnvironmentStringsA
+GetEnvironmentStrings
+FreeEnvironmentStringsW
+GetEnvironmentStringsW
+SetHandleCount
+QueryPerformanceCounter
+GetTickCount
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+GetStringTypeA
+HeapSize
+GetACP
+IsValidCodePage
+GetUserDefaultLCID
+GetLocaleInfoA
+EnumSystemLocalesA
+IsValidLocale
+WriteConsoleA
+GetConsoleOutputCP
+WriteConsoleW
+SetFilePointer
+GetLocaleInfoW
+CreateFileA
+CloseHandle
+FlushFileBuffers
+ReadFile
+.?AV_Locimp@locale@std@@
+.?AVout_of_range@std@@
+Copyright (c) 1992-2004 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
+.?AVtype_info@@
+.?AVbad_exception@std@@
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AV?$ctype@_W@std@@
+.?AUctype_base@std@@
+.?AVfacet@locale@std@@
+.?AV?$basic_stringstream@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@
+.?AV?$basic_stringbuf@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@
+.?AV?$basic_iostream@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_ostream@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_istream@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_ios@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+.?AV?$_Iosb@H@std@@
+.?AVios_base@std@@
+.?AVruntime_error@std@@
+.?AVexception@std@@
+.?AVlogic_error@std@@
+.?AVfailure@ios_base@std@@
+REeKmq?
+AX18w&
+-JCD|1_
+-JCD|1_
+-JCD|1_
+-JCD|1_ 
+l;R{"LD^
+)W~AeA
+=6F9#j
+1L4Yg,8
+RV9wv>l G
+rxr|#
+2AO*)
+sn<^j+
+GH%j5A'z
+\8:wRmi
+Af6=KM
+y'pFb
+MhigaL.
+}yi31x^W_
+1w%k]D.P
+nvN>a(
+IgYprlg
+xf\%:'
+zudD<!
+Kz^!X+
+K~W\@D
+kCIQje
+!1Z{6Yrp
+bo5P+)
+VpLf~B
+1EvTGD
+2mo@V8
+.?AVlength_error@std@@
+.?AVbad_cast@std@@
+.?AVbad_alloc@std@@
+Sizote wunixafati jedimiyoxap vozimalavugoyup yebeyuzuc. Kojatid zumu texu wumecizabu. Muhapivekaceli. Zitizodoponema gojinij bekeso. Pejuxizutuc senadabiwupa baxuzeh batipiloxosuci nogax. Zunikogemekolu fey lugarovulu. Bogotonazo jiracikewuc. Duje mukahibocen kuret. Celer garosenu jogajezocalob. Jiyagob bix lowehunafekiloh. Cicimogumuwex vip honadavosi musozu becefah. Yuvehelolito muyupicux dodosututa rolizigadaxu sexo. Niliferuw meva tolefotev. Sicozuv bohinayi bewewihutu henoforetej. Zucafa zeyumex hidedumocecogob ninaliguwut. Cuzupabase matihuxuwuk xemovezibid. Yosubey mutelicipovor gisesamedutoluw sefux mefunamaf. Tahaxotos tazemu cojapewegazorup. Fala hewesatekico murebugifut zatironuyisus wuwoxotisu. Hosuzabal yudivumuyel kuyegemamos. Vapatiregafi xeripa. Xip ronezopibeli tezaxedujoji cecohababinut. Xuceya. Vabelijuge. Dalohe. Lujowedi jojucur tic zagubadokicuy buwu. Betasomozipudar faweda xucacezonutuna. Samufagehukuxu. Cayoh fumuso nicucijor gir. Hinedivaz zanesomutorofif. Tutolovoxohene fihocoxosof.
+iiiiii
+iiiiii
+iiiiiiiiiiii
+iiiiiiiiii
+iiiiii
+iiiiiiiii
+iiiiiiiiiiiii
+iiiiiiii
+
+jjjjjjj
+mscoree.dll
+         (((((                  H
+         h((((                  H
+                                 H
+KERNEL32.DLL
+kernel32.dll
+nenosuvaraxuhibibaramirifo
+AFX_DIALOG_LAYOUT
+/ P6pL
+,/KPip
+/-P?pR
+/ P6pL
+,/KPip
+/-P?pR
+VS_VERSION_INFO
+StringFileInfo
+041904E6
+FileVerus
+1.0.2.18
+ProductVersys
+1.5.28.29
+VarFileInfo
+Translations
+ACodesoheturoxuk huva sisilijox zututuvi kiyutuputewi zurimazatahiNYivojukowosu monaxedevila zax waki vokidaf zayagehasiz vopiwocife helayefapetu
+Yepemupiyaguhi+Ceyumuvahud kigopoxifuzad kod xudanocotibuniTevobovil dafayemeb vanofetew dekub segisolijupejun reteniyuyevel vuzariti xucodunuwejoyu wazocaxosucihib?Xuza xijumoxiyo zosevajaju zalofahagew bunadaha yet xulobupoguh
+bSituwizakitan kujusojigufobik wizoza numu covegecurexu hiti lolayosobo jukuvu xobofa xoyizewesebem$Fopexohikija cufuvemi warogefi yatalFZoken pupoyoganuf fokim hefac heyewujakivega rilehahineye cizazacizibi
+ZipaxaBetelaluwa dobosasowav kuhavo bibuyahobu kilegodasula hufihu zozo vavexugadita jawobipepariti kizdDeyo jewigumolebew yunebowafap cucu lakimuloguzu sebaxares yarizopepazaluh boniliwokameb rapeyudatexaGamirahecimulo mefac foxejarakixovof hibujonefo zovi hovuyozemoj mumolugar jolitivaru jaxojatikow#Ruzasehatibe gecowa giju luw fevumu=Xayaronogizez wagivuxasufiraf bakixahozame siwuka tevititeheb9Wisohireh horijuxineta gelekewecepec zisayimesemanu ladow=Dadurusu razazipapupumos seyawopovorexu ginih jaxavejixinives(Xodej buteleriyi feyedejoziyol bosajozikABifusijunaw reyukozames pajopiwija vac yoluvu nuyehebi kijobihuyo
+Lipewuhu lozejWNufo soyucam yaxowiwek fer weyutaf ruvahuvi xeheyurefagumuz fijobep wemegoji hucuyijuyi
+Kalo fovihot
+0Warohec tenonos fuzuxi yoxemixefi saxiyusoloseki
+Jefe behus duvo pawa
+Huro luwisifo
+Gupahef

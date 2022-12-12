@@ -1,0 +1,539 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+0WWWWW
+0WWWWW
+QQSVWd
+0SSSSS
+t h JA
+u&hpIA
+>=Yt1j
+j@j ^V
+HtHu4j
+s[S;7|G;w
+YYh0JA
+tR99u2
+0A@@Ju
+0SSSSS
+PPPPPPPP
+0SSSSS
+FVh|SA
+PPPPPPPP
+URPQQh
+tNIt?It0It 
+_VVVVV
+^WWWWW
+tRHtCHt4Ht%HtFHHt
+;t$,v-
+UQPXY]Y[
+GWh|SA
+t"SS9]
+t+WWVPV
+0SSSSS
+_VVVVV
+<+t(<-t$:
++t HHt
+bad allocation
+string too long
+invalid string position
+Unknown exception
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+EncodePointer
+DecodePointer
+FlsFree
+FlsSetValue
+FlsGetValue
+FlsAlloc
+CorExitProcess
+?ZEM-'^
+?{yK+;
+?765@Z
+?e')lW
+UUUUUU
+333333
+?333333
+?UUUUUU
+?$rxxx
+?ZEM-'^
+?{yK+;
+?765@Z
+?e')lW
+UUUUUU
+?333333
+?333333
+?UUUUUU
+?$rxxx
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+An application has made an attempt to load the C runtime library incorrectly.
+Please contact the application's support team for more information.
+- Attempt to use MSIL code from this assembly during native code initialization
+This indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.
+- not enough space for locale information
+- Attempt to initialize the CRT more than once.
+This indicates a bug in your application.
+- CRT not initialized
+- unable to initialize heap
+- not enough space for lowio initialization
+- not enough space for stdio initialization
+- pure virtual function call
+- not enough space for _onexit/atexit table
+- unable to open console device
+- unexpected heap error
+- unexpected multithread lock error
+- not enough space for thread data
+This application has requested the Runtime to terminate it in an unusual way.
+Please contact the application's support team for more information.
+- not enough space for environment
+- not enough space for arguments
+- floating point support not loaded
+Microsoft Visual C++ Runtime Library
+<program name unknown>
+Runtime Error!
+Program: 
+bad exception
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+GAIsProcessorFeaturePresent
+KERNEL32
+ Complete Object Locator'
+ Class Hierarchy Descriptor'
+ Base Class Array'
+ Base Class Descriptor at (
+ Type Descriptor'
+`local static thread guard'
+`managed vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`vector copy constructor iterator'
+`dynamic atexit destructor for '
+`dynamic initializer for '
+`eh vector vbase copy constructor iterator'
+`eh vector copy constructor iterator'
+`managed vector destructor iterator'
+`managed vector constructor iterator'
+`placement delete[] closure'
+`placement delete closure'
+`omni callsig'
+ delete[]
+ new[]
+`local vftable constructor closure'
+`local vftable'
+`udt returning'
+`copy constructor closure'
+`eh vector vbase constructor iterator'
+`eh vector destructor iterator'
+`eh vector constructor iterator'
+`virtual displacement map'
+`vector vbase constructor iterator'
+`vector destructor iterator'
+`vector constructor iterator'
+`scalar deleting destructor'
+`default constructor closure'
+`vector deleting destructor'
+`vbase destructor'
+`string'
+`local static guard'
+`typeof'
+`vcall'
+`vbtable'
+`vftable'
+operator
+ delete
+__unaligned
+__restrict
+__ptr64
+__clrcall
+__fastcall
+__thiscall
+__stdcall
+__pascal
+__cdecl
+__based(
+GetProcessWindowStation
+GetUserObjectInformationA
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+USER32.DLL
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+_nextafter
+_hypot
+1#QNAN
+1#SNAN
+bad allocation
+VirtualProtect
+QKGu\&
+g-UOcI
+*d$Y1|
+fPDC4Ow
+LMZ2<v
+/a!5,v
+>it8NF
+#+o!*5
+^r]|+)
+,]Hz]w
+ghB^2!
+O95Xr~
+tU1Xw?o
+ZMn@Ox
+Erb|`(#/>
+Kuy,='
+cfD?ev1g
+TrK{SE
+ :o `Kp
+<f={C0G
+ElF>UpI
+@It?eO6
+`t(8JO
+o_6o`cB
+3L@p@4?
+k*)*<F
+ m+v:n#
+Kr5PG4
+wydI@2^
+@'&p7
+b,!Y27
+lR|CcI
+|ANYor
+05D[l{
+Pb(0S
+Q.uXsE
+<-e_F t
+M;J!0x:x-?Iz
+(Hb S@%
+V,".I
+tAcBr6d@e
+182+>^
+ 6(j/t
+b8_|Tlk
+bM%i4`]
+vector<T> too long
+CreateMutexW
+lstrlenA
+AllocConsole
+CommConfigDialogA
+lstrcpynA
+InterlockedDecrement
+SetDefaultCommConfigW
+GetEnvironmentStringsW
+GetModuleHandleW
+FindActCtxSectionStringA
+ActivateActCtx
+GetConsoleCP
+GlobalAlloc
+GetSystemPowerStatus
+GetCalendarInfoA
+GetFileAttributesA
+GetProcAddress
+ResetEvent
+HeapLock
+HeapWalk
+WaitForMultipleObjects
+GetOEMCP
+SetFileShortNameA
+DeleteFileA
+KERNEL32.dll
+InterlockedIncrement
+InitializeCriticalSection
+DeleteCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+GetCommandLineA
+GetStartupInfoA
+RaiseException
+RtlUnwind
+GetLastError
+HeapFree
+HeapAlloc
+TlsGetValue
+TlsAlloc
+TlsSetValue
+TlsFree
+SetLastError
+GetCurrentThreadId
+HeapSize
+ExitProcess
+WriteFile
+GetStdHandle
+GetModuleFileNameA
+FreeEnvironmentStringsA
+GetEnvironmentStrings
+FreeEnvironmentStringsW
+WideCharToMultiByte
+SetHandleCount
+GetFileType
+HeapCreate
+VirtualFree
+QueryPerformanceCounter
+GetTickCount
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+VirtualAlloc
+HeapReAlloc
+GetCPInfo
+GetACP
+IsValidCodePage
+GetLocaleInfoA
+GetStringTypeA
+MultiByteToWideChar
+GetStringTypeW
+LoadLibraryA
+InitializeCriticalSectionAndSpinCount
+GetModuleHandleA
+LCMapStringA
+LCMapStringW
+.?AVout_of_range@std@@
+.?AVfacet@locale@std@@
+.?AV_Locimp@locale@std@@
+Copyright (c) 1992-2004 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
+.?AVtype_info@@
+.?AVbad_exception@std@@
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AV?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+.?AVexception@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVbad_alloc@std@@
+
+J]]]]]]]]]]]]]]]]]]]]]]]]]J
+]]]]]]]]]]]]]]]]]]]]]]]]]]]
+]]]VNJNJJHHHHCCCCC@@@@@Q]]]
+]]VCCGCJNHHCCCCCCCC@@AAAQ]]
+]]CCAAAAJNH@@?AAAH@@@@>A@Z]
+]]>;>;;=NGH>;;;;@AH>;;;;;Q]
+]];6;6;6NNC6;;6;;H@@6;6;;O]
+]]333333NNH333336HC>33333O]
+]]3,3+3,NNH,3,333HH;,3,3,O]
+]]++++++ONC+%%%%3HH6,%+%+J]
+]]%%%%%%OOH%%%%%3HH;%%%%%N]
+]]""""""OOH""""",JJ6"""""G]
+"+KJ6"
+(>>>;;3>34333311,1((((("("&""
+ZVVVVVVTTTTQTPPPPJNJNHHJCHCCC@@
+ZXXWVVVVTTQTQQQPPPNNJJJJJHCCH@@
+ZZXXWVVVTVTTTQQQQPNNNNKKHHHCCC@
+[ZZWZVVVVVTTTTSQQQPNNNNKJHHJHCC
+[ZZZWZVWVVTTTSTSQQQQNNNKKJHHHCC
+\ZZZZWZVWVVVTTSTSQQQQNNNNKJHHJH
+\[ZZZZWZVWVVVVSTSSQQQQNNNNKJJHH
+BBHBHBHBHBHBHBHH3
+=SSNNNNNNNMNMHNMSS
+=SA==>>==7=7=777BS
+=H772==7722777277N
+=L1124A71117=1111H
+>H(((2>7'((2=1'((H
+=H''$2A7"'"1=)'"'G
+BBBCC>>>>===77722221
+NNMHHHHFFAAAA>>>==::'
+NNNMLHHHFFAAA>A>===7'
+NNNNLMHHHFBBAA>>>==:&
+SNNNNLMHHHHHBBAAA><<'
+KKKKKKKKKKKK
+KKGEEEECEACCJK
+KF..33,++.++.K
+KA''.3'''3(''G
+7773....++$$$!
+.GFEECCC88877.3/
+.GGFEECCC<<77733
+.JJGFECC<C<<8733
+88888889
+9!.&!.!9
+544//.-&!
+99885421/*
+xxu$hhg
+rro4ggf
+777%ddd
+222'xxx
+HHHHHHHHHHHHHHHH"
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHv
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHHHHH
+ZvHHHHHHHHHHHHHHHHHHHHHHHHHHHv
+HHHHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHHHHv
+HHHHHHHHHHHHHHHHHHHHHHHHHHH"_
+HHHHHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHS
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHS
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH3
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHv
+HHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHH
+vHHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHv
+HHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHv
+HHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHH
+3HHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHHHH
+SHHHHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+vSHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+vHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+vHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH3
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH3
+3HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+V_a`ZY*
+((f\SLLLLLH
+&gTPLLLLLLLG
+]]eLLLLLLOOOO
+]^cLLLLOOOONN
+'dSOOOONNNNN
+&0bSNNNNNNNK
+9QRIE?@KK
+;CCCBCCD
+BCCCCCD$
+3CCBCCCDF@> 
+3BCCCCF%
+#CCCC=
+FG;1111
+?C1111110
+E>11000//
+G000////
+B<//...
+ 5($%((()'
+ ,((()
+#-/l^ '
+&IJa?#
+3,2g~/0
+4GKpwdh
+&;B`u]a
+*,Mg\_
+.*{~jv
+@:b`.)
+LNd4
+hHDpv,,
+&Z^~S:L
+I7==8:8;7:4<23744737464424237297339C
+o`BE833
+<KL~Dw
+iWT/+V
+f//XWg
+#$$$')*)))-,S/1Y
+wtuEF=8p
+$kWgWbX
+n+)b(Zhi
+XsYb'\g|
+YmRm\dUbQ
+ bb,'iz0 W
+.)-,+*)-*!
+569<?CGDIxx`xr`r`xr]_
+q526;CC>JKt
+xooxnnqn
+od<t:tn=<;;xy}
+U<t|lsqhf<5<
+JWRYO.2A?CIOOY]IP`b
+,cG-ENb/
+'g_PW[ZF
+!F+*?&(+
+Ty{r;7x
+ $" #%
+112@CCDB>>Ud=:
+o6;ihis
+WaN[aXVY][XTQQPP
+fskl~\jYT)*
+i^b`WQTY[
+x)VUTH+(Vc
+vp|qD=S|
+pstS-89==<8.4B
+%&36:75OUU
+-5.62:7(*&%e
+rcA<#!_
+ByWU8>1;V~
+QDNC L
+jjjjjj
+KERNEL32.DLL
+mscoree.dll
+         (((((                  H
+         h((((                  H
+                                 H
+kernel32.dll
+kernel32.dll
+kernel32.dll
+/ P6pL
+,/KPip
+/-P?pR
+/ P6pL
+,/KPip
+/-P?pR
+/ P6pL
+,/KPip
+/-P?pR
+VS_VERSION_INFO
+StringFileInfo
+080404b0
+FileVersions
+1.2.6.1
+InternalSurnames
+edzjkphvesw.uxe
+Copyright
+Copyrighd (C) 2020, odfrjv
+ProductVersion
+1.0.4.4
+VarFileInfo
+TranslationUz
+Xozifa sohupicowadico
+FimuoFubakabav gokowatotohagot miwekas nowakakitiye hirusotoz mokogobusak waretevuza jivufufipise muhiyanedicey leyicPayojokevisati gadamumixokah gireyexawej pojokatejeliyat bumaxe wicikexaranux mayig cobuxixisij vas7Bami kuzacofovuc biba zodi doyocufipoz ruzoz kejexifero
+Vubaduyesalo zejaSacu muvuwunosekum linapujanuloTog cejumu sivajudakamof diwixo
+KLarora maxujuyuh povujuriniteye yabigaca tosepuwawe bayihif rejesup tezupow?Lusibig lamalodalopag vakufufayon zapujodoxege meb vah gisihivu
+Dacinet yoyowatepa fuhufuk
+Vizigugutizut fadesu mutoreLTayaba zezoza jic pizeriyosi degan daborobiyo zolip wubazewufalino repapatuk
+Zupojadivohir
+Micik seki madunebe gixekucaw8Zitawanujewoj cowuberiwehuku hirewulijip fubu laco bipelQJerohihofujego fagucilokeluh zasudo cefexicayiwa damufu mehesus nayijukokenaz vud1Habeyibona repog lelopi faluha yasi pinoxodamuzat
+Tuzuvuha viyixoxuguwebe lediNucij jedatajafize vinijizojicayi mugakamopume hufumexubo puv maguwegicegat secovi kukuvah haziwewugubidoFDeno tanor heroxixelotuv hexabeg hebizape kegavomurayibow zilepojutusoAWiz zazafoge xecugi copuzuwukag yexovegum mufucedinuyulu yefumosa4Bagujido nohoyodamuwoxef sez roho yukut vavig xugolo
+0Jacesesulateco yoseyu zikefenefu zadatenohokejodaWicixulumato jahitogug jumi fukunuvor kisumuci kazanipu yihocibajox nusegowob moyol yotufirosetox$Dixofifuh pemakijad kuhuho fuzobibac
+Tedoxocid!Bakico yubaseh zicoyid lowanunehelKumabifuleyotaz zuyaranefatuc rigurivajemixol mukorowulov mavesokuc payohew wiv donanutiw bawojahekigor nire2Xakabupolanon cutib ninalilov codipihosecubi pemeg
+Kazuverozacog wulewexop wexaxe?Vikedafi jiral toyu nayuxuya gigojebodoyap yewitaruwuko yosabepBKanobiloyutu tugadoyusemu nicev bugi liwomorugey wohagisuyaro teco*Gizuhuzajijoguv sikewavasira hebes wiyapevGariyojamiley fiyiber tiw nadosHBiregikew ruputose soxewumavo bobogejucuj deday xipu jurogebud maketobef
+Sajuva putoce vexirelol>Tuvarahito doyibe puye facositomef jadaheb cezuzo gojabifowija
+=Favigomad bifavuve yolic nesutixikusane welokusosay pewebizaw^Wohicozelacey yewinucap cugupinexifepu gupigigamafe nexuxikajux zasuzogurujijav bevopowikokegeCDelomufu nazekecibalap yama rumogekinexezig fuvaribamusem zubowohul
+DVomekil cofataloxowedos kofomujiloguru dokunuv zihatexope hopalitebo

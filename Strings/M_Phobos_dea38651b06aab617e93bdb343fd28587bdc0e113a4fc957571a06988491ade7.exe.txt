@@ -1,0 +1,1871 @@
+!This program cannot be run in DOS mode.
+`.rsrc
+@.reloc
+f$s)
+f$s)
+]$s)
+@A@(4
+Cys&
+CXs&
+C9s&
+o$s)
+h$s)
+zKs&
+Fes&
+c$s)
+6Ls&
+@A@(4
+zes&
+f$s)
+f$s)
+]$s)
+Nms&
+NFs&
+@A@(4
+R s)
+K<s)
+K<s)
+>js&
+K<s)
+?js&
+K<s)
+>js&
+O<s)
+>(s&
+O<s)
+?(s&
+K<s)
+>(s&
+K<s)
+K<s)
+@A@(4
+@A@(4
+@A@(4
+@A@(4
+@A@(4
+@A@(4
+@A@(4
+@A@(4
+}~s&
+~s&
+}Ts&
+,#s&
+,Ts&
+} s&
+Vts&
+VCs&
+6ys&
+6Hs&
+9Ns&
+K"s)
+K"s)
+K"s)
+@A@(4
+@A@(4
+NFs&
+Zms&
+Z0s&
+WYs&
+f s)
+K"s)
+K"s)
+K"s)
+K"s)
+RJs&
+R"s&
+K"s)
+@A@(4
+Ros&
+5Ms&
+Ys)
+Ys)
+@A@(4
+R s)
+@A@(4
+ <s&
+=Gs&
+=hs&
+@A@(4
+;-s&
+.fs&
+@A@(4
+@A@(4
+6?s&
+@A@(4
+:Ss&
+P"s)
+P"s)
+P"s)
+fcs&
+@A@(4
+@A@(4
+c?s&
+K"s)
+K"s)
+P#s&
+@A@(4
+c*s&
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+;3;;;;;
+>odLVE-
+}6Ya6Y
+lH63-_'C{
+C&3);2
++33{^8/
+,f(Zi8
+|WA{_%
+`\V@?~
+qY^EYD
+@3>g&>
+CV;oc-nPp
+4 }K&}
++g6a4H
+dKg}Gd
+?#X$0y7
+#*5mGT./
+{(5F`:M
+!HG3vCzN
+ZM$;(A
+<I;"Dv
+|"Q9Rq
+2+cvjO
+Ra4Ra$Ra
++(]]YPQ
+tuI~yUuu
+@Q/k.k
+3/+wB@%
+w[zquh`
+VwamcMC
+!WmmE=s
+qKQ~]#
+NM19CfZ#
+=1VXD{M
+G;S60em
+]RE[d6
+}cSV[}
+/V7j)/
+58*KZZ+
+@s}A P
+dI^^^a~
+oZUT3\
+nWycyA
+p* 3 g
+@?y4-|2
+q+Cbog
+rFZNG-
+RB$2B4
+ ,O@Q-
+HAEkszA
+}CQTzC
+N]5+kz9
+s-a9.$#}
+Y\icRY|
+L{aox^
+CoLtI5
+[h;*DzN
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+hSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPAD
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+@CIDATx^
+\)w}ks
+/o=(Ic
+Oh=(Ic
+Oj=DIC
+on=XIC
+j=`I)g
+Pe/h=lI
+R|s|"a
+rv~s]nZw
+rm$IJ3
+<~s3+K
+ I#*{}
+P^xV|31m
+>4qM$I
+$IGZ= 2n
+bXYxL|K2v+
+8q?KJ+
+iayqGX
+h^[YxL|
++w=1>Q
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+hSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPAD
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+IDATx^
+jD&W/'
+k54wZQ
+CIk:K:
+3[)p7d
+BN?qZ-
+ZRVm'%
+"B6U<<-
+OWqll5
+/U$5b3
+^gb]zX$
+>g,&0b
+y?"kY0
+&(t+e;_
+fMd"#g
+|/EXc5
+~0o/S|
+?oFmFY
+LCh+rE1
+u-njg08
+H/`Ot<2rF
+84%v1P
+( +9"k
+Z_zFlg
+'#VPu_
+w2p2w`
++P)7"k
+]%=u*K
+Z1+g2.
+boe/r-
+B{Im."
+R09J`t
+E|W&s47
+ZISrB-e-g&T
+xc3s4d
+Up'}w'
+k5LXc(
+)!"{9=k?
+.Rk,MfA,
+lo6"xS$
+U*EQ(4
+0JWQ`4
+U}*k7T
+0KsZW_
+FKC"Ts
+5i!IN0
+P]4]`6
+}Gh0;'
+!*_*XZ
+(lF.bk
+3{f1cS&
+/ct.Sg
+}ScGJ6
+57CFq5
+&!UX@m
+==O_0a
+l>fpK
+gu3ZO=
+bfTjfc
+Mu\1~c
+.eA1mA7q
+Na$jc:H
+cNL5`t
+'XoZEw
+13njMa
+FRN:WzD
+,a7[GKr
+w9iULU\%w
+EOW:MI
+$yV5:pu
+rK`D>Zg
+->Cke
+~*t<S&
+d.VD'O
+os7q?h'*Kr
+sz|QR:
+^@]j2^
+q9Of:qP
+hjdF_g[
+6"6u6G
+#]I=#I
+`:{*VO
+wt;|Ai
+e&dj$
+J8sn5YrC8
+EiI$^+
+571w~>S?
+tFy0,p
+v/;JmR
+yir>E1
+F%2GRI
+B%dJ*$
+.Q{h=
+kbhp4DYg
+C{=v+'
+>x9:*GP
+8<,%qX
+?xzg?q
+1En-[
+LvH"xZ-9qq
+[2s.Hq@K
+ijou1G
+hNGBj2
+q1&4&]
+7GxU'2
+KaJ:~>sq|
+'!*[/(
+&g&*/'
+Mt:=zp 
+qKqo5CEh/
+JlT_rd=
+}BTt)w
+$betx?
+g,C3~
+Q8;u!
+}"v_M0
+T@w>^\.
+&^<axS8
+?-A-u.
+TJE~Sxy-
+g/:_nfd
+:.^W u
+-d=pA]p@
+H@vh:}
+*?}2x|
+&7N^eK
+XKi zL
+eP8#^/D
+i/@$y4?
+`GJ_z
+3[MXm51
+J+/L+7
+BvYoD"
+{tF3hh#R
+'-"3(+j
+rv=}6f1
+gjpHp]
+XLWof{
+% t9'~
+'3=j6C
+@`&_wN
++D?V2Oh
+8sU`nS
+&Ev8ST
+~m_yuz7
+&EWY9Z
+(-&+im|KA
+{Y\lCH
+mL.oCg
+PMy_s2BmH
+I$ud2&-
+G?v^^A
+4LwuQ1/T
+k(/V>'
+DY0} }
+9gKdyP0
+x6`!Z[
+0A{"#\#
+A{6vn >
+vl!ad/
+/s@|o#
+U~"'[J9
+sj;%;m1z
+!cq9!D
+Bc%P]=
+G)<cN]
+$]3bOa=~A[9
+WE@*qc
+r"?QpFb$
+'Jq9l 
+>#k'lkr
+uO(I[I
+KSr82?
+b|_$ 59
+\OTD2 
+g%1oNe
+Y-Nzp6
+^Q":b%
+hi=GV,
+YnHf|c
+AHUWR0
+<lcnS?
+P;S\6Ru(
+oFz_>9
+{6VQ_X1
+<LgG!&?
+S$.9LT
+bz*~ql
+l7RkWB
+%'|Tx,
+jZNr`+)
+%R!)"B
+i?0XtS
+ xf'&`
+x-kOTsFz
+1ec>.j
+$;[2;g
+<..A9c7
+SCrP;>
+1^p@Vq0;
+0gz5s[[
+~&vK<)
+i<?OP~]
+H3c,=Y
+T^LXDS
+s>6IGP
+Q_6`3;
+;Os"h*
+upwi#I}=
+TzJ"|]0oV
+ds`@;[l
+tH7 g^
+}RKrT)
+6TpuQ1
+YBTS kT"
+)flXEz
+T*Sb& 
+fKc:y-;
+RLnxs.
+HBXs1.
+L,l ~i
+cqh)]Yk
+Asy2`$)Fc
+0d{<]5
+dy9tn;
+Bs"s/D
+Qxu kF?
+inM|Jh
+){WZSz
+NL]RX5a
+Hz2|{7Mu
+~0W9Cy
+*+'R|s
+fJbH*J
+#m^ 2s
+tgbQYA
+r5|,ig
+V an7I~3
+q{J)XeO
+hTO\$>
+'>_802
+[fq^v?
+ja8'64pLF
+Ib#s>Ic
++k=EZu
+.ygv`|e
+{$0LKG
+`[jNbC8
+yh}YPH
+T!&>]0
+dfd1rj
+KT YTB
+e=V<~G
+)$oHqgt
+[_Ev(
+{rbJ_
+[AqlwD
+V9y<:f
+UgaZ<M
+8/F`.1
+-&'^bk
+(9bDRQJ=
+>`Jv$Y
+5XFX{-
+#%h(s^
+ABz$z.
+Z&hOcV
+Kg2cc"
+yv~<Y+
+YCN~9C
+nX\y@
+r<^HPh_
+f8+#-h
+zQ8/ro
+AoTC&r
+b=oV6~B
+[MqW='
+?2.=C&
+vW1zS=
+Ih2!Fm7n
+l.,PAj
+'Od"Ol
+P7f9}0
+l;Dcx;
+*8#MY
+<l-;VKq
+,\aFGS
+3m$b;U
+3uQ:3|
+j1%Aa4
+};[_8aY
+A.l]-O
+*1/t VW
+i<{B/`
+&668RY
+QNLm;G
+_`hgF_;_
+-z% $1F
+Tv[@jA
+HZX,V_
+*.3Qc 
+Tm)FGo
+R`8=gm)3
+?YOZip
+Br-D)kt
+O^quV=
+CAd(Q
+>e7nq^
+qwG<J#y
+G7|r]P
+,9{G1j
+qB:R!
+e~'ow,
+6a3>|6@
+sRq+if
+3.V,a_w*
+<R95m8#'
+?'7aeW
+Y4H.eV
+R&Vm9A
+/K'3.m
+%?-39ebD
+h/3!3l
+oJmO3]'_
+Wf8,!#
+u{Sux6
+p=1m~,
+u5QO-bu
+wTi6ro
+!/)W*@
+kcrv3
+N+?!U"
+#qDWlAc
+t3&b;3
+pr^}CF
+Ng^L2!
+erwi57
+r:=3e1
+zg0Bg%G
+Ji4#gZR)}
+rL/F'[9\
+GSF?.W
+#Lbgcu&
+CK.2*C
+W\AoN(
+k_oq:C
+Vrz]$7
+u*,v04b6
+.3:7#kc
+wssk,"
+/8~:@U
+u~9k6^!gT
+e(}LDw
+V^{A\A3K
+)26Vt:
+`PE/>
+d#DlZpVj`
+K/N~6gom
+nN6v0w
+#8?Kd`
+d4+eiZ
+iqyp'i
+bI?UCZ
+ztZIL?@
+g?ft^d
+)?,B8y
+E4?j/qIw%
+14t[`4
+(R[w01
+*GLGNy-
+dU^OT@
+yCez'7]
+Yw}H0<C
+Ppw12)L
+w;q&|~
+!(}TdS
+-FW}Ef
+_GlU'c[
+B(/S%Q
+7~.r"j
+EtoNb\
+g+'O}g
+pbT$i*
+3,%%_
+s[@_}^
+[hzVOmZ8
+0Hd9>*S99t
+7F&r5T
+LSS)Y
+xC-#x.' 
+XMgP9;
+$[1&YzrTm92
++0&Y)\
+b"D&pR|
+p6<KBY
+k-gO*q
+}S7G*%
+;/EC2
+'zs1-}]`
+K{$1<n
+o?CFt%0`
+:lH{Ji
+qu>8(V!
+nbTY;{B
+of$L%C
+dV9p|
+W$EY|h
+i$uq-\
+Ys9&%K
+od?<#?
+S5t&Ej
+n~"8t9
+zo$7g<
+M[M=5I
+]HPHIl
+9=wtOt
+{^F!&V
+% |%?WL
+kzt_Z x/
+toiG6O
+{;CXQ$
+.r}E5!
+Cp|b@RT
+eZ)5-eV
+&>4j13
+^9w^EU
+&*#*h?
+}yq~5U
+2NPW'&
+:=V j&
+z,*k",g
+r?6Y`T
+p\ KtX<
+Y1(W/b
+Exw:c7\
+KY\&}^=
+9he%(o!
+i*^,A?
+Vr)$VT
+n9bzj/
+d1$m6A
+\av@<s5|
+sls_&)\CFPZ
+TF$3##+
+U.z_ ya
+s4d}b}
+>QAChl
+9DaA!E3nS<q<
+;(.8N_
+6XHrZ9w
+IDATj$qo-
+]&/=g
+4xblBi
+a+G>/%uR;
+z/-p}m
+FE[8qO
+5C;P^|
+LgS2}+
+n|FfP_.
+dWpqC+_+
+Wm`cx>I
+Io9'$\
+>#wZ#v
+]!sr#
+%&+99>
+%=w|zO
+Jp{W8{
+Rr(zcC
+oiI;Q6
+@kcS-iO
+5K_;Sh
+%Ep`\"
+r:ZW1|
+<1TK`n
+h@Y@!F+
+)9U@Z](o
+HcnzXP
+#,x:wN
++(JQ..
+b$9{z/z"
+h:-o2n
+?j^bt}
+NVz}f\
+Po%ZL,
+E@K9Fc2
+g:F`*7
+>-Jb~p
+CWB"SE
+-ATl-
+vO0kzs:
+psZ/5S's(
+<>lQB}
+wm:&Is
+"pX.h.
+}n5}r7r
+Q$},E*
+~'xS*K
+p_$f]'
+X>o+!V
+0GPP#q
+m~}9wJ
+<wxPWTE
+:jU$Qyk
+(ChP*3{
+x{5/$^3=3
+bzu/#u
+K4&]!?n
+m.t>Aw
+z{GRd%
+%'G{0Wb
+Jh&~l13?
+jDhvb!
+`F6|Ka{o%O
+~>XK3nq
+kaNl>N
+_L6tDj
+Iq~R!On
++Gjm-O
+Cqr!CF
+r^\3+e}
+-Kpl?K
+@j6[G_d
+"tJ)aU
+&6'>s?w
+ksGblBpz
+}5]szY-
+Yj+E`T6
+x>[6<&
+c*7'dQ
+B^?9Gs
+kGmFG`A77
+3[V?F/
+og1Yl'
+6\VPPa
+6-&tG [S
+L`bf(>
+t*ROS
+k`?~y
+QGa~#*:
+sC}@/
+-DgNd`
+&q9z1K]Q
+j+8W#M
+8j.^HL6d
+%?~mtc
+`[_@Nd
+&Ml^{C
+^AX]wDh
+}q_y9?
+ke.!b#
+M?r@F
+&V+Qq5
+$dc6S61
+2=jX+k
++iycKE
+W7o,?K
+;mD5~/~
+6.@Vd-
+}z;<Hy.
+%#G1[G
+LDb>=[
+j!4VnB
+s2$KG2
+a1;o(`
+^"gs:
+Z#Ysp"
+EN+J`&:
+>Z=D2}
+Nq.h-Gv
+pA9}sf
+ie\'7bQ<
+ce.~LC#
+/vDnI K
+IDATZs0
+G7M%;q
+-bd`+5
+81t*rS
+>y35i.
+Duz>Q=
+QfMU:R
+SK[\O|
+E~x0Y@
+?fsO|2
+$FSC7S
+Xv@0{O
+C(4LD^0
+q>+|Gq
+DA M1xB
+gb_Yv>
+1D-U#Ie
+#c^0"_v
+|r-e@}0
+#4i/;j
+$6%qGK
+V{2*}*
+&72qz&
+YsJm /
+IF?q*/
+,GC0_+
+{{isy@L
+h7oFxJ
+\MOX-]
+_p.HFi
+T'aqo,a.
+/aZI2B
+dzP.sK
+-Z'XpY
+[D[\"|p
+= X(HP
+G:gP1?
+r3CZ^"7:
+Q=KRv`bh
+/p6ik-
+d"vZQ>
+sg2BUK
+BAy.wd
+\)z#Oc
+v,@Ma)V
+,juDB#
+l']+=x
+bN!]Wu9
+8WNaj>/v
+2XI@ABYL|
+`L!eG>
+t)sO,Cq
+r\8WH{
+EOQ#:g
+6}B{p'
+1w~/XHI
+oJ;QZ=
+p-n|JD
+rv55qd
+;$;o17
+bVt%%/
+@\=DH,
+H&(N&u
+pz|7b~=dK
+GCD"g%
+kSf J6
+1x)Dpi9
+=l}<0)v#
+GRhO[J
+,EMa07
+l*{EE))J
+;(?%hn
+'tX)dC
+z'#<4Yp
+-w$F`{%#/
+J;qy]@
+O7gPS8
+CJK_6eH
+0m]5i_N2Zb#"B
+Ryq s{
+:B/.c9
+n2\m 3k<
+DV)*I;T
+/'umi{Q
+w=MONQ<j<IV
+w\6F!7
+6Vn!4-
+I}H/z@
+Mm yW&3)\
+f1~Sj
+`qz5aB.l
+3|x<f:"
+04c?W'
+Pq}=7=
+)Q-@m\
+-(e[m.
+/S\3y0}
+?Q'Jln
+aG7Rs(
+NDx.Ij
+[dDb?w"
+vVPV;q{
+Ln|Hbt
+_p5YDn
+x_m# { 
+{b/J%0
+,QR2!C-
+>},)cF
+QGlz2!
+2JoY0$,
+}9<y2C
+l,1Fey
+[E^y._|U
+pv\"#SL8v
+f={Vi2
+YDt6`Y0
+(K!Bw
+sVx2mW&
+I#WDB<
+2)DMO
+pwG.kz
+E,c?rAw
+:}Nr!p
+;j_,e
+3\r9w`>
+"i5!n?
+~yfM{E
+}-r%bIz
+_)TW|gj
+=!ycX=
+l0]/?p
+}85?3
+`^f9m 
+&(m.g'
++(Hs2r
+@cb3A[
+l8f.:8L
+CIt\Kj
+qbc6]C
+yJ$B}s
+s#|zfbiZ
+X_p(2hT>
+hUv^V$Wq'
+Hg`l$T$p|
+2UsZXY
+Sv=6:{P
+ pD/w<
+G=.2sz
+1F5T@U
+A+NPhC
+0{L'!g
+0D`LRW
+9XLZFGK/
+[+B}l3
+'Fd] ^P^Mk
+8:'mF?
+=:TSY8
+.B.i2N
+;9lo+3j
+AWV?2&
+(uF;Wq
+JPA>R6
+M~u/[G:
+),q4%WU
+ZtHHP_;
+:Oqd:5
+npbr0j
+b!L9oL
+G(jYE|
+|L"_pYV
+g#|wBa
+x2>*qWs-
+E]S,oOF
+19H~nA
+io@n|#
+G8f4f>
+hQTzKxwc
+BILldy
+h$qE/B
+rJd8"=vsT
+U}2Q=b
+h?bL]B_
+EB0MWq
+PeK,F]b
+MIn2?w.$7
+"nENXM
+FmL!wzm
+?gDth3
+k\o6au
+>sTr$:
+|a81K2)
+hVip~@+"2
+VXNq"!I
+UqzQEd
+Wsuh'#$
+2gl*L:q0I
+MF>o?ge
+^"r{-~O
+[~<^Wm)J
+V2km;:
+@d2SWZq
+/oz1Wc
+"wp3"c
+$rU:>_oS
+A<d,)}z3|m
+$yP3WvJ
+Nm2a]
+#p./`kG2
+bPD'Vy
+8stN-A
+yVV%b=,
+%x&9P<>
+D>;Ep#
+\kkE/G
+lh/nbU
+a}M&/]&`
+y5}~)"
+IDAT7c3{/
+J5~^-B
+O(+dp$e;z
+USI-6f
+ dZ6+~
+gk6R[;
+eTH2J!
+1Z{x:<
+)LAup1
+( _`h;8
+%<~ISXp
+I{?afl
+@dH_,$
+&{g-fD
+Jqw*"i
+e+Wzor
+Ff3`c,
+NgW`*;
+pv.Gwy
+I*7C_Cp
+P?><yI
+K4_'qga
+%kD*v_
+:n.4gC
+]?HY#0[
+Na,NW3
+[mJyWZ
+Sx,.eT
+v]5[;l
+4o.Gre
+mUH[[2Ks
+#3_McVZ 
+!SCV0G7
+%|ijEbp-j
+m'S1s2
+!mLQ}J
+L[@c?kF
+X$%:bx
+ErwMd]D
+/])6vl
+GBHQsf
+9_n;5 2
+JZ]}PH
+q&r:a7
+-0,9ov
+}`A|4mv
+w&A)I@
+)#8~r*
+BG[ g/n
+L+<@{$
+^?Bbb;V
+\7EpKPO
+9>f91&
+t!;h0Ioo
+%d_*RJ
+b}9kkK
+(k"rj5
+]GaG(K
+2>s p3?
+)gy?w&
+&RE30vo
+a)QS Di8
+)G>5*3
+R-JVP6
+&st]^R
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+v4.0.30319
+#Strings
+RaWm JbYU
+mscorlib
+System.Windows.Forms
+System.Data
+System
+System.Drawing
+System.Xml
+DB_project.Add_product.resources
+DB_project.Add_Salesman.resources
+DB_project.Add_Supplier.resources
+DB_project.Admin.resources
+DB_project.Delete_Product.resources
+DB_project.Delete_Salesman.resources
+DB_project.Delete_Supplier.resources
+DB_project.Disposition.resources
+DB_project.Form1.resources
+DB_project.Form2.resources
+DB_project.Login.resources
+DB_project.Make_Sale.resources
+DB_project.Pd_Expiry.resources
+DB_project.Properties.Resources.resources
+DB_project.Salesman.resources
+DB_project.Search_Products.resources
+DB_project.Update_Product.resources
+DB_project.Update_Salesman.resources
+DB_project.Update_Supplier.resources
+DB_project.view_invoice.resources
+SqlConnection
+System.Data.SqlClient
+IContainer
+System.ComponentModel
+Button
+bHHLohrcX
+DataGridView
+DateTimePicker
+hVeoOtnP
+hsbkiB
+ZMbIPn
+TextBox
+SPUvcV
+xkdkGI
+MaskedTextBox
+VOQUGYT
+EventArgs
+YthwQu
+SqlCommand
+DateTime
+Control
+get_Text
+String
+op_Equality
+MessageBox
+DialogResult
+MessageBoxButtons
+MessageBoxIcon
+TextBoxBase
+DbConnection
+System.Data.Common
+get_Value
+get_Date
+ToString
+Concat
+DbCommand
+ExecuteNonQuery
+DataTable
+SqlDataAdapter
+DbDataAdapter
+set_DataSource
+LHiQkAKjRU
+DataGridViewCellEventArgs
+pzJzSo
+gIGhAGysNLB
+PaintEventArgs
+LviWDoW
+MaskInputRejectedEventArgs
+IDisposable
+Dispose
+ISupportInitialize
+BeginInit
+SuspendLayout
+get_DodgerBlue
+set_BackColor
+FontStyle
+GraphicsUnit
+set_Font
+get_White
+set_ForeColor
+set_Location
+set_Name
+set_Size
+set_TabIndex
+set_Text
+ButtonBase
+set_UseVisualStyleBackColor
+EventHandler
+add_Click
+set_AutoSize
+set_ColumnHeadersHeightSizeMode
+DataGridViewColumnHeadersHeightSizeMode
+DataGridViewCellEventHandler
+add_CellContentClick
+FromArgb
+set_BorderStyle
+BorderStyle
+get_Controls
+ControlCollection
+get_LightGray
+PaintEventHandler
+add_Paint
+set_Mask
+set_PromptChar
+GetTypeFromHandle
+RuntimeTypeHandle
+set_ValidatingType
+MaskInputRejectedEventHandler
+add_MaskInputRejected
+ContainerControl
+set_AutoScaleDimensions
+set_AutoScaleMode
+AutoScaleMode
+get_Gray
+set_ClientSize
+set_StartPosition
+FormStartPosition
+add_Load
+EndInit
+ResumeLayout
+PerformLayout
+pJJSsQm
+dVjYpmDZm
+VlREYH
+toqmGhiz
+WsybIHp
+lkpaBVfIt
+IUfqTj
+lNvbTcx
+WjxObOGGcce
+gRJgRkfa
+zLiNfoq
+SlXRyT
+JDwvNIsV
+add_TextChanged
+YjfJBXzSl
+XBDCUAiXr
+sDAVhfVR
+rNHpCqs
+uUnBOvm
+hznUoF
+SGSYVsvmq
+BHWfCIuW
+KYZvmF
+HNaPWG
+FTxlAL
+eFwOQf
+oxwNTyzi
+Todjsx
+NkpXWy
+PrintPageEventArgs
+System.Drawing.Printing
+Cursors
+get_No
+Cursor
+set_Cursor
+Object
+oFqBnw
+.cctor
+DataSet
+SchemaSerializationMode
+CollectionChangeEventHandler
+get_Tables
+DataTableCollection
+add_CollectionChanged
+get_Relations
+DataRelationCollection
+DebuggerNonUserCodeAttribute
+System.Diagnostics
+GeneratedCodeAttribute
+System.CodeDom.Compiler
+SerializationInfo
+System.Runtime.Serialization
+StreamingContext
+IsBinarySerialized
+GetValue
+DetermineSchemaSerializationMode
+StringReader
+System.IO
+XmlTextReader
+TextReader
+ReadXmlSchema
+XmlReader
+get_DataSetName
+set_DataSetName
+get_Prefix
+set_Prefix
+get_Namespace
+set_Namespace
+get_Locale
+CultureInfo
+System.Globalization
+set_Locale
+get_CaseSensitive
+set_CaseSensitive
+get_EnforceConstraints
+set_EnforceConstraints
+MissingSchemaAction
+GetSerializationData
+context
+LBfhWHda
+get_SchemaSerializationMode
+set_SchemaSerializationMode
+ReadXml
+XmlReadMode
+tQArhxTwgiC
+MemoryStream
+XmlSchema
+System.Xml.Schema
+XmlTextWriter
+Stream
+Encoding
+System.Text
+WriteXmlSchema
+XmlWriter
+set_Position
+ValidationEventHandler
+VBCXQDh
+CollectionChangeEventArgs
+get_Action
+CollectionChangeAction
+qyLpgN
+XmlSchemaComplexType
+XmlSchemaSequence
+XmlSchemaAny
+IEnumerator
+System.Collections
+XmlSchemaGroupBase
+get_Items
+XmlSchemaObjectCollection
+XmlSchemaObject
+set_Particle
+XmlSchemaParticle
+GetSchemaSerializable
+get_TargetNamespace
+XmlSchemaSet
+Contains
+Schemas
+ICollection
+IEnumerable
+GetEnumerator
+get_Current
+SetLength
+get_Length
+get_Position
+ReadByte
+MoveNext
+BrowsableAttribute
+DesignerSerializationVisibilityAttribute
+DesignerSerializationVisibility
+Tables
+Relations
+DesignerCategoryAttribute
+ToolboxItemAttribute
+XmlSchemaProviderAttribute
+System.Xml.Serialization
+XmlRootAttribute
+HelpKeywordAttribute
+System.ComponentModel.Design
+JszIKxu
+fiOiQM
+npzxXE
+ComboBox
+ExecuteScalar
+Convert
+ToInt16
+YyRlXhq
+jaiElJL
+zDvXPa
+tiZzoDPh
+dQOCbv
+YYgblRuXz
+VyqZwb
+yvduPvkiwnwys
+NXKLXX
+ListControl
+set_FormattingEnabled
+ObjectCollection
+AddRange
+add_SelectedIndexChanged
+HGaVYGX
+nQwGOE
+FOnxmH
+sEZZKpVMfw
+gUKsRVuS
+FyaFFc
+NBlzSo
+AeVxkp
+RIQzJGINN
+aDHnzk
+hfXMNi
+kBgOWI
+ujanoU
+bYJiKI
+OEmDkCsw
+BWveNI
+afJVSG
+entdatSK
+EnInpe
+zacdqbsPF
+ResourceManager
+System.Resources
+klohCro
+get_Assembly
+Assembly
+System.Reflection
+raCQOF
+GetObject
+tYSriJ
+EditorBrowsableAttribute
+EditorBrowsableState
+Culture
+TypeLibVarFlags
+CompilerGeneratedAttribute
+System.Runtime.CompilerServices
+NmWYBpY
+ComponentResourceManager
+get_Transparent
+set_BackgroundImage
+set_BackgroundImageLayout
+ImageLayout
+PRtvkbJl
+GZipStream
+System.IO.Compression
+CompressionMode
+ToArray
+MethodInfo
+GetTypes
+GetMethods
+MethodBase
+Invoke
+EdoKWrN
+mCCwpzLW
+DWlsOABRS
+ZdOsGJ
+nGKnBN
+CWSlHjL
+get_Columns
+DataColumnCollection
+DataColumn
+get_Item
+set_AutoIncrement
+set_AutoIncrementSeed
+BKCMglGi
+JBNftlRJ
+znLvTRbu
+YsinSwXQq
+set_ReadOnly
+SystemColors
+get_WindowText
+UBcxdQJuD
+CzhPOB
+iPLrhXz
+yeIXVS
+mbfSZu
+KeyEventArgs
+get_KeyCode
+PerformClick
+rkBICd
+juZRCfuR
+tTJzQddv
+ZfMztFIOT
+MzuXhM
+klFYFAI
+PlygIwtE
+set_UseSystemPasswordChar
+set_AcceptsReturn
+get_Black
+set_DoubleBuffered
+set_MaximizeBox
+set_MinimizeBox
+add_Activated
+YoVJHl
+BmXaFJPz
+PyHkJk
+vAyzuNi
+lKpcsTzu
+LwyknVTZTI
+rdfpxel
+LmbnMQvie
+qSrtwS
+PUxrET
+ynGRqCiyy
+ssnIek
+GblkEGQatZ
+set_Connection
+set_CommandText
+set_SelectCommand
+kxBWMfC
+QtmZKsbt
+lPcjwluJuAok
+ToDouble
+Double
+SkjkbHxF
+get_DataSource
+exnaScV
+NtVPDciE
+CWxGxrEZd
+bPEmEIaN
+YQNmLb
+bPKWDc
+DataGridViewCellStyle
+get_Hand
+set_Alignment
+DataGridViewContentAlignment
+get_Control
+get_Highlight
+set_SelectionBackColor
+get_HighlightText
+set_SelectionForeColor
+set_WrapMode
+DataGridViewTriState
+set_ColumnHeadersDefaultCellStyle
+get_Window
+set_DefaultCellStyle
+set_RowHeadersDefaultCellStyle
+rdCwukt
+HESonR
+ZoAoyI
+rEgUKF
+BeiREY
+nadZnsrj
+Application
+EnableVisualStyles
+SetCompatibleTextRenderingDefault
+STAThreadAttribute
+UxNNdo
+ugMBse
+RuSpgl
+FWxIMH
+get_Default
+ZxojfFJI
+iQAcqExKR
+RGaoPPLoX
+YCKNqOCGO
+IZjhKsy
+cWSQMy
+JnNRwBq
+pALkUruwq
+SqlCommandBuilder
+AnqRbsOLiM
+UHodYmMn
+XMhWneoG
+Update
+ueirdx
+CVqYGXvUG
+BQSYZY
+HWMbZu
+FsYiDGVN
+gITHls
+ZGQqRur
+BPDrqI
+hHgjAV
+SJGZJE
+wbIVvT
+cAHvmTP
+cBLEeTpg
+gwitwF
+AdkjUFZaUvk
+wyiwzuqu
+RjXSrnNy
+cseyPFdRXc
+AtgiRo
+biWaSSY
+Bitmap
+RertKta
+luBtxpo
+ApplicationSettingsBase
+System.Configuration
+CnvwUkh
+SettingsBase
+Synchronized
+Default
+databaseConnectionString
+ApplicationScopedSettingAttribute
+SpecialSettingAttribute
+SpecialSetting
+DefaultSettingValueAttribute
+CompilationRelaxationsAttribute
+RuntimeCompatibilityAttribute
+DebuggableAttribute
+DebuggingModes
+AssemblyTitleAttribute
+AssemblyDescriptionAttribute
+AssemblyConfigurationAttribute
+AssemblyCompanyAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyTrademarkAttribute
+ComVisibleAttribute
+System.Runtime.InteropServices
+GuidAttribute
+AssemblyFileVersionAttribute
+TargetFrameworkAttribute
+System.Runtime.Versioning
+(System.Data.Design.TypedDataSetGenerator
+16.0.0.0
+GetTypedDataSetSchema
+databaseDataSet
+vs.data.DataSet
+3System.Resources.Tools.StronglyTypedResourceBuilder
+16.0.0.0
+uData Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\database.mdf;Integrated Security=True;Connect Timeout=30
+KMicrosoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator
+16.0.0.0
+WrapNonExceptionThrows
+MedImmune
+MedImmune Distribution
+AstraZeneca
+AstraZeneca plc
+$ba5fb082-7f35-4854-97af-705afc318212
+20.12.0.0
+.NETFramework,Version=v4.0
+FrameworkDisplayName
+.NET Framework 4
+_CorExeMain
+mscoree.dll
+64. 64.$64.&64.(64.(64.*64.,64.,64..64..64..64..64..64..64.,64.,64.*64.(64.(64.&64.$64. 64.
+64-"64.&63.,64.264.864.>64.D64.H64.N64.T53.X53.^54.d53-h63.l53-r53-v53-z53.~53-
+53.~53-z53-v53-r63.l53-h54.d53.^53.X64.T64.N64.H64.D64.>64.864.263.,64.&64-"64-
+L5#<b6
+L5#<53-
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+TypeLibVarFlags
+$this.BackgroundImage
+Data Source=(LocalDB)\v11.0;AttachDbFilename=C:\Users\Umer Farooq\Documents\Visual Studio 2012\Projects\DB project\DB project\database.mdf;Integrated Security=True;Connect Timeout=30
+Please Fill all the Required Fields
+insert into products (pname,company,potency,category,quantity,ppackprice,punitprice,retailunitprice,s_id,a_id,dated,mfg,exp) values ('
+Record Inserted Successfully
+Information
+select * from products
+Microsoft Sans Serif
+button3
+button2
+button1
+Insert
+label1
+dataGridView1
+panel1
+label4
+Add Product
+textBox11
+textBox10
+textBox9
+textBox8
+textBox7
+textBox5
+textBox3
+dateTimePicker3
+dateTimePicker2
+dateTimePicker1
+label14
+Supplier id
+label13
+Admin id
+label12
+Retail Unit Price
+label11
+Category
+label8
+label9
+Quantity
+textBox2
+label3
+Potency
+textBox1
+label6
+Mfg Date
+label7
+Exp Date
+label10
+Purchase Unit price
+textBox4
+Com_Name
+Company
+label5
+Pack Price
+label2
+Add_product
+select * from accounts where status='salesman'
+insert into accounts (username,password,cnic#,phone#,fname,lname,salary,hiredate) values ('
+Phone #
+Last Name
+Salary
+First Name
+textBox6
+Username
+Password
+Add Salesman
+Hiredate
+Add_Salesman
+insert into suppliers (s_id,sname,phone#,city,a_id,dated) values ('
+select * from suppliers
+Admin ID
+Phone#
+Add Supplier
+Add_Supplier
+button12
+Sign Out
+button11
+View Invoice Record
+button10
+Generate Sales Report
+button9
+Update Supplier Record
+button6
+Update Salesman Record
+button5
+Update Product Record
+button4
+Add product
+button13
+View Product Expiry
+panel2
+panel4
+panel3
+Reports
+Suppliers
+Salesmen
+Products
+XmlSchema
+databaseDataSet
+http://tempuri.org/databaseDataSet.xsd
+select count(p_id) from products where p_id='
+delete from products where  p_id='
+Record Deleted Successfully
+There is no such record
+Product Name
+select count(pname) from products where pname='
+delete from products where  pname='
+Choose a Valid Value.
+select 5 from products
+select * from products where p_id like '%
+select * from products where pname like '%
+Delete Product
+Delete
+Delete Using:
+Enter Value
+comboBox1
+Delete_Product
+select count(id) from accounts where id='
+delete from accounts where  id='
+select count(fname) from accounts where fname='
+delete from accounts where  fname='
+select * from accounts where status='salesman' and id like '%
+select * from accounts where status='salesman' and fname like '%
+Delete Salesman
+S_name
+Delete_Salesman
+select count(id) from suppliers where id='
+delete from suppliers where  id='
+select count(sname) from suppliers where sname='
+delete from suppliers where  sname='
+select * from suppliers where id like '%
+select * from suppliers where sname like '%
+Delete Supplier
+Delete_Supplier
+DB_project.Disposition
+TypeLibVarFlags
+Copyrights 2017
+$this.BackgroundImage
+DB_project
+select p.p_id,p.pname,sum(s.quantity) quantity,sum(s.price) as 'gross sale',o.dated as date from products p, sub_order s ,order_details o  where p.pname='
+' and s.p_id=p.p_id and s.o_id=o.id and (o.dated >='
+' and o.dated <='
+') group by p.p_id,o.dated,p.pname,s.price,s.quantity order by o.dated,s.price desc
+select p.p_id,p.pname,sum(s.quantity) quantity,sum(s.price) as 'gross sale',o.dated as date from products p, sub_order s ,order_details o  where s.p_id=p.p_id and o.id=s.o_id and (o.dated >='
+') group by p.p_id, p.pname,p.potency,s.price,o.dated order by o.dated,s.price desc
+Generate Report
+Generate
+Display All
+Please Enter valid Username and Password
+select status from accounts where username='
+' and password='
+salesman
+Invalid Username or Password
+Cancel
+Log In
+Arial Rounded MT Bold
+select count(id) from order_details
+select p_id,pname,potency,quantity,retailunitprice as 'unit price',mfg,exp from products
+select p_id, pname,potency,quantity,retailunitprice as 'unit price',mfg,exp from products where pname like '%
+Enter a Valid Product ID.
+select quantity from products where p_id='
+select retailunitprice from products where p_id='
+insert into sub_order (p_id,o_id,quantity,discount,price) values ( '
+select p.pname as 'product name',s.quantity,s.discount,s.price from products p,sub_order s where s.p_id=p.p_id and o_id='
+Product is out of Stock!
+Enter Valid Quantity!
+delete from sub_order where o_id='
+Sale Successful.
+update order_details set id='
+', dated='
+', quantity= (select sum(quantity) from sub_order where o_id='
+'), customer='
+', gross_amount=(select sum(price) from sub_order where o_id='
+'),sal_id='
+'  where order_details.id='
+update products set products.quantity=(products.quantity-sub_order.quantity) from products,sub_order where products.p_id=sub_order.p_id and sub_order.o_id='
+insert into order_details (id) values('
+Invoice is Empty
+Make Sale
+Print Receipt
+Refresh
+Discount%
+Customer
+dataGridView2
+Invoice
+Invoice ID
+Product ID
+Clear Invoice
+Net Amount
+Salesman ID
+Make_Sale
+select p_id as 'Product ID', pname as 'Product Name',quantity as 'Quatitity',potency as 'Potency'from products where exp>='
+' and  exp<='
+Product Expiry
+Display
+Pd_Expiry
+View Products
+Salesman
+Product Category
+select * from products where category like '%
+Search By
+Search Products
+Search_Products
+Record Updated Successfully
+Update
+Update Product
+Update_Product
+Update Salesman
+Salesman Name
+Update_Salesman
+Update Supplier
+Supplier Name
+Update_Supplier
+select p.p_id,p.pname,p.potency,s.quantity,s.price,s.discount,o.gross_amount as 'Net Bill',o.customer,o.dated as date from products p, sub_order s ,order_details o  where o.id='
+' and s.p_id=p.p_id and s.o_id=o.id
+Search
+view_invoice
+DB_project.Properties.Resources
+databaseConnectionString
+VS_VERSION_INFO
+VarFileInfo
+Translation
+StringFileInfo
+000004b0
+Comments
+MedImmune Distribution
+CompanyName
+AstraZeneca
+FileDescription
+MedImmune
+FileVersion
+20.12.0.0
+InternalName
+T2.exe
+LegalCopyright
+AstraZeneca plc
+LegalTrademarks
+OriginalFilename
+T2.exe
+ProductName
+MedImmune
+ProductVersion
+20.12.0.0
+Assembly Version
+20.12.0.0

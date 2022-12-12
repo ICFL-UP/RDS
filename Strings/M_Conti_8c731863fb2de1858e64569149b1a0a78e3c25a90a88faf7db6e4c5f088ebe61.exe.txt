@@ -1,0 +1,937 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+.idata
+PRSVWh
+PPPPPPPP
+PPPPPPPP
+u:hx,L
+t.;t$$t(
+VC20XC00U
+u0j~hh
+;M trj
+333333
+|a2U0*
+ffffff
+|a2U0*
+333333
+|a2U0*
+ffffff
+333333
+|a2U0*
+ffffff
+|a2U0*
+333333
+|a2U0*
+ffffff
+|a2U0*
+ffffff
+333333
+|a2U0*
+|a2U0*
+333333
+ffffff
+333333
+ffffff
+ffffff
+333333
+ffffff
+ffffff
+333333
+ffffff
+333333
+333333
+333333
+ffffff
+typname.cpp
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+LC_TIME
+LC_NUMERIC
+LC_MONETARY
+LC_CTYPE
+LC_COLLATE
+LC_ALL
+setlocal.c
+Unknown Runtime Check Error
+A local variable was used before it was initialized
+Stack memory was corrupted
+A cast to a smaller data type has caused a loss of data.  If this was intentional, you should mask the source of the cast with the appropriate bitmask.  For example:  
+char c = (i & 0xFF);
+Changing the code in this way will not affect the quality of the resulting optimized code.
+The value of ESP was not properly saved across a function call.  This is usually a result of calling a function declared with one calling convention with a function pointer declared with a different calling convention.
+Run-Time Check Failure #%d - %s
+Module:
+Invalid pointer was assigned at
+' was corrupted.
+Stack around the variable '
+A variable is being used without being defined.
+' is being used without being defined.
+The variable '
+IsDebuggerPresent
+Kernel32.dll
+Local variable used before initialization
+Stack memory corruption
+Cast to smaller type causing loss of data
+Stack pointer corruption
+i386\chkesp.c
+The value of ESP was not properly saved across a function call.  This is usually a result of calling a function declared with one calling convention with a function pointer declared with a different calling convention. 
+dbgdel.cpp
+_BLOCK_TYPE_IS_VALID(pHead->nBlockUse)
+Client
+Ignore
+Normal
+Error: memory allocation: bad memory block type.
+Invalid allocation size: %Iu bytes.
+Client hook allocation failure.
+Client hook allocation failure at file %hs line %d.
+dbgheap.c
+_CrtCheckMemory()
+_pFirstBlock == pOldBlock
+_pLastBlock == pOldBlock
+fRealloc || (!fRealloc && pNewBlock == pOldBlock)
+pOldBlock->nLine == IGNORE_LINE && pOldBlock->lRequest == IGNORE_REQ
+_CrtIsValidHeapPointer(pUserData)
+The Block at 0x%p was allocated by aligned routines, use _aligned_realloc()
+Allocation too large or negative: %Iu bytes.
+Client hook re-allocation failure.
+Client hook re-allocation failure at file %hs line %d.
+_pFirstBlock == pHead
+_pLastBlock == pHead
+pHead->nBlockUse == nBlockUse
+pHead->nLine == IGNORE_LINE && pHead->lRequest == IGNORE_REQ
+DAMAGE: after %hs block (#%d) at 0x%p.
+DAMAGE: before %hs block (#%d) at 0x%p.
+Client hook free failure.
+The Block at 0x%p was allocated by aligned routines, use _aligned_free()
+%hs located at 0x%p is %Iu bytes long.
+%hs allocated at file %hs(%d).
+DAMAGE: on top of Free block at 0x%p.
+DAMAGED
+_heapchk fails with unknown return value!
+_heapchk fails with _HEAPBADPTR.
+_heapchk fails with _HEAPBADEND.
+_heapchk fails with _HEAPBADNODE.
+_heapchk fails with _HEAPBADBEGIN.
+Bad memory block found at 0x%p.
+_CrtMemCheckPoint: NULL state pointer.
+_CrtMemDifference: NULL state pointer.
+Object dump complete.
+crt block at 0x%p, subtype %x, %Iu bytes long.
+normal block at 0x%p, %Iu bytes long.
+client block at 0x%p, subtype %x, %Iu bytes long.
+{%ld} 
+%hs(%d) : 
+#File Error#(%d) : 
+Dumping objects ->
+ Data: <%s> %s
+Detected memory leaks!
+Total allocations: %Id bytes.
+Largest number used: %Id bytes.
+%Id bytes in %Id %hs Blocks.
+("offset must be within size", 0)
+("alignment must be a power of 2",0)
+Damage before 0x%p which was allocated by aligned routine
+The block at 0x%p was not allocated by _aligned routines, use realloc()
+The block at 0x%p was not allocated by _aligned routines, use free()
+ Complete Object Locator'
+ Class Hierarchy Descriptor'
+ Base Class Array'
+ Base Class Descriptor at (
+ Type Descriptor'
+`eh vector vbase copy constructor iterator'
+`eh vector copy constructor iterator'
+`managed vector destructor iterator'
+`managed vector constructor iterator'
+`placement delete[] closure'
+`placement delete closure'
+`omni callsig'
+ delete[]
+ new[]
+`local vftable constructor closure'
+`local vftable'
+`udt returning'
+`copy constructor closure'
+`eh vector vbase constructor iterator'
+`eh vector destructor iterator'
+`eh vector constructor iterator'
+`virtual displacement map'
+`vector vbase constructor iterator'
+`vector destructor iterator'
+`vector constructor iterator'
+`scalar deleting destructor'
+`default constructor closure'
+`vector deleting destructor'
+`vbase destructor'
+`string'
+`local static guard'
+`typeof'
+`vcall'
+`vbtable'
+`vftable'
+operator
+ delete
+__unaligned
+__restrict
+__ptr64
+__clrcall
+__fastcall
+__thiscall
+__stdcall
+__pascal
+__cdecl
+__based(
+generic-type-
+template-parameter-
+`anonymous namespace'
+`non-type-template-parameter
+`template-parameter
+[thunk]:
+public: 
+protected: 
+private: 
+virtual 
+static 
+`template static data member destructor helper'
+`template static data member constructor helper'
+`local static destructor helper'
+`adjustor{
+`vtordisp{
+volatile
+ throw(
+ volatile
+signed 
+unsigned 
+UNKNOWN
+__w64 
+wchar_t
+__int128
+__int64
+__int32
+__int16
+__int8
+double
+cointerface 
+coclass 
+class 
+struct 
+union 
+`unknown ecsu'
+short 
+const 
+volatile 
+__pin 
+__box 
+{flat}
+inittime.c
+initnum.c
+initmon.c
+initctyp.c
+a_str.c
+Paraguay
+Uruguay
+Ecuador
+Argentina
+Colombia
+Venezuela
+Dominican Republic
+South Africa
+Panama
+Luxembourg
+Costa Rica
+Switzerland
+Guatemala
+Canada
+Spanish - Modern Sort
+Australia
+English
+Austria
+German
+Belgium
+Mexico
+Spanish
+Basque
+Sweden
+Swedish
+Iceland
+Icelandic
+France
+French
+Finland
+Finnish
+Spanish - Traditional Sort
+united-states
+united-kingdom
+trinidad & tobago
+south-korea
+south-africa
+south korea
+south africa
+slovak
+puerto-rico
+pr-china
+pr china
+new-zealand
+hong-kong
+holland
+great britain
+england
+britain
+america
+swedish-finland
+spanish-venezuela
+spanish-uruguay
+spanish-puerto rico
+spanish-peru
+spanish-paraguay
+spanish-panama
+spanish-nicaragua
+spanish-modern
+spanish-mexican
+spanish-honduras
+spanish-guatemala
+spanish-el salvador
+spanish-ecuador
+spanish-dominican republic
+spanish-costa rica
+spanish-colombia
+spanish-chile
+spanish-bolivia
+spanish-argentina
+portuguese-brazilian
+norwegian-nynorsk
+norwegian-bokmal
+norwegian
+italian-swiss
+irish-english
+german-swiss
+german-luxembourg
+german-lichtenstein
+german-austrian
+french-swiss
+french-luxembourg
+french-canadian
+french-belgian
+english-usa
+english-us
+english-uk
+english-trinidad y tobago
+english-south africa
+english-nz
+english-jamaica
+english-ire
+english-caribbean
+english-can
+english-belize
+english-aus
+english-american
+dutch-belgian
+chinese-traditional
+chinese-singapore
+chinese-simplified
+chinese-hongkong
+chinese
+canadian
+belgian
+australian
+american-english
+american english
+american
+Norwegian-Nynorsk
+AuthenticAMD
+RUUUUU
+<8bunz8
+l,kg<i
+<@En[vP
+IsProcessorFeaturePresent
+KERNEL32
+CorExitProcess
+mscoree.dll
+f:\vs70builds\3077\vc\crtbld\crt\src\stdenvp.c
+f:\vs70builds\3077\vc\crtbld\crt\src\stdargv.c
+w_env.c
+aw_com.c
+ioinit.c
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+- This application cannot run using the active version of the Microsoft .NET Runtime
+Please contact the application's support team for more information.
+- unable to initialize heap
+- not enough space for lowio initialization
+- not enough space for stdio initialization
+- pure virtual function call
+- not enough space for _onexit/atexit table
+- unable to open console device
+- unexpected heap error
+- unexpected multithread lock error
+- not enough space for thread data
+This application has requested the Runtime to terminate it in an unusual way.
+Please contact the application's support team for more information.
+- not enough space for environment
+- not enough space for arguments
+- floating point not loaded
+Microsoft Visual C++ Runtime Library
+Runtime Error!
+Program: 
+<program name unknown>
+MSPDB71.DLL
+PDBClose
+DBIClose
+ModClose
+ModQueryLines
+DBIQueryModFromAddr
+PDBOpenDBI
+PDBOpenValidate3
+Module32Next
+Module32First
+GetModuleInformation
+EnumProcessModules
+PSAPI.DLL
+CreateToolhelp32Snapshot
+ImageNtHeader
+IMAGEHLP.DLL
+KERNEL32.DLL
+EnvironmentDirectory
+SOFTWARE\Microsoft\VisualStudio\7.1\Setup\VS
+RegCloseKey
+RegQueryValueExA
+RegOpenKeyExA
+ADVAPI32.DLL
+Assertion Failed
+Warning
+dbgrpt.c
+%s(%d) : %s
+Assertion failed!
+Assertion failed: 
+_CrtDbgReport: String too long or IO Error
+Second Chance Assertion Failed: File %s, Line %d
+wsprintfA
+user32.dll
+Microsoft Visual C++ Debug Library
+Debug %s!
+Program: %s%s%s%s%s%s%s%s%s%s%s
+(Press Retry to debug the application)
+Module: 
+File: 
+Line: 
+Expression: 
+For information on how your program can cause an assertion
+failure, see the Visual C++ documentation on asserts.
+szUserMessage != NULL
+string != NULL
+sprintf.c
+format != NULL
+isctype.c
+(unsigned)(c + 1) <= 256
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+strftime.c
+("Invalid MBCS character sequence passed to strftime",0)
+("Zero length output buffer passed to strftime",0)
+("Invalid MBCS character sequence passed into strftime",0)
+("Invalid MBCS character sequence found in locale AMPM string",0)
+inithelp.c
+Program: 
+A buffer overrun has been detected which has corrupted the program's
+internal state.  The program cannot safely continue execution and must
+now be terminated.
+Buffer overrun detected!
+A security error of unknown cause has been detected which has
+corrupted the program's internal state.  The program cannot safely
+continue execution and must now be terminated.
+Unknown security failure detected!
+convrtcp.c
+i^^?(>
+Y:/(A6>
+onexit.c
+GetProcessWindowStation
+GetUserObjectInformationA
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+f:\vs70builds\3077\vc\crtbld\crt\src\sprintf.c
+f:\vs70builds\3077\vc\crtbld\crt\src\vsprintf.c
+("inconsistent IOB fields", stream->_ptr - stream->_base >= 0)
+_flsbuf.c
+str != NULL
+`h````
+ppxxxx
+(null)
+output.c
+ch != _T('\0')
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+tzset.c
+w_loc.c
+a_loc.c
+_nextafter
+_hypot
+a_map.c
+1#QNAN
+1#SNAN
+_getbuf.c
+_file.c
+osfinfo.c
+wtombenv.c
+fclose.c
+a_cmp.c
+cchCount1==0 && cchCount2==1 || cchCount1==1 && cchCount2==0
+setenv.c
+_freebuf.c
+stream != NULL
+y:\test4\e91\Debug\e91.pdb
+.?AVtype_info@@
+GetLocalTime
+GetProcAddress
+LoadLibraryW
+KERNEL32.dll
+CoTaskMemAlloc
+ole32.dll
+GetModuleHandleA
+GetStartupInfoW
+GetVersionExA
+DebugBreak
+RaiseException
+LoadLibraryA
+HeapFree
+IsBadWritePtr
+IsBadReadPtr
+HeapValidate
+HeapAlloc
+GetCPInfo
+ExitProcess
+MultiByteToWideChar
+GetStringTypeA
+GetLastError
+GetStringTypeW
+IsValidLocale
+IsValidCodePage
+GetLocaleInfoA
+EnumSystemLocalesA
+GetUserDefaultLCID
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+GetModuleFileNameW
+FreeEnvironmentStringsA
+GetEnvironmentStrings
+FreeEnvironmentStringsW
+GetEnvironmentStringsW
+GetCommandLineA
+GetCommandLineW
+SetHandleCount
+GetStdHandle
+GetFileType
+GetStartupInfoA
+HeapDestroy
+HeapCreate
+VirtualFree
+RtlUnwind
+GetModuleFileNameA
+WriteFile
+GetProcessHeap
+CloseHandle
+FreeLibrary
+InterlockedDecrement
+OutputDebugStringA
+InterlockedIncrement
+VirtualAlloc
+HeapReAlloc
+GetTimeFormatA
+GetDateFormatA
+QueryPerformanceCounter
+GetTickCount
+GetCurrentThreadId
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+VirtualProtect
+GetSystemInfo
+VirtualQuery
+WideCharToMultiByte
+InterlockedExchange
+SetConsoleCtrlHandler
+GetTimeZoneInformation
+GetLocaleInfoW
+LCMapStringA
+LCMapStringW
+SetFilePointer
+GetACP
+GetOEMCP
+SetStdHandle
+FlushFileBuffers
+CompareStringA
+CompareStringW
+SetEnvironmentVariableA
+Wv$@5y
+c7;ecF
+#<J#3k
+t0[wCD
+}nZ(mc
+eryn@Gb
+J6TZQfU
+9R;0VXV]
+$aT}%A
+s*oQ.Nv
+HWV%Y
+<J.{Bk
+C~#wt_
+}fc2*`K
+gSP.DP
+V}*,&G
+aVNDm;
+g0_w7my^
+:oM;y~,;
+C0]37tp
++ywb2#A3<
+extv95
+V^mo'R
+$.!Fq6
+_&3/Y}
+f\p'l-o&\
+w/hTS[`w
+mY'xeM=f
+Vt5Ej>
+-KHsN
+lN?%pn
+M+f>k9
+w#[|=Au
+*sp(0
+@A<`_i8
+y=z;atxS
+|*]C3`'P}
+~Q@6SJ
+Iv.e'X
+[2{<{5
+[ @CsW
+{-GUP"
+o]W0LL&
+au9`_,
+w*{3')
+Nne*Nr]
+eA4l8?P
+FEc'BSH
+ygIitW
+<VXH\
+6ky1?[.z
+mSmB|gnS
+sq#mv\NE=
+)rtXtD8
+::;X:;
+w\tD*\
+X^G}3T
+!4yiG^
+n'L7mO
+CMw5TN
+~,5-,q
+#i}{au
+D.`*yFa
+9I8JR:>p
+`-94-3
+emJ.q:'
+2K8ds
+eJ*nD/
+UL(&)j
+KgT_=u
+`V+eOA
+hMsR%.
+CUgyws
+S1]oe}".
+~Y@Vm`
+*Y&aK,
+"Sa+E>H
+X@H-.@
+kjH0|R
+z3$1M
+*~1/d`Y
+4/s+P}I
+2fPI2*W
+v>Vs0/E
+EF|GI=#
+L&U7x+
+`\/vVy
+3g-=h4
+!Ws.[k
+km, ;_
+smN5OA
+;lrB'T9
+1l4?1liF
+Q*(Vcn
+xw<;^t
+X'l/K|[u
+(c/}Z
+ZPHzSK
+m >k:{
+yI("<?bAA
+G0QwBK
+cUqu9apc
+#ti.OMu
+`-,5-I
+JA(Q'fs
+mufT-Tu
+WKmJDg
+nom{kMUR
+b-oymx
+OH~"zg
+ax,N_:
+rgd)oO
+T*T@~W)
+V'5\f}
+p!/V6
+(Fh*2j
+iFaeyNy
+!Q!VP?
+_wMG^O
+L:!>$O
+"x0B/ 
+xZL$.X
+@k[.Q F
+CpqLaW
+3cYq*@n+
+'e:|+
+_\cG?f
+3\Yb<Z
+r^v>P[2
+^Ulm,=
+U6UjkF
+S+{HH\
+SWW,GQ'*
+c31id=
+l|X-dTv
+sJ)2bL{
+6A!^H8
+0u$7{q
+0kQ/{W?
+-u(jC(O
+8!AT]s
+H2/(;S3z
+.$^T**
+g]^y6
+J6[vDr
+,c7qbk
+_`2eHrp
+!ap[e5
+`r;zqHxl
+a?M$|(
+ja**eSl
+K-t1Q6
+1mztSG
+!i|fXi
+Iom<ai|
+L, Rai6M
+sAVYHU
+S`|LDr
+%'^9!o
+`kOv,p{*
+tJHzZU
+G6D"&l
+Q'N[Md
+ mY<%.
+/s@6k9S
+Q`AqK.h`p
+Y?|Nl E
+X5J4@Z
+_CGRTYj
+CpE'p:H
+m?3TBL
+?Em=qw
+Q-q0;*
+Ne~7UPW
+TwmH%'7
+w|1(Kk
+SxpI#3x
+kkixr+
+0bC:1{0
+eJ!'1O,
+D~QV/E
+:%iE$p;
+&-"dI;r
+VZvsw,
+H<hup%X
+z`K6P@&
+[We;.2
+[<&6e
+*KyD@T
+jq/^^O
+-H"JZ
+}ar^DSF
+RL&j\b
+5{YWdA
+Z?VHBSd%
+.lVe+D
+zxIjrH
+Z2pIl7l
+_V#?cu(
+Rm,\{KNFRI
+]$nHAd;
+/.<m%>7y
+N*7=Np
+};P6)y
+d~e(+*
+z&,iBD
+"SY?VB
+w`J@?e
+M{ruaQ(
+pY`)@ 
+2EyW$dZ
+?(T*N\
+,q<8<<*$
+(:UiU
+CBi"|<
+O[DAK&
+BanGw]zme
+c^A;>@
+TbVce(
+G'>wR?
+?e_;~i
+I5(uKX~
+K!T;~jP
+&H?6OZ
+U)2sH6
+U {Co5
+^c>5?l
+fRJ[`gR
+IjlN?I
+rg+e9lf?
+[eOjb$
+!`/Z,w*5
+AEz,[t94
+dJ3dVU
+6;t63?*
+nrrrM2J@ga,
+8~f@WP
+n*o-h0
+6Gh7c:K
+tEeiyx
+xY<vh,
+4V4L{k
+tiSdqj
+Rw:iRj
+OE2Tff
+M7^fN`
+?'6v)K
+Gqh}:&
+J'SZGoMp
+'n;6o1
+Xx&[w^x
+98s=\FN
+h/qA`S
+"Mx!a<?
+ c:87G
+}P'xkU4'v
+[?&so'
+0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority0
+070822223102Z
+120825070000Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+Il/$>e
+r0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+081022212455Z
+100122213455Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+Microsoft Corporation0
+3http://crl.microsoft.com/pki/crl/products/CSPCA.crl0H
+,http://www.microsoft.com/pki/certs/CSPCA.crt0
+e-mME)Vr
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA0
+060916015522Z
+110916020522Z0
+Washington1
+Redmond1
+Microsoft Corporation1'0%
+nCipher DSE ESN:10D8-5847-CBF81'0%
+Microsoft Timestamping Service0
+3http://crl.microsoft.com/pki/crl/products/tspca.crl0H
+,http://www.microsoft.com/pki/certs/tspca.crt0
+0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority0
+060916010447Z
+190915070000Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA0
+ipfx'f
+N+"\hE
+r0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+*http://technet.microsoft.com/sysinternals 0
+@VF*&?
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA
+090316191731Z0#
+ntdll.dll
+kernel32.dll
+        h((((                  H
+         (((((                  H
+         h((((                  H
+                                 H
+(null)
+VS_VERSION_INFO
+StringFileInfo
+041904b0
+FileDescription
+DFSV98DS8F 8DFSF8
+FileVersion
+ 0-ds8 fd-f9s0-d9f
+InternalName
+sd f0-ds9fdsfsdf9
+LegalCopyright
+78fgd0g98
+LegalTrademarks
+sd 90g8ds8gdf08g
+OriginalFilename
+g 09dg8
+PrivateBuild
+df g8dfg78
+ProductName
+df g8dfg8
+ProductVersion
+1, 0, 0, 1
+VarFileInfo
+Translation
+<<<Obsolete>>
+,Sysinternals Utilitie

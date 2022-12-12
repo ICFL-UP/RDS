@@ -1,0 +1,1820 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+j6hXsB
+j6hXsB
+j7hXsB
+j7hXsB
+j8hXsB
+j8hXsB
+u!hduB
+u!h uB
+j7hxvB
+j7hxvB
+j=hxvB
+j=hxvB
+j>hxvB
+j>hxvB
+t h8~B
+URPQQhXaA
+u!hduB
+u!hduB
+PPPPPPPP
+PPPPPPPP
+;t$,v-
+UQPXY]Y[
+bad allocation
+string too long
+invalid string position
+Unknown exception
+f:\dd\vctools\crt_bld\self_x86\crt\src\_file.c
+f:\dd\vctools\crt_bld\self_x86\crt\src\onexit.c
+Client
+Ignore
+Normal
+Error: memory allocation: bad memory block type.
+Invalid allocation size: %Iu bytes.
+Client hook allocation failure.
+Client hook allocation failure at file %hs line %d.
+Error: possible heap corruption at or near 0x%p
+The Block at 0x%p was allocated by aligned routines, use _aligned_realloc()
+Error: memory allocation: bad memory block type.
+Memory allocated at %hs(%d).
+Invalid allocation size: %Iu bytes.
+Memory allocated at %hs(%d).
+Client hook re-allocation failure.
+Client hook re-allocation failure at file %hs line %d.
+HEAP CORRUPTION DETECTED: after %hs block (#%d) at 0x%p.
+CRT detected that the application wrote to memory after end of heap buffer.
+HEAP CORRUPTION DETECTED: after %hs block (#%d) at 0x%p.
+CRT detected that the application wrote to memory after end of heap buffer.
+Memory allocated at %hs(%d).
+HEAP CORRUPTION DETECTED: before %hs block (#%d) at 0x%p.
+CRT detected that the application wrote to memory before start of heap buffer.
+HEAP CORRUPTION DETECTED: before %hs block (#%d) at 0x%p.
+CRT detected that the application wrote to memory before start of heap buffer.
+Memory allocated at %hs(%d).
+Client hook free failure.
+The Block at 0x%p was allocated by aligned routines, use _aligned_free()
+%hs located at 0x%p is %Iu bytes long.
+%hs located at 0x%p is %Iu bytes long.
+Memory allocated at %hs(%d).
+HEAP CORRUPTION DETECTED: on top of Free block at 0x%p.
+CRT detected that the application wrote to a heap buffer that was freed.
+HEAP CORRUPTION DETECTED: on top of Free block at 0x%p.
+CRT detected that the application wrote to a heap buffer that was freed.
+Memory allocated at %hs(%d).
+DAMAGED
+_heapchk fails with unknown return value!
+_heapchk fails with _HEAPBADPTR.
+_heapchk fails with _HEAPBADEND.
+_heapchk fails with _HEAPBADNODE.
+_heapchk fails with _HEAPBADBEGIN.
+Bad memory block found at 0x%p.
+Bad memory block found at 0x%p.
+Memory allocated at %hs(%d).
+Object dump complete.
+crt block at 0x%p, subtype %x, %Iu bytes long.
+normal block at 0x%p, %Iu bytes long.
+client block at 0x%p, subtype %x, %Iu bytes long.
+{%ld} 
+%hs(%d) : 
+#File Error#(%d) : 
+Dumping objects ->
+ Data: <%s> %s
+Detected memory leaks!
+Illegal byte sequence
+Directory not empty
+Function not implemented
+No locks available
+Filename too long
+Resource deadlock avoided
+Result too large
+Domain error
+Broken pipe
+Too many links
+Read-only file system
+Invalid seek
+No space left on device
+File too large
+Inappropriate I/O control operation
+Too many open files
+Too many open files in system
+Invalid argument
+Is a directory
+Not a directory
+No such device
+Improper link
+File exists
+Resource device
+Unknown error
+Bad address
+Permission denied
+Not enough space
+Resource temporarily unavailable
+No child processes
+Bad file descriptor
+Exec format error
+Arg list too long
+No such device or address
+Input/output error
+Interrupted function call
+No such process
+No such file or directory
+Operation not permitted
+No error
+f:\dd\vctools\crt_bld\self_x86\crt\src\output.c
+f:\dd\vctools\crt_bld\self_x86\crt\src\mlock.c
+CorExitProcess
+f:\dd\vctools\crt_bld\self_x86\crt\src\stdenvp.c
+f:\dd\vctools\crt_bld\self_x86\crt\src\stdargv.c
+f:\dd\vctools\crt_bld\self_x86\crt\src\w_env.c
+f:\dd\vctools\crt_bld\self_x86\crt\src\ioinit.c
+EncodePointer
+DecodePointer
+f:\dd\vctools\crt_bld\self_x86\crt\src\tidtable.c
+FlsFree
+FlsSetValue
+FlsGetValue
+FlsAlloc
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+An application has made an attempt to load the C runtime library without using a manifest.
+This is an unsupported way to load Visual C++ DLLs. You need to modify your application to build with a manifest.
+For more information, see the "Visual C++ Libraries as Shared Side-by-Side Assemblies" topic in the product documentation.
+- Attempt to use MSIL code from this assembly during native code initialization
+This indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.
+- not enough space for locale information
+- Attempt to initialize the CRT more than once.
+This indicates a bug in your application.
+- CRT not initialized
+- unable to initialize heap
+- not enough space for lowio initialization
+- not enough space for stdio initialization
+- pure virtual function call
+- not enough space for _onexit/atexit table
+- unable to open console device
+- unexpected heap error
+- unexpected multithread lock error
+- not enough space for thread data
+This application has requested the Runtime to terminate it in an unusual way.
+Please contact the application's support team for more information.
+- not enough space for environment
+- not enough space for arguments
+- floating point support not loaded
+Microsoft Visual C++ Runtime Library
+<program name unknown>
+Runtime Error!
+Program: 
+%s(%d) : %s
+Assertion failed!
+Assertion failed: 
+_CrtDbgReport: String too long or IO Error
+, Line 
+<file unknown>
+Second Chance Assertion Failed: File 
+_CrtDbgReport: String too long or Invalid characters in String
+GetProcessWindowStation
+GetUserObjectInformationW
+GetLastActivePopup
+GetActiveWindow
+MessageBoxW
+Assertion Failed
+Warning
+Microsoft Visual C++ Debug Library
+Debug %s!
+Program: %s%s%s%s%s%s%s%s%s%s%s%s
+(Press Retry to debug the application)
+Module: 
+File: 
+Line: 
+Expression: 
+For information on how your program can cause an assertion
+failure, see the Visual C++ documentation on asserts.
+HeapQueryInformation
+f:\dd\vctools\crt_bld\self_x86\crt\src\mbctype.c
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+bad exception
+f:\dd\vctools\crt_bld\self_x86\crt\src\_getbuf.c
+(null)
+`h````
+xpxxxx
+`h`hhh
+xppwpp
+ Complete Object Locator'
+ Class Hierarchy Descriptor'
+ Base Class Array'
+ Base Class Descriptor at (
+ Type Descriptor'
+`local static thread guard'
+`managed vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`vector copy constructor iterator'
+`dynamic atexit destructor for '
+`dynamic initializer for '
+`eh vector vbase copy constructor iterator'
+`eh vector copy constructor iterator'
+`managed vector destructor iterator'
+`managed vector constructor iterator'
+`placement delete[] closure'
+`placement delete closure'
+`omni callsig'
+ delete[]
+ new[]
+`local vftable constructor closure'
+`local vftable'
+`udt returning'
+`copy constructor closure'
+`eh vector vbase constructor iterator'
+`eh vector destructor iterator'
+`eh vector constructor iterator'
+`virtual displacement map'
+`vector vbase constructor iterator'
+`vector destructor iterator'
+`vector constructor iterator'
+`scalar deleting destructor'
+`default constructor closure'
+`vector deleting destructor'
+`vbase destructor'
+`string'
+`local static guard'
+`typeof'
+`vcall'
+`vbtable'
+`vftable'
+operator
+ delete
+__unaligned
+__restrict
+__ptr64
+__clrcall
+__fastcall
+__thiscall
+__stdcall
+__pascal
+__cdecl
+__based(
+GetUserObjectInformationA
+MessageBoxA
+USER32.DLL
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+CONOUT$
+Unknown Runtime Check Error
+Stack memory around _alloca was corrupted
+A local variable was used before it was initialized
+Stack memory was corrupted
+A cast to a smaller data type has caused a loss of data.  If this was intentional, you should mask the source of the cast with the appropriate bitmask.  For example:  
+char c = (i & 0xFF);
+Changing the code in this way will not affect the quality of the resulting optimized code.
+The value of ESP was not properly saved across a function call.  This is usually a result of calling a function declared with one calling convention with a function pointer declared with a different calling convention.
+Stack around the variable '
+' was corrupted.
+The variable '
+' is being used without being initialized.
+f:\dd\vctools\crt_bld\self_x86\crt\src\convrtcp.c
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+MSPDB80.DLL
+Stack around _alloca corrupted
+Local variable used before initialization
+Stack memory corruption
+Cast to smaller type causing loss of data
+Stack pointer corruption
+bad allocation
+kernel32.dll
+WirteosBriclsk
+vector<T> too long
+GAIsProcessorFeaturePresent
+KERNEL32
+<8bunz8
+l,kg<i
+<@En[vP
+_nextafter
+_hypot
+1#QNAN
+1#SNAN
+RSDSib
+C:\labulifugimon fumuhalatava82-milamuvofotewojote kofomake.pdb
+ExitProcess
+CreateMutexW
+SearchPathW
+SetFilePointer
+lstrlenA
+CopyFileExW
+TlsGetValue
+BuildCommDCBAndTimeoutsA
+CallNamedPipeA
+HeapAlloc
+DeleteVolumeMountPointA
+SetUnhandledExceptionFilter
+LoadLibraryExW
+ZombifyActCtx
+ScrollConsoleScreenBufferW
+SetConsoleActiveScreenBuffer
+GlobalSize
+SetEnvironmentVariableW
+CreateJobObjectW
+GetProfileStringW
+WaitForSingleObject
+SetVolumeMountPointW
+ConnectNamedPipe
+GetTickCount
+CreateNamedPipeW
+IsBadReadPtr
+EnumTimeFormatsW
+GetCommandLineA
+TzSpecificLocalTimeToSystemTime
+SetProcessPriorityBoost
+GetConsoleMode
+GetPrivateProfileStructW
+SizeofResource
+GetFileAttributesA
+SetConsoleCursorPosition
+SetSystemPowerState
+ReadFile
+GetTimeZoneInformation
+GetConsoleFontSize
+GetBinaryTypeW
+GetOverlappedResult
+GetACP
+ExitThread
+FreeLibraryAndExitThread
+GetHandleInformation
+GetLastError
+GetCurrentDirectoryW
+SetLastError
+LocalLock
+SetComputerNameA
+EnterCriticalSection
+GetLocalTime
+OpenMutexA
+OpenWaitableTimerW
+LocalAlloc
+MoveFileA
+IsSystemResumeAutomatic
+GetCommMask
+GlobalWire
+GetDefaultCommConfigA
+GetModuleHandleA
+DebugBreakProcess
+VirtualProtect
+LocalSize
+GetProfileSectionW
+GetVolumeInformationW
+lstrcpyA
+KERNEL32.dll
+GetAncestor
+GetTitleBarInfo
+USER32.dll
+InterlockedIncrement
+InterlockedDecrement
+InitializeCriticalSection
+DeleteCriticalSection
+LeaveCriticalSection
+DeleteFileA
+GetStartupInfoW
+UnhandledExceptionFilter
+GetModuleFileNameW
+HeapValidate
+RaiseException
+RtlUnwind
+TerminateProcess
+GetCurrentProcess
+IsDebuggerPresent
+SetStdHandle
+GetFileType
+WriteFile
+WideCharToMultiByte
+GetConsoleCP
+QueryPerformanceCounter
+GetCurrentThreadId
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+GetModuleHandleW
+GetProcAddress
+FreeEnvironmentStringsW
+GetEnvironmentStringsW
+GetCommandLineW
+SetHandleCount
+GetStdHandle
+GetStartupInfoA
+TlsAlloc
+TlsSetValue
+TlsFree
+HeapDestroy
+HeapCreate
+HeapFree
+VirtualFree
+GetModuleFileNameA
+FlushFileBuffers
+DebugBreak
+OutputDebugStringA
+WriteConsoleW
+OutputDebugStringW
+LoadLibraryW
+HeapSize
+HeapReAlloc
+VirtualAlloc
+GetOEMCP
+GetCPInfo
+IsValidCodePage
+InitializeCriticalSectionAndSpinCount
+WriteConsoleA
+GetConsoleOutputCP
+MultiByteToWideChar
+LoadLibraryA
+LCMapStringA
+LCMapStringW
+GetStringTypeA
+GetStringTypeW
+GetLocaleInfoA
+CreateFileA
+CloseHandle
+vefa.exe
+_kir@8
+.?AVout_of_range@std@@
+.?AVtype_info@@
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVbad_exception@std@@
+ XNR G
+.?AVexception@std@@
+.?AVlogic_error@std@@
+R,BxXO
+{|SmCa
+CU)Y|r
+{|SmCa
+/<^cP:
+f`mKvL
+}+$D_G
+~T'Wsc8j
+^'#b<Z
+,(dsND
+y snwp
+I>ACL"
+#{]/89
+=[Q-FbV
+&.2mh,
+NDeG9YV
+$A}!pZ
+n;}bpI
+~0T3rmW
+#171V;]
+z'"phc
+VY$4;O
+X5,w#!*
+@d3P.LOM
+;M})rmb
+:TlPxK
+J(/X)G
+L^,\\l
+_K/Sz+E
+;^a7 |
+`>gh"`
+:WzC(bsO
+,5mGJe
+A70-R#o
+q[Gg`A
+:La]Kh=L
+e5@~uR!
+D:2[`!
+`L"2c2NE
+)ZFpVYp
+<tuyn0
+-'J4(7j
+IVSsaw
+VZ?y2V
+%/"*QG
+=FtKYWK
+E]I6DX
+aR31k<
+Pr0zM1B
+CKO`uY
+J:VvzX
+wI0P+S
+l\%Gl+)&[
+9]T-R^&
+I;@;0=
+~"V}e
+TorNkw
+fsO|*/r=$
+p)@;%p
+{O8#:r
+x4*I2V
+4wJfb1
+Zy)Q<W
+5OKq(Q3
+8_$jl=5XxX
+kQ(=pH
+9U"9^b
+7uz)~J
+xPLO|x
+P],UivHo7Z
+PX~y[FU
+C4:r|%
+Rv~..
+r;HI#2
+L4Mf/q
+gA"0(N
+N7Va'7N~~
+9cxm~FHs
+4,,uwWqR
+xia?y%
+Ncp\UTz7
+W@1PrR
+8f}`*:
+Op'(aW
+h&V(ps
+R,]A$7
+I#Ks<23
+ba*a8l
+AKFt:I
+nU5',_[^
+'oWY!C
+<F`]_r
+loUI~=
+AU^Gi9
+ WyHpby
+V#2L.l"]:&}
+yK"3Tq
+QcY%Zq
+F6Q,HA5Pi
+ElI*al
+hJ0*h7
+@F7ipun>
+H*267g
+Nm+Lgfx
+%3Nxwx
+xa5[N7
+6lgWR.Z@Q
+uV|qmp
+rA|z"{07
+B;+uwe
+6mb|Y/
+W'oJ??
+A2E]iy
+G<{$v5
+[=,H&M}
+c)%aL8
+*Yx%RW
+m8{~u[<_
+;)`sqkr
+D-}ys*
+&9l;hc
+sqX\qF
+a9O<rY
+GU^ngV
+s,k4`]
+[ptwI\&6
+;5<>O:
+T]X(]4
+7Bz_H Y
+=F*?DK
+[nmj+)
+>#b)@v
+h-WN1r
+Z"[*@n
+*Y4_.<
+]Bf$cKBZ
+j2IuR7
+YV.|JN
+_2=vvZ]
+?BW5 i
+mZ }Df
+ZROAoh*
+lLFE'^zR
+!wraj?@
+BC[-+i
+o1\7T(F
+>em0,RF(
+\5OhJd(
+\MF?1$
+AF?{8$}
+0+sG\t
+~=9s(P
+3g,/+p
+q\*NSjI
+y@; _Yv
+dr!(Ywy
+NIQ~8|
+oH_m1k`
+m0Pg,-!
+_C3tBt
+}.X+q8
+ HS;,A
+Z2(FmV8
+'7`_2!ee6E
+M}rR/j4
+VgN]><
+g7?=P#
+BT}J!f
+P)~COS
+b9QJ=^
+`*)MA8M
+SC>#7dv
+!+`L`0m
+l*:oNjn
+t~7gIa
+z'aN'xQ
+yrTL,?S)(
+}--!yc{
+$VM &0
+<:n`={
+xf9G-<
+u1RM|q
+*'I.zq
+Xg)hGL
+Y[mFT8
+ayE_2~q
+{KiFC5tY\
+~*(ymm
+c*.sf_
+#c.@&L>
+5my_le
+$_GF>
+gh&s66Y
+IQ<Ta_
+/\VuyL
+sgfZ]7ZV
+SMEWb2
+3n4{?
+rjSWo'
+&+E:nW
+5S7$I%
+eC~yf_
+rbds+@
+Jbo5"3[
+OeZrkn2
+r<(k!
+_SrWwquq
+/JbD9,S
+N-1?_eD
+q8S|m4
+gFVcjn
+S#i0}7
+b$kE^~
+B\7zW?`s
+Bm=5e7
+c3kTdpR
+K?pBE)
+;%q{{(
+yEG3q,
+{*#LOj4.
+2+gtiZs~>k
+&1h'* 
+es:ZrI|
+nO`zI[
+]0a IPKm
+M;gRmZ<
+kE6&{
+2mp~o+
+]qI_/8VH
+5@F<`#
+ujm*,~S
+{;ZhtG
+u:o!PV
++?hGWr
+tAdiO)-Y&U
+G"Bt"W
+D7e(\#
+*w|q{>
+:Fz^'
+^QkzZw^
+W,a>
+K=5&=c<%VH
+'m%}BQ
+i*W?Kb
+)aqtqd
+riQM3!*4
+o:?0J=
+IWC"S;
++{1=3 
+,9SWQGSv
+N^2w,*
+_*]kz(p
+;"'[bp
+8-_;Ce`
+#'B\g/
+09Qx`
+*ZUiqeK}
+0CwiqH
+mdb |W/
+^\%$RMVJ
+9h~l _
+L7"\?n$
+8=N.f_
+?hmt/<QN
+|H1W|k&\
+.MVLHa=
+7 QhFg
+#;+L/q
+v[yGyUQR
+wD6U1)
+fC7~l6
+@c`U10
+{uqX4R
+`%?;4j
+t4Lvod
+Cex{|s
+3Cfu$+1
+3Jw&x$
+XL &'rZ
+-I^69*49vv
+@"EV^7
+vLU<AH
+16G@Jt
+RZki&Z
+]Z+QZvm{u`
+B#/&I%
++t3-I{
+VJ,gt
+om=\"e
+y?7-JM
+$G49r~
+ifCns)
+s#e"=3
+t8*eR?
+ismAEj
+i~!X5}U
+QV=ABk
+ 2>[YXF
+NOFv?p
+Fwo^f0
+c@gw:(
+>lCS^$
+]#4$Kt
+xQGZ Q
+>@K@'O
+}bF.K`
+:^-r4ku/
+4RCaw8
+o^k]+YY
+umFc|#
+bkpR8-
+rw, vy
+RPvS%gm8K
+PW;nzM
+T)nZW|h
+G+^{a!A
+b&6n5<
+pF8{vs
+`?meVuC_
+Ya{8%2
+GYtdws4
+zTa!t0U
+v55I>-
+++qIkv
+S%S; )
+.HL,gz4
+kxHT=wP
+XiMLo\
+q`r3U?
+bbD&Y,
+y+b>;;
+h\YvODL
+"0(n<S
+pMZ-%s
+c{`UE-
+f4y_7S
+&/ O$E
+?p!Qy/
+t(YO zS
+vRH`rx
+`bf?/
+7VaJhA
+\iGVTH
+;g[%u'
+B)S$_R
+`-Qez3N
+;3mEa!
+I%bh$2
+4:Fv}R<5%#
+G/KloYp
+kW=^1B
+7wh Ztl!\
+oNLfWK)i
+kul)L!"
+kn^i5n
+WQUHE\6
+:osKNb
+K;Y2p2
+?:jiB.g
+BbFw.M
+<vl.V3"
++-<bhe
+)ns6ti
+nXE9CXD
+{SQ]C2
+=a'#~8
+99%Z;u^
+VGPrS$Rw
+>,lHgp
+13YcYk
+lR^u]
+38}XuB
+]@.FSS
+wBM8_I
+hF o7{Z
+kIxl^<
+5CQdkn
+uY:rGt,
+XewIXHs
+B|5;k9
+Je`W4 
+N]4h&Y{(
+-fIN%h
+%}rQBdtT&
+z3%8Jm:F
+;siJ4hn
++L$/[e
+<`x'M|
+W8dhfp
+}+3 dL
+XLr&ix
+`U}|Ro
+]x@MjO&1
+SOl >.
+wt}4A&R
+|Vda?U@mO
+lMW5]15T
+IDka}aC
+M7UL<v
+Yo@%aL
+v}jf $r
+RoIYIcd4
+\}$4\oA
+X o"Be
+q$q4H
+7+TH1Uq8
+LG"T*s
+"|bJI+P
+A|]QkAL
+RU?;$7
+z7=kE3
+ZhRfhOB
+G+`dI3
+P[%u<
+I!9jh.
+/HR$YS
+I )"%h
+ytt"w-
+E"U}T3
+QP|c ;
+//S@Wv/
+?)JeFL
+bm/^Sg
+?_KD9`
+T+d'FU
+{sZ4.Ln
+}9TOs;]
+jy5)PZH
+EtxU=+
+tV1#b)U
+o_x@9z{d
+=ZvQar6
+`TP&0x
+%e1&(P
+vc{hW`
+M^ee=0
+JAp,,up
+50n6)8
+1oJ9W/X
+V"re+7
+F]ml DLL
+2YJ/'.
+^nz:S`
+0u-nd\M
+[]ha:r
+of8H.M
+WO{pX,
+>3!H=d
+T\-Ta9
+mNhsm_
+eH&eg
+{+>IA\db
+uuDVL3
+POpU)N
+fK@1F?
+W[9mNM
+,2`J+cWj
+S\l;~D
+dyu=lw
+v(7{u8
+V%I#{JZs
+Ia{[@
+0WVY0+
+'h|be2
+$!]~ookO
+b.-9t7J
+<Ct<\Y
+/!yx7.
+/)Csi:b
+b3VP_k
+q4=z&!HF
+."\~)}
+~|}?zn
+=:.mH%&Q
+Pt|GG
+EZO]*+
+?rTqq4
+"3`]}9
+ArHJ#g
+P#%R\N
+ vNqN3oZsm
+mnQr=
+3GTEP\S
+>puX7U
+,FX3vvx
+Uf~hN+)i
+{K-/O
+H!bK~%
+3:b1$xKV
+6'1\$~
+VZtYgL
+3[Ju[2
+%ty,&pAD
+@j43"E(y8
+l1$n.=
+y~s vO%:B+T
+GE2%1
+:nHw=|
+R`FLhjLeauF
+XS<>Qb5
+<c#~JMZ(
+h/4[:x
+hh?{[F
+zZe`wu
+XNNtfG
+fgqH-G*
+[G[L,y
+>#5^Ux7
+Fa*w2w
+#wJ?0^
+|[UIA<)@U
+={{t8A
+DRy5\t
+MCLCN5
+hYG=)\
+3WCXy!7
+j^U7vE
+CtTf/F
+AMRL 51
+IU>5L-
+NJWu|c
+u>ot+z
+<SZX$i
+cq:hv$v]c
+Q}Bq*
+WvJ5c1
+VJTI=:
+0Ye29G
+SovH${
+H}A8`v
+V5o|w,+
+Ns~~?'
+KQ4VnA
+)J!JX,
+JVO!(Y
+y1VQ2h
+;_a`Zi,
+Ehww`\
+MZzj GV
+bmoX0h
+de.!dB=Y
+rd^Zv5E
+|,IUAi
+tQWwx6
+<v<qT9
+"m.)fO,I
+'Vuy#j
+N`j{ys
+68qF|]
+&O*-)N
+eds4zu
+ecvi!)
+ma"'cL
+wu|`{$
+GuF:<?=
+q=z0&
+,oSxBc
+j}&Kc:
+|JpOT7t
+,$W^X%
+abuUxuQ
+4vc>u`e
+omfU?N]
+u5H<8t
+6-tvXt
+8#4H@
+ys)=XKla
+4`J{1Z
+6,Tu'M
+ieuvN?_
+@sG+bg
+-.bab{"
+t(U;g(
+7'\rXv
+~6GA%5o
+2>Ugk;
++^A{#[
+*D^5y:!E},{
+#+c{>}
+\y872L
+qv66#\
+g,o8npo0b)
+2&F9Kw
+DL4h]3
+AU"f'<AS
+W-\C)1
+%;R8P<2
+RS+LJ
+_X2]Pg7
+~%9Lql
+^],!N>:Uhb
+<<T8B#
+SC8PQ6-
+2@ (72B
+xq56Wy
+K=aPGyv
+3%sH-L
+/F DPly
+(+0xj?)
+!b'lB,
+*,*>t
+Uf(=q9I
+M|W5&Eq
+"ws>7"P
+*GH7@a
+>xE1A\
+y=D_O%
+DQJ5!@
+fs7rpz
+=l{Y_lJLa
+~TazZe
+cfGnlR
+bkRqDs3
+^p\`y~
+"7[p{Om[/P
+U!%eb_
+*q%LN8
+$V5\G<
+$*<[0?L
+os>Hub
+6o86AIX
+O&gPus
+FP,)%
+}Bx;3O
+Z3 x5X
+V-X[+P4hS}S
+ W*]S/t
+A%H(^s
+ q1Key
+-e~_H]
+dB'JKFo
+A*=}vK
+t^bZ\:
+-$W35"E
+kLP,Hm
+w;{yWz
+oy{OKg
+6G8]6a
+OA\y8Z
++l\h"
+"\soT@
+>\2A6e
+w[hXgG4
+H(~#N
+h4|?t/-v
+4'vVkq
+IX8UhR"
+w_f~c)Bkl
+N*jAb,
+VhZIh"
+]U6)IG
+P(bn19
+ibBph{$y
+ [VHU
+?F<Nk|(
+|c`Xy&
+7DR/Q&47f
+(=#)S"
+ERE:zH
+T+<EF>
+.vsB+F
++DB/=/g
+N4Fj=-#S
+3q8|)a)
+d"PhB/u
+XaxT1i<
+LSomT<_
+j3odL=/
+,>x=cd^i
+-dWi3\
+FEV8pu
+>PAinf
+|/YS[n
+xyS^&f
+r%4Wj)L
+vD*\D/
+rjcwM
+O].>-.s
+Qh&f'1C
+s5A~I
+Q1Q_T3
+h``$*{
+17o#Y<a,0H
+W'`jD<m
+Cvn(R6ix
+zK}3`\
+@:p_t2
+Qu,UU]
+#0ayRu
+9CU'3v>#g
+8H9>fU
+lSDe^2
+4OEbYJ
+ ^Fccv
+|I({ZJ#I
+%}`N(hEJ
+PYe@.Z]
+SUDy^040
+n"n'crL
+>8<=SL=H
+v2GRls(
+cG:g!u2
+RP#UK"\
+ a{rP@
+R!=)Uy
+Hcz\XD5P
+6GaE5#%
+BG{?,P
+Aj>BIb
+{`5}&X
+$,zCdZ
+L\E'?x
+cdtqdS
+ ki}xH`
+Xd>fCx
+rhh8-+
+m<-$&T
+:`hZ]kL
+Tob<a|h
+f.{Rf=z
+~@+HuF
+U!$}-IJ
+QAtwd>
+b{)m>z
++ke2>${&
+0'[46INB"
+Y#NAN?
+=eDDvM
+SA#d/S@4
+[:0OrE
+'.ix/
+?Dm"L-
+gd.n-q
+[|FFI&
+y6d=;
+?Ljt\>
+i^(jZ@ADO
+*NN0xL
+0}w%/?qjf<<v
+#qX_5[
+*KfmO9`
+-6tEz2
+v4Jb*o
+wG^MXm
+FJ/^&R
+'_!/WE
+#iA#[I?
+H{eJRSh
+]b{2'7fu
+CCt!;9
+`v0FxD
+bXy3m4
+"`8>GIJv
+MzvT(+
+O;~J)B
+{<";)[A!M
+#N/W<]\f
+]$oiN#
+a2&1yB
+Ou)G*h
+8J5oE%
+@k>20 
+as#_ u
+q3Trbu`6@
+k:9mmef
+BS?NC!
+B66-pn
+_9kv@2
+H/? kr
+\oO`_R
+`)]G?:
+mDHvV-c
+b6\,)x
+<47w+#
+xA8F-C4!
+7?qA7B
+RxXv@B
+y6G)lH
+o?K+w[
+1Lq4w
+^@#ufS
+[Oy++'
+{dDr-Sn/"j
+t8@+cE
+4}[}|
+WN5zM|
+.W;/x
+~xEIe.wzt
+'<1$]P
+.hprAl>
+xV}Ty]
+d?]Vy#N1{
+nHs-@l:
+(7kPN]
+I4gtO`g
+6KIzd&y
+c7<]@Y
+9PVl~_
+n$3BM 
+':=K?T3M
+'u,g7y
+j 5:nR
+Po&krl
+wKrx79
+8WS{{D@
+(vlDR=
+I*-KQ2w
+a+HG|v
+GM<z7~
+ALwvx
+YZeh-j,
+0hd?tl
+z9(Y(QO
+ce.c[u
+45EWxH
+54kqpEW
+/&yH0&
+HZ`6":
+Du?5H%
+]pHP4R
+ACSVK<
+9XCi+v
+cR!N G
+x?7_ 0U
+/<Z]SJc
+1)./_Y
+|Ak72%mE_D
+L$e~S}
+GW R0d
+D?=w/y}
+wb7l:c~E=
+lOLjoS
+ srfF$?
+}5{6kI"
+"UtMNqZ 
+im,6_~tZ
+xQVA|?
+lH}0(?
+7m:=j`
+"!npfT
+lQL&.JY
+HWIf-d$ol,
+hr#Q|K
+:.~ELb
+UP>Qnt
+b"Ea@;
+,/e^6k
+1D=t"s
+mX8E>c
+Y.f[@rk
+&=RAX?
+_^HV(r2
+vcE@Eh
+[pvlv.q
+'h-X4|
+DK*h*%Z#
+K{j3"B
+HE[0wk
+2sP6545
+HLa5e[
+e iX>_R62
+T]HBW'
+rm[s":t
+Vflh54@
+<P^/iAw
+`^Qm',
+8!_F*Y
+D0Ang$R
+N0a_.
+pNmxM?
+=&O;46
+j6u0zg
+*-?D:52
+"@Pn7N
+7;|O6]zu
+n<I^fA
+zH=3G_
+L&ZJ(`
+gx*o8&
+*|8-~r
+E6B{=u
+}ScDM>6yH
+-),+K\,
+Ma`O5;
+^OJ_rnv
+n IKy""
+x4%|Sl4
+q'63X[
+17GY?*M
+yqCVNi
++XNt:\T#
+P3s6H)_
+(f!pe>V
+[ |SJ
+5-V:-3
+yYIHB*d
+Gm~JZ6
+=TV 'B
+#WXm,!h":
+eUBl\
+6dh<P 
+p|9bgK
+\{DQU$
+xrXbpU
+$#9k$!
+tYT9a`v:HD
+n\d:$1
+7XiE9r
+hay?Ph
+W,<e-K0
+N=iX ]
+h&0Rk52
+bfO^zZX
+qFE/5l@.
+(HuV=@
+mABRR~
+>\jD&H
+3L~gDR
+jb}E]"#
+C[u0ZU
+>.&fD1
+G7$nnP
+Is>Yxc"-
+) (FW 
+x0Da!;
+~8v_A0
+8!z.VQ/
+)xJ(m(
+vX4ldX
+l7bqtg
+_O1?xjV
+!G0j(:
+ZFk6kQt
+l)=x`q
+1`{ORV
+?<r/JG
++`X9V%%m 
+W3Hh+ 
+`bH@Sn
+*tgidC
+[Li*J= 
+=,E86 )
+csd(wa
+1h;U(M
+xbknSl
+@%qsz3
+0bwjfC/[_
+Gr8!3a
+y_p:j1;
+Wv<u85
+F!2X8&
+DU0Z>@lqo
+!?Z'Y"
+OB/=~J\
+a-guW5
+I:^oEThyu
+_+XE{Gq9<1-
+{t_]7_
+n@\XHH
+w)lu*9
+[sWP$P
+<g|Cog
+T}%a#xFg
+@TLu=9{Z8Y
+$ U@!mT
+CCR*([
+;(Hm]r
+"/lFm:
+llE#m]
+N,p|Dj
+yjm(Pgc
+3p;iju
+?(gR|.m
+(U.#6GhrS
+4j?|rk
+!\*Q|K
+s6jB36
+vdv;Yi
+.&Y~iL*
+1;6h'?
+0n~/clHL|
+hIlF$T
+ox)cA=
+&M!WRA
+l(DStwSB|
+<]n&U 
+Kt{ORO
+;!S=_o
+TyGWUk
+MQcaaA[
+alAH2-
+sZc,b
+LhGlzb
+aQ;BN;
+;5.IRU!/
+PdMWHR`+
+u,i,-q
+z&(+Nr
+a[<m"(@
+#{ef|F
+$=YWG0
+NYN3f:
+R&?<?`
+aSM|V}
+`iDSmg
+9*=Q(o
+hksG\ 
+eVl02D
+1[sNCP$
+Pu30!0`
+Z=.|/@
+{ndFF#b
+/LRaU)
+g0`0|alsXq
+ VIAdQ
+##s9 A
+i"0|H,Z
+"{\+Yq
+)+-,Dq
+m6U9L0
+sI/aUe
+Y51iLLt
+N:fE}4j
+ Xy|0Wh
+{:fjR=
+(OYZRb6
+.?AVbad_alloc@std@@
+.?AVlength_error@std@@
+NNNNNNNNNNRNNNNNNNNNN
+NQQQQQQQQQNQQ
+hhhhhhhhhhh66666666
+R6h<<<<<<<<<<<<<<<<<R
+&&&&&&&&&&&&&&&&&&&&&
+bbbbbbb
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++)
++++++++++++++
+++++++++++++++
++++++++++4
+n+++++++++++++++
+++++++Rnej
++++++++++++++++f
+vv_V+++++++++++++++y
+++++++++++++++++
+jjjjjj
+Zjjjjj
+++++++++++++++++njZZtZtttttttt
+1++++++++++++++++
++++++++++++++++++
+OOOOOOOOOOO
++++++++++++++++++
+3V++++++++++++++++
+++++++++++++++(
+++++++++++++T
+++++++++++(
+++++++++T
+++++++(*?
+uuuuuuuuuuuuuuu
+++++++++
++++++++++++++++++
+++++++++++++++++++++++++
+1++++++++++++++++++++++++
+++++++++++++++++++++++++++
+++++++++++++++++++++++++++
+++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++
+++++++++++++++
+?1dQQQQQQQQQQQQ
+?1Q*********
+bbbbbb
+K====^?h
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,
+sm,,,,,,,,
+<<{<<<
+,,,,,,,,
+,,,,,,,,B
+V,,,,,,,
+22222222
+,,,,,,V
+b,,,,,,,,,,,
+&,,,,,,,,,,,,b
+,,,,,,,,,,,,,,B&,,,,,,,,,,,,,,b,,,,,,,
+9VL5e/)Qi$
+7[-Oot
+Bjjjjjjj
+jjjjjjjj
+jjjjjjjj
+jjjjjj
+@sizeInBytes >= count
+src != NULL
+memmove_s
+f:\dd\vctools\crt_bld\self_x86\crt\src\memmove_s.c
+dst != NULL
+(count == 0) || (string != NULL)
+_vswprintf_helper
+f:\dd\vctools\crt_bld\self_x86\crt\src\vswprint.c
+(format != NULL)
+("Buffer too small", 0)
+string != NULL && sizeInWords > 0
+format != NULL
+_vsnwprintf_s_l
+f:\dd\vctools\crt_bld\self_x86\crt\src\dbgdel.cpp
+_BLOCK_TYPE_IS_VALID(pHead->nBlockUse)
+memcpy_s
+f:\dd\vctools\crt_bld\self_x86\crt\src\memcpy_s.c
+( (_Stream->_flag & _IOSTRG) || ( fn = _fileno(_Stream), ( (_textmode_safe(fn) == __IOINFO_TM_ANSI) && !_tm_unicode_safe(fn))))
+(stream != NULL)
+Assertion Failed
+Warning
+Bf:\dd\vctools\crt_bld\self_x86\crt\src\dbgrpt.c
+Microsoft Visual C++ Debug Library
+_CrtDbgReport: String too long or IO Error
+wcscpy_s(szOutMessage, 4096, L"_CrtDbgReport: String too long or IO Error")
+(*_errno())
+Debug %s!
+Program: %s%s%s%s%s%s%s%s%s%s%s%s
+(Press Retry to debug the application)
+Module: 
+File: 
+Line: 
+Expression: 
+For information on how your program can cause an assertion
+failure, see the Visual C++ documentation on asserts.
+memcpy_s(szShortProgName, sizeof(TCHAR) * (260 - (szShortProgName - szExeName)), dotdotdot, sizeof(TCHAR) * 3)
+<program name unknown>
+wcscpy_s(szExeName, 260, L"<program name unknown>")
+__crtMessageWindowW
+f:\dd\vctools\crt_bld\self_x86\crt\src\dbgheap.c
+_CrtCheckMemory()
+_calloc_dbg_impl
+(_HEAP_MAXREQ / nNum) >= nSize
+_pFirstBlock == pOldBlock
+_pLastBlock == pOldBlock
+fRealloc || (!fRealloc && pNewBlock == pOldBlock)
+pOldBlock->nLine == IGNORE_LINE && pOldBlock->lRequest == IGNORE_REQ
+_CrtIsValidHeapPointer(pUserData)
+pUserData != NULL
+_pFirstBlock == pHead
+_pLastBlock == pHead
+pHead->nBlockUse == nBlockUse
+pHead->nLine == IGNORE_LINE && pHead->lRequest == IGNORE_REQ
+_msize_dbg
+_CrtSetDbgFlag
+(fNewBits==_CRTDBG_REPORT_FLAG) || ((fNewBits & 0x0ffff & ~(_CRTDBG_ALLOC_MEM_DF | _CRTDBG_DELAY_FREE_MEM_DF | _CRTDBG_CHECK_ALWAYS_DF | _CRTDBG_CHECK_CRT_DF | _CRTDBG_LEAK_CHECK_DF) ) == 0)
+_CrtMemCheckpoint
+state != NULL
+_printMemBlockData
+(_osfile(fh) & FOPEN)
+_get_osfhandle
+f:\dd\vctools\crt_bld\self_x86\crt\src\osfinfo.c
+(fh >= 0 && (unsigned)fh < (unsigned)_nhandle)
+("Invalid file descriptor. File possibly closed by a different thread",0)
+_write
+f:\dd\vctools\crt_bld\self_x86\crt\src\write.c
+isleadbyte(_dbcsBuffer(fh))
+((cnt & 1) == 0)
+_write_nolock
+(buf != NULL)
+(L"Buffer is too small" && 0)
+Buffer is too small
+(((_Src))) != NULL
+strcpy_s
+f:\dd\vctools\crt_bld\self_x86\crt\src\tcscpy_s.inl
+((_Dst)) != NULL && ((_SizeInBytes)) > 0
+("inconsistent IOB fields", stream->_ptr - stream->_base >= 0)
+f:\dd\vctools\crt_bld\self_x86\crt\src\_flsbuf.c
+str != NULL
+("'n' format specifier disabled", 0)
+_woutput_l
+f:\dd\vctools\crt_bld\self_x86\crt\src\output.c
+((state == ST_NORMAL) || (state == ST_TYPE))
+("Incorrect format specifier", 0)
+_woutput_s_l
+f:\dd\vctools\crt_bld\self_x86\crt\prebuild\eh\typname.cpp
+pNode->next != NULL
+mscoree.dll
+wcscpy_s(*env, cchars, p)
+_wsetenvp
+f:\dd\vctools\crt_bld\self_x86\crt\src\stdenvp.c
+KERNEL32.DLL
+strcat_s(outmsg, (sizeof(outmsg) / sizeof(outmsg[0])), rterrs[tblindx].rterrtxt)
+strcat_s(outmsg, (sizeof(outmsg) / sizeof(outmsg[0])), "\n\n")
+strncpy_s(pch, progname_size - (pch - progname), "...", 3)
+strcpy_s(progname, progname_size, "<program name unknown>")
+strcpy_s(outmsg, (sizeof(outmsg) / sizeof(outmsg[0])), "Runtime Error!\n\nProgram: ")
+_NMSG_WRITE
+f:\dd\vctools\crt_bld\self_x86\crt\src\crt0msg.c
+f:\dd\vctools\crt_bld\self_x86\crt\src\winsig.c
+("Invalid signal or error", 0)
+_fileno
+f:\dd\vctools\crt_bld\self_x86\crt\src\fileno.c
+(_osfile(filedes) & FOPEN)
+_commit
+f:\dd\vctools\crt_bld\self_x86\crt\src\commit.c
+(filedes >= 0 && (unsigned)filedes < (unsigned)_nhandle)
+f:\dd\vctools\crt_bld\self_x86\crt\src\dbgrptt.c
+_CrtDbgReport: String too long or Invalid characters in String
+wcscpy_s(szOutMessage2, 4096, L"_CrtDbgReport: String too long or Invalid characters in String")
+e = mbstowcs_s(&ret, szOutMessage2, 4096, szOutMessage, ((size_t)-1))
+strcpy_s(szOutMessage, 4096, szLineMessage)
+strcpy_s(szOutMessage, 4096, "_CrtDbgReport: String too long or IO Error")
+strcat_s(szLineMessage, 4096, "\n")
+strcat_s(szLineMessage, 4096, "\r")
+strcat_s(szLineMessage, 4096, szUserMessage)
+strcpy_s(szLineMessage, 4096, szFormat ? "Assertion failed: " : "Assertion failed!")
+strcpy_s(szUserMessage, 4096, "_CrtDbgReport: String too long or IO Error")
+_itoa_s(nLine, szLineMessage, 4096, 10)
+_VCrtDbgReportA
+wcstombs_s(&ret, szaOutMessage, 4096, szOutMessage, ((size_t)-1))
+strcpy_s(szOutMessage2, 4096, "_CrtDbgReport: String too long or Invalid characters in String")
+wcstombs_s(((void *)0), szOutMessage2, 4096, szOutMessage, ((size_t)-1))
+wcscpy_s(szOutMessage, 4096, szLineMessage)
+%s(%d) : %s
+wcscat_s(szLineMessage, 4096, L"\n")
+wcscat_s(szLineMessage, 4096, L"\r")
+wcscat_s(szLineMessage, 4096, szUserMessage)
+wcscpy_s(szLineMessage, 4096, szFormat ? L"Assertion failed: " : L"Assertion failed!")
+Assertion failed!
+Assertion failed: 
+wcscpy_s(szUserMessage, 4096, L"_CrtDbgReport: String too long or IO Error")
+, Line 
+<file unknown>
+Second Chance Assertion Failed: File 
+_itow_s(nLine, szLineMessage, 4096, 10)
+_VCrtDbgReportW
+WUSER32.DLL
+wcscpy_s
+((_Dst)) != NULL && ((_SizeInWords)) > 0
+strcpy_s(szExeName, 260, "<program name unknown>")
+__crtMessageWindowA
+_expand_base
+f:\dd\vctools\crt_bld\self_x86\crt\src\expand.c
+pBlock != NULL
+kernel32.dll
+f:\dd\vctools\crt_bld\self_x86\crt\src\setlocal.c
+((ptloci->lc_category[category].wlocale != NULL) && (ptloci->lc_category[category].wrefcount != NULL)) || ((ptloci->lc_category[category].wlocale == NULL) && (ptloci->lc_category[category].wrefcount == NULL))
+f:\dd\vctools\crt_bld\self_x86\crt\src\isctype.c
+(unsigned)(c + 1) <= 256
+L(str != NULL)
+f:\dd\vctools\crt_bld\self_x86\crt\src\mbtowc.c
+_loc_update.GetLocaleT()->locinfo->mb_cur_max == 1 || _loc_update.GetLocaleT()->locinfo->mb_cur_max == 2
+_isatty
+f:\dd\vctools\crt_bld\self_x86\crt\src\isatty.c
+_lseeki64
+f:\dd\vctools\crt_bld\self_x86\crt\src\lseeki64.c
+f:\dd\vctools\crt_bld\self_x86\crt\src\_getbuf.c
+(null)
+(ch != _T('\0'))
+_output_s_l
+ibase == 0 || (2 <= ibase && ibase <= 36)
+nptr != NULL
+B_set_error_mode
+f:\dd\vctools\crt_bld\self_x86\crt\src\errmode.c
+("Invalid error_mode", 0)
+(L"String is not null terminated" && 0)
+String is not null terminated
+strcat_s
+f:\dd\vctools\crt_bld\self_x86\crt\src\tcscat_s.inl
+strncpy_s
+f:\dd\vctools\crt_bld\self_x86\crt\src\tcsncpy_s.inl
+fclose
+f:\dd\vctools\crt_bld\self_x86\crt\src\fclose.c
+_fclose_nolock
+_mbstowcs_l_helper
+f:\dd\vctools\crt_bld\self_x86\crt\src\mbstowcs.c
+s != NULL
+retsize <= sizeInWords
+bufferSize <= INT_MAX
+_mbstowcs_s_l
+(pwcs == NULL && sizeInWords == 0) || (pwcs != NULL && sizeInWords > 0)
+_vsnprintf_helper
+f:\dd\vctools\crt_bld\self_x86\crt\src\vsprintf.c
+string != NULL && sizeInBytes > 0
+_vsprintf_s_l
+_vsnprintf_s_l
+length < sizeInTChars
+2 <= radix && radix <= 36
+sizeInTChars > (size_t)(is_neg ? 2 : 1)
+sizeInTChars > 0
+xtoa_s
+f:\dd\vctools\crt_bld\self_x86\crt\src\xtoa.c
+buf != NULL
+_wcstombs_l_helper
+f:\dd\vctools\crt_bld\self_x86\crt\src\wcstombs.c
+pwcs != NULL
+sizeInBytes > retsize
+_wcstombs_s_l
+(dst != NULL && sizeInBytes > 0) || (dst == NULL && sizeInBytes == 0)
+wcscat_s
+xtow_s
+f:\dd\vctools\crt_bld\self_x86\crt\src\malloc.h
+("Corrupted pointer passed to _freea", 0)
+         (((((                  H
+         h((((                  H
+                                 H
+sizeInBytes > 0
+_wctomb_s_l
+f:\dd\vctools\crt_bld\self_x86\crt\src\wctomb.c
+sizeInBytes <= INT_MAX
+strtoxl
+f:\dd\vctools\crt_bld\self_x86\crt\src\strtol.c
+_close
+f:\dd\vctools\crt_bld\self_x86\crt\src\close.c
+f:\dd\vctools\crt_bld\self_x86\crt\src\_freebuf.c
+stream != NULL
+telegumexoyihoz
+C:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\include\xstring
+invalid null pointer
+_controlfp_s(((void *)0), 0x00010000, 0x00030000)
+_setdefaultprecision
+f:\dd\vctools\crt_bld\self_x86\crt\src\intel\fp8.c
+_cftoe_l
+f:\dd\vctools\crt_bld\self_x86\crt\prebuild\conv\cvt.c
+strcpy_s(p, (sizeInBytes == (size_t)-1 ? sizeInBytes : sizeInBytes - (p - buf)), "e+000")
+sizeInBytes > (size_t)(3 + (ndec > 0 ? ndec : 0) + 5 + 1)
+_cftoe2_l
+sizeInBytes > (size_t)(1 + 4 + ndec + 6)
+_cftoa_l
+_cftof_l
+_cftof2_l
+_cftog_l
+_controlfp_s
+f:\dd\vctools\crt_bld\self_x86\crt\prebuild\tran\contrlfp.c
+("Invalid input value", 0)
+pflt != NULL
+sizeInBytes > (size_t)((digits > 0 ? digits : 0) + 1)
+_fptostr
+f:\dd\vctools\crt_bld\self_x86\crt\src\_fptostr.c
+strcpy_s(resultstr, resultsize, autofos.man)
+_fltout2
+f:\dd\vctools\crt_bld\self_x86\crt\prebuild\conv\cfout.c
+__strgtold12_l
+f:\dd\vctools\crt_bld\self_x86\crt\prebuild\include\strgtold12.inl
+_Locale != NULL
+strcpy_s(fos->man, 21+1, "1#QNAN")
+strcpy_s(fos->man, 21+1, "1#INF")
+strcpy_s(fos->man, 21+1, "1#IND")
+strcpy_s(fos->man, 21+1, "1#SNAN")
+$I10_OUTPUT
+f:\dd\vctools\crt_bld\self_x86\crt\prebuild\conv\x10fout.c
+VS_VERSION_INFO
+StringFileInfo
+041904E6
+FileVersion
+1.0.52.18
+ProductVersus
+1.9.37.29
+VarFileInfo
+Translations
+Bubumosijo jako zuxoxasiSPenahagacavupi foh gutoner zuse cucitimoc viyux sina nepiyefaniji cewejub kazulotac8Fufowuvarefof dezadedujura hotenerexacox yoxuvojeta kebi>Rosezalavozacop yagu nugasicika kuhiviwikob cilige fodo xatawa
+Cimefavejenol zixerifahiheretLSirabokotonawe lutoniv ciroxifiye degovizamay bodalixotayi gotefepad panejolNToyik nigeyag susidixofegamap joso yaro supuhaponevu popatacetu yusilemapenekuXGixegocevameyi soyihu kuwu migeniya zenubehovaheyic weki weca nikosoxa zafuf yajorosewehJYodowavov penuwe ponadetin zutox pejiza kebohuyikuzu wodibobijagi jetehike
+Xuliyuy zojoxolawu xejo3Lijorujuxuxilap pibapusuyup cevofunumipus jolu soro

@@ -1,0 +1,842 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+.idata
+@.gfids
+@.00cfg
+@.reloc
+CrypQP
+u/tyuw
+SWt-u+
+t=u;VP
+t,u*tDuBt
+t4u2hJn
+[tGh7n
+St[h9q
+^tKuI1
+t$t7u5
+tftbu`
+t`u^tiugh
+tAu?hus
+tlujt~
+t*u(tbu`
+tquoWV
+t$ tLh
+t8u6tHuF
+Ut1u/t
+t1u/t?t%u#
+SWVtFuD
+URPQQh
+tK<_t<<$t8<<t4<>t0<-t,<a|
+<z~$<A|
+E<$uMR
+Mwnh8{
+<0|L<9
+tE<A|2<P
+t9<_u5
+t.<_u*
+<A|,<P
+<$u"8F
+YPSh<r
+<0| <9
+<0|^<8
+;t$,v-
+UQPXY]Y[
+Tt1jhZ;
+Tt1jhZ;
+Tt1jhZ;
+Tt1jhZ;
+Tt1jhZ;
+Tt1jhZ;
+^$+^8+
+^$+^8+
+^$+^8+
+^$+^8+
+^$+^8+
+^$+^8+
+t0jXXf
+~$+~8+
+t0jXXf
+~$+~8+
+t0jXXf
+~$+~8+
+t0jXXf
+~$+~8+
+t0jXXf
+~$+~8+
+t0jXXf
+~$+~8+
+F2jgYf;
+F(jgYjGZ
+F2jgYf;
+F2jgYf;
+F2jgYf;
+F(jgYjGZ
+F2jgYf;
+F2jgYf;
+<0|H<9
+<0|H<9
+x(j$Xf9
+x(j$Xf9
+j"^f91j\^u8
+j"^f9q
+t/j=[f;
+QSSSSj
+u0jAXf;
+u0jAXf;
+<xt"<Xt
+u/jAXj
+uFVWhd
+Wj0XPV
+tyPVj@W
+_tcPVj@
+u#j,Xf;
+taj*Xf
+WWWPWS
+u-PWWS
+VWj\^j:
+WWWPWS
+SSVWh 
+f9:t!V
+|VWj=S
+}VWj=S
+tl9tX
+t"k5t~
+PPPPPWS
+PP9E u:PPVWP
+<0|o<9
+u^9^\t/
+VX9^`tT
+;N\u\W
+u2Vj@h
+9C`u99C\t4
+9C`u5Wj
+QQSWj0j@
+jA[jZZ+
+PPPPPPPP
+mSjA[jZ^+
+8jZZf;
+SVWjA_jZ+
+uBjAYjZ+
+SVjA[jZ^+
+jAZjZ^
+Wj5_f;
+LOUD !!!!...
+This is dummy messagebox
+02837546372948574636299483726374
+92748201
+Deleting failed successfully
+Interesting module
+Module is detaching
+CryptStringToBinaryA
+expand 32-byte kexpand 16-byte k
+Unknown exception
+bad allocation
+bad array new length
+EventRegister
+EventSetInformation
+EventUnregister
+EventWriteTransfer
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator "" 
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+template-parameter-
+generic-type-
+`anonymous namespace'
+`non-type-template-parameter
+`template-parameter
+`template-type-parameter-
+`generic-class-parameter-
+`generic-method-parameter-
+`vtordispex{
+`vtordisp{
+`adjustor{
+`local static destructor helper'
+`template static data member constructor helper'
+`template static data member destructor helper'
+static 
+virtual 
+private: 
+protected: 
+public: 
+[thunk]:
+extern "C" 
+short 
+unsigned 
+volatile
+std::nullptr_t 
+std::nullptr_t
+<ellipsis>
+,<ellipsis>
+ throw(
+double
+__int8
+__int16
+__int32
+__int64
+__int128
+<unknown>
+char16_t
+char32_t
+wchar_t
+__w64 
+UNKNOWN
+signed 
+ volatile
+`unknown ecsu'
+union 
+struct 
+class 
+coclass 
+cointerface 
+volatile 
+const 
+cli::array<
+cli::pin_ptr<
+{flat}
+`h````
+xpxxxx
+`h`hhh
+xwpwpp
+(null)
+CorExitProcess
+NAN(SNAN)
+nan(snan)
+NAN(IND)
+nan(ind)
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+AreFileApisANSI
+CompareStringEx
+EnumSystemLocalesEx
+GetActiveWindow
+GetCurrentPackageId
+GetDateFormatEx
+GetEnabledXStateFeatures
+GetFileInformationByHandleEx
+GetLastActivePopup
+GetLocaleInfoEx
+GetProcessWindowStation
+GetSystemTimePreciseAsFileTime
+GetTimeFormatEx
+GetUserDefaultLocaleName
+GetUserObjectInformationW
+GetXStateFeaturesMask
+IsValidLocaleName
+LCMapStringEx
+LCIDToLocaleName
+LocaleNameToLCID
+LocateXStateFeature
+MessageBoxA
+MessageBoxW
+RoInitialize
+RoUninitialize
+SetThreadStackGuarantee
+SystemFunction036
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+[aOni*{
+~ $s%r
+@b;zO]
+v2!L.2
+1#QNAN
+1#SNAN
+?5Wg4p
+%S#[k=
+"B <1=
+_hypot
+_nextafter
+G:\fasm\INCLUDE\API\fasm.pdb
+fasm.dll
+DllInstall
+DllRegisterServer
+DllUnregisterServer
+whCpcwtpI`5DVnq7E01l6iQ5jC:pgaZhQz3GWT)Z40cGeUpwe:m@RotIrCNZUXfIAjts6hcE232H7:CegCd6t3Fj)fhk4ldXtjopZApUrNkX`-RG26C@3KGN2mF0e7{SrAGlx;VzXMT)wdF6DL2eNC14VFP-g@CLMXxAx{VkZMk`izte1kw@j4Jhm323hTOQqLkOvF[A-nZQn@0em6jVQFzJCCXVqP22iDN3fGnI:1Fm;n-tp{gMl3IJpgjW`oV--)o7tVTCZgFxd`[0Z3NZlmLrn0Ue6u3TTaRrZiND{5soVv{oFjll4HfSQno{JLMF[Hs4NkAeaniNN5OV;RVElI`ZV`0q-ONd7){:Eec2dopCGKzVxd:R@fTC3eP26vAG@[5pJhp-dIsopk1qWt1Z`llSuZqi0F6Fg6TKEa;anmxixC44Nc[a1)SAlKiTvAGCs7@h-IWe5V;e{5cWz7LshLQAGa;2D{a0s5vozlG3NFsDETXL{tfc0Am5mlsieWMO2rC1E[Tidt;c-44Qt7s[1ajWFXKi6FrNwtA-0xJELVjiA{{p327OJP1QWSj4QQ@n{gciq;cLX2I`wZpP6PwmFFpP{aKDJPn2PgDv36rJ6XFhHrxADS;pZAt1CcFD@0[cCr4f;nJvq[eFrWJ4I@sWlm0fs6`;:51IeVdF[)653HSix)Zn`gARtc1ECRXNAgmww6Z[npAoTsfj6X0ZiI0XV5pgMu1Dh1{C{XhsSC0`nTmkJ0C37JvFO3ukrIHLPICj)4JqlvOPZMGoD[;@RxSCwp5C@rfL@iK1@7SSZ75NAHZhxJe;{mSc:dAQK4cOOj5mDLWhR;snoO`WstSpJjn[MGAKec;)-jEt)w7iTXDwcM7FUgc;-R-[x5:-:im25Ri[4p@lm)g7V@rTZWjN1UPEf5fa@3dh:pA[PqUMMgfk@im3Ef`qui`{T:ppsDq)6gN-mAqOvn[JaUr1cczl7Xmzc5TER{2SgZkXcO7AIpUwfKNQGT0fQazPCccN`t;ePvwG
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AVbad_array_new_length@std@@
+.?AVtype_info@@
+.?AVDNameNode@@
+.?AVcharNode@@
+.?AVpcharNode@@
+.?AVpDNameNode@@
+.?AVDNameStatusNode@@
+.?AVpairNode@@
+MessageBoxA
+USER32.dll
+GetCommandLineW
+LoadLibraryW
+GetProcAddress
+VirtualAlloc
+CreateFileW
+ExitProcess
+VirtualQuery
+VirtualFree
+FlushInstructionCache
+VirtualProtect
+GetCurrentProcess
+IsBadReadPtr
+LoadLibraryA
+FreeLibrary
+lstrcmpA
+KERNEL32.dll
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+IsDebuggerPresent
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetStartupInfoW
+IsProcessorFeaturePresent
+GetModuleHandleW
+TerminateProcess
+InterlockedPushEntrySList
+InterlockedFlushSList
+RaiseException
+RtlUnwind
+GetLastError
+SetLastError
+EnterCriticalSection
+LeaveCriticalSection
+DeleteCriticalSection
+InitializeCriticalSectionAndSpinCount
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+LoadLibraryExW
+GetModuleHandleExW
+GetModuleFileNameA
+GetModuleFileNameW
+MultiByteToWideChar
+WideCharToMultiByte
+HeapFree
+HeapAlloc
+GetCurrentThread
+GetACP
+GetStdHandle
+GetFileType
+GetDateFormatW
+GetTimeFormatW
+CompareStringW
+LCMapStringW
+GetLocaleInfoW
+IsValidLocale
+GetUserDefaultLCID
+EnumSystemLocalesW
+FindClose
+FindFirstFileExA
+FindFirstFileExW
+FindNextFileA
+FindNextFileW
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+GetCommandLineA
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+SetEnvironmentVariableA
+SetEnvironmentVariableW
+GetProcessHeap
+SetConsoleCtrlHandler
+GetStringTypeW
+SetStdHandle
+FlushFileBuffers
+WriteFile
+GetConsoleCP
+GetConsoleMode
+HeapSize
+HeapReAlloc
+SetFilePointerEx
+CloseHandle
+WriteConsoleW
+EncodePointer
+DecodePointer
+OutputDebugStringA
+OutputDebugStringW
+WaitForSingleObjectEx
+CreateThread
+;";i;|;
+=?=O=m=
+>2>E>n>
+1!282@2S2
+3'3L3p3
+3&4E4n4
+6!7X7v7
+;'<0<c<
+> > ?'?u?
+2#2R2u2
+525P5^5
+676Y6m6
+6o778a8k8e9}9
+:5;D;~;
+<$<4<_<
+<&=C=Q=
+>5?A?j?
+080f0@1~2
+4,5C5h5
+:E;c;r;
+=$>H>`>o>
+"3(3.343:3@3F3L3R3X3^3d3j3p3v3|3
+4/4?4V4g4x4}4
+4V5`5n5
+;#;*;0;B;L;
+<2<Z<b<z<
+=7=?=q=w=
+0#0(0X0]0
+151S1Y1t1
+353B3P3k3v3
+4V4e4l4
+4E5S5[5i5
+6#6)60676>6E6L6S6Z6b6j6r6~6
+6S7Y7_7e7k7q7x7
+7W8]8c8i8o8u8|8
+8A8O8U8p8
+959F9X9t9
+:!:0:I:\:
+;;$;);?;D;I;_;d;i;
+<=;=J=V=d=
+>6>;>@>
+>!?&?+?|?
+0:0T0Y0^0
+1E1W1c1y1
+1N20354
+8)909:9?9c9
+171P1h1
+9\9U:x:
+3)30393>3
+5$646m6
+7#7(7:7A7H7O7
+8%8,838a8
+9!989W9d9
+9-:?:S:`:
+80X0d0
+6#6,6y6
+;';I;P;W;
+; <K<P<W<^<e<r<{<
+>,>=>l>
+0Y1e1|1
+788V8u8
+9J9_9r9
+9$:.:b:p:z:
+<2<D<S<d<
+244O4[4e4
+?.???u?
+090F0f0
+0)191M1v1
+748`8w8
+9+9K9|9
+< <$<(<,<0<4<
+= =%=t=
+=G>U>a>
+0/0L0o0{0
+5@5H5N5T5Z5
+3*52:G:t:
+;6;K;x;
+<5B5H5N5T5Z5`5f5l5r5x5~5f;
+? ?$?(?,?0?
+1)2-2125292=2A2E2
+55#5'5+5/5
+778;8?8C8G8K8O8S8
+:[;_;c;g;k;o;s;w;G<
+O5C8J;>>
+21947:=:C:I:O:U:[:a:v:
+6I6[6l6
+:*;];u;
+<1<6<B<G<X<
+"0+0d0o0
+1P2p2@6U6
+9%969@9_9q9
+1D1b1h1n1t1z1
+1J2O2Y2^2i2t2
+3g4z4A5b5
+8M9R9c9o9
+:&:.:9:?:J:P:^:
+:,;D;a;x;
+< <.<7<{<
+1f1T2^2k2
+3/3_3|3
+34&4@4L4Z4
+9#9=9]9
+:+:K:e:
+;-;G;e;
+?0?>?{?
+0!121M1Y1
+1+252b2s2
+22373>3b3
+3#4.4B4P4_4G5Y5_5
+6)7|7X;
+5n7[9a9s9~9
+405B5x5
+576G6n6z6
+758R8W8]8c8u8{8
+9.93989N9S9X9n9s9x9
+:.:3:8:N:S:X:n:s:x:
+;.;3;8;N;S;X;n;s;x;
+<.<3<8<N<S<X<n<s<x<
+<(=0=l=|=
+1!1R1]1b1g1
+1,272<2A2n2
+203;3@3E3i3u3
+3/4:4?4D4_4i4
+4&51565;5Y5k5
+6"6'6H6X6
+758@8E8J8h8
+:&:+:0:H:v:
+<(<5<T<_<d<i<
+<"=-=A=F=K=m={=
+=+>L>S>i>
+ 0?0D0.1
+2Q2X2h2v2}2
+<$=E=a=)?
+0}2g3v3
+4m4t4{4
+9M9b9p9y9
+1%1+11171=1C1I1p1
+485C5P5a5o5w506
+<a>g>m>s>y>
+>N?U?\?j?u?
+$0F0~0
+0C1^1q1
+6)717C7H7v7
+9V9^9}9
+<!=7=X=
+;H;O;T>
+4B5J5y5
+6%6\6c6
+11&1#:*:(;/;
+="=4=F=X=j=|=
+3m32595A5I5Q5g7:<
+3$7(8^8
+:Z:i:w:
+;';a;h;
+<$<.<O<
+?(?4?p?
+666@6g6
+8-9L9b9l9
+8*8p8z8
+<j=A>I>
+>I?Q?Y?a?i?
+9':R:w:
+;I;U;a;m;
+;b<n<s<y<
+?A?O?`?s?
+0$0P0^0o0
+3(393A4o4
+5*6<6N6
+8_:`;i<|<
+=0=F=\=d=
+M1B3S3
+3$3*30363<3B3H3N3T3Z3`3f3l3r3x3~3
+4 4&4,42484>4D4J4P4V4\4b4h4n4t4z4
+5;5O5U5
+<(=/=4=8=<=@=
+00#0'0+0/03070;0?0C0G0K0O0S0W0[0_0c0g0k0o0s0b6
+3$6(607
+= =$=H=L=T=X=
+=X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+0P<T<X<\<d<h<l<p<x<|<
+? ?$?(?,?0?4?8?D?L?P?T?X?\?
+1@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9
+\2`2d2h2
+4(444@4L4X4d4p4|4
+5$505<5H5T5`5l5x5
+6 6,686D6P6\6h6t6
+607<7H7T7`7l7x7
+8 8,888
+9$9,949<9D9L9T9\9d9l9t9|9
+:$:,:4:<:D:L:T:\:d:l:t:|:
+;$;,;4;<;D;L;T;\;d;l;t;|;
+<$<,<4<<<D<L<T<\<d<l<t<|<
+=$=,=4=<=D=L=T=\=d=l=t=|=
+>$>,>4><>D>L>T>\>d>l>t>|>
+?$?,?4?<?D?L?T?\?d?l?t?|?
+> >(>0>8>@>H>P>X>`>h>p>x>
+? ?(?0?8?@?H?P?X?`?h?p?x?
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4X4`4h4p4x4
+0$0,040<0D0L0T0\0d0l0t0|0
+0$2(202t6x6
+7(7,7@7H7L7P7X7p7
+8 888<8P8X8\8d8|8
+949L9P9d9l9p9x9
+2(2,282L2X2l2x2
+383X3x3
+4 4$4H4h4
+5(5H5h5t5
+686X6x6
+7(7H7h7
+8(8H8h8
+9$9(9D9H9
+> >P>`>p>
+l5p5t5
+848T8x8
+--loud
+C:\ddddss\eeerrr\iufyhfj.py
+Crypt32.dll
+advapi32
+api-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+kernel32
+(null)
+mscoree.dll
+msvcrt.dll
+LC_ALL
+LC_COLLATE
+LC_CTYPE
+LC_MONETARY
+LC_NUMERIC
+LC_TIME
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+api-ms-win-appmodel-runtime-l1-1-1
+api-ms-win-core-datetime-l1-1-1
+api-ms-win-core-file-l2-1-1
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-kernel32-package-current-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+user32
+         (((((                  H
+      (                          
+         (((((                  H
+american
+american english
+american-english
+australian
+belgian
+canadian
+chinese
+chinese-hongkong
+chinese-simplified
+chinese-singapore
+chinese-traditional
+dutch-belgian
+english-american
+english-aus
+english-belize
+english-can
+english-caribbean
+english-ire
+english-jamaica
+english-nz
+english-south africa
+english-trinidad y tobago
+english-uk
+english-us
+english-usa
+french-belgian
+french-canadian
+french-luxembourg
+french-swiss
+german-austrian
+german-lichtenstein
+german-luxembourg
+german-swiss
+irish-english
+italian-swiss
+norwegian
+norwegian-bokmal
+norwegian-nynorsk
+portuguese-brazilian
+spanish-argentina
+spanish-bolivia
+spanish-chile
+spanish-colombia
+spanish-costa rica
+spanish-dominican republic
+spanish-ecuador
+spanish-el salvador
+spanish-guatemala
+spanish-honduras
+spanish-mexican
+spanish-modern
+spanish-nicaragua
+spanish-panama
+spanish-paraguay
+spanish-peru
+spanish-puerto rico
+spanish-uruguay
+spanish-venezuela
+swedish-finland
+america
+britain
+england
+great britain
+holland
+hong-kong
+new-zealand
+pr china
+pr-china
+puerto-rico
+slovak
+south africa
+south korea
+south-africa
+south-korea
+trinidad & tobago
+united-kingdom
+united-states
+zh-CHS
+az-AZ-Latn
+uz-UZ-Latn
+kok-IN
+syr-SY
+div-MV
+quz-BO
+sr-SP-Latn
+az-AZ-Cyrl
+uz-UZ-Cyrl
+quz-EC
+sr-SP-Cyrl
+quz-PE
+smj-NO
+bs-BA-Latn
+smj-SE
+sr-BA-Latn
+sma-NO
+sr-BA-Cyrl
+sma-SE
+sms-FI
+smn-FI
+zh-CHT
+az-az-cyrl
+az-az-latn
+bs-ba-latn
+div-mv
+kok-in
+quz-bo
+quz-ec
+quz-pe
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+syr-sy
+uz-uz-cyrl
+uz-uz-latn
+zh-chs
+zh-cht
+Runtime Error!
+Program: 
+<program name unknown>
+Microsoft Visual C++ Runtime Library
+CONOUT$

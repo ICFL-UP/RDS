@@ -1,0 +1,217 @@
+!Win32 .EXE.
+.MPRESS1
+.MPRESS2
+~wO_O=
+tj81&fJy?
+1K5fB/
+FO}<f0
+zjvr,M
+<9'm'>}%
+UjAF=o
+x_"POVS
+EkJzWP
+}qBESF
+-->`6C
+%\}zC8hH|
+7geuZZ
+g{L~W0
+_nAdjCD
+[Q##fJU
+MN"S~)
+2_2!i&Rj
+OV.|@?
+I(q D3Km
+N,0m5P
+`#<]l"k
+@^@TSQ
+qN]2\Zmb
+u1"xq>
+mI!2e>
+aH-6:
+1B'Q.Q)VG=
+o0W#O
+0VM0AR
+{,'mu"m
+'zwj!W
+Gqi8y.
+bLNza=
+8(0BZ
+ :P fkz
+c7P)A5
+daCO @
+d{5=w^
+++Il9y
+"Ko_Tn
+(zuGFZ
+T)GE8
+TDWnh{
+(>ootiA
+3(o3FQ)
+AAeblLP
+/j[3Z|
+(#kUr(q
+5qH|Rc
+!VKCJO
+E|!C"Dg
+jhp<|w
+K=bCEx
+L$5BvS
+8rNSXG
+eH}yj[
+(JXWSQ
+Y/U?gf
+17nnfc);
+(Ax6Ruqj
+~a#`[G
+fsG'nt
+TBlL3Y
+||$D\w
+p'Uj H
+hI-,871
+Ks=<I=1
+:PDD2w
+*74&zu
+.#[zMn
+BM>3}ux]]
+d:@7 &
+,';*[&
+PxZxBY
+1{`# tt
+r3k}j'
+kd"&#q@
+FYs,Z$
+'Zvm@f
+fXRv=.
+Hn0uai
+#I0A&~
+aVn+<{
+\fG'T1
+GetModuleHandleA
+GetProcAddress
+KERNEL32.DLL
+USER32.dll
+LoadIconA
+GDI32.dll
+GetStockObject
+ADVAPI32.dll
+RegOpenKeyA
+SHELL32.dll
+ShellExecuteA
+t$t#t$l
+D$t#D$h
+D$t+D$\
+.)D$H+
+s`)L$4
+D$t+D$\
+)D$H+
+9l$\w`
+.http://www.d
+wwwwwwwwwwwx
+xfDDFfff
+vfdhwvffffff
+fhxffff
+ffhwffff
+vdgvgw
+fffffff
+fHwfwwvfffffff
+fffhwwx
+wwwwwx`
+wwwwwwx`
+wwwwwwwx
+ffhxww
+xwwwwwwwww
+3;wxfff`
+w7x6df
+{xDhxfgfff
+wdhxffgvf
+ffwwwwx`
+goxhwwwwx
+wwwwww
+Hwvfhf`
+wwwwwx
+                        
+"#     $$                  #
+"     $%&'                 #
+"     ()*+$                #
+"      +,-.$               #
+"      /01*.               #
+"       .-23.  $ $         #
+"       (4153.&4'6&($      #
+"        .*718.393400($    #
+"        (4<21)*8,0-6%4$=>>#
+"         .*52<AAB,,)*>>
+CDEFGHHIJ
+"        &%+B552251ABKLFMNOPPPQRSTUVWN
+"        '8-A55,*AXYZ[\]^^\WH_`aabcc`de
+"         (8B53ffgZhiRN\jG`klmnopqrrqosM
+"       '0-A<<tfuviwNOVFlxyz{|}~
+"        (93<<
+E\\jOVE
+"       '0*AB
+"        6&)
+"        ()
+"        >
+"       =
+"      
+"      >EPPE
+"     =Cj
+"    ##
+fffffg
+!"##$############% &
+'(((()*(((((((((((#+&
+',-(./01((((((((((#2&
+',-(3(4/1(((((((((#2&
+',-((156713***((((#2&
+',-((318699:9;*3(-<=>?@
+',-(((A/BCDEDFG<%(HIJKL
+',-(((M*4NO6PQDRSTUVWXYY
+',-(((*7ZO[\8]^V_W`abcdeef
+',-((3)F8Qghijjklmnopqrrrqs
+',-((3tFCZuvwkxyz{|}~
+',-((3)
+',-(-<a_x
+!"#$%&'''''''"(
+)"'*+,-'#''''"!
+)"'./0%1234''"567
+)"''89:;<=>?@ABCD
+)"''EFGHIJKLMNOPQR
+)"'##STUVWXYZ[\]^_`R
+)"'#'abcdefghijklmnR
+)"''opqrstuvwxyz{|}~
+ !"#$%&'
+*+ ,-./01
+()23456789:;
+()2<=>?@ABCDEF
+()GHIJKLMNOPQR
+()STUVWXYZ[\]
+^_`abcdefghF
+ijklmnopqrst
+uvwxyzx{|}
+cccQeee
+cccIddd
+ddd4eee
+iii|ccc
+fff,rrrf
+ccc)ccc
+bbb3iii
+hhh[ddd
+IDI_ICON1
+VS_VERSION_INFO
+StringFileInfo
+040904E4
+CompanyName
+Code Jelly
+FileDescription
+Launchy
+FileVersion
+InternalName
+Launchy.exe
+LegalCopyright
+This is GNU Software copyright Josh Karlin
+OriginalFilename
+Launchy.exe
+ProductName
+Launchy
+ProductVersion
+VarFileInfo
+Translation

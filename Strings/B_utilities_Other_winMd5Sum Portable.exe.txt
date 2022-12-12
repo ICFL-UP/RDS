@@ -1,0 +1,963 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+.ndata
+@.reloc
+PWSVh@
+#Vhh2@
+Instu`
+softuW
+NulluN
+SUVWj 3
+D$8PUh
+u}9-$.G
+[j0Xjxf
+D$$+D$
+D$4+D$,P
+PPPPPP
+\u!f9O
+QSUVWh
+Ed+EL;E
+u$9Mls
+)Mh)Mlf
+u$9Mls
+)Mh)Mlf
+u$9Mls
+)Mh)Mlf
+Ed+EL;E
+]4;Mhr
+E89E0}s
+u$9Uls
+-)Uh)Ul3
+Ed+EL;E
+)Mh)Mlf
+u$9Mls
+)Mh)Mlf
+SHGetFolderPathW
+SHFOLDER
+SHAutoComplete
+SHLWAPI
+GetUserDefaultUILanguage
+AdjustTokenPrivileges
+LookupPrivilegeValueW
+OpenProcessToken
+RegDeleteKeyExW
+ADVAPI32
+MoveFileExW
+GetDiskFreeSpaceExW
+KERNEL32
+[Rename]
+Module32NextW
+Module32FirstW
+Process32NextW
+Process32FirstW
+CreateToolhelp32Snapshot
+Kernel32.DLL
+GetModuleBaseNameW
+EnumProcessModules
+EnumProcesses
+PSAPI.DLL
+MulDiv
+DeleteFileW
+FindFirstFileW
+FindNextFileW
+FindClose
+SetFilePointer
+MultiByteToWideChar
+ReadFile
+WriteFile
+lstrlenA
+WideCharToMultiByte
+GetPrivateProfileStringW
+WritePrivateProfileStringW
+FreeLibrary
+LoadLibraryExW
+GetModuleHandleW
+GlobalFree
+GetExitCodeProcess
+WaitForSingleObject
+GlobalAlloc
+ExpandEnvironmentStringsW
+lstrcmpW
+lstrcmpiW
+CloseHandle
+SetFileTime
+CompareFileTime
+SearchPathW
+GetShortPathNameW
+GetFullPathNameW
+MoveFileW
+SetCurrentDirectoryW
+GetFileAttributesW
+GetLastError
+CreateDirectoryW
+SetFileAttributesW
+GetTickCount
+CreateFileW
+GetFileSize
+GetModuleFileNameW
+GetCurrentProcess
+CopyFileW
+ExitProcess
+GetWindowsDirectoryW
+GetTempPathW
+GetCommandLineW
+SetErrorMode
+lstrcpynA
+lstrlenW
+lstrcpynW
+GetDiskFreeSpaceW
+GlobalUnlock
+GlobalLock
+CreateThread
+LoadLibraryW
+CreateProcessW
+lstrcmpiA
+GetTempFileNameW
+lstrcatW
+GetProcAddress
+LoadLibraryA
+GetModuleHandleA
+OpenProcess
+lstrcpyW
+GetVersionExW
+GetSystemDirectoryW
+GetVersion
+lstrcpyA
+RemoveDirectoryW
+lstrcmpA
+KERNEL32.dll
+EndPaint
+DrawTextW
+FillRect
+GetClientRect
+BeginPaint
+DefWindowProcW
+SendMessageW
+InvalidateRect
+EnableWindow
+LoadImageW
+SetWindowLongW
+GetDlgItem
+IsWindow
+FindWindowExW
+SendMessageTimeoutW
+wsprintfW
+ShowWindow
+SetForegroundWindow
+PostQuitMessage
+SetWindowTextW
+SetTimer
+CreateDialogParamW
+DestroyWindow
+ExitWindowsEx
+CharNextW
+GetSysColor
+GetWindowLongW
+SetCursor
+LoadCursorW
+CheckDlgButton
+GetAsyncKeyState
+IsDlgButtonChecked
+ScreenToClient
+GetMessagePos
+CallWindowProcW
+IsWindowVisible
+LoadBitmapW
+CloseClipboard
+SetClipboardData
+EmptyClipboard
+OpenClipboard
+TrackPopupMenu
+GetWindowRect
+AppendMenuW
+CreatePopupMenu
+GetSystemMetrics
+EndDialog
+EnableMenuItem
+GetSystemMenu
+SetClassLongW
+IsWindowEnabled
+SetWindowPos
+DialogBoxParamW
+GetClassInfoW
+CreateWindowExW
+SystemParametersInfoW
+RegisterClassW
+SetDlgItemTextW
+GetDlgItemTextW
+MessageBoxIndirectW
+CharNextA
+CharUpperW
+CharPrevW
+wvsprintfW
+DispatchMessageW
+PeekMessageW
+wsprintfA
+USER32.dll
+SelectObject
+SetTextColor
+SetBkMode
+CreateFontIndirectW
+CreateBrushIndirect
+DeleteObject
+GetDeviceCaps
+SetBkColor
+GDI32.dll
+SHFileOperationW
+ShellExecuteW
+SHGetFileInfoW
+SHGetPathFromIDListW
+SHBrowseForFolderW
+SHGetSpecialFolderLocation
+SHELL32.dll
+RegDeleteKeyW
+RegCloseKey
+RegEnumKeyW
+RegOpenKeyExW
+RegEnumValueW
+RegQueryValueExW
+RegSetValueExW
+RegCreateKeyExW
+RegDeleteValueW
+ADVAPI32.dll
+ImageList_Destroy
+ImageList_AddMasked
+ImageList_Create
+COMCTL32.dll
+CoCreateInstance
+OleUninitialize
+OleInitialize
+CoTaskMemFree
+ole32.dll
+VerQueryValueW
+GetFileVersionInfoW
+GetFileVersionInfoSizeW
+VERSION.dll
+:hW2e+S
+B-o@mm=
+zV@uM5'
+!l|]R~!
+T0/~Aw
+p]Dm6M
+@Gk3o#
+by/1YZ
+s]go`Q
+s}}=G
+$3?U,d
+Gpo/U,
+OA]]5w
+Garjl2
+O@ntBz.
+!hni`a
+6nh[15
+r(t'PN
+ICCc+454
+>1iT=TkD~
+MqT~x^^c
+GkcPUU
+gi4blk
+olj}xyGK
+K6#hqHx
+tw-ezo
+m[aYW;dr9
+"_` `
+!JR6;-,
+@ ah"5
+4ocOY)
+:JuN:p
+YAHRqE
+Z;z8}h
+P{nlmP
+6j;4F#
+c{hdt
+k4s}J6
+NQ3T[]
+CWVWin|
+_A>VS*
+LJ'VqWe
+w^ZH=b#^"
+{D6Ium
+Da5V} #
+aq4j"K`
+BBL#%9
+0[Z;$J
+1]lBK/`
+0B>i#R
+Z\rMM!%
+H1Vfgh
+Zlp)p$
+)]@$2c`%
+A:[bf<"R
+8W,9+p
+wd-8:@
+7Hrhls
+JZJ!5[
+nk$'5;x
+Q#kaQ
+7\IE,)
+O<AO=J
+m'QQhF
+g76j4>3I
+RZdBD PS
+, '-c&
+?Da[+/
+"1?2,1$
+RG !/E
+D^+x3x~
+tnyU6E
+O&'&C+
+;8*wEZ
+w^}CB>
+!KI+OF
+;-*<f"
+p\cOdK!1
+Gu6:Zs@;
+9GWgoR.
+;EyNS
+20n2EB|6"
+yldHp
+'!;"00
+PGCTl~aD
+*Ujrj 
+MSs34lw
+V5x!4R
+S&M7wd
+qJvly
+Sghv~^
+j'_FtYDk
+ KiT*t|a^
+ejE",+
+y#v`[=
+5\Kv'R
+4\x$N2
+e5@B},
+V&'i{w
+{X7.C/ 
+ jh.b)*S}
+a$2f3Su
+J@6.Ms(J
+9l<x@j
+OKgNKC
+dj359AGVWd
+i:6?)@
+;jKoo0
+\EnK;#@{
+^|D.Ne7
+=vdqH!HZ
+wE~d0H
+{49=Ii
+/sNx,u
+!%r@C6
+cWEnl!
+483`kby
+0&DiYlB
+~p7b7Y673
+Hj\("XMF
+vSH@al6
+tcsgx?
+7L#i:F
+*4'f`N
+_^tvAY
+:27Q6,4N
+;5<w%&E
+HCIs&%
+97(?86I
+B<1Y44V
+!:5<~35\
+D>Fz/*
+<4*F:5L
+<:;t54]
+@;>n3&
+<61W:=l
+D=,'7:e
+D?<JSRj
+FCK{YY~
+85HO\^
+8>t`NP
+=<^[_a
+GA=;KJf
+HDGPC<&
+LGLtPPp
+MG>BJI]
+IDBD $DQ47
+((L0,/d
+*,Va37o
+94**wma
+40%.qh\
+83('[TH
+B<0crj]
+?:.O[TH
+C=1V;6+
+=7+1JD7cRL@
+JE8g>9,3
+*%4r84Cp,#
+0*"?%%B
+-+-V,+O
+4()E10N
+QNSfef
+RMMRIB6
+MG@.USd
+NH=!$&`DQS
+"'f/EH
+LGGNMKg
+VSUbOI:
+23Qe:?|
++-]q8<t
+MN{]@>i
+"%SG,.V
+QK?I^YM
+SMALHB7
+pD?>A="
+HO@DFFDD'!"
+pFOOHSNNSMFB&%
+jPOPLXmjVKKWMEA'n
+niM48KWREBm
+f58ksIN
+j8WUHBYs
+0WZHBMko:.2
+N2WUIBIikK.28
+(/iTG3CJWf,+*
+iJWnTM
+9nM603CIf9
+ojI4($3C6f,
+gx7+JG0
+]a]a]]
+abbab]\
+\bvv]zz`
+;4F?>@6.,
+IEFNlD89A4/k
+c@G0Ln9'
+a9G1<h(
+B=#$@9
+TU]USQY
+`^^^sS
+\FmT69K!
+8b{kw~
+baP`g|
+_jlvzyxb^
+]buxyubO
++&/d,-U
+VSX\il
+XU_^RL;
+GGg]OQ{
+(*^cCCk
+[UISaYNd|sg
+aYNde^RgHB6
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"><assemblyIdentity version="1.0.0.0" processorArchitecture="X86" name="Nullsoft.NSIS.exehead" type="win32"/><description>Nullsoft Install System v2.46.4-Unicode</description><dependency><dependentAssembly><assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" processorArchitecture="X86" publicKeyToken="6595b64144ccf1df" language="*" /></dependentAssembly></dependency><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"/></requestedPrivileges></security></trustInfo><compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1"><application><supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/><supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/></application></compatibility></assembly>
+0.0;0I0]0j0
+111;1D1Z1a1y1
+4#464G4g4~4
+5+5;5I5W5i5x5
+6>6J6[6z6
+797C7I7Y7|7
+8,888J8e8y8
+979D9L9w9
+9::T:e:
+;!;2;A;T;
+;+<P<w<
+?-?I?\?o?w?
+020T0y0
+1#101>1J1P1U1[1f1l1
+2'2B2d2v2
+4/4o4t4y4
+4a5r5z5
+7.7q7v7
+8!808D8X8
+9+9L9Z9
+:-;[;c;l;
+?1?<?X?t?
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2N2S2c2
+3"3(30383I3P3e3n3t3|3
+4"4(4-42484I4]4c4i4o4w4~4
+5&5,5b5k5p5v5
+6.6T6c6
+80858A8i8n8x8
+:-:8:>:C:H:S:Y:f:m:s:
+;L;V;b;w;|;
+<3<S<X<c<k<w<~<
+=0=f=w=
+>N>_>i>
+?#?F?Y?n?z?
+0'0D0M0o0
+0-1R1r1~1
+2?2P2b2q2{2
+323V3j3
+4%444@4I4X4
+6#616i6n6
+;6;;;Q;Y;^;d;j;p;~;
+I0[0`0
+0;1A1Z1
+272q2}2
+4"4/4C4_4i4
+5"5:5]5m5s5
+6.646B6H6Q6d6
+767@7I7S7_7j7s7
+8!828j8t8
+909>9c9o9
+:(:.:@:F:L:R:Y:_:g:r:x:
+;!;';-;N;W;n;
+<'<3<=<G<L<W<[<a<f<l<
+=%=/=5=:=@=N=T=x=
+>,>1>6>;>D>I>O>S>Y>_>v>
+>"?@?Q?
+1&2U2a2g2s2
+3-3:3G3T3a3n3y3
+4#4*484C4O4f4m4x4
+576@6^6k6
+77*757@7
+8:8C8U8\8h8
+9!9N9u9
+99:f:{:
+;#;A;H;`;u;
+<+<4<J<U<m<v<
+=*=9=C=M=
+>&>P>^>e>}>
+?2?B?_?j?
+0Y0i0n0
+223@3I3
+5[>_>c>g>k>o>s>w>{>
+0 0$0(0,0`0d0h0l0p0t0x0|0
+NullsoftInst
+07v@iI
+U$Eq{"
+4rT, 
+Z+V2lz
+}t!pad
+hLA|fv
+\Tn|<D
+:7ytF~
+ZxjHS@
+ukG@N+t
+%:e=(>
+k 2[[g
+W9r0L}4
+TuPEYO"
+h/aC"L
+";EAZX
+\..[|/
+ic=2oe
+IWaY5g]
+T-[^~)6
+0Q)OmyKp#
+x`9\Z^pvR
+&xX#-u
+_@IXEo
+Y&xA,<
+B8Du|@N
+Lha0sH]
+n\.:4U
+lF'h#6&
+"jO8a<
+BBD$fI
+b"iM"eB
+zHVS~=
+^jKX:O4
+V$2tU}u
+j0J&=
+_s\w,Y
+dKE5V!
+EMZ!^(:1
+|G~{"bQ
+>aRSUh
+#Z^HK
+VL[CBJ6
+3gv9pE
+m35c8#DcGI-
+zE<aQWZ
+i>4& (}
+;um$q9
+HOIj=$
+y:Wt3J7\0
+Wk-8cBz(
+Y@CuB!{
+_P?ChXN
+8nmbM'R
+OOhcXm
+d29,%*GQ
++sB%;o
+MfZk@d
+ZV uG'
+_M}@)S
+,$4%z`b?@Z
+'}C5v`
+{!#x82
+y,`BV)*
+=9Bn[0
+.iW&er
+:\h)cN
+^[B){;
+.o+Jy5
+rCL2t6
+-,'Iaf
+&xY*GF
+^<VMG)
+:%7OTq
+*!0/gc
+ "]4G
+rv'v_G
+Mku3c
+bgwKb$"o,
+6#tCi_&3
+0688s-
+?$vk= 
+h5n&Lb(
+oi-b?1
+`6DK1;t6
+thLUPi2/
+*55[+b
+SIzw8,7
+<#ya#;
+]+maen)
+ U]?xA0
+5q>_/\
+ 5PjtB
+R_0MMP
+XXm|S&
+l).IBl$G4jY
+LBa\.<
+uuXoqpo
+$GB`Ru
+$DXpoD'
+EmFSe2
+VUq^u=
+`?QXX|
+.HaaY_W
+vLEsf2
+Ca.tFX#
+t-}BDE:<
+G)f3@B
+qNhC_n
+Z/F_Rl[
+pk( *d
+7~:*sYQX
+Q/^|AQ
+i.CU(_
+rDuR.a
+&6H_5m
+N6B{#AW
+i}Mm#=[
+KIN6/K
+M0zhyq
+OUm%jG
+|l`,n0OX
+#K/7.r
+wa^}p
+(vM72,A
+z!HtY?e
+.7_aT;9
+b `(:1]^#
+A\ *qf
+>{q.^=-Q
+{h=gAi
+S+bSJz
+c(6?wW
+47Y`xt
+Ei}?86
+'}tl?R
+wFTuG7^
+1"&Gt5
+  _G2u
+X#)jl^
+|&l+jN
+QsJE^H$
+z`\)Nfzengm
+$uL6p
+KI@e:]
+4>cte%
+AXk:s]c
+D"h2R~C
+>XF1JqL
+~z+`7`
+FK~9|e@
+AvjwF3
+,4j:76
+ Mh>)#
+1=>BP\J
+VQ7<w-
+;9CyaH
+Vw-D1uT
+]&yG A_n
+;2t\cmg
+:pjx$k?
+u@xgmU
+k:nWlY
+ZB=KfYj
+q`grLX
+yQ=S_H
+o5"tg`Rj
+fkt8>G"Y
+0;K/~E'{f=
+Ho/8$a
+IZJswD(N
+_foDfYe
+07_oZ="
+]2a:xO
+s- VALEb
+)l273P\'mW
+jX/in$Y
+~Hk6{Gg
+e-i=5T|0
+FMP0kN
+\a`e&C
+RQYh9"P
+n*cv-q<
+zL6xg{8
+yz=D:V#
+m.DhV@
+%|@w<I
+IQxnj?
+Tzbr8*
+rOiM,q*s
+~r)VR*:
+3Q.I!X
+N$b7t7Q
+Lh\ 2=L
+fuD$7L
+/!|aJ"
+CT3<Y
+8<8UOu
+YlKRnP
+yslPsF
+a=LRz`h
+.ciPqXZN
+wIa,NB
+v9f-OIUI*
++F.H*N<
+p^Rtjz
+;QL@=+$
+kF.1L3
+KE]n-k~}dJ
+Pl{a0<
+Xr[DSz
+|H'9I#
+^.6sIj
+#%U!]YK
+yo{Y0~
+efB?{#z#
+g!}DCc
+?!t}Ps
+x=\fGW
+]uj,o>
+7Ur-&6
+Q[jKir
+/sMgA@
+) #YVp(
+=JU%e&R
+p`&st2
+M(vaz*=
+D+7 ~6`v
+VeriSign, Inc.1+0)
+"VeriSign Time Stamping Services CA0
+120501000000Z
+121231235959Z0b1
+Symantec Corporation1402
++Symantec Time Stamping Services Signer - G30
+3nfZ^R7
+"http://crl.verisign.com/tss-ca.crl0
+http://ocsp.verisign.com0
+TSA1-30
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification10
+Thawte Timestamping CA0
+031204000000Z
+131203235959Z0S1
+VeriSign, Inc.1+0)
+"VeriSign Time Stamping Services CA0
+http://ocsp.verisign.com0
+0http://crl.verisign.com/ThawteTimestampingCA.crl0
+TSA2048-1-530
+?7!Op1
+AddTrust AB1&0$
+AddTrust External TTP Network1"0 
+AddTrust External CA Root0
+050607080910Z
+200530104838Z0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+3http://crl.usertrust.com/AddTrustExternalCARoot.crl05
+http://ocsp.usertrust.com0
+9f*<Z,m
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+110824000000Z
+200530104838Z0{1
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 20
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl0t
+1http://crt.usertrust.com/UTNAddTrustObject_CA.crt0%
+http://ocsp.usertrust.com0
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 20
+120216000000Z
+130215235959Z0
+100091
+New York1
+PO Box 2271
+Rare Ideas, LLC1
+Rare Ideas, LLC0
+https://secure.comodo.net/CPS0A
+0http://crl.comodoca.com/COMODOCodeSigningCA2.crl0r
+0http://crt.comodoca.com/COMODOCodeSigningCA2.crt0$
+http://ocsp.comodoca.com0
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 2
+VeriSign, Inc.1+0)
+"VeriSign Time Stamping Services CA
+120626192108Z0#
+x4&^P8Hs
+logging set to %d
+settings logging to %d
+created uninstaller: %d, "%s"
+WriteReg: error creating key "%s\%s"
+WriteReg: error writing into "%s\%s" "%s"
+WriteRegBin: "%s\%s" "%s"="%s"
+WriteRegDWORD: "%s\%s" "%s"="0x%08x"
+WriteRegExpandStr: "%s\%s" "%s"="%s"
+WriteRegStr: "%s\%s" "%s"="%s"
+DeleteRegKey: "%s\%s"
+DeleteRegValue: "%s\%s" "%s"
+WriteINIStr: wrote [%s] %s=%s in %s
+CopyFiles "%s"->"%s"
+CreateShortCut: out: "%s", in: "%s %s", icon: %s,%d, sw=%d, hk=%d
+Error registering DLL: Could not initialize OLE
+Error registering DLL: Could not load %s
+Error registering DLL: %s not found in %s
+GetTTFFontName(%s) returned %s
+GetTTFVersionString(%s) returned %s
+Exec: failed createprocess ("%s")
+Exec: success ("%s")
+Exec: command="%s"
+ExecShell: success ("%s": file:"%s" params:"%s")
+ExecShell: warning: error ("%s": file:"%s" params:"%s")=%d
+HideWindow
+Pop: stack empty
+Exch: stack < %d elements
+RMDir: "%s"
+MessageBox: %d,"%s"
+Delete: "%s"
+File: wrote %d to "%s"
+File: error, user cancel
+File: skipped: "%s" (overwriteflag=%d)
+File: error, user abort
+File: error, user retry
+File: error creating "%s"
+File: overwriteflag=%d, allowskipfilesflag=%d, name="%s"
+Rename failed: %s
+Rename on reboot: %s
+Rename: %s
+IfFileExists: file "%s" does not exist, jumping %d
+IfFileExists: file "%s" exists, jumping %d
+CreateDirectory: "%s" created
+CreateDirectory: can't create "%s" - a file already exists
+CreateDirectory: can't create "%s" (err=%d)
+CreateDirectory: "%s" (%d)
+SetFileAttributes failed.
+SetFileAttributes: "%s":%08X
+BringToFront
+Sleep(%d)
+detailprint: %s
+Call: %d
+Aborting: "%s"
+Jump: %d
+verifying installer: %d%%
+unpacking data: %d%%
+... %d%%
+Installer integrity check has failed. Common causes include
+incomplete download and damaged media. Contact the
+installer's author to obtain a new copy.
+More information at:
+http://nsis.sf.net/NSIS_Error
+Error writing temporary file. Make sure your temp folder is valid.
+Error launching installer
+SeShutdownPrivilege
+~nsu.tmp
+NSIS Error
+install.log
+%u.%u%s%s
+Skipping section: "%s"
+Section: "%s"
+New install of "%s" to "%s"
+RichEdit
+RichEdit20A
+RichEd32
+RichEd20
+.DEFAULT\Control Panel\International
+Control Panel\Desktop\ResourceLocale
+Software\Microsoft\Windows\CurrentVersion
+\Microsoft\Internet Explorer\Quick Launch
+*?|<>/":
+invalid registry key
+HKEY_DYN_DATA
+HKEY_CURRENT_CONFIG
+HKEY_PERFORMANCE_DATA
+HKEY_USERS
+HKEY_LOCAL_MACHINE
+HKEY_CURRENT_USER
+HKEY_CLASSES_ROOT
+%02x%c
+Unknown
+RMDir: RemoveDirectory failed("%s")
+RMDir: RemoveDirectory on Reboot("%s")
+RMDir: RemoveDirectory("%s")
+RMDir: RemoveDirectory invalid input("%s")
+Delete: DeleteFile failed("%s")
+Delete: DeleteFile on Reboot("%s")
+Delete: DeleteFile("%s")
+%s: failed opening file "%s"
+GetTTFNameString
+Version 
+/ P6pL
+,/KPip
+/-P?pR
+MS Shell Dlg
+MS Shell Dlg
+MS Shell Dlg
+msctls_progress32
+SysListView32
+MS Shell Dlg
+Please wait while Setup is loading...
+VS_VERSION_INFO
+StringFileInfo
+000004b0
+Comments
+For additional details, visit PortableApps.com
+CompanyName
+PortableApps.com
+FileDescription
+winMd5Sum Portable
+FileVersion
+1.0.1.552
+InternalName
+winMd5Sum Portable
+LegalCopyright
+PortableApps.com Installer Copyright 2007-2012 PortableApps.com.
+LegalTrademarks
+PortableApps.com is a registered trademark of Rare Ideas, LLC.
+OriginalFilename
+winMd5SumPortable_1.0.1.55_Rev_4_English.paf.exe
+PortableApps.comAppID
+winMd5SumPortable
+PortableApps.comFormatVersion
+PortableApps.comInstallerVersion
+3.0.3.0
+ProductName
+winMd5Sum Portable
+ProductVersion
+1.0.1.552
+VarFileInfo
+Translation
+<<<Obsolete>>

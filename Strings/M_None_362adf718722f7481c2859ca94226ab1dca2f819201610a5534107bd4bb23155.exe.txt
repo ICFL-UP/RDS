@@ -1,0 +1,1550 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+.gfids
+@.reloc
+L$,_^3
+u+hpRF
+usj@j#
+tG9uCj
+tG9uCj
+tZ9uVj
+YPh'fF
+SWhp}F
+tC97u?j4
+tC97u?j4
+tO9uKjD
+tO9uKjD
+tG9uCj
+tG9uCj
+tG9uCj
+tG9uCj
+tG9uCj
+tG9uCj
+tc9u_jX
+td9u`jX
+tc9u_jX
+td9u`jX
+tG9uCj
+tG9uCj
+tG9uCj
+tG9uCj
+tZ9uVj
+tZ9uVj
+tI97uEjD
+tI97uEjD
+tS9uOj
+tS9uOj
+YPhG~F
++M4AQj
++M4AQj
+<:t1<,t-</u1
+<:t1<,t-</u1
+<:t1<,t-</u1
+<:t1<,t-</u1
+SWhp}F
+tG9uCj
+tG9uCj
+tG9uCj
+tc9u_jX
+td9u`jX
+tI97uEjD
+tS9uOj
+M$+E4@Pj
+AHPQVR
+8-u79V
+<:t%<,t!</u%
+<:t%<,t!</u%
+<xt"<Xu!
+<xt"<Xu!
+9E$WWV
+t,WW9}
+jA[jZZ+
+WVhtzB
+Wj4XPV
+OHSSVSSW
+A(;A,v
+O,9O(vV
++A Vj$
++AHVj(
+FT9~Xt0
+@(;A(s
++A$tW3
+G(9_Lu8
+FYY;w(|
+FY;w(|
+9F(~9j
+V<;V8}
+YYF;w,|
+YYF;w,|
+G@WVPR
+C8;sx|
+tWVWj>
+9F(~9j
+V<;V8}
+t@;~Pt
+a;w0tV
+:;w0tBj
+-;{0t7
+FP;FL~
+t]VWj>
+}:;2|6
+9pdt<V
+x(kP$4
+kW$4k_(4
+AHkO($
+t]VWj>
+FY;w(|
+9F(~9j
+V<;V8}
+O`j@SV
+FY;w(|
+FYY;w(|
+9F(~8j
+V<;V8}
+9F(~8j
+V<;V8}
+9F(~<j
+V<;V8}
+C,H_^u
+tM9Xp~H
+QQSVWd
+URPQQh
+;t$,v-
+UQPXY]Y[
+SVWj03
+WWWSHSh
+SPSSSW
+:u$f9Q
+PPPPPPPP
+^$+^8+
+QQQWPQ
+QSSSSj
+tyPVj@W
+_tcPVj@
+u#j,Xf;
+u0jAXf;
+u0jAXf;
+v!j"X_^[
+<at<rt
+>=umF8
+SVWjA_jZ+
+uBjAYjZ+
+QQSWj0j@
+Wj0XPV
+PVSQSWV
+PPPPPWS
+PP9E u:PPVWP
+SSPQSS
+u kE$<
+>:uBFV
+WWWPWS
+u-PWWS
+SSVWh 
+f9:t!V
+|VWj=S
+<0|o<9
+u^9^\t/
+VX9^`tT
+;N\u\W
+u2Vj@h8
+9C`u99C\t4
+9C`u5Wj
+SVjA[jZ^+
+jAZjZ^
+D8(HXt:f
+D8(Ht5F
+PPPPPPPP
+bad allocation
+device or resource busy
+invalid argument
+no such process
+not enough memory
+operation not permitted
+resource deadlock would occur
+resource unavailable try again
+0123456789-+Ee
+0123456789ABCDEFabcdef-+Xx
+0123456789ABCDEFabcdef-+XxPp
+invalid seek
+io error
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no lock available
+no message available
+no message
+no protocol option
+no space on device
+no stream resources
+no such device or address
+no such device
+no such file or directory
+not a directory
+not a socket
+not a stream
+not connected
+not supported
+operation canceled
+operation in progress
+operation not supported
+operation would block
+owner dead
+permission denied
+protocol error
+protocol not supported
+read only file system
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many files open
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+cross device link
+destination address required
+directory not empty
+executable format error
+file exists
+file too large
+filename too long
+function not supported
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+interrupted
+unknown error
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+InitOnceExecuteOnce
+CreateEventExW
+CreateSemaphoreW
+CreateSemaphoreExW
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+CreateSymbolicLinkW
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleEx
+SetFileInformationByHandle
+GetSystemTimePreciseAsFileTime
+InitializeConditionVariable
+WakeConditionVariable
+WakeAllConditionVariable
+SleepConditionVariableCS
+InitializeSRWLock
+AcquireSRWLockExclusive
+TryAcquireSRWLockExclusive
+ReleaseSRWLockExclusive
+SleepConditionVariableSRW
+CreateThreadpoolWork
+SubmitThreadpoolWork
+CloseThreadpoolWork
+CompareStringEx
+GetLocaleInfoEx
+LCMapStringEx
+:Sun:Sunday:Mon:Monday:Tue:Tuesday:Wed:Wednesday:Thu:Thursday:Fri:Friday:Sat:Saturday
+:Jan:January:Feb:February:Mar:March:Apr:April:May:May:Jun:June:Jul:July:Aug:August:Sep:September:Oct:October:Nov:November:Dec:December
+%b %d %H : %M : %S %Y
+%m / %d / %y
+:AM:am:PM:pm
+%I : %M : %S %p
+%H : %M
+%H : %M : %S
+%d / %m / %y
+0123456789-
+0123456789-
+0123456789-
+0123456789-+Ee
+0123456789ABCDEFabcdef-+Xx
+0123456789-
+0123456789-+Ee
+0123456789ABCDEFabcdef-+Xx
+0123456789ABCDEFabcdef-+XxPp
+0123456789ABCDEFabcdef-+XxPp
++v$x+v$xv$+xv+$xv$+x+$vx+$vx$v+x+$vx$+vx+v $+v $v $+v +$v $++$ v+$ v$ v++$ v$+ v+xv$+ v$v$ +v+ $v$ ++x$v+ $v$v ++ $v$ +v
+raB3G||G
+0123456789-
+0123456789-
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789abcdefghijklmnopqrstuvwxyz
+bad array new length
+pEvents
+Lock already taken
+SetThreadGroupAffinity
+GetThreadGroupAffinity
+GetCurrentProcessorNumberEx
+GetLogicalProcessorInformationEx
+pScheduler
+version
+eventObject
+ppVirtualProcessorRoots
+SchedulerKind
+MaxConcurrency
+MinConcurrency
+TargetOversubscriptionFactor
+LocalContextCacheSize
+ContextStackSize
+ContextPriority
+SchedulingProtocol
+DynamicProgressFeedback
+WinRTInitialization
+MaxPolicyElementKey
+Mbp?333333
+pContext
+pExecutionResource
+RoInitialize
+RoUninitialize
+RegisterTraceGuidsW
+UnregisterTraceGuids
+TraceEvent
+GetTraceLoggerHandle
+GetTraceEnableLevel
+GetTraceEnableFlags
+pThreadProxy
+switchState
+bad exception
+Access violation - no RTTI data!
+Bad dynamic_cast!
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator "" 
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+CorExitProcess
+cmd.exe
+COMSPEC
+[aOni*{
+~ $s%r
+@b;zO]
+v2!L.2
+IND)ind)
+`h`hhh
+xwpwpp
+(null)
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+AreFileApisANSI
+EnumSystemLocalesEx
+GetDateFormatEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCIDToLocaleName
+LocaleNameToLCID
+UTF-16LEUNICODE
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+_hypot
+_nextafter
+NAN(SNAN)
+nan(snan)
+NAN(IND)
+nan(ind)
+1#QNAN
+1#SNAN
+]vQ<)8
+|)P!?Ua0
+Eb2]A=
+u?^p?o4
+y1~?|"
+?x+s7
+?5Od%
+?|I7Z#
+>,'1D=
+?g)([|X>=
+~U`?K 
+:h"?bC
+@H#?43
+Ax#?uN}*
+r7Yr7=
+F0$?3=1
+H`$?h|
+&?~YK|
+sU0&?W
+<8bunz8
+?#%X.y
+F||<##
+<@En[vP
+<8bunz8
+l,kg<i
+<@En[vP
+?5Wg4p
+%S#[k=
+"B <1=
+bitset<N> overflow
+invalid bitset<N> position
+vector<T> too long
+Unknown exception
+bad cast
+bad locale name
+generic
+iostream
+iostream stream error
+ios_base::badbit set
+ios_base::failbit set
+ios_base::eofbit set
+OwnerRansom@tutanota.com
+OwnerRansom@protonmail.com
+_popen() failed!
+key.txt
+ErrorK100
+############################################################################################
+############################################################################################
+" PLEASE BE CAREFUL " : 
+if your data is important to you, And you want to make a payment, be sure 
+to send us a test file first(3 Mb),And make sure we have the ability to 
+open your files(Decrypt test files).So first send the test file to prove 
+that we can decrypt your files, Then make a payment (Buy BTC) and receive the 
+decryption tool (Send Decrypter).
+############################################################################################
+If you do not receive a reply after sending us an email,
+please send an email to the second email address.
+second E-mail : 
+================================== # E-mail : 
+||||||||----[ All your data is encrypted by a strong encryter called FLAMINGO ]----||||||||
+================================== # Unique ID : 
+Windows
+WINDOWS
+ProgramData
+#READ ME.TXT
+.FLAMINGO
+FLAMINGO
+All Users
+AppData
+NTUSER.DAT
+key.txt.FLAMINGO
+Local\$myprogram$
+bad conversion
+invalid string position
+string too long
+C:\Users\AnonyMous\Documents\Visual Studio 2015\Projects\Flamingo\Release\Flamingo.pdb
+.text$di
+.text$mn
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCC
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIC
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.CRT$XPA
+.CRT$XPB
+.CRT$XPX
+.CRT$XPXA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$T
+.rdata$r
+.rdata$sxdata
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata$x
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data$r
+.gfids$x
+.gfids$y
+.tls$ZZZ
+.rsrc$01
+.rsrc$02
+FindFirstFileW
+FindNextFileW
+InitializeCriticalSectionAndSpinCount
+FindClose
+CreateMutexA
+MultiByteToWideChar
+GetLastError
+DeleteFileA
+RaiseException
+GetLogicalDriveStringsA
+DecodePointer
+DeleteCriticalSection
+GetConsoleWindow
+lstrcmpW
+KERNEL32.DLL
+ShowWindow
+USER32.dll
+SHGetFolderPathA
+SHELL32.dll
+WideCharToMultiByte
+EnterCriticalSection
+LeaveCriticalSection
+TryEnterCriticalSection
+GetCurrentThreadId
+CloseHandle
+DuplicateHandle
+WaitForSingleObjectEx
+GetCurrentProcess
+GetCurrentThread
+GetExitCodeThread
+QueryPerformanceCounter
+SetLastError
+CreateEventW
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetSystemTimeAsFileTime
+GetTickCount
+GetModuleHandleW
+GetProcAddress
+EncodePointer
+GetStringTypeW
+CompareStringW
+LCMapStringW
+GetLocaleInfoW
+GetCPInfo
+SetEvent
+ResetEvent
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+TerminateProcess
+IsProcessorFeaturePresent
+IsDebuggerPresent
+GetStartupInfoW
+GetCurrentProcessId
+InitializeSListHead
+OutputDebugStringW
+CreateTimerQueue
+SignalObjectAndWait
+SwitchToThread
+CreateThread
+SetThreadPriority
+GetThreadPriority
+GetLogicalProcessorInformation
+CreateTimerQueueTimer
+ChangeTimerQueueTimer
+DeleteTimerQueueTimer
+GetNumaHighestNodeNumber
+GetProcessAffinityMask
+SetThreadAffinityMask
+RegisterWaitForSingleObject
+UnregisterWait
+GetThreadTimes
+FreeLibrary
+FreeLibraryAndExitThread
+GetModuleFileNameW
+GetModuleHandleA
+LoadLibraryExW
+GetVersionExW
+VirtualAlloc
+VirtualFree
+VirtualProtect
+ReleaseSemaphore
+InterlockedPopEntrySList
+InterlockedPushEntrySList
+InterlockedFlushSList
+QueryDepthSList
+UnregisterWaitEx
+LoadLibraryW
+WaitForSingleObject
+RtlUnwind
+ExitProcess
+GetModuleHandleExW
+CreateProcessA
+CreateFileW
+GetDriveTypeW
+GetFileType
+PeekNamedPipe
+SystemTimeToTzSpecificLocalTime
+FileTimeToSystemTime
+MoveFileExW
+HeapAlloc
+HeapFree
+HeapReAlloc
+ExitThread
+GetModuleFileNameA
+GetStdHandle
+WriteFile
+GetCommandLineA
+GetCommandLineW
+GetACP
+GetDateFormatW
+GetTimeFormatW
+IsValidLocale
+GetUserDefaultLCID
+EnumSystemLocalesW
+HeapSize
+FlushFileBuffers
+GetConsoleCP
+GetConsoleMode
+GetExitCodeProcess
+GetFileAttributesExW
+CreatePipe
+GetCurrentDirectoryW
+GetFullPathNameW
+SetStdHandle
+ReadFile
+SetFilePointerEx
+GetProcessHeap
+GetTimeZoneInformation
+FindFirstFileExA
+FindNextFileA
+IsValidCodePage
+GetOEMCP
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+SetEnvironmentVariableA
+WriteConsoleW
+ReadConsoleW
+SetEndOfFile
+Copyright (c) by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVbad_alloc@std@@
+.?AVinvalid_argument@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVoverflow_error@std@@
+.?AVstl_condition_variable_interface@details@Concurrency@@
+.?AVstl_condition_variable_vista@details@Concurrency@@
+.?AVstl_condition_variable_win7@details@Concurrency@@
+.?AVstl_condition_variable_concrt@details@Concurrency@@
+.?AV?$num_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AV?$num_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AV?$numpunct@D@std@@
+.?AV_Locimp@locale@std@@
+.?AVstl_critical_section_interface@details@Concurrency@@
+.?AVstl_critical_section_vista@details@Concurrency@@
+.?AVstl_critical_section_win7@details@Concurrency@@
+.?AVstl_critical_section_concrt@details@Concurrency@@
+.?AV?$codecvt@GDU_Mbstatet@@@std@@
+.?AV?$ctype@_W@std@@
+.?AV?$ctype@G@std@@
+.?AUmessages_base@std@@
+.?AUmoney_base@std@@
+.?AUtime_base@std@@
+.?AV?$num_get@_WV?$istreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$num_put@_WV?$ostreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$numpunct@_W@std@@
+.?AV?$collate@_W@std@@
+.?AV?$messages@_W@std@@
+.?AV?$money_get@_WV?$istreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$money_put@_WV?$ostreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$moneypunct@_W$0A@@std@@
+.?AV?$_Mpunct@_W@std@@
+.?AV?$moneypunct@_W$00@std@@
+.?AV?$time_get@_WV?$istreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$time_put@_WV?$ostreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$num_get@GV?$istreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AV?$num_put@GV?$ostreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AV?$numpunct@G@std@@
+.?AV?$collate@G@std@@
+.?AV?$messages@G@std@@
+.?AV?$money_get@GV?$istreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AV?$money_put@GV?$ostreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AV?$moneypunct@G$0A@@std@@
+.?AV?$_Mpunct@G@std@@
+.?AV?$moneypunct@G$00@std@@
+.?AV?$time_get@GV?$istreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AV?$time_put@GV?$ostreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AV?$collate@D@std@@
+.?AV?$messages@D@std@@
+.?AV?$money_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AV?$money_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AV?$moneypunct@D$0A@@std@@
+.?AV?$_Mpunct@D@std@@
+.?AV?$moneypunct@D$00@std@@
+.?AV?$time_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AV?$time_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AVtype_info@@
+.?AVbad_array_new_length@std@@
+.?AVWaitBlock@details@Concurrency@@
+.?AVSingleWaitBlock@details@Concurrency@@
+.?AVMultiWaitBlock@details@Concurrency@@
+.?AVWaitAllBlock@details@Concurrency@@
+.?AVWaitAnyBlock@details@Concurrency@@
+.?AVTimedSingleWaitBlock@details@Concurrency@@
+.?AV?$_MallocaArrayHolder@PAVContext@Concurrency@@@details@Concurrency@@
+.?AVimproper_lock@Concurrency@@
+.?AVscheduler_resource_allocation_error@Concurrency@@
+.?AVunsupported_os@Concurrency@@
+.?AVinvalid_operation@Concurrency@@
+.?AVResourceManager@details@Concurrency@@
+.?AUIResourceManager@Concurrency@@
+.?AUITopologyExecutionResource@Concurrency@@
+.?AUITopologyNode@Concurrency@@
+.?AUTopologyObject@GlobalCore@details@Concurrency@@
+.?AUTopologyObject@GlobalNode@details@Concurrency@@
+.?AVscheduler_worker_creation_error@Concurrency@@
+.?AVimproper_scheduler_reference@Concurrency@@
+.?AVimproper_scheduler_attach@Concurrency@@
+.?AVScheduleGroupBase@details@Concurrency@@
+.?AVScheduleGroup@Concurrency@@
+.?AVCacheLocalScheduleGroup@details@Concurrency@@
+.?AVFairScheduleGroup@details@Concurrency@@
+.?AVSchedulerBase@details@Concurrency@@
+.?AVScheduler@Concurrency@@
+.?AU_Chore@details@Concurrency@@
+.?AVRealizedChore@details@Concurrency@@
+.?AVCacheLocalScheduleGroupSegment@details@Concurrency@@
+.?AVScheduleGroupSegmentBase@details@Concurrency@@
+.?AVFairScheduleGroupSegment@details@Concurrency@@
+.?AVcontext_unblock_unbalanced@Concurrency@@
+.?AVcontext_self_unblock@Concurrency@@
+.?AVmissing_wait@Concurrency@@
+.?AVinvalid_scheduler_policy_key@Concurrency@@
+.?AVinvalid_scheduler_policy_value@Concurrency@@
+.?AVinvalid_scheduler_policy_thread_specification@Concurrency@@
+.?AVnested_scheduler_missing_detach@Concurrency@@
+.?AVinvalid_oversubscribe_operation@Concurrency@@
+.?AVContextBase@details@Concurrency@@
+.?AVContext@Concurrency@@
+.?AV_Interruption_exception@details@Concurrency@@
+.?AV_RefCounter@details@Concurrency@@
+.?AV_CancellationTokenRegistration@details@Concurrency@@
+.?AVCancellationTokenRegistration_TaskProc@details@Concurrency@@
+.?AV?$_MallocaArrayHolder@PAVevent@Concurrency@@@details@Concurrency@@
+.?AVExecutionResource@details@Concurrency@@
+.?AUIExecutionResource@Concurrency@@
+.?AVSchedulerProxy@details@Concurrency@@
+.?AUISchedulerProxy@Concurrency@@
+.?AVFreeThreadProxy@details@Concurrency@@
+.?AVThreadProxy@details@Concurrency@@
+.?AUIThreadProxy@Concurrency@@
+.?AUIThreadProxyFactory@details@Concurrency@@
+.?AVFreeThreadProxyFactory@details@Concurrency@@
+.?AV?$ThreadProxyFactory@VFreeThreadProxy@details@Concurrency@@@details@Concurrency@@
+.?AVVirtualProcessor@details@Concurrency@@
+.?AVInternalContextBase@details@Concurrency@@
+.?AUIExecutionContext@Concurrency@@
+.?AVExternalContextBase@details@Concurrency@@
+.?AVThreadScheduler@details@Concurrency@@
+.?AUIScheduler@Concurrency@@
+.?AVThreadInternalContext@details@Concurrency@@
+.?AVVirtualProcessorRoot@details@Concurrency@@
+.?AUIVirtualProcessorRoot@Concurrency@@
+.?AVFreeVirtualProcessorRoot@details@Concurrency@@
+.?AVThreadVirtualProcessor@details@Concurrency@@
+.?AVbad_exception@std@@
+.?AV__non_rtti_object@std@@
+.?AVbad_typeid@std@@
+.?AV?$_Ref_count_obj_alloc@V__ExceptionPtr@@U?$_StaticAllocator@H@@@std@@
+.?AV?$_Ref_count_obj@V__ExceptionPtr@@@std@@
+.?AVfailure@ios_base@std@@
+.?AV?$basic_filebuf@DU?$char_traits@D@std@@@std@@
+.?AVruntime_error@std@@
+.?AV?$codecvt@DDU_Mbstatet@@@std@@
+.?AV?$basic_fstream@DU?$char_traits@D@std@@@std@@
+.?AV?$_LaunchPad@V?$unique_ptr@V?$tuple@P6AXABV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@ZV12@V32@@std@@U?$default_delete@V?$tuple@P6AXABV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@ZV12@V32@@std@@@2@@std@@@std@@
+.?AV?$basic_ifstream@DU?$char_traits@D@std@@@std@@
+.?AVios_base@std@@
+.?AVrange_error@std@@
+.?AVerror_category@std@@
+.?AV?$ctype@D@std@@
+.?AVsystem_error@std@@
+.P6AHPAU_iobuf@@@Z
+.?AV?$basic_iostream@DU?$char_traits@D@std@@@std@@
+.?AVcodecvt_base@std@@
+.?AVCAtlException@ATL@@
+.?AV_Facet_base@std@@
+.?AV_Generic_error_category@std@@
+.?AU_Crt_new_delete@std@@
+.?AV?$_Iosb@H@std@@
+.?AV?$basic_ofstream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+.?AV?$codecvt_utf8_utf16@_W$0BAPPPP@$0A@@std@@
+.?AV?$wstring_convert@V?$codecvt_utf8@_W$0BAPPPP@$0A@@std@@_WV?$allocator@_W@2@V?$allocator@D@2@@std@@
+.?AV_Iostream_error_category@std@@
+.?AVbad_cast@std@@
+.?AUctype_base@std@@
+.?AV?$wstring_convert@V?$codecvt_utf8_utf16@_W$0BAPPPP@$0A@@std@@_WV?$allocator@_W@2@V?$allocator@D@2@@std@@
+.?AV?$basic_istream@DU?$char_traits@D@std@@@std@@
+.?AV?$codecvt_utf8@_W$0BAPPPP@$0A@@std@@
+.?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
+.?AVfacet@locale@std@@
+.?AV?$codecvt@_WDU_Mbstatet@@@std@@
+.?AV_Ref_count_base@std@@
+.?AV_Pad@std@@
+.?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
+.?AV_System_error@std@@
+.?AVexception@std@@
+.?AV?$_Ref_count_del@U_iobuf@@P6AHPAU1@@Z@std@@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+0"0,070Q0]0b0h0r0|0
+1!1+111;1E1a1k1q1{1
+2#2)252
+7X8w8,9G9
+1=1C1V1e1
+2F2S2383\3
+5)5W6g7'8
+=$=6=F=p=
+=0>T>u>
+2&2=2c2v2
+909F9X9
+;*<V<e<#=f=u= >f>u>
+>6?H?h?
+0%080=0[0
+1/1R1m1
+4#4,464I4N4Y4_4g4
+7)7?7U7k7
+8&8=8T8$9V:c:
+<4<N<h<
+8<:m:q<
+M0W0F1T1k1
+8&979N9
+3 3;3V3v3
+6&636*7
+9V9e9v<
+1:2V2h2
+:&;2;v;
+=)=D=_=`>v>
+3a4k4l5
+6A7K7p8z8j9t9~9
+<f=x=:>
+0U0J1T1^1v1
+? ?v?{?
+0 0(0.030@0_0/1H1
+859;9G9M9
+<%<Y<r<
+0U2m2s2
+3:3W3v3
+44A4O4h4
+949M9U9e9
+:b:o:|:
+=/=D=I=
+`0g0&2
+899B9l9u9
+: :\:e:|:
+<"<g<0=
+2\325P5
+>,>5>=>S>o>
+0!0o0z0
+5/5F5j5}5
+6!7R7u7@8$9M9
+:#:/:N:_:q:
+==&=-=3=8=>=D=J=O=U=[=a=f=l=r=x=}=
+>$>*>0>5>;>A>G>L>R>X>^>c>i>o>u>z>
+?!?'?-?2?8?>?D?I?O?U?[?`?f?l?r?w?}?
+0$0*0/050;0A0F0L0R0X0]0c0i0o0t0z0
+1(1.1`1k1r1
+23292T2Z2u2{2
+3383>3W3]3
+484>4W4]4x4
+=1=6=y=
+>(>V>k>p>
+0.0C0H0
+0(1:1h1}1
+22b2t2
+3?3T3Y3
+394K4y4
+5+505s5
+6"6P6e6j6
+7'8<8A8
+8!939a9v9{9
+;8;M;R;
+;2<D<2=k=
+>(>7>Q>`>z>
+:0I0h0w0
+1 1/1$2
+2374|4
+4H5O5<7
+8,939 ;
+<E>o?y?
+<3=A=X=
+?I?R?i?
+1@2W2~2
+2)323[3d3{3
+4=5F5o5x5
+6#6]6l6y6
+7;7L7c7
+5!8.8l9
+=#>*>}>
+2(323i3s3
+3@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+0q1,4U5
+001E1J1
+1*2<2j2
+3!3d3v3
+4A4V4[4
+4;5M5{5
+656P6\6j6v6
+9+9h9q9
+8#888@8F8[8x8
+8y9`:6=^=
+> ?/?5?x?
+3:4G4M4\4c4h4q4v4
+5#525<5J5R5
+6 6*6/6P6V6r6{6
+7 7)7.747>7H7X7h7x7
+8&8+818;8E8X8]8
+8=9P9c9o9
+<.<3<@<<=
+2-282>2
+2W3`3h3
+4%484A4^4
+4%5-5>5D5k5
+566S6b6k6q6w6
+;!;';9;A;R;Z;c;t;
+1J2]2{3
+9Y:e:m:
+:<<Y<B=O=
+ 0L0S0Z0a0f0o0
+22@2M2W2{2
+213K3U3x3
+3!4+4N4l4
+5#5C5Y5g5{5
+6N6Y6i6u6
+7'757:7R7k7p7
+<1<$=:=f=!>+>P>Z>_>e>l>v>
+?=?c?o?z?
+0u1-2I2s2
+3@4U4]4
+5%6F6v6
+7=7L7V7_7p7
+8>9H9Q9b9q9x9
+0+030=0C0I0\0c0q0~0
+9h:8;M;Z;k;
+1#2.282H2W2h2
+=$=>=X=~=
+1'191X1z1
+5.5<5A5G5j5o5
+<8>]>v>
+H0O0Z0f0l0
+2'343O3
+9q9v9}9
+0$0+0#2r2
+3)3:3T3q3
+;";=;3?S?
+81Q1X1
+3)5C5O5
+7W7n7z7
+M0|0_1
+;-<M<Z<o=
+3B5O5i5p6
+7[8h8G9
+5*5H5r5
+8&8/8<8v8
+8F9W9y9
+9W:g:|:
+;;);Y;^;c;h;v;
+<5<K<q<
+=>=k=u=
+:J:P:r:y:
+344O4j4
+082E2i2
+7>8y93<
+=6===h=w=
+7$7?7F7M7T7^7t7
+9&9G9N9
+4+4M4T4
+4%5m5t5
+536c6p6
+707o7|7
+78=8J8
+;/;[;~;
+6&7k7p7t7x7|7
+;B<Z<_<
+>$>`>p>
+> ?0?5?:?a?j?o?t?
+0 0%0U0]0b0r0|0
+277S7\7
+7%858b8
+9,9G9X9
+;*;J;X;_;e;
+?(?[?m?
+40;0W0
+2'282J2e2
+3V5u5z5.6
+=W=]=g=r=
+:-:B:X:e:s:
+2|3d5j5
+6)60666Q6X6
+V0^0e1m1
+4":W<_<
+8K8R8x;1=9=p=w=
+2_3T5Y6
+839Q9l9-:
+<'<:<T<g<
+(121<1
+2!2(2]2
+667@7C:
+:6:Q:\:
+;0<:<@<F<
+?"?U?Z?
+1D1_1t1y1
+6D6S6X6i6o6z6
+7'737;7S7x7
+9[9`9f9k9s9y9
+:/;:;D;S;[;c;
+=:>}>&?
+5U5e537
+;;T;e;
+<&<H<Y<h<t<|<
+<T=Y=^={=
+>.>=>I>W>y>
+?1?N?Y?^?c?
+0 0%0@0J0f0q0v0{0
+1 1%1*1W1{1
+232H2d2o2t2y2
+3;3F3K3P3q3
+494j4u4z4
+5%5N5Y5^5c5~5
+6'6;6@6E6g6u6
+8&9V9q9
+;6;K;\;
+;8<T<s<
+576A6\6~6
+222Q2p2
+:u;A=N=x=
+?&?<?v?}?
+4J4k4r4
+<3=:=D=s=
+T14^4e4u4
+<+=A=W=`=k=s=
+?-?5?d?
+0F1N1t1
+5)515R5
+;;<<=L=]=e=u=
+7#7*717o7
+829;9S9e9
+::#:+:1:7:=:d:
+;#;+;3;;;D;M;U;a;i;{;
+<!=)=M=V={=
+&01080>0M0T0^0h0y0
+091D1Q1Z1o1
+2/2?2a2+5
+8-8?8[8y8
+99)969@9P9
+<:<[<`<k<
+1!121@1H1
+5(5:5L5^5
+8;9M9_9q9
+2"383Y3
+9 :3:#;X;
+60+1u1g2
+3!383}3%4z4
+:1;=;U;
+<:=^=g>
+>?6?e?
+6I6P6U9
+5?6Q8\8o8y8
+:8:^:W;
+777D7t7
+:Q;];q;};
+<"<?<O<[<j<U=
+G0`0n0
+2A3G3[3
+5"5-5C5
+8;8O8U8
+(0R0r0
+404]4x4
+5*5R5z5
+9+9S9{9
+>,?O?r?
+9'9P9v9
+2!212A2Q2a2r2}2
+82@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+5X6\6`6d6p6t6x6|6
+>$>,>4><>D>L>T>\>d>l>t>|>
+?$?,?4?<?D?L?T?\?d?l?t?|?
+024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+0T1\1d1l1t1|1
+2$2,242<2D2L2T2\2d2l2t2|2
+3$3,343<3D3L3T3\3d3l3t3|3
+4$4,444<4D4L4T4\4d4l4t4|4
+5$5,545<5D5L5T5\5d5l5t5|5
+6$6,646<6D6L6T6\6d6l6t6|6
+7$7,747<7D7L7T7\7d7l7t7|7
+8$8,848<8D8L8T8\8d8l8p8x8
+9 9(90989@9H9P9X9`9h9p9x9
+: :(:0:8:@:H:P:X:`:h:p:x:
+; ;(;0;8;@;H;P;X;`;h;p;x;
+< <(<0<8<@<H<P<X<`<h<p<x<
+= =(=0=8=@=H=P=X=`=h=p=x=
+> >(>0>8>@>H>P>X>`>h>p>x>
+? ?(?0?8?@?H?P?X?`?h?p?x?
+\0`0d0h0l0p0t0x0|0
+1(1,101
+182<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+4 5$5(5,5054585<5@5D5H5L5P5T5X5\5@6D6H6L6P6x6|6
+7 7$7(7,707D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+; ;$;(;,;0;4;8;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=\=`=d=h=l=p=t=x=|=
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+= =(=,=0=4=8=<=@=D=L=P=T=X=\=`=d=h=t=|=
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?
+9 9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+;$;,;4;<;D;L;T;\;d;
+87D7P7\7h7t7
+8(848@8L8X8d8p8|8
+9$909<9H9T9`9l9x9
+: :,:8:H:T:`:l:x:
+; ;,;8;D;P;
+=$=,=4=<=D=L=T=\=d=l=t=|=
+>$>,>4><>D>L>T>\>d>l>t>|>
+?$?,?4?<?D?L?T?\?d?l?t?|?
+0$0,040<0D0L0T0\0d0l0t0|0
+1$1,141<1D1L1T1\1d1l1t1|1
+2$2,242<2D2L2T2\2d2l2t2|2
+3$3,343<3D3L3T3\3d3l3t3|3
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+6 6(60686@6H6P6X6`6h6p6x6
+7 7(70787@7H7P7X7`7h7p7x7
+8 8(80888@8H8P8X8`8h8p8x8
+9 9(90989@9H9P9X9`9h9p9x9
+: :(:0:8:@:H:P:X:`:h:p:x:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<
+=,=0=4=8=P=T=d=h=l=t=
+>(>8><>L>P>T>X>`>x>
+?(?,?4?L?\?`?p?t?x?
+000@0D0T0X0\0`0d0l0
+1,1<1@1P1T1X1\1`1h1
+2$2(2,242L2\2`2p2t2x2
+3 3$3(303H3X3\3l3p3t3x3|3
+4 4044484<4@4H4`4p4t4
+5,5054585<5D5\5l5p5
+6,6064686<6D6\6l6p6
+7(787<7@7D7H7L7`7d7t7x7|7
+8(8,8084888@8X8h8l8|8
+9$9(989<9@9D9H9P9h9x9|9
+:$:(:8:<:@:D:H:P:h:x:|:
+;4;D;H;L;P;T;X;l;p;
+< <$<4<8<<<@<D<L<d<t<x<
+=$=4=8=H=L=P=T=X=`=x=
+>(>,>D>T>X>\>`>d>h>|>
+? ?0?4?D?H?L?P?T?\?t?
+0 00040D0H0P0h0x0|0
+1$1(1,10181P1`1d1t1x1|1
+2 282H2L2\2`2d2l2
+3 383H3L3`3d3t3x3|3
+4,40484P4`4d4t4x4|4
+5 5$5<5L5P5d5h5x5|5
+6 6(6@6D6\6l6p6x6
+7,707@7D7H7P7h7x7|7
+808@8D8X8\8l8p8t8|8
+909@9D9T9X9\9d9|9
+:$:(:8:<:@:H:`:p:t:
+; ;$;,;D;T;X;h;l;p;x;
+<$<(<@<P<T<h<l<|<
+=,=0=8=P=`=d=t=x=|=
+> >8>H>L>`>d>t>x>|>
+? ?0?4?<?T?d?h?x?|?
+0 080H0L0\0`0d0h0l0t0
+1 10141D1H1X1\1l1p1t1x1
+2$2<2@2X2h2l2|2
+3$3<3@3X3h3l3p3
+4(484<4L4P4T4\4t4
+5 5$54585<5D5\5l5p5
+6(6,6064686<6D6\6l6p6
+7 787H7L7\7l7p7
+8$8(8@8D8\8l8p8t8
+9094989<9@9T9d9h9x9
+:,:<:@:D:H:L:P:d:t:x:|:
+; ;0;4;<;@;D;H;P;T;X;\;`;h;l;p;t;x;
+<,<0<H<X<h<l<|<
+= =$=,=D=H=L=P=T=X=\=`=d=h=|=
+>(>8><>L>P>h>l>p>x>
+?,?0?H?L?T?l?|?
+04080<0@0D0H0\0`0p0t0|0
+1 1$1,10141<1@1D1H1P1h1l1
+:$:,:4:<:D:P:p:|:
+:(;H;T;t;
+<,<8<X<d<
+=(=0=8=@=H=P=\=|=
+>(>L>T>\>d>l>t>|>
+?$?,?4?<?D?P?t?|?
+0$0,040<0D0L0T0\0d0l0t0|0
+1$1,141<1H1h1p1|1
+2$2,242<2D2L2T2`2
+3,343<3H3h3x3
+4(4H4P4X4`4l4t4
+5$585H5T5t5
+646<6H6h6p6|6
+7 7@7H7P7\7d7
+8 8,848x8
+9(989D9d9p9
+:$:<:D:X:h:t:
+; ;8;@;T;d;p;x;
+<,<8<X<`<l<
+= =(=0=4=<=P=X=`=h=l=p=x=
+> >(>0>8><>@>H>\>d>p>
+0 0,0L0T0\0d0p0
+141<1D1L1X1x1
+2 2@2L2l2t2
+2(303p3x3
+484D4d4p4
+545<5H5h5p5x5
+6$6,646<6H6h6p6x6
+707<7`7
+8 8@8H8T8x8
+9(9L9X9`9x9
+:$:,:4:<:H:h:p:x:
+;0;<;`;
+<(<L<l<t<|<
+= =0=T=`=h=
+>,>8>@>X>d>
+040@0`0l0
+1$1,141<1D1P1p1x1
+2$20282P2\2
+3<3@3\3`3
+4$4D4L4X4x4
+585D5d5p5
+646<6D6P6p6|6
+787D7d7l7x7
+8 848<8H8l8
+9$9<9H9h9t9
+:8:@:L:l:x:
+;,;4;D;P;p;x;
+<8<D<d<p<
+=(=H=P=\=|=
+>$>,>4><>@>H>\>l>
+?$?,?4?<?@?H?\?d?l?x?
+0,040@0`0h0t0
+1 1,1L1X1x1
+2 2@2L2l2t2
+3 3$3,3@3H3P3X3\3d3x3
+4 4D4d4l4t4|4
+5$5D5P5p5|5
+6(606<6p6x6
+7$7(7,747H7P7\7
+848@8H8t8x8
+9(9H9P9T9p9
+:8:T:X:x:
+;8;X;t;x;
+<8<X<x<
+=8=X=x=
+> >@>`>
+? ?@?`?
+0$0,040D0P0X0
+101<1D1\1h1
+2$202h2
+3$383@3D3L3P3T3X3\3d3l3t3
+1$1,141<1(2,2024282<2@2D2H2L2X2\2`2d2h2l2p2t2x2
+3 303@3X3d3h3l3
+3 4$4`9
+9<9X9x9
+Akernel32.dll
+:Sun:Sunday:Mon:Monday:Tue:Tuesday:Wed:Wednesday:Thu:Thursday:Fri:Friday:Sat:Saturday
+:Jan:January:Feb:February:Mar:March:Apr:April:May:May:Jun:June:Jul:July:Aug:August:Sep:September:Oct:October:Nov:November:Dec:December
+:AM:am:PM:pm
+ERROR : Unable to initialize critical section in CAtlBaseModule
+combase.dll
+advapi32.dll
+Fadvapi32
+api-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+kernel32
+mscoree.dll
+minkernel\crts\ucrt\inc\corecrt_internal_strtox.h
+__crt_strtox::floating_point_value::as_double
+_is_double
+__crt_strtox::floating_point_value::as_float
+!_is_double
+(null)
+         (((((                  H
+      (                          
+         (((((                  H
+ELC_ALL
+LC_COLLATE
+LC_CTYPE
+LC_MONETARY
+LC_NUMERIC
+LC_TIME
+Fapi-ms-win-appmodel-runtime-l1-1-1
+api-ms-win-core-datetime-l1-1-1
+api-ms-win-core-file-l2-1-1
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-kernel32-package-current-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+user32
+UTF-16LEUNICODE
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+Gamerican
+american english
+american-english
+australian
+belgian
+canadian
+chinese
+chinese-hongkong
+chinese-simplified
+chinese-singapore
+chinese-traditional
+dutch-belgian
+english-american
+english-aus
+english-belize
+english-can
+english-caribbean
+english-ire
+english-jamaica
+english-nz
+english-south africa
+english-trinidad y tobago
+english-uk
+english-us
+english-usa
+french-belgian
+french-canadian
+french-luxembourg
+french-swiss
+german-austrian
+german-lichtenstein
+german-luxembourg
+german-swiss
+irish-english
+italian-swiss
+norwegian
+norwegian-bokmal
+norwegian-nynorsk
+portuguese-brazilian
+spanish-argentina
+spanish-bolivia
+spanish-chile
+spanish-colombia
+spanish-costa rica
+spanish-dominican republic
+spanish-ecuador
+spanish-el salvador
+spanish-guatemala
+spanish-honduras
+spanish-mexican
+spanish-modern
+spanish-nicaragua
+spanish-panama
+spanish-paraguay
+spanish-peru
+spanish-puerto rico
+spanish-uruguay
+spanish-venezuela
+swedish-finland
+america
+britain
+england
+great britain
+holland
+hong-kong
+new-zealand
+pr china
+pr-china
+puerto-rico
+slovak
+south africa
+south korea
+south-africa
+south-korea
+trinidad & tobago
+united-kingdom
+united-states
+CONOUT$
+zh-CHS
+az-AZ-Latn
+uz-UZ-Latn
+kok-IN
+syr-SY
+div-MV
+quz-BO
+sr-SP-Latn
+az-AZ-Cyrl
+uz-UZ-Cyrl
+quz-EC
+sr-SP-Cyrl
+quz-PE
+smj-NO
+bs-BA-Latn
+smj-SE
+sr-BA-Latn
+sma-NO
+sr-BA-Cyrl
+sma-SE
+sms-FI
+smn-FI
+zh-CHT
+az-az-cyrl
+az-az-latn
+bs-ba-latn
+div-mv
+kok-in
+quz-bo
+quz-ec
+quz-pe
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+syr-sy
+uz-uz-cyrl
+uz-uz-latn
+zh-chs
+zh-cht

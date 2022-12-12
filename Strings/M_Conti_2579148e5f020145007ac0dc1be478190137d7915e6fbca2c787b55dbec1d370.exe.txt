@@ -1,0 +1,509 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+.idata
+SUWQVh
+L$<+L$4
+T$DPRQV
+h{P/dV
+L$,_^][3
+D$0PWV
+bad allocation
+%d FPS
+De-Md1m_8kPB
+schtasks.exe
+COMCTL32.dll
+ExitProcess
+LoadLibraryExA
+FreeConsole
+KERNEL32.dll
+ShowWindow
+ReleaseDC
+DefWindowProcA
+PostQuitMessage
+KillTimer
+SendMessageA
+SetTimer
+MoveWindow
+GetSystemMetrics
+GetClientRect
+GetWindowRect
+EndDialog
+USER32.dll
+SelectObject
+CreateCompatibleDC
+CreateDIBSection
+StretchBlt
+DeleteObject
+DeleteDC
+GDI32.dll
+_CIsin
+_time64
+_wcslwr
+_snprintf
+__CxxFrameHandler3
+memcpy
+MSVCR90.dll
+_amsg_exit
+__getmainargs
+_cexit
+_XcptFilter
+__initenv
+_initterm
+_initterm_e
+_configthreadlocale
+__setusermatherr
+_adjust_fdiv
+__p__commode
+__p__fmode
+_encode_pointer
+__set_app_type
+_crt_debugger_hook
+?terminate@@YAXXZ
+_unlock
+__dllonexit
+_onexit
+_decode_pointer
+_except_handler4_common
+_invoke_watson
+_controlfp_s
+?_Lock@_Mutex@std@@QAEXXZ
+?_Unlock@_Mutex@std@@QAEXXZ
+?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV12@XZ
+?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEXXZ
+?uncaught_exception@std@@YA_NXZ
+?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QAEXH_N@Z
+?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHPBDH@Z
+?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHD@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@P6AAAV01@AAV01@@Z@Z
+?cout@std@@3V?$basic_ostream@DU?$char_traits@D@std@@@1@A
+?endl@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@1@AAV21@@Z
+MSVCP90.dll
+InterlockedExchange
+InterlockedCompareExchange
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+QueryPerformanceCounter
+GetTickCount
+GetCurrentThreadId
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type="win32" name="Microsoft.VC90.CRT" version="9.0.21022.8" processorArchitecture="x86" publicKeyToken="1fc8b3b9a1e18e3b"></assemblyIdentity>
+    </dependentAssembly>
+  </dependency>
+</assembly>
+YY!YlYYmnnpnYYYYYY
+fgYj+$$
+BjYYYYY_fgYjb$$6%6YYYYY_YZY[\
+Y,6YYYYY?QRYSSS9WB6YYYYY@QYYB9NNJB6YYYYY@@YYFGHHJB6YYYYY@@YY,$$BCBrYYYYY78YY9:;<=,6YYYYY
+1YYn3-$6%6YYYYY)*YYj+,--%/YYYYY
+YYY"#$%
+%"YYYYY
+Y!YYYY
+YYYYYj
+8YYYYYY8
+22XXXXXXX|
+22XXXXXXX||
+X22XXXXXXX||
+X22XXXXXXX||
+X22XXXXXXX||
+XXXXXXX
+XXXXX|
+|XXXXXX|
+XXXXX|
+|XXXXXX|
+|XXXXXX|
+22XXXXXXX||
+X22XXXXXXX||
+X22XXXXXXX||
+X22XXXXXXX||
+X22XXXXXXX|
+X2XX||XX|||
+gggggggg
+jFxl97%
+ee0p:G
+d1sl.5S=
+`^|^vZ
+BxM.0v
+>6b~i(
+W?etUl
+7FO@}G
+3@-d_BE
+{b)&|X
+taC ~V
+0=,C_u
+`r1}8q
+L7q7MFn
+F*C5b3
+>_-]Fc
+]l@1DcFC
+6J^5/|/
+|bM(W%
+as,Z2%$
+A@28Y:
+Yk8UIB
+OQR0'AN,`!
+M"*V87g
+S97Q{8
+)=eG-D1
+P8(w_1
+i<5u|A
+V{8ee3g-k
+L>)#K~A
+&-muGbl
+g=aJp_
+<g$e5w
+E74<R7^
+iW \d
+AV>F@a
+@,Bua%>
+r99;No@
+#',<u-
+<]*z i
+jAMy%
+~&(;!M
+8Fu*6L
+dIor4#
+pk]U:+
+?}x`1cn
+?aR7oN
+c)P[7mI
+P,9j=}
+`t=bEo
+k%)5+DQ\
+L@}Yk[
+#|0?5.
+J#_6Gr"
+:-r[iHx
+HI"\?n
+11B3eC
+SBy>.e}
+`F#o:dA
+,)_uQh
+0g9MU{\&3
+wjyeu
+'vMq9W
+d_UBvx
+ixb3ow
+3QR@.V
+>r-8!A
+w@1!(<
+3$o$9[(
+[&sq!Cu
+x6V#s2
+*XuCMN
+thh<Ha
+p`KzIm
+c\ek6U
+7~P@sb&
+Y#f?Nmy
+qaqa#w
+E.!]!*|
+S"9I#[
+d$k):]
+k!@j,*
+,zi-zH
+0>~3:!i
+/'{+X7&z
+-uKKD#J
+w[ESk,
+c6q-Hw
+{q]Zo
+*Z|lDG
+ZD[k)H
+0qdTG:
+'C:w.O
+q58>?E<s
+LMbn#;mZu
+U"lunY
+W_dz%w
+}u;%0[
+\OrtDC
+'ws@Xd
+Axh57i\
+>.7Kyr
+i0ukH>
+* 7BoM
+U]tEQ*
+H]0<\[
+oxM'&z
+6<yL:z
+L;eD7n)
+dM`h]+
+xv8NFU
+aL{?r&q
+\CzOz%h$
+$+oj,[
+eJm9L\
+jF^$r/
+txm~u]
+AJV5&
+xaW=[^
+ 'FUfe
+}G-17I
+D/0*_P
+B'^{r?
+Cs>Vhm
+MF$oR~
+VAF1tM
+A38w|V
+21G[ab
+/PlYs]
+[oUn,uj/
+:v!Ey2
+hZkSp
+C*LN;1
+y#Clxq
+U:RIYK
+m=LJe%
+fHA%XZ
+9/Epb6
+7S>|AUH
+6eG kB
+<I>+aq
+/#WyRV
+jM^F4v
+z+&]VK3GTG
+M$%N5l
+JFV^.BX
+8]'z+p$`s
+G,m7o?
+.]}~O[re
+[T@aTF!^
+ADDBW2
+W:2a"P
+0MtU0?
+u{/Uj-p
+M4vi$A
+aIEZ^k
+ c*5-V(
+}'i]Uw
+_#-CTw"
+np*w'4<
+K`snK,/
+oFD-"j
+VL+c"lpQ
+V^)M`;
+nq(TDNpDf
+cqXUU_}n
+}[3Lgp
+L&@;Aa
+</?g[*K
+janslE
+k,@@co
+Xb[9Hk
+n&0kb2
+!Wf-&~
+d+*F1
+y;V%T]dS
+g]P_R>
+0H|Z*b
+CCsw{E
+pu~o*A
+3:buC|
+Kk{pLce
+|9;8c\
+6$/<!;}
+F^cPBq`
+8r]=:IF
+5arpYG
+vuUsd`?9
+TH9J92j6
+61=FqwP
+UDBY~\\
+u)y)CxR
+#Me%MQ
+cKR6L
+>V02{2"
+ln~*C,q
+/[iu(#
+y>b"L:
+CQj{D!b
+'puwO
+~Tq'_I
+9Gs 4\|#A
+pm@QZq
+|9Z{`B
+1/gP*t
+F~Un"L
+0{X|`(
+.!G6$s
+Eda\M7
+3FKYy\
+1ys-ul
+Pi1P}'0!R:
+k,lpb]oi
+fX=2V8
+lh\/Qv
+mrKI,:
+R.6V7vx
+9#4u29
+9@~b+=
+Wz/_n3%
+zgpzBh
+":9Eg'
+)MllDF.J
+:\%O7yk
+44=IT[
+i_dYh^hn|
++}]R7j{B
+uw@%U4
+_{Dk.J
+*s"q|t]/GkC
+-|lJ^k[
+Sj18Qi
+H)fKmh
+wJ\oA7
+ou.s&;
+V|@mGw
+)[XD$
+}mh76S6S+
+UP"G5
+}#Bq8:
+)%Kq)C
+yiq$!C
+H:10^@
+6c=2v: E
+]e0'|!
+lBG >K
+- =e['
+2UR7wK
+><;>4;
+'?U&>4Y
+S:n.-?#ZK
+':1F&;M
+fcp.CK
+^nW6S..
+5=<l*9l
+iNTyU 
+h[ip>0L=}v
+GJr!SgYY
+ LAel^h
+Gc>B_r
+4zvC F
+E.{iJW
+",Cjuf
+)"5?^*
+vAT2uq&
+0Wnm?#
+|.gLT|
+3.@[]T
+c4%k1iD
+ o&a?#x
+$} *3E
+<_DkE5
+RbpV7
+u;zX0=
+l'lzO"
+./Ac:V
+wXMbolc
+V!qm!lC
+{D&6+(
+}(h-QYU
+\9P'&{
+xT7?tO
+2>rN/dVv"
+~fZ(cf
+r:2?M>?
+0lfY*"TV2!
+\)AZtThU
+{*{)d;(*
+r'y]-7*o
+H~;,-}
+&*E^YQ
+u:&fh<
+ -5r:
+2i1wlo[
+TnOuyJ
+/kSQv$
+NLdJpi
+X;=W|,
+9Z['Hz
+teLx";
+Q[EjNZ
+%g6,%R'
+ZWW@(B_
+^SDs3zIx
+b/;@v
+l`Idc5
+QO8j r:
+1Tv*&LP
+#6LdZg
+8D?Y.K
+wOs'<
+0,Ws%6
+n0^a->
+ZG8lbg
+*P2-tW;0
+*!Bg`%
+:^-P[Xr
+zl|5 N?Z
+'1ZDl!E
+zaNtvLx
+H{^5|u
+n2CDx%
+Z3nTxx
+%V/{Zo
+Ym.)r*
+5xaBm?'
+?*Y*,m
+5mWs5X5
+Kyd5l8%
+q27G LW
+,@tgv5;
+{15o;'
+Hs)V^D
+>$*-iLE
+b[m'c:D
+j!YS8>
+;Zivs'h
+;VZrl+[
+5{$3*.5Z!)
+*(S)dS
+5xUJg*
+Q1]2Z,M
+(=g5QT
+8'dlt?md
+oWS:it
+7*vg76h
+5@d7[$
+uK*?s(5
+r-Xh`w
+lmsXN7
+1p3%p"i2N
+@7uu`7
+Wgcj3t
+b78&-?
+QNmSzL
+EBLF+~)v
+$k'M|\
+ABOUTBOX
+WINFIRE
+WinFire
+MS Sans Serif
+Coded by:
+Eugene Ciloci
+Email:
+ciloci@sympatico.ca
+Original fire code by:
+Frank Jan Sorensen
+Alias: Frank Patxi
+(fjs@lab.jt.dk)
+A Fire Effect For Windows
+Please distribute freely!
+WinFire
+&About WinFire

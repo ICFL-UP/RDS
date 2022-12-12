@@ -1,0 +1,118 @@
+!This program cannot be run in DOS mode.
+`.data
+.idata
+@.reloc
+Press 'OK' to start decryption process!
+DoYouWantToHaveSexWithCoungDong
+DoYouWantToHaveSexWithCoungDong
+Your files decrypted, bye!
+AQLwH'
+.rdata
+.rdata$zzzdbg
+.text$mn
+.idata$5
+.00cfg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+GetCommandLineW
+CreateFileW
+DeleteFileW
+FindClose
+FindFirstFileW
+FindNextFileW
+GetDriveTypeW
+GetFileSizeEx
+GetLogicalDrives
+ReadFile
+SetEndOfFile
+SetFilePointerEx
+WriteFile
+CloseHandle
+CreateMutexA
+WaitForMultipleObjects
+ExitProcess
+CreateThread
+ExitThread
+SetProcessShutdownParameters
+GetSystemInfo
+lstrcmpW
+lstrcmpiW
+lstrcpyW
+lstrcatW
+lstrlenW
+OpenMutexA
+MoveFileExW
+HeapAlloc
+HeapFree
+GetProcessHeap
+InitializeCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+ReleaseSemaphore
+WaitForSingleObject
+CreateSemaphoreA
+KERNEL32.dll
+MessageBoxA
+MessageBoxW
+USER32.dll
+CommandLineToArgvW
+SHEmptyRecycleBinA
+SHELL32.dll
+NetShareEnum
+NetApiBufferFree
+NETAPI32.dll
+WNetGetConnectionW
+WNetOpenEnumW
+WNetEnumResourceW
+WNetCloseEnum
+MPR.dll
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+IsProcessorFeaturePresent
+1)1.1;1O1x1
+2!2.2;2g2Z3,464E4N4[4l4q4~4
+5!5(505=5Q5[5k5u5
+5H6R6b6
+7#7=7k7
+7/<N<s<
+;(;0;7;<;B;H;M;X;b;h;m;s;};
+> >'>.>6>>>F>R>[>`>f>p>z>
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0
+Windows
+Windows.old
+Tor Browser
+Internet Explorer
+Google
+Opera Software
+Mozilla
+Mozilla Firefox
+$Recycle.Bin
+ProgramData
+All Users
+autorun.inf
+boot.ini
+bootfont.bin
+bootsect.bak
+bootmgr
+bootmgr.efi
+bootmgfw.efi
+desktop.ini
+iconcache.db
+ntuser.dat
+ntuser.dat.log
+ntuser.ini
+thumbs.db
+ecdh_pub_k.bin
+Program Files
+Program Files (x86)
+Key broken!
+.babyk
+\How To Restore Your Files.txt
+ADMIN$
+gtestfile
+shares
+before

