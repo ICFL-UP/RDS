@@ -16,8 +16,8 @@ import gc
 
 
 def main():
-    TRAIN = True
-    DATA = False
+    TRAIN = False
+    DATA = True
     PREDICT = False
 
     data_filename = "12_Ransomware_Detection_using_Strings.csv"
@@ -47,7 +47,7 @@ def main():
         log.log("\n\nPreparing TESTING data ...")
         tt_bow = preprocessor.bagOfWords(X[1])[0]
         preDoc = preprocessor.doc2Vec([TaggedDocument(doc, [i]) for i, doc in enumerate(X[1])])
-        tt_doc2vec = [preDoc.infer_vector(x.split()) for x in X[2]]
+        tt_doc2vec = [preDoc.infer_vector(x.split()) for x in X[1]]
         tt_tfidf = preprocessor.TF_IDF(X[1])[0]
 
         # SAVE DATA
