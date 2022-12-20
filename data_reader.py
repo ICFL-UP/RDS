@@ -1,13 +1,16 @@
+import log
+
 import json
 import os
 import random
 from sklearn.model_selection import train_test_split
+import pandas as pd
 
 
 def createStats():
     benign_strings_compendium = []
     malicious_strings_compendium = []
-    filenames = [file for file in os.listdir('Data\\Strings\\') if file.endswith('.txt')]
+    filenames = [file for file in os.listdir('Strings\\') if file.endswith('.txt')]
     benign_most_strings = 0
     benign_least_strings = float('inf')
     benign_total_num_strings = 0
@@ -17,7 +20,7 @@ def createStats():
     num_benign_files = 0
     num_malicious_files = 0
     for x in filenames:
-        file = open("Data\\Strings\\" + x, 'r')
+        file = open("Strings\\" + x, 'r')
         lines = file.readlines()
         lines_length = len(lines)
         if x.startswith('B_'):
@@ -104,12 +107,12 @@ def createStats():
 def getStrings():
     benign_strings = {}
     malicious_strings = {}
-    benign_file_names = [f for f in os.listdir("Data\\Strings\\") if f.startswith('B_')]
-    malicious_file_names = [f for f in os.listdir("Data\\Strings\\") if f.startswith('M_')]
+    benign_file_names = [f for f in os.listdir("Strings\\") if f.startswith('B_')]
+    malicious_file_names = [f for f in os.listdir("Strings\\") if f.startswith('M_')]
     for x in benign_file_names:
         nested_dict = {}
         benign_strings[x] = nested_dict
-        file = open("Data\\Strings\\" + x, 'r')
+        file = open("Strings\\" + x, 'r')
         all_lines = file.readlines()
         for line in all_lines:
             cleaned_line = line.replace('\n', ' ')
@@ -122,7 +125,7 @@ def getStrings():
     for x in malicious_file_names:
         nested_dict = {}
         malicious_strings[x] = nested_dict
-        file = open("Data\\Strings\\" + x, 'r')
+        file = open("Strings\\" + x, 'r')
         all_lines = file.readlines()
         for line in all_lines:
             cleaned_line = line.replace('\n', ' ')
@@ -146,9 +149,7 @@ def writeStrings(split=False):
                 for i in range(len(strs)):
                     file.write(strs[i] + '\n')
             else:
-                split_file = open(
-                    "C:\\Users\\danee\\OneDrive\\Documents\\University\\Honours\\COS 700\\Year Project\\RDS\\Data\\Strings\\"
-                    + x.replace('.json', '') + '.txt', 'w')
+                split_file = open("Strings\\" + x.replace('.json', '') + '.txt', 'w')
                 for i in range(len(strs)):
                     split_file.write(strs[i] + '\n')
                 split_file.close()
@@ -162,12 +163,9 @@ def writeStrings(split=False):
 
 def getCorpus():
     corpus = []
-    filenames = os.listdir(
-        "C:\\Users\\danee\\OneDrive\\Documents\\University\\Honours\\COS 700\\Year Project\\RDS\\Data\\Strings\\")
+    filenames = os.listdir("Strings")
     for x in filenames:
-        file = open(
-            "C:\\Users\\danee\\OneDrive\\Documents\\University\\Honours\\COS 700\\Year Project\\RDS\Data\\Strings\\" + x,
-            'r')
+        file = open("Strings\\" + x,'r')
         document = ''
         for y in file.readlines():
             document += y.replace('\n', ' ')
@@ -176,17 +174,18 @@ def getCorpus():
 
 
 def getTrainTest(percent_test):
+    print("Reading Strings from files ...")
     benign_strings = []
     malicious_strings = []
-    benign_file_names = [f for f in os.listdir("Data\\Strings\\") if f.startswith('B_')]
-    malicious_file_names = [f for f in os.listdir("Data\\Strings\\") if f.startswith('M_')]
+    benign_file_names = [f for f in os.listdir("Strings") if f.startswith('B_')]
+    malicious_file_names = [f for f in os.listdir("Strings") if f.startswith('M_')]
     for x in benign_file_names:
-        file = open("Data\\Strings\\" + x, 'r')
+        file = open("Strings\\" + x, 'r')
         all_lines = file.readlines()
         benign_strings.append(' '.join(all_lines))
         file.close()
     for x in malicious_file_names:
-        file = open("Data\\Strings\\" + x, 'r')
+        file = open("Strings\\" + x, 'r')
         all_lines = file.readlines()
         malicious_strings.append(' '.join(all_lines))
         file.close()
@@ -199,3 +198,20 @@ def getTrainTest(percent_test):
 
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=percent_test)
     return (X_train, y_train), (X_test, y_test)
+
+
+def splitTrainTestVal(filename):
+    log.log("Reading data from CSV ...")
+    
+    df = pd.read_csv(filename, index_col="Unnamed: 0")
+    features = df["strings"]
+    labels = df["label"]
+    
+    x_train, x_test, y_train, y_test = train_test_split(features, labels, test_size=0.4, random_state=42, stratify=labels)
+    x_val, x_test, y_val, y_test = train_test_split(x_test, y_test, test_size=0.5, random_state=42, stratify=y_test)
+    log.log("Training: " + str(round(len(y_train) / len(labels), 2)))
+    log.log("Validation: " + str(round(len(y_val) / len(labels), 2)))
+    log.log("Testing: " + str(round(len(y_test) / len(labels), 2)))
+    
+    log.log("Done splitting data!")
+    return (x_train, x_test, x_val), (y_train, y_test, y_val)

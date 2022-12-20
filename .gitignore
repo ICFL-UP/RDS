@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 # My own things
-/Data/
+
 .idea
 /Tokens
 /plots/
