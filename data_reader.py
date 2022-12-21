@@ -5,7 +5,7 @@ import os
 import random
 from sklearn.model_selection import train_test_split
 import pandas as pd
-
+import preprocessor
 
 def createStats():
     benign_strings_compendium = []
@@ -202,16 +202,54 @@ def getTrainTest(percent_test):
 
 def splitTrainTestVal(filename):
     log.log("Reading data from CSV ...")
-    
+    prefix = filename[0:3]
     df = pd.read_csv(filename, index_col="Unnamed: 0")
     features = df["strings"]
     labels = df["label"]
+    from gensim.models.doc2vec import TaggedDocument
+    import joblib
+
+    bow = preprocessor.bagOfWords(df["strings"])[0]
+    preDoc = preprocessor.doc2Vec([TaggedDocument(doc, [i]) for i, doc in enumerate(df["strings"])])
+    doc2vec = [preDoc.infer_vector(x.split()) for x in df["strings"]]
+    tfidf = preprocessor.TF_IDF(df["strings"])[0]
+
+    print("BOW: ", bow.shape)
+    print("DOC2VEC: ", len(doc2vec))
+    print("TFIDF: ", tfidf.shape)
     
-    x_train, x_test, y_train, y_test = train_test_split(features, labels, test_size=0.4, random_state=42, stratify=labels)
-    x_val, x_test, y_val, y_test = train_test_split(x_test, y_test, test_size=0.5, random_state=42, stratify=y_test)
-    log.log("Training: " + str(round(len(y_train) / len(labels), 2)))
-    log.log("Validation: " + str(round(len(y_val) / len(labels), 2)))
-    log.log("Testing: " + str(round(len(y_test) / len(labels), 2)))
-    
+    t_bow, test, t_bow_l, lab = train_test_split(bow, labels, test_size=0.4, random_state=42, stratify=labels)
+    v_bow, tt_bow, v_bow_l, tt_bow_l = train_test_split(test, lab, test_size=0.5, random_state=42, stratify=lab)
+
+    t_doc2vec, test, t_doc2vec_l, lab = train_test_split(doc2vec, labels, test_size=0.4, random_state=42, stratify=labels)
+    v_doc2vec, tt_doc2vec, v_doc2vec_l, tt_doc2vec_l = train_test_split(test, lab, test_size=0.5, random_state=42, stratify=lab)
+
+    t_tfidf, test, t_tfidf_l, lab = train_test_split(tfidf, labels, test_size=0.4, random_state=42, stratify=labels)
+    v_tfidf, tt_tfidf, v_tfidf_l, tt_tfidf_l = train_test_split(test, lab, test_size=0.5, random_state=42, stratify=lab)
+
+
+    log.log("\n\nSaving Data ...\n\n")
+    joblib.dump(t_bow, "DATA\\Train\\"+prefix+"bow_features.pkl")
+    joblib.dump(t_bow_l, "DATA\\Train\\"+prefix+"bow_labels.pkl")
+    joblib.dump(t_doc2vec, "DATA\\Train\\"+prefix+"doc2vec_features.pkl")
+    joblib.dump(t_doc2vec_l, "DATA\\Train\\"+prefix+"doc2vec_labels.pkl")
+    joblib.dump(t_tfidf, "DATA\\Train\\"+prefix+"tfidf_features.pkl")
+    joblib.dump(t_tfidf_l, "DATA\\Train\\"+prefix+"tfidf_labels.pkl")
+
+    joblib.dump(v_bow, "DATA\\Val\\"+prefix+"bow_features.pkl")
+    joblib.dump(v_bow_l, "DATA\\Val\\"+prefix+"bow_labels.pkl")
+    joblib.dump(v_doc2vec, "DATA\\Val\\"+prefix+"doc2vec_features.pkl")
+    joblib.dump(v_doc2vec_l, "DATA\\Val\\"+prefix+"doc2vec_labels.pkl")
+    joblib.dump(v_tfidf, "DATA\\Val\\"+prefix+"tfidf_features.pkl")
+    joblib.dump(v_tfidf_l, "DATA\\Val\\"+prefix+"tfidf_labels.pkl")
+
+
+    joblib.dump(tt_bow, "DATA\\Test\\"+prefix+"bow_features.pkl")
+    joblib.dump(tt_bow_l, "DATA\\Test\\"+prefix+"bow_labels.pkl")
+    joblib.dump(tt_doc2vec, "DATA\\Test\\"+prefix+"doc2vec_features.pkl")
+    joblib.dump(tt_doc2vec_l, "DATA\\Test\\"+prefix+"doc2vec_labels.pkl")
+    joblib.dump(tt_tfidf, "DATA\\Test\\"+prefix+"tfidf_features.pkl")
+    joblib.dump(tt_tfidf_l, "DATA\\Test\\"+prefix+"tfidf_labels.pkl")
+
     log.log("Done splitting data!")
-    return (x_train, x_test, x_val), (y_train, y_test, y_val)
+    # return (x_train, x_test, x_val), (y_train, y_test, y_val)

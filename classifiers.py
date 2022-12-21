@@ -2,7 +2,7 @@ import log
 
 import os
 import time
-
+import numpy as np
 from sklearn.svm import SVC
 from joblib import parallel_backend 
 import joblib
@@ -25,19 +25,19 @@ def evaluate_model(name, model, features, labels):
     pred = model.predict(features)
     end = time.time()
     accuracy = round(accuracy_score(labels, pred), 4)
-    precision = round(precision_score(labels, pred), 4)
-    recall = round(recall_score(labels, pred), 4)
-    f1 = round(f1_score(labels, pred), 4)
+    precision = round(precision_score(labels, pred, pos_label='B'), 4)
+    recall = round(recall_score(labels, pred, pos_label='B'), 4)
+    f1 = round(f1_score(labels, pred, pos_label='B'), 4)
     auc = round(roc_auc_score(labels, model.predict_proba(features)[:, 1]), 4)
     logloss = round(log_loss(labels, model.predict_proba(features)), 4)
-    print('{} -- Accuracy: {} /  F1-Score: {} / Precision: {} / Recall: {} / AUC: {} / LogLoss: {} #Num: {} / Latency: {}ms'.format(name,
+    print('{} -- Accuracy: {} / F1-Score: {} / Precision: {} / Recall: {} / AUC: {} / LogLoss: {} #Num: {} / Latency: {}ms'.format(name,
                                                                                    accuracy,
                                                                                    f1,
                                                                                    precision,
                                                                                    recall,
                                                                                    auc,
                                                                                    logloss,
-                                                                                   len(features),
+                                                                                   len(pred),
                                                                                    round((end - start)*1000, 4)))
 
 

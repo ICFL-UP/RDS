@@ -17,8 +17,8 @@ import gc
 
 def main():
     TRAIN = False
-    DATA = True
-    PREDICT = False
+    DATA = False
+    PREDICT = True
 
     data_filename = "12_Ransomware_Detection_using_Strings.csv"
     prefix = "12_"
@@ -27,54 +27,8 @@ def main():
 
     if DATA:
         log.log("Preparing data splitting ...")
-        X, Y = data_reader.splitTrainTestVal(data_filename) 
-        
-        # Training Data
-        log.log("\n\nPreparing TRAINING data ...")
-        t_bow = preprocessor.bagOfWords(X[0])[0]
-        preDoc = preprocessor.doc2Vec([TaggedDocument(doc, [i]) for i, doc in enumerate(X[0])])
-        t_doc2vec = [preDoc.infer_vector(x.split()) for x in X[0]]
-        t_tfidf = preprocessor.TF_IDF(X[0])[0]
+        data_reader.splitTrainTestVal(data_filename) 
 
-        # Validation Data
-        log.log("\n\nPreparing VALIDATION data ...")
-        v_bow = preprocessor.bagOfWords(X[2])[0]
-        preDoc = preprocessor.doc2Vec([TaggedDocument(doc, [i]) for i, doc in enumerate(X[2])])
-        v_doc2vec = [preDoc.infer_vector(x.split()) for x in X[2]]
-        v_tfidf = preprocessor.TF_IDF(X[2])[0]
-
-        # Testing Data
-        log.log("\n\nPreparing TESTING data ...")
-        tt_bow = preprocessor.bagOfWords(X[1])[0]
-        preDoc = preprocessor.doc2Vec([TaggedDocument(doc, [i]) for i, doc in enumerate(X[1])])
-        tt_doc2vec = [preDoc.infer_vector(x.split()) for x in X[1]]
-        tt_tfidf = preprocessor.TF_IDF(X[1])[0]
-
-        # SAVE DATA
-        # Using joblib which is similar to pickle to save data for efficiency
-        log.log("\n\nSaving Data ...\n\n")
-        joblib.dump(t_bow, "DATA\\Train\\"+prefix+"bow_features.pkl")
-        joblib.dump(np.array(Y[0]), "DATA\\Train\\"+prefix+"bow_labels.pkl")
-        joblib.dump(t_doc2vec, "DATA\\Train\\"+prefix+"doc2vec_features.pkl")
-        joblib.dump(np.array(Y[0]), "DATA\\Train\\"+prefix+"doc2vec_labels.pkl")
-        joblib.dump(t_tfidf, "DATA\\Train\\"+prefix+"tfidf_features.pkl")
-        joblib.dump(np.array(Y[0]), "DATA\\Train\\"+prefix+"tfidf_labels.pkl")
-
-        joblib.dump(v_bow, "DATA\\Val\\"+prefix+"bow_features.pkl")
-        joblib.dump(np.array(Y[2]), "DATA\\Val\\"+prefix+"bow_labels.pkl")
-        joblib.dump(v_doc2vec, "DATA\\Val\\"+prefix+"doc2vec_features.pkl")
-        joblib.dump(np.array(Y[2]), "DATA\\Val\\"+prefix+"doc2vec_labels.pkl")
-        joblib.dump(v_tfidf, "DATA\\Val\\"+prefix+"tfidf_features.pkl")
-        joblib.dump(np.array(Y[2]), "DATA\\Val\\"+prefix+"tfidf_labels.pkl")
-
-
-        joblib.dump(tt_bow, "DATA\\Test\\"+prefix+"bow_features.pkl")
-        joblib.dump(np.array(Y[1]), "DATA\\Test\\"+prefix+"bow_labels.pkl")
-        joblib.dump(tt_doc2vec, "DATA\\Test\\"+prefix+"doc2vec_features.pkl")
-        joblib.dump(np.array(Y[1]), "DATA\\Test\\"+prefix+"doc2vec_labels.pkl")
-        joblib.dump(tt_tfidf, "DATA\\Test\\"+prefix+"tfidf_features.pkl")
-        joblib.dump(np.array(Y[1]), "DATA\\Test\\"+prefix+"tfidf_labels.pkl")
-        
 
     log.log("Loading data ..")
     X = {
