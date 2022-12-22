@@ -253,3 +253,12 @@ def splitTrainTestVal(filename):
 
     log.log("Done splitting data!")
     # return (x_train, x_test, x_val), (y_train, y_test, y_val)
+
+
+def stats(data, labels):
+    d = {
+        'len': data.shape[0],
+        'features': data.shape[1],
+        'count': labels.value_counts()
+    }
+    return d

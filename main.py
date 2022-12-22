@@ -16,12 +16,12 @@ import gc
 
 
 def main():
-    TRAIN = True
+    TRAIN = False
     DATA = False
     PREDICT = False
 
-    data_filename = "12_Ransomware_Detection_using_Strings.csv"
-    prefix = "12_"
+    data_filename = "14_Ransomware_Detection_using_Strings.csv"
+    prefix = "14_"
 
     print(datetime.now())
 
@@ -66,16 +66,33 @@ def main():
         }
     }
 
+    data = pd.read_csv(data_filename)
+    log.log("Dataset stats - Category: " + str(data["category"].value_counts()))
+    log.log("Dataset stats - Label: " + str(data["label"].value_counts()))
+    log.log("Dataset stats - shape: " + str(data.shape))
+    
+    log.log("Train BOW" + str(data_reader.stats(X["TRAIN"]["BOW"], Y["TRAIN"]["BOW"])))
+    log.log("Train DOC2VEC" + str(data_reader.stats(np.array(X["TRAIN"]["DOC2VEC"]), Y["TRAIN"]["DOC2VEC"])))
+    log.log("Train TFIDF" + str(data_reader.stats(X["TRAIN"]["TFIDF"], Y["TRAIN"]["TFIDF"])))
+    
+    log.log("VAL BOW" + str(data_reader.stats(X["VAL"]["BOW"], Y["VAL"]["BOW"])))
+    log.log("VAL DOC2VEC" + str(data_reader.stats(np.array(X["VAL"]["DOC2VEC"]), Y["VAL"]["DOC2VEC"])))
+    log.log("VAL TFIDF" + str(data_reader.stats(X["VAL"]["TFIDF"], Y["VAL"]["TFIDF"])))
+    
+    log.log("TEST BOW" + str(data_reader.stats(X["TEST"]["BOW"], Y["TEST"]["BOW"])))
+    log.log("TEST DOC2VEC" + str(data_reader.stats(np.array(X["TEST"]["DOC2VEC"]), Y["TEST"]["DOC2VEC"])))
+    log.log("TEST TFIDF" + str(data_reader.stats(X["TEST"]["TFIDF"], Y["TEST"]["TFIDF"])))
+ 
     if TRAIN:
         # Classifier Training
         log.log("\n\nTraining Classifiers ...")
-        # try:
-            # classifiers.randomForrest(X["TRAIN"]["BOW"], Y["TRAIN"]["BOW"], "BOW")
-            # classifiers.randomForrest(X["TRAIN"]["DOC2VEC"], Y["TRAIN"]["DOC2VEC"], "Doc2Vec")
-            # classifiers.randomForrest(X["TRAIN"]["TFIDF"], Y["TRAIN"]["TFIDF"], "TFIDF")
-        # except:
-            # log.log("\n\n\n\n\nERROR in training of RF\n\n\n\n")
-        # 
+        try:
+            classifiers.randomForrest(X["TRAIN"]["BOW"], Y["TRAIN"]["BOW"], "BOW")
+            classifiers.randomForrest(X["TRAIN"]["DOC2VEC"], Y["TRAIN"]["DOC2VEC"], "Doc2Vec")
+            classifiers.randomForrest(X["TRAIN"]["TFIDF"], Y["TRAIN"]["TFIDF"], "TFIDF")
+        except:
+            log.log("\n\n\n\n\nERROR in training of RF\n\n\n\n")
+        
 
         try:
             classifiers.adaBoost(X["TRAIN"]["BOW"], Y["TRAIN"]["BOW"], "BOW")
