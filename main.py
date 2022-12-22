@@ -16,7 +16,7 @@ import gc
 
 
 def main():
-    TRAIN = False
+    TRAIN = True
     DATA = False
     PREDICT = False
 
