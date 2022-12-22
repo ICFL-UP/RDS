@@ -13,14 +13,14 @@ import pandas as pd
 from datetime import datetime
 import numpy as np
 import gc
-
+import traceback
 
 def main():
     TRAIN = True
     DATA = False
     PREDICT = False
 
-    data_filename = "14_Ransomware_Detection_using_Strings.csv"
+    data_filename = "14_Ransomware_Detection_Using_Strings.csv"
     prefix = "14_"
 
     print(datetime.now())
@@ -33,36 +33,36 @@ def main():
     log.log("Loading data ..")
     X = {
         "TRAIN": {
-            "BOW": joblib.load("DATA\\Train\\"+prefix+"bow_features.pkl"),
-            "DOC2VEC": joblib.load("DATA\\Train\\"+prefix+"doc2vec_features.pkl"),
-            "TFIDF": joblib.load("DATA\\Train\\"+prefix+"tfidf_features.pkl")
+            "BOW": joblib.load("DATA/Train/"+prefix+"bow_features.pkl"),
+            "DOC2VEC": joblib.load("DATA/Train/"+prefix+"doc2vec_features.pkl"),
+            "TFIDF": joblib.load("DATA/Train/"+prefix+"tfidf_features.pkl")
         },
         "VAL": {
-            "BOW": joblib.load("DATA\\Val\\"+prefix+"bow_features.pkl"),
-            "DOC2VEC": joblib.load("DATA\\Val\\"+prefix+"doc2vec_features.pkl"),
-            "TFIDF": joblib.load("DATA\\Val\\"+prefix+"tfidf_features.pkl")
+            "BOW": joblib.load("DATA/Val/"+prefix+"bow_features.pkl"),
+            "DOC2VEC": joblib.load("DATA/Val/"+prefix+"doc2vec_features.pkl"),
+            "TFIDF": joblib.load("DATA/Val/"+prefix+"tfidf_features.pkl")
         },
         "TEST": {
-            "BOW": joblib.load("DATA\\Test\\"+prefix+"bow_features.pkl"),
-            "DOC2VEC": joblib.load("DATA\\Test\\"+prefix+"doc2vec_features.pkl"),
-            "TFIDF": joblib.load("DATA\\Test\\"+prefix+"tfidf_features.pkl")
+            "BOW": joblib.load("DATA/Test/"+prefix+"bow_features.pkl"),
+            "DOC2VEC": joblib.load("DATA/Test/"+prefix+"doc2vec_features.pkl"),
+            "TFIDF": joblib.load("DATA/Test/"+prefix+"tfidf_features.pkl")
         }
     }
     Y = {
         "TRAIN": {
-            "BOW": joblib.load("DATA\\Train\\"+prefix+"bow_labels.pkl"),
-            "DOC2VEC": joblib.load("DATA\\Train\\"+prefix+"doc2vec_labels.pkl"),
-            "TFIDF": joblib.load("DATA\\Train\\"+prefix+"tfidf_labels.pkl"),
+            "BOW": joblib.load("DATA/Train/"+prefix+"bow_labels.pkl"),
+            "DOC2VEC": joblib.load("DATA/Train/"+prefix+"doc2vec_labels.pkl"),
+            "TFIDF": joblib.load("DATA/Train/"+prefix+"tfidf_labels.pkl"),
         },
         "VAL": {
-            "BOW": joblib.load("DATA\\Val\\"+prefix+"bow_labels.pkl"),
-            "DOC2VEC": joblib.load("DATA\\Val\\"+prefix+"doc2vec_labels.pkl"),
-            "TFIDF": joblib.load("DATA\\Val\\"+prefix+"tfidf_labels.pkl"),
+            "BOW": joblib.load("DATA/Val/"+prefix+"bow_labels.pkl"),
+            "DOC2VEC": joblib.load("DATA/Val/"+prefix+"doc2vec_labels.pkl"),
+            "TFIDF": joblib.load("DATA/Val/"+prefix+"tfidf_labels.pkl"),
         },
         "TEST": {
-            "BOW": joblib.load("DATA\\Test\\"+prefix+"bow_labels.pkl"),
-            "DOC2VEC": joblib.load("DATA\\Test\\"+prefix+"doc2vec_labels.pkl"),
-            "TFIDF": joblib.load("DATA\\Test\\"+prefix+"tfidf_labels.pkl"),
+            "BOW": joblib.load("DATA/Test/"+prefix+"bow_labels.pkl"),
+            "DOC2VEC": joblib.load("DATA/Test/"+prefix+"doc2vec_labels.pkl"),
+            "TFIDF": joblib.load("DATA/Test/"+prefix+"tfidf_labels.pkl"),
         }
     }
 
@@ -91,6 +91,7 @@ def main():
             classifiers.randomForrest(X["TRAIN"]["DOC2VEC"], Y["TRAIN"]["DOC2VEC"], "Doc2Vec")
             classifiers.randomForrest(X["TRAIN"]["TFIDF"], Y["TRAIN"]["TFIDF"], "TFIDF")
         except:
+            print(traceback.print_exc())
             log.log("\n\n\n\n\nERROR in training of RF\n\n\n\n")
         
 
@@ -99,7 +100,8 @@ def main():
             classifiers.adaBoost(X["TRAIN"]["DOC2VEC"], Y["TRAIN"]["DOC2VEC"], "Doc2Vec")
             classifiers.adaBoost(X["TRAIN"]["TFIDF"], Y["TRAIN"]["TFIDF"], "TFIDF")
         except:
-            log.log("\n\n\n\n\nERROR in training of AB\n\n\n\n")
+             print(traceback.print_exc())
+             log.log("\n\n\n\n\nERROR in training of AB\n\n\n\n")
             
 
         try:
@@ -107,6 +109,7 @@ def main():
             classifiers.svm(X["TRAIN"]["DOC2VEC"], Y["TRAIN"]["DOC2VEC"], "Doc2Vec")
             classifiers.svm(X["TRAIN"]["TFIDF"], Y["TRAIN"]["TFIDF"], "TFIDF")
         except:
+            print(traceback.print_exec())
             log.log("\n\n\n\n\nERROR in training of SVM\n\n\n\n")
         
 
@@ -115,6 +118,7 @@ def main():
             classifiers.knn(X["TRAIN"]["DOC2VEC"], Y["TRAIN"]["DOC2VEC"], "Doc2Vec")
             classifiers.knn(X["TRAIN"]["TFIDF"], Y["TRAIN"]["TFIDF"], "TFIDF")
         except:
+            print(traceback.print_exc())
             log.log("\n\n\n\n\nERROR in training of KNN\n\n\n\n")
         
 
@@ -123,6 +127,7 @@ def main():
             classifiers.decisionTree(X["TRAIN"]["DOC2VEC"], Y["TRAIN"]["DOC2VEC"], "Doc2Vec")
             classifiers.decisionTree(X["TRAIN"]["TFIDF"], Y["TRAIN"]["TFIDF"], "TFIDF")
         except:
+            print(traceback.print_exc())   
             log.log("\n\n\n\n\nERROR in training of DT\n\n\n\n")
         
 
