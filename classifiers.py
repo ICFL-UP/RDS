@@ -87,7 +87,7 @@ def svm(train_data, correct_class, nlp):
         param = {
             'kernel': ['linear', 'rbg', 'sigmoid'],
             'C': [0.1, 1, 10],
-            'probability': 'true'
+            'probability': [True]
         }
 
         cv = GridSearchCV(classifier, param, cv=5)

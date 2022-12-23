@@ -109,7 +109,7 @@ def main():
             classifiers.svm(X["TRAIN"]["DOC2VEC"], Y["TRAIN"]["DOC2VEC"], "Doc2Vec")
             classifiers.svm(X["TRAIN"]["TFIDF"], Y["TRAIN"]["TFIDF"], "TFIDF")
         except:
-            print(traceback.print_exec())
+            print(traceback.print_exc())
             log.log("\n\n\n\n\nERROR in training of SVM\n\n\n\n")
         
 
