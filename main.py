@@ -16,9 +16,9 @@ import gc
 import traceback
 
 def main():
-    TRAIN = True
+    TRAIN = False
     DATA = False
-    PREDICT = False
+    PREDICT = True
 
     data_filename = "14_Ransomware_Detection_Using_Strings.csv"
     prefix = "14_"
@@ -66,22 +66,22 @@ def main():
         }
     }
 
-    data = pd.read_csv(data_filename)
-    log.log("Dataset stats - Category: " + str(data["category"].value_counts()))
-    log.log("Dataset stats - Label: " + str(data["label"].value_counts()))
-    log.log("Dataset stats - shape: " + str(data.shape))
+    # data = pd.read_csv(data_filename)
+    # log.log("Dataset stats - Category: " + str(data["category"].value_counts()))
+    # log.log("Dataset stats - Label: " + str(data["label"].value_counts()))
+    # log.log("Dataset stats - shape: " + str(data.shape))
     
-    log.log("Train BOW" + str(data_reader.stats(X["TRAIN"]["BOW"], Y["TRAIN"]["BOW"])))
-    log.log("Train DOC2VEC" + str(data_reader.stats(np.array(X["TRAIN"]["DOC2VEC"]), Y["TRAIN"]["DOC2VEC"])))
-    log.log("Train TFIDF" + str(data_reader.stats(X["TRAIN"]["TFIDF"], Y["TRAIN"]["TFIDF"])))
+    # log.log("Train BOW" + str(data_reader.stats(X["TRAIN"]["BOW"], Y["TRAIN"]["BOW"])))
+    # log.log("Train DOC2VEC" + str(data_reader.stats(np.array(X["TRAIN"]["DOC2VEC"]), Y["TRAIN"]["DOC2VEC"])))
+    # log.log("Train TFIDF" + str(data_reader.stats(X["TRAIN"]["TFIDF"], Y["TRAIN"]["TFIDF"])))
     
-    log.log("VAL BOW" + str(data_reader.stats(X["VAL"]["BOW"], Y["VAL"]["BOW"])))
-    log.log("VAL DOC2VEC" + str(data_reader.stats(np.array(X["VAL"]["DOC2VEC"]), Y["VAL"]["DOC2VEC"])))
-    log.log("VAL TFIDF" + str(data_reader.stats(X["VAL"]["TFIDF"], Y["VAL"]["TFIDF"])))
+    # log.log("VAL BOW" + str(data_reader.stats(X["VAL"]["BOW"], Y["VAL"]["BOW"])))
+    # log.log("VAL DOC2VEC" + str(data_reader.stats(np.array(X["VAL"]["DOC2VEC"]), Y["VAL"]["DOC2VEC"])))
+    # log.log("VAL TFIDF" + str(data_reader.stats(X["VAL"]["TFIDF"], Y["VAL"]["TFIDF"])))
     
-    log.log("TEST BOW" + str(data_reader.stats(X["TEST"]["BOW"], Y["TEST"]["BOW"])))
-    log.log("TEST DOC2VEC" + str(data_reader.stats(np.array(X["TEST"]["DOC2VEC"]), Y["TEST"]["DOC2VEC"])))
-    log.log("TEST TFIDF" + str(data_reader.stats(X["TEST"]["TFIDF"], Y["TEST"]["TFIDF"])))
+    # log.log("TEST BOW" + str(data_reader.stats(X["TEST"]["BOW"], Y["TEST"]["BOW"])))
+    # log.log("TEST DOC2VEC" + str(data_reader.stats(np.array(X["TEST"]["DOC2VEC"]), Y["TEST"]["DOC2VEC"])))
+    # log.log("TEST TFIDF" + str(data_reader.stats(X["TEST"]["TFIDF"], Y["TEST"]["TFIDF"])))
  
     if TRAIN:
         # Classifier Training
@@ -100,8 +100,8 @@ def main():
             classifiers.adaBoost(X["TRAIN"]["DOC2VEC"], Y["TRAIN"]["DOC2VEC"], "Doc2Vec")
             classifiers.adaBoost(X["TRAIN"]["TFIDF"], Y["TRAIN"]["TFIDF"], "TFIDF")
         except:
-             print(traceback.print_exc())
-             log.log("\n\n\n\n\nERROR in training of AB\n\n\n\n")
+            print(traceback.print_exc())
+            log.log("\n\n\n\n\nERROR in training of AB\n\n\n\n")
             
 
         try:
@@ -137,8 +137,8 @@ def main():
         # Predict
         log.log("\n\nPREDICTING ...\n\n")
         models = {}
-        for mdl in ['RF']:#, 'AB', 'SVM', 'KNN', 'DT']:
-            for nlp in ['BOW', 'DOC2VEC', 'TFIDF']:
+        for mdl in ['KNN']:#, 'DT', 'RF', 'AB', 'SVM', 'KNN']:
+            for nlp in ['BOW', 'TFIDF', 'DOC2VEC']:
                 models[mdl+"_"+nlp] = joblib.load('Models/{}_{}_model.pkl'.format(mdl, nlp))
                 classifiers.evaluate_model(mdl+"_"+nlp, models[mdl+"_"+nlp], X["VAL"][nlp], Y["VAL"][nlp])
 

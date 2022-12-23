@@ -10,7 +10,7 @@ from sklearn.ensemble import AdaBoostClassifier, RandomForestClassifier
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import GridSearchCV, cross_validate
-from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, roc_auc_score, log_loss,  mean_squared_error
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, roc_auc_score, log_loss,  confusion_matrix
 
 def print_results(results, classifier):
     means = results.cv_results_['mean_test_score']
@@ -25,20 +25,21 @@ def evaluate_model(name, model, features, labels):
     pred = model.predict(features)
     end = time.time()
     accuracy = round(accuracy_score(labels, pred), 4)
-    precision = round(precision_score(labels, pred, pos_label='B'), 4)
-    recall = round(recall_score(labels, pred, pos_label='B'), 4)
-    f1 = round(f1_score(labels, pred, pos_label='B'), 4)
+    precision = round(precision_score(labels, pred, pos_label='M'), 4)
+    recall = round(recall_score(labels, pred, pos_label='M'), 4)
+    f1 = round(f1_score(labels, pred, pos_label='M'), 4)
     auc = round(roc_auc_score(labels, model.predict_proba(features)[:, 1]), 4)
     logloss = round(log_loss(labels, model.predict_proba(features)), 4)
-    print('{} -- Accuracy: {} / F1-Score: {} / Precision: {} / Recall: {} / AUC: {} / LogLoss: {} #Num: {} / Latency: {}ms'.format(name,
-                                                                                   accuracy,
-                                                                                   f1,
-                                                                                   precision,
-                                                                                   recall,
-                                                                                   auc,
-                                                                                   logloss,
-                                                                                   len(pred),
-                                                                                   round((end - start)*1000, 4)))
+
+    cm = confusion_matrix(labels, pred)
+    FP = cm.sum(axis=0) - np.diag(cm)  
+    FN = cm.sum(axis=1) - np.diag(cm)
+    TP = np.diag(cm)
+    TN = cm.sum() - (FP + FN + TP)
+    lat = round((end - start)*1000, 4)
+    log.log('\n\n{} -- TP: {} / TN: {} / FP: {} / FN: {} / Recall: {} / Precision: {} / F1-Score: {} / Accuracy: {}  / AUC: {} / LogLoss: {} / Latency: {}ms / Num: {}'.format(
+        name, TP[0], TN[0], FP[0], FN[0], recall, precision, f1, accuracy, auc, logloss, lat, len(pred)))
+    log.log("{} & {} & {} & {} & {} & {} & {} \n{} & {} & {} & {} & {}".format(TP[0], TN[0], FP[0], FN[0], recall, precision, f1, accuracy, auc, logloss, lat, round(lat/len(pred),4)))
 
 
 def randomForrest(train_data, correct_class, nlp):
@@ -85,7 +86,8 @@ def svm(train_data, correct_class, nlp):
         classifier = SVC()  
         param = {
             'kernel': ['linear', 'rbg', 'sigmoid'],
-            'C': [0.1, 1, 10]
+            'C': [0.1, 1, 10],
+            'probability': 'true'
         }
 
         cv = GridSearchCV(classifier, param, cv=5)
