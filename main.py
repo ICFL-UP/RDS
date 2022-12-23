@@ -21,7 +21,7 @@ def main():
     PREDICT = False
 
     data_filename = "B14_Ransomware_Detection_Using_Strings.csv"
-    prefix = "B14_"
+    prefix = data_filename[0:3]
 
     print(datetime.now())
     # df = pd.read_csv(data_filename)
