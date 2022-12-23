@@ -16,14 +16,15 @@ import gc
 import traceback
 
 def main():
-    TRAIN = True
-    DATA = True
-    PREDICT = False
+    TRAIN = False
+    DATA = False
+    PREDICT = True
 
     data_filename = "B14_Ransomware_Detection_Using_Strings.csv"
     prefix = data_filename[0:3]
 
     print(datetime.now())
+    # # Balance Dataset
     # df = pd.read_csv(data_filename)
     # df = df.groupby('label')
     # df = df.apply(lambda x: x.sample(df.size().min()).reset_index(drop=True))
@@ -147,7 +148,7 @@ def main():
         for mdl in ['DT', 'RF', 'AB', 'SVM', 'KNN']:
             for nlp in ['BOW', 'TFIDF', 'DOC2VEC']:
                 models[mdl+"_"+nlp] = joblib.load('Models/{}_{}_model.pkl'.format(mdl, nlp))
-                # classifiers.evaluate_model(mdl+"_"+nlp, models[mdl+"_"+nlp], X["VAL"][nlp], Y["VAL"][nlp])
+                classifiers.evaluate_model(mdl+"_"+nlp, models[mdl+"_"+nlp], X["VAL"][nlp], Y["VAL"][nlp])
 
         ##ROC Curve
         # for nlp in ['BOW', 'TFIDF', 'DOC2VEC']:
