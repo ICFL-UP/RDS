@@ -1,0 +1,19 @@
+{
+    "workbench.colorCustomizations": {
+        "terminal.tab.activeBorder": "#841616",
+        "terminalCommandDecoration.errorBackground": "#ff0000",
+        "terminalCommandDecoration.successBackground": "#00ff04",
+        "terminal.background": "#000000",
+        "activityBar.background": "#57034E",
+        "titleBar.activeBackground": "#7A046D",
+        "titleBar.activeForeground": "#FFF9FE",
+        "titleBar.inactiveBackground": "#57034E",
+        "titleBar.inactiveForeground": "#FFF9FE",
+        "statusBar.background": "#57034E",
+        "statusBar.foreground": "#FFF9FE",
+        "statusBar.debuggingBackground": "#57034E",
+        "statusBar.debuggingForeground": "#FFF9FE",
+        "statusBar.noFolderBackground": "#57034E",
+        "statusBar.noFolderForeground": "#FFF9FE"
+    }
+}

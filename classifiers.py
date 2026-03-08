@@ -24,10 +24,14 @@ def evaluate_model(name, model, features, labels):
     start = time.time()
     pred = model.predict(features)
     end = time.time()
+    if labels is None:
+        return
+    if labels.iloc(0) == 'B' or labels.iloc(0) == 'M':
+        labels = [0 if label == 'B' else 1 for label in labels]
     accuracy = round(accuracy_score(labels, pred), 4)
-    precision = round(precision_score(labels, pred, pos_label='M'), 4)
-    recall = round(recall_score(labels, pred, pos_label='M'), 4)
-    f1 = round(f1_score(labels, pred, pos_label='M'), 4)
+    precision = round(precision_score(labels, pred, pos_label=1), 4)
+    recall = round(recall_score(labels, pred, pos_label=1), 4)
+    f1 = round(f1_score(labels, pred, pos_label=1), 4)
     auc = round(roc_auc_score(labels, model.predict_proba(features)[:, 1]), 4)
     logloss = round(log_loss(labels, model.predict_proba(features)), 4)
 

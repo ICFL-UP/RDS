@@ -21,6 +21,11 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 
 import warnings
 warnings.filterwarnings("ignore")
+import os
+import glob
+import rl_env
+import rl_agent
+import torch
 
 
 def join_strings(lst):
@@ -53,99 +58,38 @@ def split_strings(s):
     return [x for x in s.splitlines() if len(x) > 0]
 
 
+def moving_average(x, w=5):
+    if len(x) < w:
+        return x
+    return np.convolve(x, np.ones(w), 'valid') / w
+
+
 def main():
+
     TRAIN = False
     DATA = False
-    PREDICT = False
+    PREDICT = True
+    STATS = False
+    RL = True
+    RL_EPISODES = 30
 
     data_filename = "60_Ransomware_Detection_Using_Strings_versioned.csv"
     prefix = data_filename[0:3]
 
     print(datetime.now())
 
-    # Statistics
-    df = pd.read_csv(data_filename)
-    df["label"] = df["label"].astype(int)
-    df["string_list"] = df["strings"].apply(split_strings)
-
-    df["string_lengths"] = df["string_list"].apply(lambda lst: [len(x) for x in lst])
-    df["avg_strlen"] = df["string_lengths"].apply(lambda x: np.mean(x) if x else 0)
-    df["long_strings"] = df["string_lengths"].apply(lambda x: sum(l > 20 for l in x))
-
-    df.groupby("label")[["avg_strlen", "long_strings"]].mean()
-    print(df.groupby("label")[["avg_strlen", "long_strings"]].mean())
-    print("\n\n")
-    print(df.head())
-
-    # Entropy
-    df["entropies"] = df["string_list"].apply(lambda lst: [entropy(s) for s in lst])
-    df["avg_entropy"] = df["entropies"].apply(lambda x: np.mean(x) if x else 0)
-
-    df.groupby("label")["avg_entropy"].mean()
-    df["entropy_band"] = df["entropies"].apply(
-        lambda lst: tuple(entropy_band(e) for e in lst)
-    )
-    print("Entropy Stats:")
-    print(df.groupby("label")["avg_entropy"].mean())
-
-
-    print("\n\n")
-
-    # Noise
-    for L in [4, 8, 12, 16]:
-        df[f"strings_L{L}"] = df["string_list"].apply(
-            lambda x: prune_by_length(x, L)
-        )
-
-    print(df.groupby("label")[[f"strings_L{L}" for L in [4, 8, 12, 16]]].agg(
-        lambda lst: np.mean([len(x) for x in lst])
-    ))
-
-    # Filter
-    all_strings = Counter(s for lst in df["string_list"] for s in lst)
-    top_common = set([s for s, _ in all_strings.most_common(100)])
-
-    df["strings_pruned_common"] = df["string_list"].apply(
-        lambda lst: [s for s in lst if s not in top_common]
-    )
-
-    # Mutual Information
-    X_text = df["string_list"].apply(join_strings)
-    y = df["label"]
-
-    vectorizer = TfidfVectorizer(
-        min_df=5,
-        max_df=0.8,
-        token_pattern=r"[A-Za-z0-9_\-\.]{4,}"
-    )
-
-    X = vectorizer.fit_transform(X_text)
-    mi = mutual_info_classif(X, y, discrete_features=True)
-
-    mi_scores = pd.DataFrame({
-        "string": vectorizer.get_feature_names_out(),
-        "MI": mi
-    }).sort_values("MI", ascending=False)
-
-    print(mi_scores.head(20))
-
-    # # Balance Dataset
-    # df = pd.read_csv(data_filename)
-    # df = df.groupby('label')
-    # df = df.apply(lambda x: x.sample(df.size().min()).reset_index(drop=True))
-    # df.to_csv("B"+data_filename)
-
-    # # STATS 
     data = pd.read_csv(data_filename)
+
     log.log("Dataset stats - Category: " + str(data["category"].value_counts()))
     log.log("Dataset stats - Label: " + str(data["label"].value_counts()))
     log.log("Dataset stats - shape: " + str(data.shape))
 
     if DATA:
         log.log("Preparing data splitting ...")
-        data_reader.splitTrainTestVal(data_filename) 
+        data_reader.splitTrainTestVal(data_filename)
 
     log.log("Loading data ..")
+
     X = {
         "TRAIN": {
             "BOW": joblib.load("DATA/Train/"+prefix+"bow_features.pkl"),
@@ -163,6 +107,7 @@ def main():
             "TFIDF": joblib.load("DATA/Test/"+prefix+"tfidf_features.pkl")
         }
     }
+
     Y = {
         "TRAIN": {
             "BOW": joblib.load("DATA/Train/"+prefix+"bow_labels.pkl"),
@@ -181,84 +126,168 @@ def main():
         }
     }
 
-    log.log("Train BOW" + str(data_reader.stats(X["TRAIN"]["BOW"], Y["TRAIN"]["BOW"])))
-    log.log("Train DOC2VEC" + str(data_reader.stats(np.array(X["TRAIN"]["DOC2VEC"]), Y["TRAIN"]["DOC2VEC"])))
-    log.log("Train TFIDF" + str(data_reader.stats(X["TRAIN"]["TFIDF"], Y["TRAIN"]["TFIDF"])))
-
-    log.log("VAL BOW" + str(data_reader.stats(X["VAL"]["BOW"], Y["VAL"]["BOW"])))
-    log.log("VAL DOC2VEC" + str(data_reader.stats(np.array(X["VAL"]["DOC2VEC"]), Y["VAL"]["DOC2VEC"])))
-    log.log("VAL TFIDF" + str(data_reader.stats(X["VAL"]["TFIDF"], Y["VAL"]["TFIDF"])))
-
-    log.log("TEST BOW" + str(data_reader.stats(X["TEST"]["BOW"], Y["TEST"]["BOW"])))
-    log.log("TEST DOC2VEC" + str(data_reader.stats(np.array(X["TEST"]["DOC2VEC"]), Y["TEST"]["DOC2VEC"])))
-    log.log("TEST TFIDF" + str(data_reader.stats(X["TEST"]["TFIDF"], Y["TEST"]["TFIDF"])))
-
-    if TRAIN:
-        # Classifier Training
-        log.log("\n\nTraining Classifiers ...")
-        try:
-            classifiers.randomForrest(X["TRAIN"]["BOW"], Y["TRAIN"]["BOW"], "BOW")
-            classifiers.randomForrest(X["TRAIN"]["DOC2VEC"], Y["TRAIN"]["DOC2VEC"], "Doc2Vec")
-            classifiers.randomForrest(X["TRAIN"]["TFIDF"], Y["TRAIN"]["TFIDF"], "TFIDF")
-        except:
-            print(traceback.print_exc())
-            log.log("\n\n\n\n\nERROR in training of RF\n\n\n\n")
-
-        try:
-            classifiers.adaBoost(X["TRAIN"]["BOW"], Y["TRAIN"]["BOW"], "BOW")
-            classifiers.adaBoost(X["TRAIN"]["DOC2VEC"], Y["TRAIN"]["DOC2VEC"], "Doc2Vec")
-            classifiers.adaBoost(X["TRAIN"]["TFIDF"], Y["TRAIN"]["TFIDF"], "TFIDF")
-        except:
-            print(traceback.print_exc())
-            log.log("\n\n\n\n\nERROR in training of AB\n\n\n\n")
-
-        try:
-            classifiers.svm(X["TRAIN"]["BOW"], Y["TRAIN"]["BOW"], "BOW")
-            classifiers.svm(X["TRAIN"]["DOC2VEC"], Y["TRAIN"]["DOC2VEC"], "Doc2Vec")
-            classifiers.svm(X["TRAIN"]["TFIDF"], Y["TRAIN"]["TFIDF"], "TFIDF")
-        except:
-            print(traceback.print_exc())
-            log.log("\n\n\n\n\nERROR in training of SVM\n\n\n\n")
-
-        try:
-            classifiers.knn(X["TRAIN"]["BOW"], Y["TRAIN"]["BOW"], "BOW")
-            classifiers.knn(X["TRAIN"]["DOC2VEC"], Y["TRAIN"]["DOC2VEC"], "Doc2Vec")
-            classifiers.knn(X["TRAIN"]["TFIDF"], Y["TRAIN"]["TFIDF"], "TFIDF")
-        except:
-            print(traceback.print_exc())
-            log.log("\n\n\n\n\nERROR in training of KNN\n\n\n\n")
-
-        try:
-            classifiers.decisionTree(X["TRAIN"]["BOW"], Y["TRAIN"]["BOW"], "BOW")
-            classifiers.decisionTree(X["TRAIN"]["DOC2VEC"], Y["TRAIN"]["DOC2VEC"], "Doc2Vec")
-            classifiers.decisionTree(X["TRAIN"]["TFIDF"], Y["TRAIN"]["TFIDF"], "TFIDF")
-        except:
-            print(traceback.print_exc())   
-            log.log("\n\n\n\n\nERROR in training of DT\n\n\n\n")
-
     if PREDICT:
 
-        # Predict
         log.log("\n\nPREDICTING ...\n\n")
+
         models = {}
-        for mdl in ['DT', 'RF', 'AB', 'SVM', 'KNN']:
-            for nlp in ['BOW', 'TFIDF', 'DOC2VEC']:
-                models[mdl+"_"+nlp] = joblib.load('Models/{}_{}_model.pkl'.format(mdl, nlp))
+        for mdl in ['DT','RF','AB','SVM','KNN']:
+            for nlp in ['BOW','TFIDF','DOC2VEC']:
+                models[mdl+"_"+nlp] = joblib.load('Models/{}_{}_model.pkl'.format(mdl,nlp))
                 classifiers.evaluate_model(mdl+"_"+nlp, models[mdl+"_"+nlp], X["VAL"][nlp], Y["VAL"][nlp])
 
-        ##ROC Curve
-        # for nlp in ['BOW', 'TFIDF', 'DOC2VEC']:
-        #     fig = plt.figure(figsize=(7, 7), dpi=300)
-        #     axes = fig.gca()
-        #     for x in  ['DT', 'RF', 'AB', 'SVM', 'KNN']:
-        #         RocCurveDisplay.from_estimator(models[x+"_"+nlp], X["VAL"][nlp], Y["VAL"][nlp], ax=axes)
-        #     # plt.show()
-        #     plt.safe(nlp+".png")
+    if RL:
 
-        # # BEST MODELS
-        # classifiers.evaluate_model("AB_TFIDF", joblib.load('Models/AB_TFIDF_model.pkl'), X["TEST"]["TFIDF"], Y["TEST"]["TFIDF"])
-        # classifiers.evaluate_model("SVM_BOW", joblib.load('Models/SVM_BOW_model.pkl'), X["TEST"]["BOW"], Y["TEST"]["BOW"])
-        # classifiers.evaluate_model("DT_TFIDF", joblib.load('Models/DT_TFIDF_model.pkl'), X["TEST"]["TFIDF"], Y["TEST"]["TFIDF"])
+        log.log("\n\nRUNNING RL WORKFLOW\n\n")
+
+        candidate_models = {}
+        for path in glob.glob('Models/*_model.pkl'):
+            name = os.path.basename(path).replace('_model.pkl','')
+            try:
+                candidate_models[name] = joblib.load(path)
+            except Exception:
+                log.log(f"Failed to load {path}")
+
+        best_name = None
+        best_score = -1
+
+        for name,mdl in candidate_models.items():
+
+            nlp = name.split('_')[-1]
+            Xval = X['VAL'][nlp]
+            yval = np.array(Y['VAL'][nlp])
+
+            try:
+
+                Xval_dense = Xval.toarray() if hasattr(Xval,'toarray') else np.array(Xval)
+                pred = mdl.predict(Xval_dense)
+                sc = f1_score(yval,pred)
+
+                log.log(f"Model {name} F1 on VAL: {sc}")
+
+                if sc > best_score:
+
+                    best_score = sc
+                    best_name = name
+                    best_model = mdl
+                    best_nlp = nlp
+
+            except Exception as e:
+                log.log(f"Skipping {name}: {e}")
+
+        if best_name is None:
+            log.log("No supervised models found for RL initialization.")
+            return
+
+        log.log(f"Selected best model: {best_name} (F1={best_score})")
+
+        Xtrain = X['TRAIN'][best_nlp]
+        Ytrain = np.array(Y['TRAIN'][best_nlp]).astype(int)
+
+        Xtrain = Xtrain.toarray() if hasattr(Xtrain,'toarray') else np.array(Xtrain)
+
+        input_dim = Xtrain.shape[1]
+
+        policy = rl_agent.PolicyNetwork(input_dim)
+
+        try:
+
+            y_boot = best_model.predict(Xtrain)
+            rl_agent.behavioral_clone(policy,Xtrain,y_boot,epochs=5,lr=1e-3)
+
+            log.log("Behavioral cloning completed.")
+
+        except Exception as e:
+            log.log(f"Behavioral cloning failed: {e}")
+
+        env = rl_env.RLDatasetEnv(Xtrain,Ytrain)
+
+        episode_rewards = []
+        episode_lengths = []
+
+        try:
+
+            episode_rewards, episode_lengths = rl_agent.reinforce_train(
+                policy,
+                env,
+                episodes=RL_EPISODES,
+                lr=1e-3,
+                gamma=0.99,
+                track_metrics=True
+            )
+
+            log.log("RL training finished.")
+
+        except Exception as e:
+            log.log(f"RL training failed: {e}")
+
+        # Plot reward curve
+
+        plt.figure(figsize=(8,5))
+        plt.plot(episode_rewards)
+        plt.xlabel("Episode")
+        plt.ylabel("Total Reward")
+        plt.title("RL Training Reward Curve")
+        plt.grid(True)
+        plt.savefig("RL_reward_curve.png",dpi=300)
+        plt.close()
+
+        # Smoothed reward
+
+        plt.figure(figsize=(8,5))
+        plt.plot(moving_average(episode_rewards))
+        plt.xlabel("Episode")
+        plt.ylabel("Smoothed Reward")
+        plt.title("Smoothed RL Reward Convergence")
+        plt.grid(True)
+        plt.savefig("RL_reward_smoothed.png",dpi=300)
+        plt.close()
+
+        Xtest = X['TEST'][best_nlp]
+        Ytest = np.array(Y['TEST'][best_nlp]).astype(int)
+
+        Xtest = Xtest.toarray() if hasattr(Xtest,'toarray') else np.array(Xtest)
+
+        try:
+
+            ypred = rl_agent.policy_predict(policy,Xtest)
+
+            report = classification_report(Ytest,ypred)
+            log.log(f"RL policy evaluation on TEST:\n{report}")
+
+        except Exception as e:
+            log.log(f"Failed to evaluate RL policy: {e}")
+            return
+
+        # Confusion Matrix
+
+        from sklearn.metrics import ConfusionMatrixDisplay
+
+        fig,ax = plt.subplots(figsize=(6,6))
+        ConfusionMatrixDisplay.from_predictions(Ytest,ypred,ax=ax)
+        plt.title("RL Policy Confusion Matrix")
+        plt.savefig("RL_confusion_matrix.png",dpi=300)
+        plt.close()
+
+        # Baseline comparison
+
+        baseline_pred = best_model.predict(Xtest)
+
+        rl_f1 = f1_score(Ytest,ypred)
+        rl_acc = accuracy_score(Ytest,ypred)
+
+        baseline_f1 = f1_score(Ytest,baseline_pred)
+        baseline_acc = accuracy_score(Ytest,baseline_pred)
+
+        comparison = pd.DataFrame({
+            "Model":["Baseline_"+best_name,"RL_Policy"],
+            "F1":[baseline_f1,rl_f1],
+            "Accuracy":[baseline_acc,rl_acc]
+        })
+
+        print(comparison)
+
+        comparison.to_csv("RL_vs_Supervised.csv",index=False)
 
 
 if __name__ == "__main__":

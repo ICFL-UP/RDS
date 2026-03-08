@@ -1,0 +1,170 @@
+2026-03-08 16:34:56.588850
+Dataset stats - Category: category
+Ransomware       1828
+Benign            970
+Utilities         223
+Internet           86
+Graphics           55
+Office             54
+Games              52
+Music / Video      46
+Security           30
+Development        22
+Education           9
+Accessibility       2
+Name: count, dtype: int64
+Dataset stats - Label: label
+1    1830
+0    1547
+Name: count, dtype: int64
+Dataset stats - shape: (3377, 5)
+Loading data ..
+Train BOW{'len': 2026, 'features': 804801, 'count': label
+1    1098
+0     928
+Name: count, dtype: int64}
+Train DOC2VEC{'len': 2026, 'features': 1000, 'count': label
+1    1098
+0     928
+Name: count, dtype: int64}
+Train TFIDF{'len': 2026, 'features': 1711443, 'count': label
+1    1098
+0     928
+Name: count, dtype: int64}
+VAL BOW{'len': 675, 'features': 804801, 'count': label
+1    366
+0    309
+Name: count, dtype: int64}
+VAL DOC2VEC{'len': 675, 'features': 1000, 'count': label
+1    366
+0    309
+Name: count, dtype: int64}
+VAL TFIDF{'len': 675, 'features': 1711443, 'count': label
+1    366
+0    309
+Name: count, dtype: int64}
+TEST BOW{'len': 676, 'features': 804801, 'count': label
+1    366
+0    310
+Name: count, dtype: int64}
+TEST DOC2VEC{'len': 676, 'features': 1000, 'count': label
+1    366
+0    310
+Name: count, dtype: int64}
+TEST TFIDF{'len': 676, 'features': 1711443, 'count': label
+1    366
+0    310
+Name: count, dtype: int64}
+
+
+PREDICTING ...
+
+
+
+
+DT_BOW -- TP: 293 / TN: 348 / FP: 18 / FN: 16 / Recall: 0.9508 / Precision: 0.956 / F1-Score: 0.9534 / Accuracy: 0.9496  / AUC: 0.9495 / LogLoss: 1.8155 / Latency: 29.0542ms / Num: 675
+293 & 348 & 18 & 16 & 0.9508 & 0.956 & 0.9534
+0.9496 & 0.9495 & 1.8155 & 29.0542 & 0.043
+
+
+DT_TFIDF -- TP: 293 / TN: 348 / FP: 18 / FN: 16 / Recall: 0.9508 / Precision: 0.956 / F1-Score: 0.9534 / Accuracy: 0.9496  / AUC: 0.9495 / LogLoss: 1.8155 / Latency: 31.5084ms / Num: 675
+293 & 348 & 18 & 16 & 0.9508 & 0.956 & 0.9534
+0.9496 & 0.9495 & 1.8155 & 31.5084 & 0.0467
+
+
+DT_DOC2VEC -- TP: 208 / TN: 266 / FP: 100 / FN: 101 / Recall: 0.7268 / Precision: 0.7248 / F1-Score: 0.7258 / Accuracy: 0.7022  / AUC: 0.7 / LogLoss: 10.733 / Latency: 1.0006ms / Num: 675
+208 & 266 & 100 & 101 & 0.7268 & 0.7248 & 0.7258
+0.7022 & 0.7 & 10.733 & 1.0006 & 0.0015
+
+
+RF_BOW -- TP: 295 / TN: 356 / FP: 10 / FN: 14 / Recall: 0.9727 / Precision: 0.9622 / F1-Score: 0.9674 / Accuracy: 0.9644  / AUC: 0.9949 / LogLoss: 0.1211 / Latency: 285.1648ms / Num: 675
+295 & 356 & 10 & 14 & 0.9727 & 0.9622 & 0.9674
+0.9644 & 0.9949 & 0.1211 & 285.1648 & 0.4225
+
+
+RF_TFIDF -- TP: 295 / TN: 357 / FP: 9 / FN: 14 / Recall: 0.9754 / Precision: 0.9623 / F1-Score: 0.9688 / Accuracy: 0.9659  / AUC: 0.9959 / LogLoss: 0.105 / Latency: 2282.0201ms / Num: 675
+295 & 357 & 9 & 14 & 0.9754 & 0.9623 & 0.9688
+0.9659 & 0.9959 & 0.105 & 2282.0201 & 3.3808
+
+
+RF_DOC2VEC -- TP: 252 / TN: 311 / FP: 55 / FN: 57 / Recall: 0.8497 / Precision: 0.8451 / F1-Score: 0.8474 / Accuracy: 0.8341  / AUC: 0.913 / LogLoss: 0.4363 / Latency: 24.1747ms / Num: 675
+252 & 311 & 55 & 57 & 0.8497 & 0.8451 & 0.8474
+0.8341 & 0.913 & 0.4363 & 24.1747 & 0.0358
+
+
+AB_BOW -- TP: 295 / TN: 356 / FP: 10 / FN: 14 / Recall: 0.9727 / Precision: 0.9622 / F1-Score: 0.9674 / Accuracy: 0.9644  / AUC: 0.9942 / LogLoss: 0.5731 / Latency: 7018.6327ms / Num: 675
+295 & 356 & 10 & 14 & 0.9727 & 0.9622 & 0.9674
+0.9644 & 0.9942 & 0.5731 & 7018.6327 & 10.398
+
+
+AB_TFIDF -- TP: 297 / TN: 359 / FP: 7 / FN: 12 / Recall: 0.9809 / Precision: 0.9677 / F1-Score: 0.9742 / Accuracy: 0.9719  / AUC: 0.9927 / LogLoss: 0.5748 / Latency: 8148.9129ms / Num: 675
+297 & 359 & 7 & 12 & 0.9809 & 0.9677 & 0.9742
+0.9719 & 0.9927 & 0.5748 & 8148.9129 & 12.0725
+
+
+AB_DOC2VEC -- TP: 232 / TN: 305 / FP: 61 / FN: 77 / Recall: 0.8333 / Precision: 0.7984 / F1-Score: 0.8155 / Accuracy: 0.7956  / AUC: 0.8788 / LogLoss: 0.6408 / Latency: 50.1573ms / Num: 675
+232 & 305 & 61 & 77 & 0.8333 & 0.7984 & 0.8155
+0.7956 & 0.8788 & 0.6408 & 50.1573 & 0.0743
+
+
+SVM_BOW -- TP: 296 / TN: 354 / FP: 12 / FN: 13 / Recall: 0.9672 / Precision: 0.9646 / F1-Score: 0.9659 / Accuracy: 0.963  / AUC: 0.9855 / LogLoss: 0.1376 / Latency: 1960.9358ms / Num: 675
+296 & 354 & 12 & 13 & 0.9672 & 0.9646 & 0.9659
+0.963 & 0.9855 & 0.1376 & 1960.9358 & 2.9051
+
+
+SVM_TFIDF -- TP: 288 / TN: 360 / FP: 6 / FN: 21 / Recall: 0.9836 / Precision: 0.9449 / F1-Score: 0.9639 / Accuracy: 0.96  / AUC: 0.9884 / LogLoss: 0.1502 / Latency: 4266.2637ms / Num: 675
+288 & 360 & 6 & 21 & 0.9836 & 0.9449 & 0.9639
+0.96 & 0.9884 & 0.1502 & 4266.2637 & 6.3204
+
+
+SVM_DOC2VEC -- TP: 195 / TN: 298 / FP: 68 / FN: 114 / Recall: 0.8142 / Precision: 0.7233 / F1-Score: 0.7661 / Accuracy: 0.7304  / AUC: 0.802 / LogLoss: 0.5541 / Latency: 114.0349ms / Num: 675
+195 & 298 & 68 & 114 & 0.8142 & 0.7233 & 0.7661
+0.7304 & 0.802 & 0.5541 & 114.0349 & 0.1689
+
+
+KNN_BOW -- TP: 266 / TN: 355 / FP: 11 / FN: 43 / Recall: 0.9699 / Precision: 0.892 / F1-Score: 0.9293 / Accuracy: 0.92  / AUC: 0.9732 / LogLoss: 0.7809 / Latency: 366.1742ms / Num: 675
+266 & 355 & 11 & 43 & 0.9699 & 0.892 & 0.9293
+0.92 & 0.9732 & 0.7809 & 366.1742 & 0.5425
+
+
+KNN_TFIDF -- TP: 294 / TN: 340 / FP: 26 / FN: 15 / Recall: 0.929 / Precision: 0.9577 / F1-Score: 0.9431 / Accuracy: 0.9393  / AUC: 0.9741 / LogLoss: 0.7791 / Latency: 184.4285ms / Num: 675
+294 & 340 & 26 & 15 & 0.929 & 0.9577 & 0.9431
+0.9393 & 0.9741 & 0.7791 & 184.4285 & 0.2732
+
+
+KNN_DOC2VEC -- TP: 206 / TN: 309 / FP: 57 / FN: 103 / Recall: 0.8443 / Precision: 0.75 / F1-Score: 0.7943 / Accuracy: 0.763  / AUC: 0.8519 / LogLoss: 1.8379 / Latency: 2046.7439ms / Num: 675
+206 & 309 & 57 & 103 & 0.8443 & 0.75 & 0.7943
+0.763 & 0.8519 & 1.8379 & 2046.7439 & 3.0322
+
+
+RUNNING RL WORKFLOW: selecting best supervised model to initialize policy
+
+
+Model AB_BOW F1 on VAL: 0.967391304347826
+Model AB_DOC2VEC F1 on VAL: 0.8155080213903744
+Model AB_TFIDF F1 on VAL: 0.9742198100407056
+Model DT_BOW F1 on VAL: 0.9534246575342465
+Model DT_DOC2VEC F1 on VAL: 0.7257844474761255
+Model DT_TFIDF F1 on VAL: 0.9534246575342465
+Model KNN_BOW F1 on VAL: 0.9293193717277487
+Model KNN_DOC2VEC F1 on VAL: 0.794344473007712
+Model KNN_TFIDF F1 on VAL: 0.9431345353675451
+Model RF_BOW F1 on VAL: 0.967391304347826
+Model RF_DOC2VEC F1 on VAL: 0.8474114441416893
+Model RF_TFIDF F1 on VAL: 0.9687924016282226
+Model SVM_BOW F1 on VAL: 0.965893587994543
+Model SVM_DOC2VEC F1 on VAL: 0.7660668380462725
+Model SVM_TFIDF F1 on VAL: 0.963855421686747
+Selected best model: AB_TFIDF (F1=0.9742198100407056)
+
+Behavioral cloning completed.
+RL training finished.
+RL policy evaluation on TEST:
+              precision    recall  f1-score   support
+
+           0       0.90      0.95      0.93       310
+           1       0.95      0.92      0.93       366
+
+    accuracy                           0.93       676
+   macro avg       0.93      0.93      0.93       676
+weighted avg       0.93      0.93      0.93       676
